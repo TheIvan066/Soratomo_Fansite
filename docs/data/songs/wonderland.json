@@ -1,0 +1,575 @@
+{
+  "meta": {
+    "title": "Wonderland",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "渡辺拓也",
+    "lyricist": "渡辺拓也",
+    "album": "My Loving",
+    "releaseDate": "2020/02/06",
+    "coverUrl": "cover_images/my_loving",
+    "penlight_color": [
+      "#0000ff",
+      "#ffb3ef"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/YWUyB1PupIc?si=xctHXesgYv3_-d5x"
+      },
+      {
+        "name": "Acoustic Ver.",
+        "url": "https://youtu.be/YQs69zsTrZ4?si=DvXNUgVoS8AKQA55"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "奇跡のような毎日を",
+      "call": ""
+    },
+    {
+      "lyrics": "君と過ごしたいよ",
+      "call": ""
+    },
+    {
+      "lyrics": "一緒に It's a wonderland",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "= = = ハイ！ = = = ハイ！ ×6"
+    },
+    {
+      "lyrics": "憧れていた夢のせて",
+      "call": ""
+    },
+    {
+      "lyrics": "君の笑顔に会いに行きたいよ",
+      "call": ""
+    },
+    {
+      "lyrics": "大好きな気持ちだけ",
+      "call": ""
+    },
+    {
+      "lyrics": "変わらずに抱きしめて",
+      "call": ""
+    },
+    {
+      "lyrics": "魔法のようなキラメキ",
+      "call": ""
+    },
+    {
+      "lyrics": "ずっと感じていたいの",
+      "call": ""
+    },
+    {
+      "lyrics": "いまファンタスティック",
+      "call": ""
+    },
+    {
+      "lyrics": "奇跡ロマンティック",
+      "call": ""
+    },
+    {
+      "lyrics": "希望見せて",
+      "call": ""
+    },
+    {
+      "lyrics": "明日へ駆け抜けて",
+      "call": ""
+    },
+    {
+      "lyrics": "そうドリーミング　集めて",
+      "call": ""
+    },
+    {
+      "lyrics": "イルミネーション",
+      "call": ""
+    },
+    {
+      "lyrics": "探そう　夢のドア",
+      "call": ""
+    },
+    {
+      "lyrics": "明日はもっと世界は輝くよ",
+      "call": ""
+    },
+    {
+      "lyrics": "キミ次第さ It's a wonderland ",
+      "call": "                                             >>>>>",
+      "extra_row": true,
+      "action": "                                             ppppp"
+    },
+    {
+      "lyrics": "",
+      "call": "= = = ハイ！ = = = ハイ！ ×7"
+    },
+    {
+      "lyrics": "午前0時　鐘が鳴る",
+      "call": ""
+    },
+    {
+      "lyrics": "素敵な馬車で走るよプリンセス",
+      "call": ""
+    },
+    {
+      "lyrics": "夜空から会いに行くよ",
+      "call": ""
+    },
+    {
+      "lyrics": "願いを込めてshooting star",
+      "call": ""
+    },
+    {
+      "lyrics": "踊る二人のユラメキ",
+      "call": ""
+    },
+    {
+      "lyrics": "伸びるシルエット",
+      "call": ""
+    },
+    {
+      "lyrics": "醒めないで　夢の世界",
+      "call": ""
+    },
+    {
+      "lyrics": "もっと飛び跳ねていたい jump",
+      "call": "                                       jump",
+      "extra_row": true,
+      "action": "                                      (jump)"
+    },
+    {
+      "lyrics": "いまファンタスティック",
+      "call": ""
+    },
+    {
+      "lyrics": "奇跡ロマンティック",
+      "call": ""
+    },
+    {
+      "lyrics": "驚いて　笑って　泣いて　聴いて",
+      "call": ""
+    },
+    {
+      "lyrics": "エブリシング　魅せれば",
+      "call": ""
+    },
+    {
+      "lyrics": "エンターテイメント",
+      "call": ""
+    },
+    {
+      "lyrics": "見つかる　夢のチケット",
+      "call": ""
+    },
+    {
+      "lyrics": "明日はもっと世界は輝くよ",
+      "call": ""
+    },
+    {
+      "lyrics": "キミ次第さ It's a wonderland",
+      "call": "                                             >>>>>",
+      "extra_row": true,
+      "action": "                                             ppppp"
+    },
+    {
+      "lyrics": "イメージしてみてごらん",
+      "call": ""
+    },
+    {
+      "lyrics": "空も飛べるはずだよ",
+      "call": ""
+    },
+    {
+      "lyrics": "君がいるこの世界は",
+      "call": ""
+    },
+    {
+      "lyrics": "愛が溢れる",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "= ハイ！ = ハイ！ = ハイ！ = ハイ！ ×8"
+    },
+    {
+      "lyrics": "いまファンタスティック",
+      "call": "",
+      "extra_row": true,
+      "action": "pp = = ppp = "
+    },
+    {
+      "lyrics": "奇跡ロマンティック",
+      "call": "",
+      "extra_row": true,
+      "action": "pp = = ppp = "
+    },
+    {
+      "lyrics": "",
+      "call": "",
+      "extra_row": true,
+      "action": "pp = = ppp = ×2"
+    },
+    {
+      "lyrics": "いまファンタスティック",
+      "call": "",
+      "extra_row": true,
+      "action": "pp = = ppp = "
+    },
+    {
+      "lyrics": "奇跡ロマンティック",
+      "call": "",
+      "extra_row": true,
+      "action": "pp = = ppp = "
+    },
+    {
+      "lyrics": "",
+      "call": "",
+      "extra_row": true,
+      "action": "pp = = ppp = "
+    },
+    {
+      "lyrics": ">>>>>",
+      "call": "",
+      "extra_row": true,
+      "action": "ppppp"
+    },
+    {
+      "lyrics": "いまファンタスティック",
+      "call": ""
+    },
+    {
+      "lyrics": "奇跡ロマンティック",
+      "call": ""
+    },
+    {
+      "lyrics": "希望見せて　明日へ駆け抜けて",
+      "call": ""
+    },
+    {
+      "lyrics": "そうドリーミング　集めて",
+      "call": ""
+    },
+    {
+      "lyrics": "イルミネーション",
+      "call": ""
+    },
+    {
+      "lyrics": "探そう　夢のドア",
+      "call": ""
+    },
+    {
+      "lyrics": "明日はもっと世界は輝くよ",
+      "call": ""
+    },
+    {
+      "lyrics": "キミ次第さ It's a wonderland",
+      "call": "                                             >>>>>",
+      "extra_row": true,
+      "action": "                                             ppppp"
+    },
+    {
+      "lyrics": "",
+      "call": "= ハイ！ = ハイ！ = ハイ！ = ハイ！ ×7"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "奇跡のような毎日を",
+      "romaji": "Kiseki no You na Mainichi wo",
+      "en": "These miracle-like days",
+      "zh": "宛如奇蹟的每一天"
+    },
+    {
+      "ja": "君と過ごしたいよ",
+      "romaji": "Kimi to Sugoshitai yo",
+      "en": "I want to spend them with you",
+      "zh": "好想和你一起度過"
+    },
+    {
+      "ja": "一緒に It's a wonderland",
+      "romaji": "Issho ni It's a Wonderland",
+      "en": "Together, it's a wonderland",
+      "zh": "一起出發，It's a wonderland"
+    },
+    {
+      "ja": "憧れていた夢のせて",
+      "romaji": "Akogarete Ita Yume Nosete",
+      "en": "Riding on the dreams I've longed for",
+      "zh": "乘著嚮往已久的夢想"
+    },
+    {
+      "ja": "君の笑顔に会いに行きたいよ",
+      "romaji": "Kimi no Egao ni Ai ni Ikitai yo",
+      "en": "I want to go meet your smile",
+      "zh": "好想去見你的笑容"
+    },
+    {
+      "ja": "大好きな気持ちだけ",
+      "romaji": "Daisuki na Kimochi Dake",
+      "en": "Only this feeling of loving you",
+      "zh": "只有這份最喜歡的心情"
+    },
+    {
+      "ja": "変わらずに抱きしめて",
+      "romaji": "Kawarazu ni Dakishimete",
+      "en": "Hold it close, unchanging",
+      "zh": "始終不變地緊抱著"
+    },
+    {
+      "ja": "魔法のようなキラメキ",
+      "romaji": "Mahou no You na Kirameki",
+      "en": "A magical sparkle",
+      "zh": "魔法般的閃耀光芒"
+    },
+    {
+      "ja": "ずっと感じていたいの",
+      "romaji": "Zutto Kanjite Itai no",
+      "en": "I want to feel it forever",
+      "zh": "想一直感受下去"
+    },
+    {
+      "ja": "いまファンタスティック",
+      "romaji": "Ima Fantasutikku",
+      "en": "Now it's fantastic",
+      "zh": "此刻如此奇幻"
+    },
+    {
+      "ja": "奇跡ロマンティック",
+      "romaji": "Kiseki Romantikku",
+      "en": "A miraculous romance",
+      "zh": "奇蹟般的浪漫"
+    },
+    {
+      "ja": "希望見せて",
+      "romaji": "Kibou Misete",
+      "en": "Show me hope",
+      "zh": "讓我看見希望"
+    },
+    {
+      "ja": "明日へ駆け抜けて",
+      "romaji": "Ashita e Kakenukete",
+      "en": "And dash toward tomorrow",
+      "zh": "奔向明天"
+    },
+    {
+      "ja": "そうドリーミング　集めて",
+      "romaji": "Sou Doriimingu Atsumete",
+      "en": "Yes, gather up the dreaming",
+      "zh": "收集起夢想"
+    },
+    {
+      "ja": "イルミネーション",
+      "romaji": "Irumineeshon",
+      "en": "Illumination",
+      "zh": "絢爛的燈飾"
+    },
+    {
+      "ja": "探そう　夢のドア",
+      "romaji": "Sagasou Yume no Doa",
+      "en": "Let's search for the door of dreams",
+      "zh": "尋找吧，夢想之門"
+    },
+    {
+      "ja": "明日はもっと世界は輝くよ",
+      "romaji": "Ashita ha Motto Sekai ha Kagayaku yo",
+      "en": "Tomorrow the world will shine even more",
+      "zh": "明天的世界會更加閃耀"
+    },
+    {
+      "ja": "キミ次第さ It's a wonderland",
+      "romaji": "Kimi Shidai sa It's a Wonderland",
+      "en": "It's up to you—it's a wonderland",
+      "zh": "全都取決於你，It's a wonderland"
+    },
+    {
+      "ja": "午前0時　鐘が鳴る",
+      "romaji": "Gozen Reiji Kane ga Naru",
+      "en": "At midnight, the bell rings",
+      "zh": "午夜零時，鐘聲響起"
+    },
+    {
+      "ja": "素敵な馬車で走るよプリンセス",
+      "romaji": "Suteki na Basha de Hashiru yo Purinsesu",
+      "en": "I'll ride in a lovely carriage, princess",
+      "zh": "乘著華麗的馬車奔馳，公主"
+    },
+    {
+      "ja": "夜空から会いに行くよ",
+      "romaji": "Yozora kara Ai ni Iku yo",
+      "en": "I'll come to see you from the night sky",
+      "zh": "從夜空前去見你"
+    },
+    {
+      "ja": "願いを込めてshooting star",
+      "romaji": "Negai wo Komete Shooting Star",
+      "en": "With a wish, shooting star",
+      "zh": "滿懷心願的流星"
+    },
+    {
+      "ja": "踊る二人のユラメキ",
+      "romaji": "Odoru Futari no Yurameki",
+      "en": "The flickering of us dancing",
+      "zh": "兩人舞動的搖曳身影"
+    },
+    {
+      "ja": "伸びるシルエット",
+      "romaji": "Nobiru Shiruetto",
+      "en": "Stretching silhouettes",
+      "zh": "逐漸拉長的剪影"
+    },
+    {
+      "ja": "醒めないで　夢の世界",
+      "romaji": "Samenaide Yume no Sekai",
+      "en": "Don't wake—this dream world",
+      "zh": "不要醒來，夢的世界"
+    },
+    {
+      "ja": "もっと飛び跳ねていたい jump",
+      "romaji": "Motto Tobihanete Itai Jump",
+      "en": "I want to keep leaping more, jump",
+      "zh": "想再跳得更歡，jump"
+    },
+    {
+      "ja": "いまファンタスティック",
+      "romaji": "Ima Fantasutikku",
+      "en": "Now it's fantastic",
+      "zh": "此刻如此奇幻"
+    },
+    {
+      "ja": "奇跡ロマンティック",
+      "romaji": "Kiseki Romantikku",
+      "en": "A miraculous romance",
+      "zh": "奇蹟般的浪漫"
+    },
+    {
+      "ja": "驚いて　笑って　泣いて　聴いて",
+      "romaji": "Odoroite Waratte Naite Kiite",
+      "en": "Be surprised, laugh, cry, listen",
+      "zh": "驚訝、歡笑、哭泣、傾聽"
+    },
+    {
+      "ja": "エブリシング　魅せれば",
+      "romaji": "Eburishingu Misereba",
+      "en": "If you captivate with everything",
+      "zh": "若能展現所有魅力"
+    },
+    {
+      "ja": "エンターテイメント",
+      "romaji": "Entaateimento",
+      "en": "Entertainment",
+      "zh": "娛樂盛宴"
+    },
+    {
+      "ja": "見つかる　夢のチケット",
+      "romaji": "Mitsukaru Yume no Chiketto",
+      "en": "You'll find the ticket to dreams",
+      "zh": "就能找到夢想的門票"
+    },
+    {
+      "ja": "明日はもっと世界は輝くよ",
+      "romaji": "Ashita ha Motto Sekai ha Kagayaku yo",
+      "en": "Tomorrow the world will shine even more",
+      "zh": "明天的世界會更加閃耀"
+    },
+    {
+      "ja": "キミ次第さ It's a wonderland",
+      "romaji": "Kimi Shidai sa It's a Wonderland",
+      "en": "It's up to you—it's a wonderland",
+      "zh": "全都取決於你，It's a wonderland"
+    },
+    {
+      "ja": "イメージしてみてごらん",
+      "romaji": "Imeegi Shite Mite Goran",
+      "en": "Try to imagine it",
+      "zh": "試著想像看看"
+    },
+    {
+      "ja": "空も飛べるはずだよ",
+      "romaji": "Sora mo Toberu Hazu Da yo",
+      "en": "You should be able to fly through the sky",
+      "zh": "一定也能飛上天空"
+    },
+    {
+      "ja": "君がいるこの世界は",
+      "romaji": "Kimi ga Iru Kono Sekai ha",
+      "en": "This world with you in it",
+      "zh": "有你在的這個世界"
+    },
+    {
+      "ja": "愛が溢れる",
+      "romaji": "Ai ga Afureru",
+      "en": "Is overflowing with love",
+      "zh": "洋溢著愛"
+    },
+    {
+      "ja": "いまファンタスティック",
+      "romaji": "Ima Fantasutikku",
+      "en": "Now it's fantastic",
+      "zh": "此刻如此奇幻"
+    },
+    {
+      "ja": "奇跡ロマンティック",
+      "romaji": "Kiseki Romantikku",
+      "en": "A miraculous romance",
+      "zh": "奇蹟般的浪漫"
+    },
+    {
+      "ja": "希望見せて　明日へ駆け抜けて",
+      "romaji": "Kibou Misete Ashita e Kakenukete",
+      "en": "Show me hope and dash toward tomorrow",
+      "zh": "讓我看見希望，奔向明天"
+    },
+    {
+      "ja": "そうドリーミング　集めて",
+      "romaji": "Sou Doriimingu Atsumete",
+      "en": "Yes, gather up the dreaming",
+      "zh": "收集起夢想"
+    },
+    {
+      "ja": "イルミネーション",
+      "romaji": "Irumineeshon",
+      "en": "Illumination",
+      "zh": "絢爛的燈飾"
+    },
+    {
+      "ja": "探そう　夢のドア",
+      "romaji": "Sagasou Yume no Doa",
+      "en": "Let's search for the door of dreams",
+      "zh": "尋找吧，夢想之門"
+    },
+    {
+      "ja": "明日はもっと世界は輝くよ",
+      "romaji": "Ashita ha Motto Sekai ha Kagayaku yo",
+      "en": "Tomorrow the world will shine even more",
+      "zh": "明天的世界會更加閃耀"
+    },
+    {
+      "ja": "キミ次第さ It's a wonderland",
+      "romaji": "Kimi Shidai sa It's a Wonderland",
+      "en": "It's up to you—it's a wonderland",
+      "zh": "全都取決於你，It's a wonderland"
+    }
+  ]
+}

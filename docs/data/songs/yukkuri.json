@@ -1,0 +1,598 @@
+{
+  "meta": {
+    "title": "ゆっくり走れば風は吹く",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "瀬名航",
+    "lyricist": "瀬名航",
+    "album": "My Loving",
+    "releaseDate": "2020/03/04",
+    "coverUrl": "cover_images/my_loving",
+    "penlight_color": [
+      "#0000ff"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/uhdsIrVpCHg?si=BCCUOhv3BDgmE-hQ"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "ゆっくり走れ！走れ！",
+      "call": ""
+    },
+    {
+      "lyrics": "道に迷った時がチャンスだ",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    },
+    {
+      "lyrics": "目の前のことにがむしゃらで",
+      "call": ""
+    },
+    {
+      "lyrics": "間違いは数え切れなくて",
+      "call": ""
+    },
+    {
+      "lyrics": "一つのことに手一杯で",
+      "call": ""
+    },
+    {
+      "lyrics": "ただ前しか見えてなくて",
+      "call": ""
+    },
+    {
+      "lyrics": "「まっすぐ進もう」",
+      "call": ""
+    },
+    {
+      "lyrics": "キラキラした言葉の持つ",
+      "call": ""
+    },
+    {
+      "lyrics": "「止まらずに行こう」",
+      "call": ""
+    },
+    {
+      "lyrics": "力に押されそうだ",
+      "call": ""
+    },
+    {
+      "lyrics": "忘れたくないよ",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "ただ『好き』の気持ち",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "他人の興味ばかりを気にするのはやめよう",
+      "call": ""
+    },
+    {
+      "lyrics": "ゆっくり走れ！走れ！",
+      "call": ""
+    },
+    {
+      "lyrics": "道に迷った時がチャンスだ",
+      "call": ""
+    },
+    {
+      "lyrics": "『何にもない』もない",
+      "call": ""
+    },
+    {
+      "lyrics": "新しい僕が見つかるはずさ",
+      "call": ""
+    },
+    {
+      "lyrics": "出来ないことばっかり見えて",
+      "call": ""
+    },
+    {
+      "lyrics": "くるくるいつも遠回り",
+      "call": "",
+      "extra_row": true,
+      "action": "\uD83D\uDD01 \uD83D\uDD01"
+    },
+    {
+      "lyrics": "だけど昨日よりは道が見える",
+      "call": ""
+    },
+    {
+      "lyrics": "なら大丈夫",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    },
+    {
+      "lyrics": "踏み出してしまった道は",
+      "call": ""
+    },
+    {
+      "lyrics": "なかなか戻りづらくなって",
+      "call": ""
+    },
+    {
+      "lyrics": "これも一つの経験だ",
+      "call": ""
+    },
+    {
+      "lyrics": "たった一人の人生だ",
+      "call": ""
+    },
+    {
+      "lyrics": "『わからないこと』がわからないと言い出せない",
+      "call": ""
+    },
+    {
+      "lyrics": "臆病な僕をみんなは責めなかった",
+      "call": ""
+    },
+    {
+      "lyrics": "忘れたくないよ",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "この『僕』の気持ち",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "『誰か』を演じてた",
+      "call": ""
+    },
+    {
+      "lyrics": "嘘はもうやめよう",
+      "call": ""
+    },
+    {
+      "lyrics": "ゆっくり走れ！走れ！",
+      "call": ""
+    },
+    {
+      "lyrics": "風が吹いたら進む証明だ",
+      "call": ""
+    },
+    {
+      "lyrics": "『何にもない』もない",
+      "call": ""
+    },
+    {
+      "lyrics": "それよりも先は僕次第だから",
+      "call": ""
+    },
+    {
+      "lyrics": "出来ないことばっかり見えて",
+      "call": ""
+    },
+    {
+      "lyrics": "くるくるいつも遠回り",
+      "call": "",
+      "extra_row": true,
+      "action": "\uD83D\uDD01 \uD83D\uDD01"
+    },
+    {
+      "lyrics": "だけど昨日よりは道が見える",
+      "call": ""
+    },
+    {
+      "lyrics": "なら大丈夫",
+      "call": ""
+    },
+    {
+      "lyrics": "あの空の向こうの未来",
+      "call": ""
+    },
+    {
+      "lyrics": "夢の続きを",
+      "call": ""
+    },
+    {
+      "lyrics": "ゆっくり足で腕で身体を使って",
+      "call": ""
+    },
+    {
+      "lyrics": "前に進もう",
+      "call": ""
+    },
+    {
+      "lyrics": "ゆっくり走れ！走れ！",
+      "call": ""
+    },
+    {
+      "lyrics": "道に迷った時がチャンスだ",
+      "call": ""
+    },
+    {
+      "lyrics": "『何にもない』もない",
+      "call": ""
+    },
+    {
+      "lyrics": "新しい僕が見つかるはずさ",
+      "call": ""
+    },
+    {
+      "lyrics": "出来ないことばっかり見えて",
+      "call": ""
+    },
+    {
+      "lyrics": "くるくるいつも遠回り",
+      "call": "",
+      "extra_row": true,
+      "action": "\uD83D\uDD01 \uD83D\uDD01"
+    },
+    {
+      "lyrics": "だけど昨日よりは明日が見える",
+      "call": ""
+    },
+    {
+      "lyrics": "から大丈夫",
+      "call": ""
+    },
+    {
+      "lyrics": "= = = = = = = = ラ・ラ・ラ・ラ・ラ・ラ・ラ・ラー",
+      "call": "ラーラーラララララー",
+      "extra_row": true,
+      "action": "Penlight Sway (Big Arch)"
+    },
+    {
+      "lyrics": "= = = = = = = = ラーララララ・ラララー",
+      "call": "ラーラーラララララー",
+      "extra_row": true,
+      "action": "Penlight Sway (Big Arch)"
+    },
+    {
+      "lyrics": "= = = = = = = = ララララララ・ラ・ラ・ラーラー",
+      "call": "ラーラーラララララー",
+      "extra_row": true,
+      "action": "Penlight Sway (Big Arch)"
+    },
+    {
+      "lyrics": "= = = = = = = = ラーラララ・ラ・ラ・ラ・ラー",
+      "call": "ラーラーラララララー",
+      "extra_row": true,
+      "action": "Penlight Sway (Big Arch)"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "ゆっくり走れ！走れ！",
+      "romaji": "Yukkuri Hashire! Hashire!",
+      "en": "Run slowly! Run!",
+      "zh": "慢慢跑吧！跑吧！"
+    },
+    {
+      "ja": "道に迷った時がチャンスだ",
+      "romaji": "Michi ni Mayotta Toki ga Chansu Da",
+      "en": "When you lose your way, that's your chance",
+      "zh": "迷路的時候就是機會"
+    },
+    {
+      "ja": "目の前のことにがむしゃらで",
+      "romaji": "Me no Mae no Koto ni Gamushara de",
+      "en": "Recklessly focused on what's in front of you",
+      "zh": "對眼前的事一頭栽入"
+    },
+    {
+      "ja": "間違いは数え切れなくて",
+      "romaji": "Machigai ha Kazoekirenakute",
+      "en": "Countless mistakes",
+      "zh": "犯下的錯誤數也數不清"
+    },
+    {
+      "ja": "一つのことに手一杯で",
+      "romaji": "Hitotsu no Koto ni Teippai de",
+      "en": "Overwhelmed with just one thing",
+      "zh": "光是一件事就忙不過來"
+    },
+    {
+      "ja": "ただ前しか見えてなくて",
+      "romaji": "Tada Mae Shika Mietenakute",
+      "en": "Unable to see anything but what's ahead",
+      "zh": "只看得見前方"
+    },
+    {
+      "ja": "「まっすぐ進もう」",
+      "romaji": "「Massugu Susumou」",
+      "en": "\"Let's go straight ahead\"",
+      "zh": "「筆直前進吧」"
+    },
+    {
+      "ja": "キラキラした言葉の持つ",
+      "romaji": "Kirakira Shita Kotoba no Motsu",
+      "en": "The power held by sparkling words",
+      "zh": "閃亮話語所擁有的"
+    },
+    {
+      "ja": "「止まらずに行こう」",
+      "romaji": "「Tomarazu ni Ikou」",
+      "en": "\"Let's go without stopping\"",
+      "zh": "「不要停下腳步前進吧」"
+    },
+    {
+      "ja": "力に押されそうだ",
+      "romaji": "Chikara ni Osaresou Da",
+      "en": "I feel like I'm about to be overwhelmed by their force",
+      "zh": "彷彿快被這股力量壓垮"
+    },
+    {
+      "ja": "忘れたくないよ",
+      "romaji": "Wasuretakunai yo",
+      "en": "I don't want to forget",
+      "zh": "我不想忘記"
+    },
+    {
+      "ja": "ただ『好き』の気持ち",
+      "romaji": "Tada 「Suki」 no Kimochi",
+      "en": "Just this feeling of \"love\"",
+      "zh": "那份單純「喜歡」的心情"
+    },
+    {
+      "ja": "他人の興味ばかりを気にするのはやめよう",
+      "romaji": "Tanin no Kyoumi Bakari wo Ki ni Suru no ha Yameyou",
+      "en": "Let's stop worrying so much about other people's interests",
+      "zh": "別再只在意他人的眼光了"
+    },
+    {
+      "ja": "ゆっくり走れ！走れ！",
+      "romaji": "Yukkuri Hashire! Hashire!",
+      "en": "Run slowly! Run!",
+      "zh": "慢慢跑吧！跑吧！"
+    },
+    {
+      "ja": "道に迷った時がチャンスだ",
+      "romaji": "Michi ni Mayotta Toki ga Chansu Da",
+      "en": "When you lose your way, that's your chance",
+      "zh": "迷路的時候就是機會"
+    },
+    {
+      "ja": "『何にもない』もない",
+      "romaji": "「Nani ni mo Nai」 mo Nai",
+      "en": "There's no such thing as \"nothing at all\"",
+      "zh": "連「一無所有」也不存在"
+    },
+    {
+      "ja": "新しい僕が見つかるはずさ",
+      "romaji": "Atarashii Boku ga Mitsukaru Hazu sa",
+      "en": "I'm sure you'll find a new you",
+      "zh": "一定能找到嶄新的自己"
+    },
+    {
+      "ja": "出来ないことばっかり見えて",
+      "romaji": "Dekinai Koto Bakkari Miete",
+      "en": "All you can see are the things you can't do",
+      "zh": "眼裡盡是做不到的事"
+    },
+    {
+      "ja": "くるくるいつも遠回り",
+      "romaji": "Kurukuru Itsumo Toomawari",
+      "en": "Always going around in circles, taking the long way",
+      "zh": "總是團團轉地繞遠路"
+    },
+    {
+      "ja": "だけど昨日よりは道が見える",
+      "romaji": "Dakedo Kinou yori ha Michi ga Mieru",
+      "en": "But you can see the path better than yesterday",
+      "zh": "但比昨天更能看清道路"
+    },
+    {
+      "ja": "なら大丈夫",
+      "romaji": "Nara Daijoubu",
+      "en": "If so, it's okay",
+      "zh": "這樣的話就沒問題"
+    },
+    {
+      "ja": "踏み出してしまった道は",
+      "romaji": "Fumidashite Shimatta Michi ha",
+      "en": "Once you've stepped onto a path",
+      "zh": "一旦踏上的道路"
+    },
+    {
+      "ja": "なかなか戻りづらくなって",
+      "romaji": "Nakanaka Modorizuraku Natte",
+      "en": "It becomes hard to turn back",
+      "zh": "就變得難以回頭"
+    },
+    {
+      "ja": "これも一つの経験だ",
+      "romaji": "Kore mo Hitotsu no Keiken Da",
+      "en": "This too is one experience",
+      "zh": "這也是一種經驗"
+    },
+    {
+      "ja": "たった一人の人生だ",
+      "romaji": "Tatta Hitori no Jinsei Da",
+      "en": "It's a life lived by just one person",
+      "zh": "這是獨一無二的人生"
+    },
+    {
+      "ja": "『わからないこと』がわからないと言い出せない",
+      "romaji": "「Wakaranai Koto」 ga Wakaranai to Iidasenai",
+      "en": "I can't bring myself to say I don't understand what I don't understand",
+      "zh": "無法說出自己不懂那些不明白的事"
+    },
+    {
+      "ja": "臆病な僕をみんなは責めなかった",
+      "romaji": "Okubyou na Boku wo Minna ha Semenakatta",
+      "en": "No one blamed me for being a coward",
+      "zh": "大家都沒有責備膽小的我"
+    },
+    {
+      "ja": "忘れたくないよ",
+      "romaji": "Wasuretakunai yo",
+      "en": "I don't want to forget",
+      "zh": "我不想忘記"
+    },
+    {
+      "ja": "この『僕』の気持ち",
+      "romaji": "Kono 「Boku」 no Kimochi",
+      "en": "This feeling of \"me\"",
+      "zh": "這份屬於「我」的心情"
+    },
+    {
+      "ja": "『誰か』を演じてた",
+      "romaji": "「Dareka」 wo Enjiteta",
+      "en": "I was playing the role of \"someone\"",
+      "zh": "一直扮演著「某個人」"
+    },
+    {
+      "ja": "嘘はもうやめよう",
+      "romaji": "Uso ha Mou Yameyou",
+      "en": "Let's stop the lies already",
+      "zh": "別再說謊了"
+    },
+    {
+      "ja": "ゆっくり走れ！走れ！",
+      "romaji": "Yukkuri Hashire! Hashire!",
+      "en": "Run slowly! Run!",
+      "zh": "慢慢跑吧！跑吧！"
+    },
+    {
+      "ja": "風が吹いたら進む証明だ",
+      "romaji": "Kaze ga Fuitara Susumu Shoumei Da",
+      "en": "When the wind blows, it's proof to move forward",
+      "zh": "風吹起就是前進的證明"
+    },
+    {
+      "ja": "『何にもない』もない",
+      "romaji": "「Nani ni mo Nai」 mo Nai",
+      "en": "There's no such thing as \"nothing at all\"",
+      "zh": "連「一無所有」也不存在"
+    },
+    {
+      "ja": "それよりも先は僕次第だから",
+      "romaji": "Sore yori mo Saki ha Boku Shidai Da kara",
+      "en": "Because beyond that, it all depends on me",
+      "zh": "因為再往前就取決於我了"
+    },
+    {
+      "ja": "出来ないことばっかり見えて",
+      "romaji": "Dekinai Koto Bakkari Miete",
+      "en": "All you can see are the things you can't do",
+      "zh": "眼裡盡是做不到的事"
+    },
+    {
+      "ja": "くるくるいつも遠回り",
+      "romaji": "Kurukuru Itsumo Toomawari",
+      "en": "Always going around in circles, taking the long way",
+      "zh": "總是團團轉地繞遠路"
+    },
+    {
+      "ja": "だけど昨日よりは道が見える",
+      "romaji": "Dakedo Kinou yori ha Michi ga Mieru",
+      "en": "But you can see the path better than yesterday",
+      "zh": "但比昨天更能看清道路"
+    },
+    {
+      "ja": "なら大丈夫",
+      "romaji": "Nara Daijoubu",
+      "en": "If so, it's okay",
+      "zh": "這樣的話就沒問題"
+    },
+    {
+      "ja": "あの空の向こうの未来",
+      "romaji": "Ano Sora no Mukou no Mirai",
+      "en": "The future beyond that sky",
+      "zh": "那片天空另一端的未來"
+    },
+    {
+      "ja": "夢の続きを",
+      "romaji": "Yume no Tsuzuki wo",
+      "en": "The continuation of the dream",
+      "zh": "夢想的延續"
+    },
+    {
+      "ja": "ゆっくり足で腕で身体を使って",
+      "romaji": "Yukkuri Ashi de Ude de Karada wo Tsukatte",
+      "en": "Slowly, with your legs, your arms, your whole body",
+      "zh": "慢慢用雙腳、雙手、全身"
+    },
+    {
+      "ja": "前に進もう",
+      "romaji": "Mae ni Susumou",
+      "en": "Let's move forward",
+      "zh": "向前邁進吧"
+    },
+    {
+      "ja": "ゆっくり走れ！走れ！",
+      "romaji": "Yukkuri Hashire! Hashire!",
+      "en": "Run slowly! Run!",
+      "zh": "慢慢跑吧！跑吧！"
+    },
+    {
+      "ja": "道に迷った時がチャンスだ",
+      "romaji": "Michi ni Mayotta Toki ga Chansu Da",
+      "en": "When you lose your way, that's your chance",
+      "zh": "迷路的時候就是機會"
+    },
+    {
+      "ja": "『何にもない』もない",
+      "romaji": "「Nani ni mo Nai」 mo Nai",
+      "en": "There's no such thing as \"nothing at all \"",
+      "zh": "連「一無所有」也不存在"
+    },
+    {
+      "ja": "新しい僕が見つかるはずさ",
+      "romaji": "Atarashii Boku ga Mitsukaru Hazu sa",
+      "en": "I'm sure you'll find a new you",
+      "zh": "一定能找到嶄新的自己"
+    },
+    {
+      "ja": "出来ないことばっかり見えて",
+      "romaji": "Dekinai Koto Bakkari Miete",
+      "en": "All you can see are the things you can't do",
+      "zh": "眼裡盡是做不到的事"
+    },
+    {
+      "ja": "くるくるいつも遠回り",
+      "romaji": "Kurukuru Itsumo Toomawari",
+      "en": "Always going around in circles, taking the long way",
+      "zh": "總是團團轉地繞遠路"
+    },
+    {
+      "ja": "だけど昨日よりは明日が見える",
+      "romaji": "Dakedo Kinou yori ha Ashita ga Mieru",
+      "en": "But you can see tomorrow better than yesterday",
+      "zh": "但比昨天更能看清明天"
+    },
+    {
+      "ja": "から大丈夫",
+      "romaji": "Kara Daijoubu",
+      "en": "So it's okay",
+      "zh": "所以沒問題"
+    },
+    {
+      "ja": "Lalala……",
+      "romaji": "Lalala......",
+      "en": "Lalala...",
+      "zh": "啦啦啦啦……"
+    }
+  ]
+}
