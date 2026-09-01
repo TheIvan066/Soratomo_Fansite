@@ -48,7 +48,7 @@ nav:
       - 'ほしのふるにわ': songs/hoshino_furuniwa.md
       - '冴えない自分にラブソングを': songs/saenai.md
       - 'IMAGE source': songs/image_source.md
-      - 'ブレンドキャラバン': songs/friend_caravan.md
+      - 'ブレンドキャラバン': songs/blend_caravan.md
       - '未練レコード': songs/miren.md
       - '海より深い空の下': songs/umiyori.md
       - 'そんな雨の日には': songs/amenohiniha.md
@@ -184,4 +184,4 @@ nav:
           - '夢色ワンダー': songs/yumeiro_wonder.md
       - 'BEEP BEEP':
           - 'BEEP BEEP': songs/beep_beep.md
-  - '🛍️ 公式商品 Goods': goods/goods_index.md
+  - '🛍️ 公式商品 Goods (WIP!!)': goods/goods_index.md
