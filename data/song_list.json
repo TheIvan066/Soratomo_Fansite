@@ -1,0 +1,725 @@
+[
+  {
+    "title": "木の芽時の空（花時の空）",
+    "album": "くもはれ",
+    "releaseDate": "2018/01/19",
+    "coverUrl": "/assets/cover_images/kumohare.png",
+    "slug": "/songs/konomedoki_no_sora"
+  },
+  {
+    "title": "夢色アスタリスク",
+    "album": "Dreaming!",
+    "releaseDate": "2019/01/29",
+    "coverUrl": "/assets/cover_images/dreaming.png",
+    "slug": "/songs/yumeiro_asterisk"
+  },
+
+  {
+    "title": "わたしとあなたと皆さまと！",
+    "album": "N/A",
+    "releaseDate": "2018/05/15",
+    "coverUrl": "/assets/cover_images/watashito_anatato_minasamato.png",
+    "slug": "/songs/watashito_anatato_minasamato"
+  },
+  {
+    "title": "あの日見た空",
+    "album": "N/A",
+    "releaseDate": "2018/06/01",
+    "coverUrl": "/assets/cover_images/anohimita_sora.png",
+    "slug": "/songs/anohimita_sora"
+  },
+
+  {
+    "title": "おかえり",
+    "album": "Dreaming!",
+    "releaseDate": "2018/07/08",
+    "coverUrl": "/assets/cover_images/dreaming.png",
+    "slug": "/songs/okaeri"
+  },
+
+  {
+    "title": "そらともどうぶつようちえん",
+    "album": "N/A",
+    "releaseDate": "2018/07/17",
+    "coverUrl": "/assets/cover_images/soratomo_doubutsu_youchien.png",
+    "slug": "/songs/soratomo_doubutsu_youchien"
+  },
+  {
+    "title": "青空ステージ",
+    "album": "N/A",
+    "releaseDate": "2018/07/29",
+    "coverUrl": "/assets/cover_images/aozora_stage.png",
+    "slug": "/songs/aozora_stage"
+  },
+  {
+    "title": "同じ空の下で",
+    "album": "N/A",
+    "releaseDate": "2018/09/09",
+    "coverUrl": "/assets/cover_images/oanji_sorano_shitade.png",
+    "slug": "/songs/oanji_sorano_shitade"
+  },
+
+  {
+    "title": "未練レコード",
+    "album": "Dreaming!",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/dreaming.png",
+    "slug": "/songs/miren"
+  },
+  {
+    "title": "Wandering Days",
+    "album": "Dreaming!",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/dreaming.png",
+    "slug": "/songs/wandering_days"
+  },
+  {
+    "title": "そんな雨の日には",
+    "album": "Dreaming!",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/dreaming.png",
+    "slug": "/songs/amenohiniha"
+  },
+  {
+    "title": "海より深い空の下",
+    "album": "Dreaming!",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/dreaming.png",
+    "slug": "/songs/umiyori"
+  },
+  {
+    "title": "Dream☆Story",
+    "album": "Dreaming!",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/dreaming.png",
+    "slug": "/songs/dream_story"
+  },
+  {
+    "title": "ブレンドキャラバン",
+    "album": "Dreaming!",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/dreaming.png",
+    "slug": "/songs/friend_caravan"
+  },
+  {
+    "title": "コトバカゼ",
+    "album": "Dreaming!",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/dreaming.png",
+    "slug": "/songs/kotobakaze"
+  },
+  {
+    "title": "ヒロイック・ヒロイン",
+    "album": "Dreaming!",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/dreaming.png",
+    "slug": "/songs/heroic_heroin"
+  },
+  {
+    "title": "ほしのふるにわ",
+    "album": "Dreaming!",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/dreaming.png",
+    "slug": "/songs/hoshino_furuniwa"
+  },
+  {
+    "title": "冴えない自分にラブソングを",
+    "album": "Dreaming!",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/dreaming.png",
+    "slug": "/songs/saenai"
+  },
+  {
+    "title": "IMAGE source",
+    "album": "Dreaming!",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/dreaming.png",
+    "slug": "/songs/image_source"
+  },
+  {
+    "title": "メトロナイト",
+    "album": "Dreaming!",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/dreaming.png",
+    "slug": "/songs/metronight"
+  },
+  {
+    "title": "好き、泣いちゃいそうだ",
+    "album": "Dreaming!",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/dreaming.png",
+    "slug": "/songs/suki_naichaisouda"
+  },
+  {
+    "title": "シーソーゲーム",
+    "album": "シーソーゲーム",
+    "releaseDate": "2019/03/27",
+    "coverUrl": "/assets/cover_images/seesaw_game.png",
+    "slug": "/songs/seesaw_game"
+  },
+  {
+    "title": "バーチャル開花最前線！",
+    "album": "バーチャル開花最前線！/Fragment",
+    "releaseDate": "2019/04/28",
+    "coverUrl": "/assets/cover_images/virt.png",
+    "slug": "/songs/virtual_kaika_saizensen"
+  },
+  {
+    "title": "Fragment",
+    "album": "バーチャル開花最前線！/Fragment",
+    "releaseDate": "2019/04/28",
+    "coverUrl": "/assets/cover_images/virt.png",
+    "slug": "/songs/fragment"
+  },
+
+  {
+    "title": "Shiny Smily Story",
+    "album": "Shiny Smily Story",
+    "releaseDate": "2019/08/15",
+    "coverUrl": "/assets/cover_images/sss.png",
+    "slug": "/songs/sss"
+  },
+
+  {
+    "title": "フレーフレーLOVE",
+    "album": "My Loving",
+    "releaseDate": "2019/10/07",
+    "coverUrl": "/assets/cover_images/my_loving.png",
+    "slug": "/songs/furefure_love"
+  },
+
+  {
+    "title": "キラメキライダー☆",
+    "album": "キラメキライダー☆",
+    "releaseDate": "2020/02/04",
+    "coverUrl": "/assets/cover_images/kirameki_rider.png",
+    "slug": "/songs/kirameki_rider"
+  },
+
+  {
+    "title": "Wonderland",
+    "album": "My Loving",
+    "releaseDate": "2020/02/06",
+    "coverUrl": "/assets/cover_images/my_loving.png",
+    "slug": "/songs/wonderland"
+  },
+  {
+    "title": "Equation of Love",
+    "album": "My Loving",
+    "releaseDate": "2020/03/04",
+    "coverUrl": "/assets/cover_images/my_loving.png",
+    "slug": "/songs/equation_of_love"
+  },
+  {
+    "title": "サヨナラブロッサム",
+    "album": "My Loving",
+    "releaseDate": "2020/03/04",
+    "coverUrl": "/assets/cover_images/my_loving.png",
+    "slug": "/songs/sayonara_blossom"
+  },
+  {
+    "title": "刹那ティックコード",
+    "album": "My Loving",
+    "releaseDate": "2020/03/04",
+    "coverUrl": "/assets/cover_images/my_loving.png",
+    "slug": "/songs/setsunatic"
+  },
+  {
+    "title": "ゆっくり走れば風は吹く",
+    "album": "My Loving",
+    "releaseDate": "2020/03/04",
+    "coverUrl": "/assets/cover_images/my_loving.png",
+    "slug": "/songs/yukkuri"
+  },
+  {
+    "title": "青空のシンフォニー",
+    "album": "ON STAGE!",
+    "releaseDate": "2020/05/15",
+    "coverUrl": "/assets/cover_images/on_stage.png",
+    "slug": "/songs/aozora_symphony"
+  },
+  {
+    "title": "V・V・斬り込みます！",
+    "album": "四月一日さん家で歌ってみた",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/watanuki.png",
+    "slug": "/songs/v_v_kirikomimasu"
+  },
+  {
+    "title": "あの子とシンパシー",
+    "album": "四月一日さん家で歌ってみた",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/watanuki.png",
+    "slug": "/songs/anokoto_sympathy"
+  },
+  {
+    "title": "花が咲いたら",
+    "album": "四月一日さん家で歌ってみた",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/watanuki.png",
+    "slug": "/songs/hanaga_saitara"
+  },
+
+  {
+    "title": "ぐるぐる・ラブストーリー",
+    "album": "ON STAGE!",
+    "releaseDate": "2020/08/20",
+    "coverUrl": "/assets/cover_images/on_stage.png",
+    "slug": "/songs/guruguru_love_story"
+  },
+  {
+    "title": "マイオドレ!舞舞タイム",
+    "album": "ON STAGE!",
+    "releaseDate": "2020/09/08",
+    "coverUrl": "/assets/cover_images/on_stage.png",
+    "slug": "/songs/maimai_time"
+  },
+
+  {
+    "title": "紅藍クロニクル",
+    "album": "紅藍クロニクル",
+    "releaseDate": "2020/09/22",
+    "coverUrl": "/assets/cover_images/kurenai_chronicle.png",
+    "slug": "/songs/kurenai_chronicle"
+  },
+
+  {
+    "title": "Step and Go!!",
+    "album": "ON STAGE!",
+    "releaseDate": "2020/10/15",
+    "coverUrl": "/assets/cover_images/on_stage.png",
+    "slug": "/songs/step_and_go"
+  },
+  {
+    "title": "Chu-Chu-Lu",
+    "album": "ON STAGE!",
+    "releaseDate": "2020/10/21",
+    "coverUrl": "/assets/cover_images/on_stage.png",
+    "slug": "/songs/chu_chu_lu"
+  },
+  {
+    "title": "リア/リモシンパサイザー",
+    "album": "ON STAGE!",
+    "releaseDate": "2020/10/21",
+    "coverUrl": "/assets/cover_images/on_stage.png",
+    "slug": "/songs/riarimo_sypathizer"
+  },
+  {
+    "title": "ブルーベリームーン",
+    "album": "ON STAGE!",
+    "releaseDate": "2020/10/21",
+    "coverUrl": "/assets/cover_images/on_stage.png",
+    "slug": "/songs/blueberry_moon"
+  },
+  {
+    "title": "空祭り",
+    "album": "ON STAGE!",
+    "releaseDate": "2020/10/21",
+    "coverUrl": "/assets/cover_images/on_stage.png",
+    "slug": "/songs/soramatsuri"
+  },
+
+  {
+    "title": "ホロライブ言えるかな？",
+    "album": "ホロライブ言えるかな？",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/hololive_ierukana.png",
+    "slug": "/songs/hololive_ierukana"
+  },
+  {
+    "title": "KumoHurray!",
+    "album": "くもはれ",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/kumohare.png",
+    "slug": "/songs/soong"
+  },
+
+  {
+    "title": "ピース！！",
+    "album": "ピース！！",
+    "releaseDate": "2022/04/22",
+    "coverUrl": "/assets/cover_images/peace.png",
+    "slug": "/songs/peace"
+  },
+
+  {
+    "title": "Happy Meowthday!!",
+    "album": "Happy Meowthday!!",
+    "releaseDate": "2022/05/15",
+    "coverUrl": "/assets/cover_images/a_happy_meowthday.png",
+    "slug": "/songs/happy_meowthday"
+  },
+  {
+    "title": "そらを超えて",
+    "album": "Happy Meowthday!!",
+    "releaseDate": "2022/05/15",
+    "coverUrl": "/assets/cover_images/a_happy_meowthday.png",
+    "slug": "/songs/sorawo_koete"
+  },
+
+  {
+    "title": "そらのとき",
+    "album": "Sign",
+    "releaseDate": "2022/07/06",
+    "coverUrl": "/assets/cover_images/sign.png",
+    "slug": "/songs/soranotoki"
+  },
+  {
+    "title": "ピッとして！マーマレード",
+    "album": "Sign",
+    "releaseDate": "2022/08/10",
+    "coverUrl": "/assets/cover_images/sign.png",
+    "slug": "/songs/marmalade"
+  },
+
+  {
+    "title": "飛んでK！ホロライブサマー",
+    "album": "hololive Summer 2022",
+    "releaseDate": "2022/08/18",
+    "coverUrl": "/assets/cover_images/holo_summer_2022.png",
+    "slug": "/songs/tonde_k"
+  },
+  {
+    "title": "ホロメン音頭",
+    "album": "ホロメン音頭",
+    "releaseDate": "2022/08/21",
+    "coverUrl": "/assets/cover_images/holomen_ontou.png",
+    "slug": "/songs/holomen_ontou"
+  },
+  {
+    "title": "ポラリスソラリス",
+    "album": "Sign",
+    "releaseDate": "2022/08/24",
+    "coverUrl": "/assets/cover_images/sign.png",
+    "slug": "/songs/polaris_soraris"
+  },
+  {
+    "title": "ユメゾラ☆ファンファーレ",
+    "album": "Sign",
+    "releaseDate": "2022/09/07",
+    "coverUrl": "/assets/cover_images/sign.png",
+    "slug": "/songs/yumezora_fanfare"
+  },
+  {
+    "title": "ロゴバッジ",
+    "album": "Sign",
+    "releaseDate": "2022/09/07",
+    "coverUrl": "/assets/cover_images/sign.png",
+    "slug": "/songs/logo_badge"
+  },
+  {
+    "title": "羽を手にして",
+    "album": "Sign",
+    "releaseDate": "2022/09/07",
+    "coverUrl": "/assets/cover_images/sign.png",
+    "slug": "/songs/hanewo_tenishite"
+  },
+  {
+    "title": "空ノ空",
+    "album": "Sign",
+    "releaseDate": "2022/09/07",
+    "coverUrl": "/assets/cover_images/sign.png",
+    "slug": "/songs/soranosora"
+  },
+  {
+    "title": "エゴナデ・ラビリンス",
+    "album": "Sign",
+    "releaseDate": "2022/09/07",
+    "coverUrl": "/assets/cover_images/sign.png",
+    "slug": "/songs/egonade_labrynth"
+  },
+  {
+    "title": "エレクトリカル・サーフィン",
+    "album": "Sign",
+    "releaseDate": "2022/09/07",
+    "coverUrl": "/assets/cover_images/sign.png",
+    "slug": "/songs/electrical_surfing"
+  },
+  {
+    "title": "デジタリックリリック",
+    "album": "Sign",
+    "releaseDate": "2022/09/07",
+    "coverUrl": "/assets/cover_images/sign.png",
+    "slug": "/songs/digitalic_lyri"
+  },
+  {
+    "title": "黄昏ミッドナイト",
+    "album": "Sign",
+    "releaseDate": "2022/09/07",
+    "coverUrl": "/assets/cover_images/sign.png",
+    "slug": "/songs/tasogare_midnight"
+  },
+  {
+    "title": "メアリースイート",
+    "album": "Sign",
+    "releaseDate": "2022/09/07",
+    "coverUrl": "/assets/cover_images/sign.png",
+    "slug": "/songs/mary_sweet"
+  },
+  {
+    "title": "ケ・セラ・ソラ！",
+    "album": "Beyond",
+    "releaseDate": "2022/11/20",
+    "coverUrl": "/assets/cover_images/a_beyond.png",
+    "slug": "/songs/que_sera_sora"
+  },
+  {
+    "title": "キセキノセカイ",
+    "album": "Beyond",
+    "releaseDate": "2023/02/15",
+    "coverUrl": "/assets/cover_images/a_beyond.png",
+    "slug": "/songs/isekino_sekai"
+  },
+  {
+    "title": "Beyond",
+    "album": "Beyond",
+    "releaseDate": "2023/02/22",
+    "coverUrl": "/assets/cover_images/a_beyond.png",
+    "slug": "/songs/beyond"
+  },
+  {
+    "title": "またあした",
+    "album": "Beyond",
+    "releaseDate": "2023/02/22",
+    "coverUrl": "/assets/cover_images/a_beyond.png",
+    "slug": "/songs/mataashita"
+  },
+
+  {
+    "title": "青春アーカイブ",
+    "album": "青春アーカイブ",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "/assets/cover_images/seishun_archive.png",
+    "slug": "/songs/seishun_archive"
+  },
+
+  {
+    "title": "Scale the walls",
+    "album": "Futurity Step",
+    "releaseDate": "2023/08/16",
+    "coverUrl": "/assets/cover_images/futurity_step.png",
+    "slug": "/songs/scale_the_walls"
+  },
+  {
+    "title": "君と僕はアルビレオ 惹かれ合う彗星テイル",
+    "album": "Futurity Step",
+    "releaseDate": "2023/12/20",
+    "coverUrl": "/assets/cover_images/futurity_step.png",
+    "slug": "/songs/kimito_bokuha_albireo"
+  },
+  {
+    "title": "テレパシー",
+    "album": "Futurity Step",
+    "releaseDate": "2023/12/20",
+    "coverUrl": "/assets/cover_images/futurity_step.png",
+    "slug": "/songs/telepathy"
+  },
+  {
+    "title": "せーので！",
+    "album": "Futurity Step",
+    "releaseDate": "2023/12/20",
+    "coverUrl": "/assets/cover_images/futurity_step.png",
+    "slug": "/songs/senode"
+  },
+  {
+    "title": "ハジメノイッポ",
+    "album": "Futurity Step",
+    "releaseDate": "2023/12/20",
+    "coverUrl": "/assets/cover_images/futurity_step.png",
+    "slug": "/songs/hajimeno_ippo"
+  },
+  {
+    "title": "恋愛コスモロジー",
+    "album": "Futurity Step",
+    "releaseDate": "2023/12/20",
+    "coverUrl": "/assets/cover_images/futurity_step.png",
+    "slug": "/songs/rennai_cosmology"
+  },
+  {
+    "title": "惑わす星",
+    "album": "Futurity Step",
+    "releaseDate": "2023/12/20",
+    "coverUrl": "/assets/cover_images/futurity_step.png",
+    "slug": "/songs/madowasuhoshi"
+  },
+  {
+    "title": "いけないんだ",
+    "album": "Futurity Step",
+    "releaseDate": "2023/12/20",
+    "coverUrl": "/assets/cover_images/futurity_step.png",
+    "slug": "/songs/ikenainda"
+  },
+  {
+    "title": "ふたりDestiny",
+    "album": "Futurity Step",
+    "releaseDate": "2023/12/20",
+    "coverUrl": "/assets/cover_images/futurity_step.png",
+    "slug": "/songs/futari_destiny"
+  },
+  {
+    "title": "MAG-NET",
+    "album": "Futurity Step",
+    "releaseDate": "2023/12/20",
+    "coverUrl": "/assets/cover_images/futurity_step.png",
+    "slug": "/songs/mag_net"
+  },
+
+  {
+    "title": "Rolling, Loading!!",
+    "album": "Star Star☆t",
+    "releaseDate": "2024/03/06",
+    "coverUrl": "/assets/cover_images/star_star_start.png",
+    "slug": "/songs/rolling_loading"
+  },
+  {
+    "title": "スタースタースタート",
+    "album": "Star Star☆t",
+    "releaseDate": "2024/03/06",
+    "coverUrl": "/assets/cover_images/star_star_start.png",
+    "slug": "/songs/star_star_start"
+  },
+  {
+    "title": "傘賛歌",
+    "album": "Star Star☆t",
+    "releaseDate": "2024/03/06",
+    "coverUrl": "/assets/cover_images/star_star_start.png",
+    "slug": "/songs/sansanka"
+  },
+  {
+    "title": "ナイトキューブパラドクス",
+    "album": "Star Star☆t",
+    "releaseDate": "2024/03/06",
+    "coverUrl": "/assets/cover_images/star_star_start.png",
+    "slug": "/songs/night_cube_paradox"
+  },
+  {
+    "title": "ブルーディスコ",
+    "album": "Star Star☆t",
+    "releaseDate": "2024/03/06",
+    "coverUrl": "/assets/cover_images/star_star_start.png",
+    "slug": "/songs/blue_disco"
+  },
+  {
+    "title": "はじまりは一直線",
+    "album": "Star Star☆t",
+    "releaseDate": "2024/03/06",
+    "coverUrl": "/assets/cover_images/star_star_start.png",
+    "slug": "/songs/hajimariha_icchokusen"
+  },
+
+  {
+    "title": "Capture the Moment",
+    "album": "Capture the Moment",
+    "releaseDate": "2014/03/07",
+    "coverUrl": "/assets/cover_images/capture_the_moment.png",
+    "slug": "/songs/capture_the_moment"
+  },
+
+  {
+    "title": "おかえりなさい",
+    "album": "おかえりなさい",
+    "releaseDate": "2024/08/14",
+    "coverUrl": "/assets/cover_images/okaerinasai.png",
+    "slug": "/songs/okaerinasai"
+  },
+
+  {
+    "title": "キズナトキセキ",
+    "album": "キズナトキセキ",
+    "releaseDate": "2024/08/28",
+    "coverUrl": "/assets/cover_images/kizunato_kiseki.png",
+    "slug": "/songs/kizunato_kiseki"
+  },
+
+  {
+    "title": "ラッキーセブンスホイッスル",
+    "album": "Pulse",
+    "releaseDate": "2024/09/07",
+    "coverUrl": "/assets/cover_images/pulse.png",
+    "slug": "/songs/lucky_7_whistle"
+  },
+  {
+    "title": "GET THE CROWN",
+    "album": "GET THE CROWN",
+    "releaseDate": "2024/11/08",
+    "coverUrl": "/assets/cover_images/get_the_crown.png",
+    "slug": "/songs/get_the_crown"
+  },
+  {
+    "title": "Swallow Tail",
+    "album": "Pulse",
+    "releaseDate": "2025/05/15",
+    "coverUrl": "/assets/cover_images/pulse.png",
+    "slug": "/songs/swallow_tail"
+  },
+  {
+    "title": "∞超スーパー無限インフィニティ∞",
+    "album": "Pulse",
+    "releaseDate": "2025/06/26",
+    "coverUrl": "/assets/cover_images/pulse.png",
+    "slug": "/songs/chousuper_mugen_infinity"
+  },
+  {
+    "title": "Dancing Reed",
+    "album": "Pulse",
+    "releaseDate": "025/07/16",
+    "coverUrl": "/assets/cover_images/pulse.png",
+    "slug": "/songs/dancing_reed"
+  },
+  {
+    "title": "Diva",
+    "album": "Pulse",
+    "releaseDate": "2025/09/24",
+    "coverUrl": "/assets/cover_images/pulse.png",
+    "slug": "/songs/diva"
+  },
+  {
+    "title": "I T8KE ME",
+    "album": "Pulse",
+    "releaseDate": "2025/09/24",
+    "coverUrl": "/assets/cover_images/pulse.png",
+    "slug": "/songs/i_t8ke_me"
+  },
+  {
+    "title": "Fallin' Rollin' Coaster",
+    "album": "Pulse",
+    "releaseDate": "2025/09/24",
+    "coverUrl": "/assets/cover_images/pulse.png",
+    "slug": "/songs/fallin_rollin_coaster"
+  },
+  {
+    "title": "バチャリアラブ feat.涼海すう&籾山ひめり from 高嶺のなでしこ",
+    "album": "Pulse",
+    "releaseDate": "2025/09/24",
+    "coverUrl": "/assets/cover_images/pulse.png",
+    "slug": "/songs/virtual_real_love"
+  },
+  {
+    "title": "アマテラテラス",
+    "album": "Pulse",
+    "releaseDate": "2025/09/24",
+    "coverUrl": "/assets/cover_images/pulse.png",
+    "slug": "/songs/amateraterasu"
+  },
+  {
+    "title": "夢色ワンダー",
+    "album": "N/A",
+    "releaseDate": "2026/04/15",
+    "coverUrl": "/assets/cover_images/yumeiro_wonder.png",
+    "slug": "/songs/yumeiro_wonder"
+  },
+  {
+    "title": "BEEP BEEP",
+    "album": "BEEP BEEP",
+    "releaseDate": "2026/04/17",
+    "coverUrl": "/assets/cover_images/beep_beep.png",
+    "slug": "/songs/beep_beep"
+  },
+  {
+    "title": "決意のソラへ",
+    "album": "決意のソラへ",
+    "releaseDate": "2026/05/15",
+    "coverUrl": "/assets/cover_images/ketsuino_sorahe.png",
+    "slug": "/songs/ketsuino_sorahe"
+  }
+]

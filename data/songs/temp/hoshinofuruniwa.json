@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "title": "ほしのふるにわ",
+    "artist": "ときのそら",
+    "originalKey": "C",
+    "composer": "歩く人",
+    "lyricist": "歩く人",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "capo": "0"
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "C     G     Am    Em",
+          "t": ""
+        },
+        {
+          "c": "F     C     G     C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "C     G     Am    Em",
+          "t": "星[ほし]()の降[ふ]()る庭[にわ]()で 君[きみ]()と出会[であ]()った"
+        },
+        {
+          "c": "F     C     G     C",
+          "t": "あの日[ひ]()からずっと 夢[ゆめ]()を見[み]()てる"
+        },
+        {
+          "c": "C     G     Am    Em",
+          "t": "小[ちい]()さな手[て]()を繋[つな]()ぎ 歩[ある]()いた道[みち]()"
+        },
+        {
+          "c": "F     C     G     C",
+          "t": "忘[わす]()れないよ この想[おも]()い"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus",
+      "lines": [
+        {
+          "c": "F     G     Em    Am",
+          "t": "時[とき]()が流[なが]()れても 色褪[いろあ]()せない"
+        },
+        {
+          "c": "F     G     C     C7",
+          "t": "輝[かがや]()く記憶[きおく]() 胸[むね]()に抱[だ]()いて"
+        },
+        {
+          "c": "F     G     Em    Am",
+          "t": "未来[みらい]()へ続[つづ]()く 道[みち]()を照[て]()らす"
+        },
+        {
+          "c": "Dm    G     C",
+          "t": "希望[きぼう]()の光[ひかり]()"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C     G     Am    Em",
+          "t": "ほしのふるにわ 歌[うた]()い続[つづ]()ける"
+        },
+        {
+          "c": "F     C     G     C",
+          "t": "君[きみ]()と共[とも]()に どこまでも"
+        },
+        {
+          "c": "C     G     Am    Em",
+          "t": "ほしのふるにわ 願[ねが]()いを込[こ]()めて"
+        },
+        {
+          "c": "F     G     C",
+          "t": "永遠[えいえん]()に響[ひび]()くメロディ"
+        }
+      ]
+    },
+    {
+      "section": "Interlude",
+      "lines": [
+        {
+          "c": "C     G     Am    Em",
+          "t": ""
+        },
+        {
+          "c": "F     C     G     C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "C     G     Am    Em",
+          "t": "悲[かな]()しい時[とき]()も 嬉[うれ]()しい時[とき]()も"
+        },
+        {
+          "c": "F     C     G     C",
+          "t": "いつも隣[となり]()に 君[きみ]()がいたね"
+        },
+        {
+          "c": "C     G     Am    Em",
+          "t": "笑[わら]()い合[あ]()った日々[ひび]() 涙[なみだ]()した夜[よる]()"
+        },
+        {
+          "c": "F     C     G     C",
+          "t": "全[すべ]()てが宝物[たからもの]()"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus",
+      "lines": [
+        {
+          "c": "F     G     Em    Am",
+          "t": "季節[きせつ]()が巡[めぐ]()っても 変[か]()わらない"
+        },
+        {
+          "c": "F     G     C     C7",
+          "t": "深[ふか]()い絆[きずな]() 心[こころ]()に刻[きざ]()んで"
+        },
+        {
+          "c": "F     G     Em    Am",
+          "t": "新[あたら]()しい夢[ゆめ]()を 描[えが]()き出[だ]()そう"
+        },
+        {
+          "c": "Dm    G     C",
+          "t": "未来[みらい]()へ向[む]()かって"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C     G     Am    Em",
+          "t": "ほしのふるにわ 歌[うた]()い続[つづ]()ける"
+        },
+        {
+          "c": "F     C     G     C",
+          "t": "君[きみ]()と共[とも]()に どこまでも"
+        },
+        {
+          "c": "C     G     Am    Em",
+          "t": "ほしのふるにわ 願[ねが]()いを込[こ]()めて"
+        },
+        {
+          "c": "F     G     C",
+          "t": "永遠[えいえん]()に響[ひび]()くメロディ"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "F     G     Em    Am",
+          "t": "どんな困難[こんなん]()も 乗[の]()り越[こ]()えられる"
+        },
+        {
+          "c": "F     G     C     C7",
+          "t": "君[きみ]()がいるから 強[つよ]()くなれる"
+        },
+        {
+          "c": "F     G     Em    Am",
+          "t": "手[て]()を伸[の]()ばせば 届[とど]()くはずさ"
+        },
+        {
+          "c": "Dm    G     G",
+          "t": "光[ひかり]()の先[さき]()へ"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C     G     Am    Em",
+          "t": "ほしのふるにわ 歌[うた]()い続[つづ]()ける"
+        },
+        {
+          "c": "F     C     G     C",
+          "t": "君[きみ]()と共[とも]()に どこまでも"
+        },
+        {
+          "c": "C     G     Am    Em",
+          "t": "ほしのふるにわ 願[ねが]()いを込[こ]()めて"
+        },
+        {
+          "c": "F     G     C",
+          "t": "永遠[えいえん]()に響[ひび]()くメロディ"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "C     G     Am    Em",
+          "t": ""
+        },
+        {
+          "c": "F     C     G     C",
+          "t": ""
+        }
+      ]
+    }
+  ],
+  "calls": [],
+  "lyrics": [
+    {
+      "ja": "星の降る庭で 君と出会った",
+      "romaji": "Hoshi no furu niwa de kimi to deatta",
+      "en": "In a garden where stars fall, I met you.",
+      "zh": "在星光灑落的庭院，與你相遇"
+    },
+    {
+      "ja": "あの日からずっと 夢を見てる",
+      "romaji": "Ano hi kara zutto yume wo miteru",
+      "en": "Ever since that day, I've been dreaming.",
+      "zh": "從那天起，我一直做著夢"
+    },
+    {
+      "ja": "小さな手を繋ぎ 歩いた道",
+      "romaji": "Chiisana te wo tsunagi aruita michi",
+      "en": "The path we walked, holding our small hands,",
+      "zh": "牽著小手，我們走過的路"
+    },
+    {
+      "ja": "忘れないよ この想い",
+      "romaji": "Wasurenai yo kono omoi",
+      "en": "I won't forget these feelings.",
+      "zh": "這份心意，我不會忘記"
+    },
+    {
+      "ja": "時が流れても 色褪せない",
+      "romaji": "Toki ga nagarete mo iroasenai",
+      "en": "Even as time flows, it won't fade,",
+      "zh": "即使時光流逝，也不會褪色"
+    },
+    {
+      "ja": "輝く記憶 胸に抱いて",
+      "romaji": "Kagayaku kioku mune ni daite",
+      "en": "Holding these shining memories in my heart.",
+      "zh": "將閃耀的記憶，擁入懷中"
+    },
+    {
+      "ja": "未来へ続く 道を照らす",
+      "romaji": ""
+    }
+  ]
+}

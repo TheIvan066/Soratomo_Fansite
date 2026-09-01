@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "title": "コトバカゼ (Acoustic Arrange Ver.)",
+    "artist": "ときのそら",
+    "originalKey": "F",
+    "composer": "多田慎也",
+    "lyricist": "多田慎也",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "capo": "0"
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "C G Am Em F C G C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "C         G",
+          "t": "ゆれる()街灯 篠突[し(の)つ](く)雨"
+        },
+        {
+          "c": "Am        Em",
+          "t": "傘も()ささずに()立ち尽[つ](く)す"
+        },
+        {
+          "c": "F         C",
+          "t": "君は()どこへ()行[い](く)の"
+        },
+        {
+          "c": "G         C",
+          "t": "僕を()置[お](いて)"
+        }
+      ]
+    }
+  ],
+  "calls": [],
+  "lyrics": []
+}

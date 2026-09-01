@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "title": "エイリアンエイリアン",
+    "artist": "ときのそら (カバー)",
+    "originalKey": "Bm",
+    "capo": "",
+    "description": "",
+    "composer": "ナユタン星人",
+    "lyricist": "ナユタン星人",
+    "album": "Re:Play",
+    "releaseDate": "2021-11-24",
+    "coverUrl": "cover_images/alien_alien.jpg",
+    "penlight_color": ["#ff0000"],
+    "links": [
+      { "name": "Official MV", "url": "https://youtu.be/NT6Pf28eCgQ?si=ySlE7sBcoIL5SoKD" }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        { "c": "F#                   F#                X", "t": "- - - -|- - - -|- - - -|- - - -|" },
+        { "c": "Bm7    F#m7/A    G    F#    Bm7    F#m7/A    G    A#dim", "t": "--   --   |  --  --| --      --|   --    --|" },
+        { "c": "Bm7    F#m7/A    G    F#    Bm7    F#m7/A    G    F#", "t": "--   --   |  --  --| --      --|  --  --|" }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        { "c": "       Bm7                G       F#", "t": "ゆれる()街灯 篠突[し(の)つ](く)雨" },
+        { "c": "       Bm7                G            F#", "t": "振れる()感情 感覚[か(ん)かく]の(テ)レパス" },
+        { "c": "Bm7           G          F#", "t": "(迷)子のふ(た)りはコ(ン)タクト" },
+        { "c": "Bm7          G       A         (Bm7)", "t": "(コ)コロは()恋を(知)りまし(た)" }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        { "c": "Bm7    F#m7/A    G    F#    Bm7    F#m7/A    G    F#", "t": "--   --   |  --  --| --      --|  --  -(タタタ)|" },
+        { "c": "Bm7                    G          F#", "t": "(タ)イトロープ ツ(ギ)ハギの(制)服" },
+        { "c": "Bm7             G             F#", "t": "(重)度のディ(ス)コミュニ(ケ)ーション" },
+        { "c": "       Bm7                     G              F#", "t": "眼光[(が)んこう] 赤色[せ(き)しょく]に(キ)ラキラ" },
+        { "c": "Bm7          Bm7              A           (F#)", "t": "(ナ)ニかが(起)こる胸騒[(む)ねさわ](ぎ)" }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        { "c": "F#       F#     F#7  F#7  F#7  F#7  X", "t": " ----| ----| -- --| --  -  -"},
+        { "c": "Bm7            F#m7/A      G           F#", "t": "(エ)イリアン() わたし(エ)イリア(ン)" },
+        { "c": "   GM7              D         C#m       F#", "t": "あ(な)たの心[こ(こ)ろ]を(惑)わせ(る)" },
+        { "c": "   GM7          A7       F#  A#dim Bm7", "t": "交(ざ)りあう(宇)宙の(引)(力)(で)" },
+        { "c": "    GM7                       A#aug   >   >    X  A#aug  >    >   X", "t": "感[(か)ん]じてる気持ちは     (ト)(キ) =     (メ)(キ)==|" },
+        { "c": "Bm7         F#m7/A           G          F#", "t": "(エ)イリア(ン) あなたの(エ)イリア(ン)" },
+        { "c": "   GM7              D               C#m           F#", "t": "引(き)あう心[こ(こ)ろ]は逃[の(が)]れられ(な)い" },
+        { "c": "   GM7          A7     F#  A#dim Bm7", "t": "あ(な)たに未(体)験(あ)(げ)(る) " },
+        { "c": "   GM7                 A#aug          (Bm7)", "t": "異(世)界の果てまで (ト)キメキ ス(キ)" },
+        { "c": "Bm7    F#m7/A    G    F#    Bm7    A    G    F#/A#", "t": "--   --   |  --  --| --   --| ====    =>=>|" },
+        { "c": "Bm7    F#m7/A    G    F#    Bm7    A    G    F#", "t": "--   --   |  --  --| --   --| --  --|" }
+      ]
+    },
+    {
+      "section": "Verse 3",
+      "lines": [
+        { "c": "Bm7                 G                 F#", "t": "(点)灯と消灯を (繰)り返している(蛍)光灯" },
+        { "c": "       Bm7                           G                     F#", "t": "超常[(ち)ょうじょう]な混沌が (静)かにあなたを蝕[(む)しば]んだ" },
+        { "c": "Bm7                 G               F#", "t": "(並)行な信号は (特)異点に因り(交)わった" },
+        { "c": "Bm7                   G           F#", "t": "(創)造現実盲信症 (感)応性本(能)" }
+      ]
+    },
+    {
+      "section": "Verse 4",
+      "lines": [
+        { "c": "Bm7       F#m7/A         G           F#", "t": "(シ)ンド(ロ)ーム ひ(と)りきり(夜)な夜な" },
+        { "c": "       Bm7      F#m7/A      G         F#", "t": "空想[(く)うそ(う)] 描(く)まるで(グ)リモワ"},
+        { "c": "Bm7       F#m7/A         G                   F#", "t": "(サ)ーチ(ラ)イト 避(け)る浮遊機[ふゆ(う)き]" },
+        { "c": "        Bm7   F#m7/A    G      F#        (F#)", "t": "「まだ(あ)な(た)は(全)て(を)知りた(い)？」" }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        { "c": "F#       F#     F#7  F#7  F#7  F#7  X", "t": " ----| ----| -- --| --  -  -"},
+        { "c": "Bm7            F#m7/A      G           F#", "t": "(エ)イリアン() わたし(エ)イリア(ン)" },
+        { "c": "   GM7              D           C#m       F#", "t": "あ(な)たの心[こ(こ)ろ]を (惑)わせ(る)" },
+        { "c": "      GM7                A7           F#  A#dim Bm7", "t": "瞳[ひ(と)み]に映[う(つ)]らない(引)(力)(に)" },
+        { "c": "   GM7 ", "t": "気(づ)いてよ わたしは" },
+        { "c": "F#       X", "t": "=>>=>> ==|" },
+        { "c": "Bm7            F#m7/A         G          F#", "t": "(エ)イリアン() あなたの(エ)イリア(ン)" },
+        { "c": "   GM7          D       C#m            F#", "t": "触(れ)合えば()は 二(度)と消え(な)い" },
+        { "c": "   GM7           A7        F#  A#dim Bm7", "t": "降(り)そそぐ (無)数の(隕)(石)(も)" },
+        { "c": "   GM7                  F#/A# >  >     X   F#/A# > >       X  ", "t": "と(き)めく心には    届[(と)ど]  =      かない！ ==|" }
+      ]
+    },
+    {
+      "section": "Chorus 3 - Key Cm",
+      "lines": [
+        { "c": "Cm7          Gm7/Bb          Ab          G", "t": "(エ)イリア(ン) ふたりは(エ)イリア(ン)" },
+        { "c": "         AbM7            Eb         Dm         G", "t": "高鳴[た(か)な]る気(持)ちが抑[お(さ)]えられ(な)い！" },
+        { "c": "   AbM7        Bb7      G  Bdim  Cm7", "t": "あ(な)たは未(確)認(生)(命)(体)" },
+        { "c": "   AbM7                Baug           (Cm7)", "t": "異(世)界の果てまで (あ)なたが 好(き)" }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        { "c": "Cm7    Gm7/Bb    Ab    G    Cm7    Bb   Ab    G/B", "t": "--   --   |  --  --| --   --| ====   =>=>|" },
+        { "c": "Cm7    Gm7/Bb    Ab    G    Cm7    Bb    Ab    G", "t": "--   --   |  --  --| --   --|  --  --|" }
+      ]
+    }
+  ],
+  "calls": [
+    { "lyrics": "", "call": "<ハイ！ハイ！ハイ！ハイ！～>" },
+    { "lyrics": "ゆれる街灯 篠突く雨", "call": "" },
+    { "lyrics": "振れる感情 感覚のテレパス", "call": "" },
+    { "lyrics": "迷子のふたりはコンタクト", "call": "" },
+    { "lyrics": "ココロは恋を知りました", "call": "" },
+    { "lyrics": "", "call": "<ハイ！ハイ！ハイ！ハイ！～>" },
+    { "lyrics": "タイトロープ ツギハギの制服", "call": "" },
+    { "lyrics": "重度のディスコミュニケーション", "call": "" },
+    { "lyrics": "眼光 赤色にキラキラ", "call": "" },
+    { "lyrics": "ナニかが起こる胸騒ぎ", "call": "" },
+    { "lyrics": "エイリアン わたしエイリアン", "call": "" },
+    { "lyrics": "あなたの心を惑わせる", "call": "" },
+    { "lyrics": "交ざりあう宇宙の引力で", "call": "" },
+    { "lyrics": "感じてる気持ちはトキメキ", "call": "" },
+    { "lyrics": "エイリアン あなたのエイリアン", "call": "" },
+    { "lyrics": "引きあう心は逃れられない", "call": "" },
+    { "lyrics": "あなたに未体験あげる", "call": "" },
+    { "lyrics": "異世界の果てまで トキメキ スキ", "call": "" },
+    { "lyrics": "", "call": "<ハイ！ハイ！ハイ！ハイ！～>" },
+    { "lyrics": "点灯と消灯を 繰り返している蛍光灯", "call": { "snap": 3, "text": "    繰り返している蛍光灯" } },
+    { "lyrics": "超常な混沌が 静かにあなたを蝕んだ", "call": { "snap": 3, "text": "    静かにあなたを蝕んだ" } },
+    { "lyrics": "並行な信号は 特異点に因り交わった", "call": { "snap": 3, "text": "    特異点に因り交わった" } },
+    { "lyrics": "創造現実盲信症 感応性本能", "call": { "snap": 2, "text": "           感応性本能" } },
+    { "lyrics": "シンドローム ひとりきり夜な夜な", "call": "" },
+    { "lyrics": "空想 描くまるでグリモワ", "call": "" },
+    { "lyrics": "サーチライト 避ける浮遊機", "call": "" },
+    { "lyrics": "「まだあなたは全てを知りたい？」", "call": "" },
+    { "lyrics": "エイリアン わたしエイリアン", "call": "" },
+    { "lyrics": " あなたの心 惑わせる", "call": "" },
+    { "lyrics": "瞳に映らない引力に", "call": "" },
+    { "lyrics": "気づいてよ わたしは", "call": "" },
+    { "lyrics": "エイリアン あなたのエイリアン", "call": "エイリアン あなたのエイリアン" },
+    { "lyrics": "触れ合えば傷は 二度と消えない", "call": "触れ合えば傷は 二度と消えない" },
+    { "lyrics": "降りそそぐ 無数の隕石も", "call": "降りそそぐ 無数の隕石も" },
+    { "lyrics": "ときめく心には 届かない", "call": "ときめく心には 届かない" },
+    { "lyrics": "エイリアン ふたりはエイリアン", "call": "エイリアン ふたりはエイリアン" },
+    { "lyrics": "高鳴る気持ちが抑えられない", "call": "高鳴る気持ちが抑えられない" },
+    { "lyrics": "あなたは未確認生命体", "call": "あなたは未確認生命体" },
+    { "lyrics": "異世界の果てまで あなたが 好き", "call": "異世界の果てまで あなたが 好き" },
+    { "lyrics": "", "call": "<ハイ！ハイ！ハイ！ハイ！～>" }
+  ],
+  "lyrics": [
+    {
+      "ja": "ゆれる街灯 篠突く雨",
+      "romaji": "Yureru Gaitou Shinotsuku Ame",
+      "en": "Swaying streetlights, pouring rain;",
+      "zh": "搖曳的街燈 傾盆的大雨",
+      "notes": [
+        { "word": "篠突く雨", "meaning": "Pouring rain, as if it is pouring small bamboo 傾盆大雨，如下細竹一様" },
+        { "word": "篠", "meaning": "A type of small bamboo 細竹，筱" }
+      ]
+    },
+    {
+      "ja": "振れる感情 感覚のテレパス",
+      "romaji": "Fureru Kanjou Kankaku no Terepasu",
+      "en": "wavering emotions, a telepathic sensation.",
+      "zh": "起伏的感情 情感的心靈感應"
+    },
+    {
+      "ja": "迷子のふたりはコンタクト",
+      "romaji": "Maigo no Futari wa Kontakuto",
+      "en": "The two lost children made contact,",
+      "zh": "迷路的兩個人開始了聯繫"
+    },
+    {
+      "ja": "ココロは恋を知りました",
+      "romaji": "Kokoro wa Koi mo Shirimashita",
+      "en": "and they started to learn what love is.",
+      "zh": "心裏體會到了甚麽叫戀愛"
+    },
+    {
+      "ja": "タイトロープ ツギハギの制服",
+      "romaji": "Taitoroopu Tsugihagi no Seifuku",
+      "en": "Tightened ropes, patched-up uniforms;",
+      "zh": "繃緊的縄索 拼拼湊湊的制服",
+      "notes": [
+        { "word": "ツギハギ（継ぎ接ぎ）", "meaning": "Patched-up 拼拼湊湊的" }
+      ]
+    },
+    {
+      "ja": "重度のディスコミュニケーション",
+      "romaji": "Juudo no Disukomyunikeeshon",
+      "en": "and a severe case of poor communication.",
+      "zh": "和嚴重的溝通障礙",
+      "notes": [
+        { "word": "ディスコミュニケーション", "meaning": "Poor communication 溝通不良" }
+      ]
+    },
+    {
+      "ja": "眼光 赤色にキラキラ ",
+      "romaji": "Gankou Sekishoku ni Kirakira",
+      "en": "Eyes sparkling in red,",
+      "zh": "目光 閃爍著紅色光芒"
+    },
+    {
+      "ja": "ナニかが起こる胸騒ぎ",
+      "romaji": "Nani ka ga Okoru Munasawagi",
+      "en": "a premonition that something is about to happen.",
+      "zh": "似乎要發生甚麼事的不安感",
+      "notes": [
+        { "word": "胸騒ぎ", "meaning": "Uneasiness 不安" }
+      ]
+    },
+    {
+      "ja": "エイリアン わたしエイリアン",
+      "romaji": "Eirian Watashi Eirian",
+      "en": "Alien, I am an alien,",
+      "zh": "外星人 我是外星人"
+    },
+    {
+      "ja": "あなたの心を惑わせる",
+      "romaji": "Anata no Kokoro wo Madowaseru",
+      "en": "leading your heart astray",
+      "zh": "困惑你的心神",
+      "notes": [
+        { "word": "惑わせる（惑わす）", "meaning": "To confuse 使困惑" }
+      ]
+    },
+    {
+      "ja": "交ざりあう宇宙の引力で",
+      "romaji": "Mazariau Uchuu no Inryoku de",
+      "en": "With the intermingling gravity of the universe,",
+      "zh": "在宇宙相互交織的引力下",
+      "notes": [
+        { "word": "~~あう（合う）", "meaning": "Suffix, meaning the action is done to one another 後綴，表示前面動作為互相做" }
+      ]
+    },
+    {
+      "ja": "感じてる気持ちはトキメキ",
+      "romaji": "Kanjiteru Kimochi wa Tokimeki",
+      "en": "what I feel is excitement",
+      "zh": "我感到的，是興奮不已"
+    },
+    {
+      "ja": "エイリアン あなたのエイリアンい",
+      "romaji": "Eirian Anata no Eirian",
+      "en": "Alien, your alien,",
+      "zh": "外星人 你的外星人"
+    },
+    {
+      "ja": "引きあう心は逃れられない",
+      "romaji": "Hikiau Kokoro wa Nogarerenai",
+      "en": "these mutually attracted hearts have nowhere to escape.",
+      "zh": "相互吸引的心已無處可逃"
+    },
+    {
+      "ja": "あなたに未体験あげる",
+      "romaji": "Anata ni Mitaiken Ageru",
+      "en": "I'll give you an unexperienced adventure,",
+      "zh": "帶給你未曾有過的體驗"
+    },
+    {
+      "ja": "異世界の果てまで トキメキ スキ",
+      "romaji": "Isekai no Hate made Tokimeki Suki",
+      "en": "Until the very ends of the other world it is this fluttering love",
+      "zh": "直到異世界的彼岸都是 這種心動 喜歡"
+    },
+    {
+      "ja": "点灯と消灯を",
+      "romaji": "Tentou to Shoutou wo",
+      "en": "The fluorescent light",
+      "zh": "不斷重複開燈和關燈的"
+    },
+    {
+      "ja": "繰り返している蛍光灯",
+      "romaji": "Kurikaeshiteiru Keikoutou",
+      "en": "that is turning on and off",
+      "zh": "熒光燈"
+    },
+    {
+      "ja": "超常な混沌が",
+      "romaji": "Choujou na Konton ga",
+      "en": "A paranormal chaos",
+      "zh": "超常的混沌"
+    },
+    {
+      "ja": "静かにあなたを蝕んだ",
+      "romaji": "Shizuka ni Anata wo Mushibanda",
+      "en": "has silently corroded you away.",
+      "zh": "悄然將你侵蝕",
+      "notes": [
+        { "word": "蝕んだ（蝕む）", "meaning": "Corrode 浸蝕" }
+      ]
+    },
+    {
+      "ja": "並行な信号は",
+      "romaji": "Heikou na Shingou wa",
+      "en": "Parallel signals",
+      "zh": "平行的信號"
+    },
+    {
+      "ja": "特異点に因り交わった",
+      "romaji": "Tokuiten ni Yori Majiwatta",
+      "en": "crossed paths due to a singularity.",
+      "zh": "因奇異點而相交",
+      "notes": [
+        { "word": "特異点", "meaning": "Singularity 奇異點" }
+      ]
+    },
+    {
+      "ja": "創造現実盲信症",
+      "romaji": "Souzou Genjitsu Moushinshou",
+      "en": "Created reality blind faith syndrome",
+      "zh": "創造現實盲信症"
+    },
+    {
+      "ja": "感応性本能",
+      "romaji": "Kannousei Honnou",
+      "en": "An irritability instinct.",
+      "zh": "感應性本能"
+    },
+    {
+      "ja": "シンドローム ひとりきり夜な夜な",
+      "romaji": "Shindoroomu Hitorikiri Yonayona",
+      "en": "Lonely nights after lonely nights syndrome",
+      "zh": "每晚每夜孤身一人症候群",
+      "notes": [
+        { "word": "夜な夜な", "meaning": "Every night 毎晩" }
+      ]
+    },
+    {
+      "ja": "空想 描くまるでグリモワ",
+      "romaji": "Kuusou Egaku Marude Gurimowa",
+      "en": "Sketching out fantasies just like a grimoire.",
+      "zh": "描繪著如魔法書一般的空想",
+      "notes": [
+        { "word": "グリモワ", "meaning": "Grimoire, spell book 魔法書" }
+      ]
+    },
+    {
+      "ja": "サーチライト 避ける浮遊機",
+      "romaji": "Saachiraito Sakeru Fuyuuki",
+      "en": "A levitating craft evading searchlights",
+      "zh": "躲避著探照燈的浮游機"
+    },
+    {
+      "ja": "「まだあなたは全てを知りたい？」",
+      "romaji": "Mada Anata wa Subete wo Shiritai",
+      "en": "'Do you still want to know about everything?'",
+      "zh": "「你還想要知道一切嗎？」"
+    },
+    {
+      "ja": "エイリアン わたしエイリアン",
+      "romaji": "Eirian Watashi Eirian",
+      "en": "Alien, I am an alien,",
+      "zh": "外星人 我是外星人"
+    },
+    {
+      "ja": "あなたの心を惑わせる",
+      "romaji": "Anata no Kokoro wo Madowaseru",
+      "en": "leading your heart astray",
+      "zh": "困惑你的心神",
+      "notes": [
+        { "word": "惑わせる（惑わす）", "meaning": "To confuse 使困惑" }
+      ]
+    },
+    {
+      "ja": "瞳に映らない引力で",
+      "romaji": "Hitomi ni Utsuranai Inryoku de",
+      "en": "In the invisible gravity,",
+      "zh": "在無法看見的引力裏"
+    },
+    {
+      "ja": "気づいてよわたしは",
+      "romaji": "Kizuite yo Watashi ha",
+      "en": "notice me! Notice that I am",
+      "zh": "快注意到呀 我是"
+    },
+    {
+      "ja": "エイリアン あなたのエイリアン",
+      "romaji": "Eirian Anata no Eirian",
+      "en": "Alien, your alien,",
+      "zh": "外星人 你的外星人"
+    },
+    {
+      "ja": "触れあえば傷は二度と消えない",
+      "romaji": "Fureaeba Kizu ha nido to kienai",
+      "en": "The wounds will never disappear again once we connect with each other",
+      "zh": "互相觸碰到了的話 傷痕就不會再消失"
+    },
+    {
+      "ja": "降りそそぐ無数の隕石も",
+      "romaji": "Furisosogu Musuu no Inseki mo",
+      "en": "Even the pouring, countless meteors",
+      "zh": "就算是不斷墜下的無數隕石",
+      "notes": [
+        { "word": "降りそそぐ（降り注ぐ）", "meaning": "Pouring 傾瀉而下" }
+      ]
+    },
+    {
+      "ja": "ときめく心には　届かない！",
+      "romaji": "Tokimeku Kokoro niha Todokanai",
+      "en": "cannot make it into this pounding heart",
+      "zh": "也動搖不到 這心跳不已的心！"
+    },
+    {
+      "ja": "エイリアン ふたりはエイリアン",
+      "romaji": "Eirian Futaru ha Eirian",
+      "en": "Aliens. We two are aliens,",
+      "zh": "外星人 我倆是外星人"
+    },
+    {
+      "ja": "高鳴る気持ちが抑えられない",
+      "romaji": "Takanaru Kimochi ga Osaerarenai",
+      "en": "This throbbing excitement cannot be controlled",
+      "zh": "無法遏止這高昂的心情"
+    },
+    {
+      "ja": "あなたは未確認生命体",
+      "romaji": "Anata ha Mikakunin Seimeitai",
+      "en": "You are an unidentified creature",
+      "zh": "你是未確認的生命體 "
+    },
+    {
+      "ja": "異世界の果てまであなたが　好き",
+      "romaji": "Isekai no Hate made Anata ga Suki",
+      "en": "Until the end of the other world, I will still love you",
+      "zh": "直到異世界的彼岸 都喜歡著你"
+    }
+  ]
+}

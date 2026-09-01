@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "title": "ラッキーセブンスホイッスル",
+    "artist": "ときのそら",
+    "originalKey": "C",
+    "composer": "藤原彩豊",
+    "lyricist": "まつもとななみ",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "album": "Pulse",
+    "capo": "0",
+    "releaseDate": "2024-09-11",
+    "coverUrl": "cover_images/okaerinasai.png"
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "C G Am Em",
+          "t": ""
+        },
+        {
+          "c": "F C G C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "ねぇ()どんな時()も()隣()にいてくれたね"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "ありがとう"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "不安()な夜()も()涙()の朝()も"
+        },
+        {
+          "c": "F       G       C",
+          "t": "乗()り越()えてきた"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "ラッキーセブンスホイッスル"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "鳴()り響()く空()へ()夢()を追()いかけて"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "ねぇ()どんな日()も()笑顔()をくれたね"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "ありがとう"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "迷()う日()も()立()ち止()まる日()も"
+        },
+        {
+          "c": "F       G       C",
+          "t": "進()んでこれた"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "ラッキーセブンスホイッスル"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "鳴()り響()く空()へ()夢()を追()いかけて"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "七()色()の虹()架()かる未来()へ"
+        },
+        {
+          "c": "F       G       C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "ラッキーセブンスホイッスル"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "鳴()り響()く空()へ()夢()を追()いかけて"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "ずっと()ずっと()"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "この歌()を"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "ありがとう",
+      "call": "Sora-chan!"
+    },
+    {
+      "lyrics": "乗り越えてきた",
+      "call": "Hai!"
+    },
+    {
+      "lyrics": "夢を追いかけて",
+      "call": "Fuu! Fuu!"
+    },
+    {
+      "lyrics": "ありがとう",
+      "call": "Sora-chan!"
+    },
+    {
+      "lyrics": "進んでこれた",
+      "call": "Hai!"
+    },
+    {
+      "lyrics": "夢を追いかけて",
+      "call": "Fuu! Fuu!"
+    },
+    {
+      "lyrics": "未来へ",
+      "call": "Sora-chan!"
+    },
+    {
+      "lyrics": "夢を追いかけて",
+      "call": "Fuu! Fuu!"
+    },
+    {
+      "lyrics": "この歌を",
+      "call": "Motto motto!"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "ねぇ どんな時も 隣にいてくれたね",
+      "romaji": "Nee donna toki mo tonari ni ite kureta ne",
+      "en": "Hey, you were always by my side, weren't you?",
+      "zh": "嘿，無論何時你都陪伴在我身旁，"
+    },
+    {
+      "ja": "ありがとう",
+      "romaji": "Arigatou",
+      "en": "Thank you.",
+      "zh": "謝謝你。"
+    },
+    {
+      "ja": "不安な夜も 涙の朝も",
+      "romaji": "Fuan na yoru mo namida no asa mo",
+      "en": "Through anxious nights and tearful mornings,",
+      "zh": "無論是不安的夜晚，還是淚流的清晨，"
+    },
+    {
+      "ja": "乗り越えてきた",
+      "romaji": "Norikoete kita",
+      "en": "We've overcome them all.",
+      "zh": "我們都一同跨越了。"
+    },
+    {
+      "ja": "ラッキーセブンスホイッスル",
+      "romaji": "Rakkī Sebunsu Hoissuru",
+      "en": "The Lucky Seventh Whistle",
+      "zh": "幸運七號哨聲，"
+    },
+    {
+      "ja": "鳴り響く空へ 夢を追いかけて",
+      "romaji": "Narihibiku sora e yume o oikakete",
+      "en": "Echoes to the sky, chasing after dreams.",
+      "zh": "響徹天際，追逐著夢想。"
+    },
+    {
+      "ja": "ねぇ どんな日も 笑顔をくれたね",
+      "romaji": "Nee donna hi mo egao o kureta ne",
+      "en": "Hey, you always gave me a smile, didn't you?",
+      "zh": "嘿，無論哪一天你都給了我笑容，"
+    },
+    {
+      "ja": "ありがとう",
+      "romaji": "Arigatou",
+      "en": "Thank you.",
+      "zh": "謝謝你。"
+    },
+    {
+      "ja": "迷う日も 立ち止まる日も",
+      "romaji": "Mayou hi mo tachidomaru hi mo",
+      "en": "Even on days I hesitated or stopped,",
+      "zh": "無論是迷惘的日子，還是停滯不前的時候，"
+    },
+    {
+      "ja": "進んでこれた",
+      "romaji": "Susunde koreta",
+      "en": "I was able to move forward.",
+      "zh": "我們都得以繼續前進。"
+    },
+    {
+      "ja": "ラッキーセブンスホイッスル",
+      "romaji": "Rakkī Sebunsu Hoissuru",
+      "en": "The Lucky Seventh Whistle",
+      "zh": "幸運七號哨聲，"
+    },
+    {
+      "ja": "鳴り響く空へ 夢を追いかけて",
+      "romaji": "Narihibiku sora e yume o oikakete",
+      "en": "Echoes to the sky, chasing after dreams.",
+      "zh": "響徹天際，追逐著夢想。"
+    },
+    {
+      "ja": "七色の虹 架かる未来へ",
+      "romaji": "Nanairo no niji kakaru mirai e",
+      "en": "Towards a future where a seven-colored rainbow bridges.",
+      "zh": "朝向七彩虹橋高掛的未來。"
+    },
+    {
+      "ja": "ラッキーセブンスホイッスル",
+      "romaji": "Rakkī Sebunsu Hoissuru",
+      "en": "The Lucky Seventh Whistle",
+      "zh": "幸運七號哨聲，"
+    },
+    {
+      "ja": "鳴り響く空へ 夢を追いかけて",
+      "romaji": "Narihibiku sora e yume o oikakete",
+      "en": "Echoes to the sky, chasing after dreams.",
+      "zh": "響徹天際，追逐著夢想。"
+    },
+    {
+      "ja": "ずっと ずっと",
+      "romaji": "Zutto zutto",
+      "en": "Forever and ever,",
+      "zh": "永遠永遠，"
+    },
+    {
+      "ja": "この歌を",
+      "romaji": "Kono uta o",
+      "en": "This song.",
+      "zh": "這首歌。"
+    }
+  ]
+}

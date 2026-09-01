@@ -1,0 +1,307 @@
+{
+  "meta": {
+    "title": "ポラリスソラリス",
+    "artist": "ときのそら",
+    "originalKey": "C",
+    "composer": "多田慎也",
+    "lyricist": "多田慎也",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "album": "Dreaming!",
+    "releaseDate": "2019-03-27"
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": ""
+        },
+        {
+          "c": "F       C       G       C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "遠[とお](い)昔[むかし]に見た夢[ゆめ]の続[つづ]きを"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "追[お](い)かけてたんだ"
+        },
+        {
+          "c": "F       G       C       Am",
+          "t": "どこまでも続[つづ]く星[ほし]の海[うみ]を"
+        },
+        {
+          "c": "Dm      G       C",
+          "t": "彷徨[さまよ](い)ながら"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus 1",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "迷[まよ](い)込[こ](んだ)夜空[よぞら]の片隅[かたすみ]で"
+        },
+        {
+          "c": "Dm      G       C",
+          "t": "君[きみ]と出会[であ](った)"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "ポラリスソラリス 輝[かがや](く)光[ひかり]"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "導[みちび](いて)くれる"
+        },
+        {
+          "c": "F       G       C       Am",
+          "t": "ポラリスソラリス 永遠[えいえん]の願[ねが](い)"
+        },
+        {
+          "c": "Dm      G       C",
+          "t": "届[とど](けたいんだ)"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "寂[さび](しさに)負[ま](けそうになる)日[ひ](も)"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "諦[あきら](めなかった)"
+        },
+        {
+          "c": "F       G       C       Am",
+          "t": "君[きみ]の笑顔[えがお]が僕[ぼく]の道標[みちしるべ]"
+        },
+        {
+          "c": "Dm      G       C",
+          "t": "照[て](らしてくれる)"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus 2",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "どんな時[とき](も)そばにいてくれたね"
+        },
+        {
+          "c": "Dm      G       C",
+          "t": "ありがとう"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "ポラリスソラリス 輝[かがや](く)光[ひかり]"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "導[みちび](いて)くれる"
+        },
+        {
+          "c": "F       G       C       Am",
+          "t": "ポラリスソラリス 永遠[えいえん]の願[ねが](い)"
+        },
+        {
+          "c": "Dm      G       C",
+          "t": "届[とど](けたいんだ)"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "巡[めぐ](り)巡[めぐ](る)季節[きせつ]の中[なか]で"
+        },
+        {
+          "c": "Dm      G       C",
+          "t": "変[か](わらない)想[おも](い)"
+        },
+        {
+          "c": "F       G       Em      Am",
+          "t": "ずっとずっと君[きみ]と歩[ある](きたい)"
+        },
+        {
+          "c": "Dm      G       C",
+          "t": "未来[みらい]へ"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "ポラリスソラリス 輝[かがや](く)光[ひかり]"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "導[みちび](いて)くれる"
+        },
+        {
+          "c": "F       G       C       Am",
+          "t": "ポラリスソラリス 永遠[えいえん]の願[ねが](い)"
+        },
+        {
+          "c": "Dm      G       C",
+          "t": "届[とど](けたいんだ)"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "ポラリスソラリス"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "君[きみ]と僕[ぼく]の物語[ものがたり]"
+        },
+        {
+          "c": "F       G       C       Am",
+          "t": "ずっと続[つづ](く)"
+        },
+        {
+          "c": "Dm      G       C",
+          "t": "ポラリスソラリス"
+        }
+      ]
+    }
+  ],
+  "calls": [],
+  "lyrics": [
+    {
+      "ja": "(Instrumental)",
+      "romaji": "(Instrumental)",
+      "en": "(Instrumental)",
+      "zh": "(純音樂)"
+    },
+    {
+      "ja": "遠い昔に見た夢の続きを",
+      "romaji": "Tooi mukashi ni mita yume no tsudzuki o",
+      "en": "The continuation of a dream I saw long ago",
+      "zh": "遙遠過去所見之夢的延續",
+      "notes": [
+        {
+          "word": "夢",
+          "meaning": "dream"
+        }
+      ]
+    },
+    {
+      "ja": "追いかけてたんだ",
+      "romaji": "Oikaketeta n da",
+      "en": "I was chasing after it",
+      "zh": "我一直在追逐著",
+      "notes": [
+        {
+          "word": "追いかけてた",
+          "meaning": "was chasing"
+        }
+      ]
+    },
+    {
+      "ja": "どこまでも続く星の海を",
+      "romaji": "Dokomademo tsudzuku hoshi no umi o",
+      "en": "The endless sea of stars",
+      "zh": "無盡的星海",
+      "notes": [
+        {
+          "word": "星の海",
+          "meaning": "sea of stars"
+        }
+      ]
+    },
+    {
+      "ja": "彷徨いながら",
+      "romaji": "Samayoinagara",
+      "en": "Wandering through it",
+      "zh": "徬徨其中"
+    },
+    {
+      "ja": "迷い込んだ夜空の片隅で",
+      "romaji": "Mayoikonda yozora no katasumi de",
+      "en": "In a corner of the night sky where I got lost",
+      "zh": "在迷失的夜空一隅",
+      "notes": [
+        {
+          "word": "夜空",
+          "meaning": "night sky"
+        }
+      ]
+    },
+    {
+      "ja": "君と出会った",
+      "romaji": "Kimi to deatta",
+      "en": "I met you",
+      "zh": "與你相遇"
+    },
+    {
+      "ja": "ポラリスソラリス 輝く光",
+      "romaji": "Porarisu Sorarisu kagayaku hikari",
+      "en": "Polaris Solaris, a shining light",
+      "zh": "北極星太陽星，閃耀的光芒",
+      "notes": [
+        {
+          "word": "輝く",
+          "meaning": "shining"
+        }
+      ]
+    },
+    {
+      "ja": "導いてくれる",
+      "romaji": "Michibiite kureru",
+      "en": "Guiding me",
+      "zh": "引導著我"
+    },
+    {
+      "ja": "ポラリスソラリス 永遠の願い",
+      "romaji": "Porarisu Sorarisu eien no negai",
+      "en": "Polaris Solaris, an eternal wish",
+      "zh": "北極星太陽星，永恆的願望",
+      "notes": [
+        {
+          "word": "永遠",
+          "meaning": "eternal"
+        }
+      ]
+    },
+    {
+      "ja": "届けたいんだ",
+      "romaji": "Todoketai n da",
+      "en": "I want to deliver it",
+      "zh": "我會傳達"
+    }
+  ]
+}

@@ -1,0 +1,842 @@
+{
+  "meta": {
+    "title": "Dream☆Story",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "キノシタ",
+    "lyricist": "キノシタ",
+    "album": "Dreaming!",
+    "releaseDate": "2019/01/08",
+    "coverUrl": "cover_images/dreaming",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/rbd-m8r5Ujs?si=7bT5XFzH031bSvAl"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        { "c": "Coming Soon!", "t": "Coming Soon!" }
+      ]
+    },
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "",
+          "t": ""
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "いくよ？",
+      "call": "いくよ？"
+    },
+    {
+      "lyrics": "",
+      "call": "ハイ！ハイ！ハイ！ハイ～！"
+    },
+    {
+      "lyrics": "ふと忘れてしまいたくなる",
+      "call": ""
+    },
+    {
+      "lyrics": "昨日のあの記憶のピース",
+      "call": ""
+    },
+    {
+      "lyrics": "ねぇ無くしたりはできそうもないけど",
+      "call": ""
+    },
+    {
+      "lyrics": "上手く繋げばまた続きへ",
+      "call": "                                      フフフ！"
+    },
+    {
+      "lyrics": "でも今は関係ないんだよ",
+      "call": ""
+    },
+    {
+      "lyrics": "そんなことも忘れちゃえるような",
+      "call": ""
+    },
+    {
+      "lyrics": "不思議な世界にアクセル全開で飛び込もう It’s showtime！",
+      "call": "                                                                                          フフフフフ！"
+    },
+    {
+      "lyrics": "でもでも急ぎっぱなしは禁物です",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "急がばは回ってる？って言うくらいじゃん？",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "だからたまにはゆっくり一休みしたら",
+      "call": ""
+    },
+    {
+      "lyrics": "それじゃあちょい速めのリズムで",
+      "call": ""
+    },
+    {
+      "lyrics": "止まらねえぞ！！",
+      "call": "止まらねえぞ！！"
+    },
+    {
+      "lyrics": "飛んでけFLY！(HIGH！)",
+      "call": "                      (HIGH！)"
+    },
+    {
+      "lyrics": "大きく息を吸ったら",
+      "call": ""
+    },
+    {
+      "lyrics": "ボクらの(WOW！)",
+      "call": "              (WOW！)"
+    },
+    {
+      "lyrics": "ストーリーが今溢れ出すよ",
+      "call": ""
+    },
+    {
+      "lyrics": "もっともっと大きくね",
+      "call": ""
+    },
+    {
+      "lyrics": "最初が肝心なんです！",
+      "call": ""
+    },
+    {
+      "lyrics": "はじめまして、こんにちは！せーの",
+      "call": ""
+    },
+    {
+      "lyrics": "ときのそらだよ！(YEAH！)",
+      "call": "ときのそらだよ！(YEAH！)"
+    },
+    {
+      "lyrics": "もいちどFLY！(HIGH！)",
+      "call": "                      (HIGH！)"
+    },
+    {
+      "lyrics": "そら遠くまで届け",
+      "call": ""
+    },
+    {
+      "lyrics": "ドキドキで(WOW！)",
+      "call": "                 (WOW！)"
+    },
+    {
+      "lyrics": "奇想天外に彩っていくDream☆Story",
+      "call": ""
+    },
+    {
+      "lyrics": "やっぱ1秒たりとも",
+      "call": ""
+    },
+    {
+      "lyrics": "目を離さないで欲しいな",
+      "call": ""
+    },
+    {
+      "lyrics": "瞬きもしてらんない",
+      "call": ""
+    },
+    {
+      "lyrics": "あぁ　ほらね　最高でしょ？イェー！",
+      "call": "                                             イェー！"
+    },
+    {
+      "lyrics": "",
+      "call": "ハイ！ハイ！ハイ！ハイ～！"
+    },
+    {
+      "lyrics": "一歩進めばまた後ろへ",
+      "call": ""
+    },
+    {
+      "lyrics": "見えない力が邪魔している",
+      "call": ""
+    },
+    {
+      "lyrics": "ジャンプしたりできたらいいけれど",
+      "call": ""
+    },
+    {
+      "lyrics": "それも愛嬌、どうぞよろしく",
+      "call": "                                            フフフ！"
+    },
+    {
+      "lyrics": "でも今は関係ないんだよ",
+      "call": ""
+    },
+    {
+      "lyrics": "心響くリズムを辿れば",
+      "call": ""
+    },
+    {
+      "lyrics": "不思議な世界の続きのページで",
+      "call": ""
+    },
+    {
+      "lyrics": "また出会えた Destiny",
+      "call": "                                  フフフフフ！"
+    },
+    {
+      "lyrics": "もしもし遅めのテンポも良いけど",
+      "call": "お～ハイ！お～ハイ"
+    },
+    {
+      "lyrics": "今はそんな場合じゃないわけじゃない？",
+      "call": "お～ハイ！お～ハイ"
+    },
+    {
+      "lyrics": "だけど大丈夫、一息つけたのならさ",
+      "call": ""
+    },
+    {
+      "lyrics": "いちにのさんの合図で",
+      "call": ""
+    },
+    {
+      "lyrics": "(いち　にーの　さん！)",
+      "call": "(いち　にーの　さん！)"
+    },
+    {
+      "lyrics": "飛んでけFLY！(HIGH！)",
+      "call": "                      (HIGH！)"
+    },
+    {
+      "lyrics": "大きな声で叫んだら",
+      "call": ""
+    },
+    {
+      "lyrics": "ボクらの(WOW！)",
+      "call": "              (WOW！)"
+    },
+    {
+      "lyrics": "ストーリーが今紡がれてく",
+      "call": ""
+    },
+    {
+      "lyrics": "もっともっと大きくね",
+      "call": ""
+    },
+    {
+      "lyrics": "ボリュームはMAXで",
+      "call": ""
+    },
+    {
+      "lyrics": "はじめまして、こんにちは！せーの",
+      "call": ""
+    },
+    {
+      "lyrics": "ときのそらだよ！(YEAH！)",
+      "call": "ときのそらだよ！(YEAH！)"
+    },
+    {
+      "lyrics": "もいちどFLY！(HIGH！)",
+      "call": "                      (HIGH！)"
+    },
+    {
+      "lyrics": "そら遠くまで響け",
+      "call": ""
+    },
+    {
+      "lyrics": "はちゃめちゃで(WOW！)",
+      "call": "                         (WOW！)"
+    },
+    {
+      "lyrics": "摩訶不思議に煌めいたんだDream☆Story",
+      "call": ""
+    },
+    {
+      "lyrics": "やっば！1秒たりとも体感してたいの",
+      "call": ""
+    },
+    {
+      "lyrics": "クラクラしちゃうくらい",
+      "call": ""
+    },
+    {
+      "lyrics": "あぁだけど最高じゃない？",
+      "call": ""
+    },
+    {
+      "lyrics": "ねえねえテンション",
+      "call": ""
+    },
+    {
+      "lyrics": "高まってアテンション",
+      "call": ""
+    },
+    {
+      "lyrics": "ワクワク警報は鳴り止まない",
+      "call": "                                             PP"
+    },
+    {
+      "lyrics": "ねえねえテンション",
+      "call": ""
+    },
+    {
+      "lyrics": "高まってアテンション",
+      "call": ""
+    },
+    {
+      "lyrics": "誰も止められないわ！",
+      "call": "                                 ﾊｲﾊｲﾊｲﾊｲ!"
+    },
+    {
+      "lyrics": "飛んでけFLY！(HIGH！)",
+      "call": "                      (HIGH！)"
+    },
+    {
+      "lyrics": "大きく息を吸ったら",
+      "call": ""
+    },
+    {
+      "lyrics": "ボクらの(WOW！)",
+      "call": "              (WOW！)"
+    },
+    {
+      "lyrics": "ストーリーが今溢れ出すよ",
+      "call": ""
+    },
+    {
+      "lyrics": "もっともっと大きくね",
+      "call": ""
+    },
+    {
+      "lyrics": "最初が肝心なんです！",
+      "call": ""
+    },
+    {
+      "lyrics": "これからもさ、よろしくね！せーの",
+      "call": ""
+    },
+    {
+      "lyrics": "ときのそらだよ！(YEAH！)",
+      "call": "ときのそらだよ！(YEAH！)"
+    },
+    {
+      "lyrics": "さいごにFLY！(HIGH！)",
+      "call": "                      (HIGH！)"
+    },
+    {
+      "lyrics": "そら遠くまで届け",
+      "call": ""
+    },
+    {
+      "lyrics": "ドキドキで(WOW！)",
+      "call": "                  (WOW！)"
+    },
+    {
+      "lyrics": "奇想天外に彩ったんだDream☆Story",
+      "call": ""
+    },
+    {
+      "lyrics": "やっぱ1秒たりとも目を離さないで欲しいな",
+      "call": ""
+    },
+    {
+      "lyrics": "瞬きもしてらんない",
+      "call": ""
+    },
+    {
+      "lyrics": "あぁほらね最高でしょ？　イェー！",
+      "call": "                                         イェー！"
+    },
+    {
+      "lyrics": "",
+      "call": "ハイ！ハイ！ハイ！ハイ～！"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+    "ja": "いくよ？",
+    "romaji": "Iku yo?",
+    "en": "Here we go!",
+    "zh": "要出發囉？"
+  },
+  {
+    "ja": "ふと忘れてしまいたくなる",
+    "romaji": "Futo Wasurete Shimaitaku Naru",
+    "en": "Suddenly, I feel like forgetting them",
+    "zh": "突然好想將其完全忘卻"
+  },
+  {
+    "ja": "昨日のあの記憶のピース",
+    "romaji": "Kinou no Ano Kioku no Piisu",
+    "en": "Those memory pieces from yesterday",
+    "zh": "昨日那些記憶的碎片"
+  },
+  {
+    "ja": "ねぇ無くしたりはできそうもないけど",
+    "romaji": "Nee Nakushitari ha Dekisou mo Nai kedo",
+    "en": "Hey, it doesn't look like I can just lose them, but",
+    "zh": "吶 雖然看起來沒辦法弄丟它們"
+  },
+  {
+    "ja": "上手く繋げばまた続きへ",
+    "romaji": "Umaku Tsunageba Mata Tsuzuki he",
+    "en": "If we connect them well, we can move on to the next chapter",
+    "zh": "但只要好好連繫起來 就能邁向續篇"
+  },
+  {
+    "ja": "でも今は関係ないんだよ",
+    "romaji": "Demo Ima ha Kankei Nain da yo",
+    "en": "But that doesn't matter right now",
+    "zh": "不過現在那些都不重要了喔"
+  },
+  {
+    "ja": "そんなことも忘れちゃえるような",
+    "romaji": "Sonna Koto mo Wasurechaeru You na",
+    "en": "Let's dive full speed ahead into a mysterious world",
+    "zh": "讓我們踏足全開衝刺 躍入那個"
+  },
+  {
+    "ja": "不思議な世界にアクセル全開で飛び込もう It’s showtime！",
+    "romaji": "Fushigi na Sekai ni Akuseru Zenkai de Tobikomou It’s showtime!",
+    "en": "Where you can completely forget all about such things—It’s showtime!",
+    "zh": "能讓人忘卻這一切的奇妙世界吧 It's showtime！"
+  },
+  {
+    "ja": "でもでも急ぎっぱなしは禁物です",
+    "romaji": "Demo Demo Isogippanashi ha Kinmotsu desu",
+    "en": "But wait, rushing non-stop is a big no-no!",
+    "zh": "不過不過 一直太著急可是大忌喔"
+  },
+  {
+    "ja": "急がばは回ってる？って言うくらいじゃん？",
+    "romaji": "Isogaba ha Mawatteru? tte Iu Kurai jan?",
+    "en": "Haven't you heard that 'more haste, less speed'?",
+    "zh": "不也有句俗話叫「欲速則不達」嗎？"
+  },
+  {
+    "ja": "だからたまにはゆっくり一休みしたら",
+    "romaji": "Dakara Tamani ha Yukkkuri Hitoyasumi Shitara",
+    "en": "So after taking a nice, slow break once in a while,",
+    "zh": "所以偶爾放慢腳步好好休息一下的話"
+  },
+  {
+    "ja": "それじゃあちょい速めのリズムで",
+    "romaji": "Sorejaa Choi Hayame no Rizumu de",
+    "en": "Well then, let's pick up the tempo with a slightly faster rhythm!",
+    "zh": "那麼就用稍微快一點的節奏"
+  },
+  {
+    "ja": "止まらねえぞ！！",
+    "romaji": "Tomaranee zo!!",
+    "en": "We ain't stopping!!",
+    "zh": "絕對不會停下來的唷！！"
+  },
+  {
+    "ja": "飛んでけFLY！(HIGH！)",
+    "romaji": "Tondeke FLY! (HIGH!)",
+    "en": "Fly away, FLY! (HIGH!)",
+    "zh": "飛躍而去 FLY！(HIGH！)"
+  },
+  {
+    "ja": "大きく息を吸ったら",
+    "romaji": "Ookiku Iki wo Suttara",
+    "en": "After taking a deep breath",
+    "zh": "深吸一口氣之後"
+  },
+  {
+    "ja": "ボクらの(WOW！)",
+    "romaji": "Bokura no (WOW!)",
+    "en": "Our (WOW!)",
+    "zh": "我們大家的(WOW！)"
+  },
+  {
+    "ja": "ストーリーが今溢れ出すよ",
+    "romaji": "Sutoorii ga Ima Afuredasu yo",
+    "en": "Story is overflowing right now",
+    "zh": "故事現在正源源不絕地湧現喔"
+  },
+  {
+    "ja": "もっともっと大きくね",
+    "romaji": "Motto Motto Ookiku ne",
+    "en": "Make it bigger and bigger!",
+    "zh": "要更加更加地浩大呢"
+  },
+  {
+    "ja": "最初が肝心なんです！",
+    "romaji": "Saisho ga Kanjin nan desu!",
+    "en": "First impressions are crucial!",
+    "zh": "良好的開端可是最關鍵的！"
+  },
+  {
+    "ja": "はじめまして、こんにちは！せーの",
+    "romaji": "Hajimemashite, Konnichiha! Seeno",
+    "en": "Nice to meet you, hello! Ready, set—",
+    "zh": "初次見面，你好！預備——"
+  },
+  {
+    "ja": "ときのそらだよ！(YEAH！)",
+    "romaji": "Tokino Sora da yo! (YEAH!)",
+    "en": "I'm Tokino Sora! (YEAH!)",
+    "zh": "我是時乃空喔！(YEAH！)"
+  },
+  {
+    "ja": "もいちどFLY！(HIGH！)",
+    "romaji": "Mo Ichido FLY! (HIGH!)",
+    "en": "Once more, FLY! (HIGH!)",
+    "zh": "再次飛躍 FLY！(HIGH！)"
+  },
+  {
+    "ja": "そら遠くまで届け",
+    "romaji": "Sora Tooku made Todoke",
+    "en": "Reach far into the sky",
+    "zh": "傳達到極其遙遠的天際吧"
+  },
+  {
+    "ja": "ドキドキで(WOW！)",
+    "romaji": "Dokidoki de (WOW!)",
+    "en": "With heart-pounding excitement (WOW!)",
+    "zh": "懷抱著無比的悸動(WOW！)"
+  },
+  {
+    "ja": "奇想天外に彩っていくDream☆Story",
+    "romaji": "Kisoutengai ni Irodotte Iku Dream☆Story",
+    "en": "Coloring this Dream☆Story in fantastical ways",
+    "zh": "以奇想天開的方式去塗彩這份 Dream☆Story"
+  },
+  {
+    "ja": "やっぱ1秒たりとも",
+    "romaji": "Yappa Ichibyou Taritomo",
+    "en": "As expected, I don't want you to take your eyes off me",
+    "zh": "果然連一秒鐘都不希望"
+  },
+  {
+    "ja": "目を離さないで欲しいな",
+    "romaji": "Me wo Hanasanai de Hoshii na",
+    "en": "Even for a single second",
+    "zh": "把視線從我身上移開呢"
+  },
+  {
+    "ja": "瞬きもしてらんない",
+    "romaji": "Mabataki mo Shiterannai",
+    "en": "Can't even afford to blink!",
+    "zh": "根本連眨眼都嫌浪費時間"
+  },
+  {
+    "ja": "あぁ ほらね 最高でしょ？イェー！",
+    "romaji": "Aa Horane Saikou desho? Yee!",
+    "en": "Ah, see? Isn't it the best? Yeah!",
+    "zh": "啊 你看吧 這不是最棒了嗎？Yeah！"
+  },
+  {
+    "ja": "一歩進めばまた後ろへ",
+    "romaji": "Ippo Susumeba Mata Ushiro he",
+    "en": "Take one step forward and pushed back again",
+    "zh": "前進一步卻又退回後方"
+  },
+  {
+    "ja": "見えない力が邪魔している",
+    "romaji": "Mienai Chikara ga Jama Shite Iru",
+    "en": "An invisible force is getting in the way",
+    "zh": "似乎有某種看不見的力量在干擾著"
+  },
+  {
+    "ja": "ジャンプしたりできたらいいけれど",
+    "romaji": "Janpu Shitari Dekitara Ii keredo",
+    "en": "It'd be nice if we could just jump over it,",
+    "zh": "如果能夠直接跳過去就好了呢"
+  },
+  {
+    "ja": "それも愛嬌、どうぞよろしく",
+    "romaji": "Sore mo Aikyou, Douzo Yoroshiku",
+    "en": "But that's part of the charm too, so please bear with me!",
+    "zh": "但這也是種可愛之處，還請多多指教囉"
+  },
+  {
+    "ja": "でも今は関係ないんだよ",
+    "romaji": "Demo Ima ha Kankei Nain da yo",
+    "en": "But that doesn't matter right now",
+    "zh": "不過現在那些都不重要了喔"
+  },
+  {
+    "ja": "心響くリズムを辿れば",
+    "romaji": "Kokoro Hibiku Rizumu wo Taoreba",
+    "en": "If we follow the rhythm echoing in our hearts,",
+    "zh": "只要順著震撼心靈的節奏前行"
+  },
+  {
+    "ja": "不思議な世界の続きのページで",
+    "romaji": "Fushigi na Sekai no Tsuzuki no Peeji de",
+    "en": "On the next page of this mysterious world,",
+    "zh": "就能在這個奇妙世界的續頁中"
+  },
+  {
+    "ja": "また出会えた Destiny",
+    "romaji": "Mata Deaeta Destiny",
+    "en": "We met again, it's destiny!",
+    "zh": "再次奇蹟相遇 Destiny"
+  },
+  {
+    "ja": "もしもし遅めのテンポも良いけど",
+    "romaji": "Moshimoshi Osome no Tenpo mo Ii kedo",
+    "en": "Hello? A slower tempo is nice too, but",
+    "zh": "喂喂？雖然慢一點的節奏也很好"
+  },
+  {
+    "ja": "今はそんな場合じゃないわけじゃない？",
+    "romaji": "Ima ha Sonna Baai Janai Wake Janai?",
+    "en": "Isn't now just not the time for that?",
+    "zh": "但現在不正是不能放慢腳步的時候嗎？"
+  },
+  {
+    "ja": "だけど大丈夫、一息つけたのならさ",
+    "romaji": "Dakedo Daijoubu, Hitoiki Tsuketa no Nara sa",
+    "en": "But it's alright, once you've caught your breath,",
+    "zh": "不過沒關係的 只要喘口氣調整好"
+  },
+  {
+    "ja": "いちにのさんの合図で",
+    "romaji": "Ichi Ni no San no Aizu de",
+    "en": "At the signal of one, two, three!",
+    "zh": "就隨著一二三的口號"
+  },
+  {
+    "ja": "(いち にーの さん！)",
+    "romaji": "(Ichi Niino San!)",
+    "en": "(One, two, three!)",
+    "zh": "(一 二 的 三！)"
+  },
+  {
+    "ja": "飛んでけFLY！(HIGH！)",
+    "romaji": "Tondeke FLY! (HIGH!)",
+    "en": "Fly away, FLY! (HIGH!)",
+    "zh": "飛躍而去 FLY！(HIGH！)"
+  },
+  {
+    "ja": "大きな声で叫んだら",
+    "romaji": "Ookina Koe de Sakandara",
+    "en": "When we shout at the top of our lungs",
+    "zh": "只要用最大的聲音吶喊出聲"
+  },
+  {
+    "ja": "ボクらの(WOW！)",
+    "romaji": "Bokura no (WOW!)",
+    "en": "Our (WOW!)",
+    "zh": "我們大家的(WOW！)"
+  },
+  {
+    "ja": "ストーリーが今紡がれてく",
+    "romaji": "Sutoorii ga Ima Tsumugareteku",
+    "en": "Story is being woven right now",
+    "zh": "故事現在正編織構築著喔"
+  },
+  {
+    "ja": "もっともっと大きくね",
+    "romaji": "Motto Motto Ookiku ne",
+    "en": "Make it bigger and bigger!",
+    "zh": "要更加更加地大聲呢"
+  },
+  {
+    "ja": "ボリュームはMAXで",
+    "romaji": "Boryuumu ha MAX de",
+    "en": "Turn the volume up to MAX!",
+    "zh": "將音量調到 MAX！"
+  },
+  {
+    "ja": "はじめまして、こんにちは！せーの",
+    "romaji": "Hajimemashite, Konnichiha! Seeno",
+    "en": "Nice to meet you, hello! Ready, set—",
+    "zh": "初次見面，你好！預備——"
+  },
+  {
+    "ja": "ときのそらだよ！(YEAH！)",
+    "romaji": "Tokino Sora da yo! (YEAH!)",
+    "en": "I'm Tokino Sora! (YEAH!)",
+    "zh": "我是時乃空喔！(YEAH！)"
+  },
+  {
+    "ja": "もいちどFLY！(HIGH！)",
+    "romaji": "Mo Ichido FLY! (HIGH!)",
+    "en": "Once more, FLY! (HIGH!)",
+    "zh": "再次飛躍 FLY！(HIGH！)"
+  },
+  {
+    "ja": "そら遠くまで響け",
+    "romaji": "Sora Tooku made Hibike",
+    "en": "Resonate far into the sky",
+    "zh": "響徹到極其遙遠的天際吧"
+  },
+  {
+    "ja": "はちゃめちゃで(WOW！)",
+    "romaji": "Hachamecha de (WOW!)",
+    "en": "It's chaotic and (WOW!)",
+    "zh": "歡樂狂亂地(WOW！)"
+  },
+  {
+    "ja": "摩訶不思議に煌めいたんだDream☆Story",
+    "romaji": "Makafushigi ni Kirameitanda Dream☆Story",
+    "en": "Sparkling so mysteriously in this Dream☆Story",
+    "zh": "煥發出極其神奇閃耀光芒的 Dream☆Story"
+  },
+  {
+    "ja": "やっば！1秒たりとも体感してたいの",
+    "romaji": "Yabba! Ichibyou Taritomo Taikan Shitetai no",
+    "en": "Whoa! I want to experience every single second of it",
+    "zh": "糟糕！連每一秒鐘我都好想親身感受"
+  },
+  {
+    "ja": "クラクラしちゃうくらい",
+    "romaji": "Kurakura Shichau Kurai",
+    "en": "To the point of feeling dizzy",
+    "zh": "到了幾乎要暈頭轉向的地步"
+  },
+  {
+    "ja": "あぁだけど最高じゃない？",
+    "romaji": "Aa Dakedo Saikou Janai?",
+    "en": "Ah, but isn't that just the absolute best?",
+    "zh": "啊 但這不是最棒的嗎？"
+  },
+  {
+    "ja": "ねえねえテンション",
+    "romaji": "Nee Nee Tenshon",
+    "en": "Hey hey, excitement is rising,",
+    "zh": "吶吶 情緒逐漸高漲"
+  },
+  {
+    "ja": "高まってアテンション",
+    "romaji": "Takamatte Atenshon",
+    "en": "Pay attention!",
+    "zh": "注意集中 Attention"
+  },
+  {
+    "ja": "ワクワク警報は鳴り止まない",
+    "romaji": "Wakuwaku Keihou ha Nariyamanai",
+    "en": "The thrill alarm won't stop ringing!",
+    "zh": "興奮警報響個不停"
+  },
+  {
+    "ja": "ねえねえテンション",
+    "romaji": "Nee Nee Tenshon",
+    "en": "Hey hey, excitement is rising,",
+    "zh": "吶吶 情緒逐漸高漲"
+  },
+  {
+    "ja": "高まってアテンション",
+    "romaji": "Takamatte Atenshon",
+    "en": "Pay attention!",
+    "zh": "注意集中 Attention"
+  },
+  {
+    "ja": "誰も止められないわ！",
+    "romaji": "Dare mo Tomerarenai wa!",
+    "en": "Nobody can stop us now!",
+    "zh": "誰也無法阻止我們了！"
+  },
+  {
+    "ja": "飛んでけFLY！(HIGH！)",
+    "romaji": "Tondeke FLY! (HIGH!)",
+    "en": "Fly away, FLY! (HIGH!)",
+    "zh": "飛躍而去 FLY！(HIGH！)"
+  },
+  {
+    "ja": "大きく息を吸ったら",
+    "romaji": "Ookiku Iki wo Suttara",
+    "en": "After taking a deep breath",
+    "zh": "深吸一口氣之後"
+  },
+  {
+    "ja": "ボクらの(WOW！)",
+    "romaji": "Bokura no (WOW!)",
+    "en": "Our (WOW!)",
+    "zh": "我們大家的(WOW！)"
+  },
+  {
+    "ja": "ストーリーが今溢れ出すよ",
+    "romaji": "Sutoorii ga Ima Afuredasu yo",
+    "en": "Story is overflowing right now",
+    "zh": "故事現在正源源不絕地湧現喔"
+  },
+  {
+    "ja": "もっともっと大きくね",
+    "romaji": "Motto Motto Ookiku ne",
+    "en": "Make it bigger and bigger!",
+    "zh": "要更加更加地浩大呢"
+  },
+  {
+    "ja": "最初が肝心なんです！",
+    "romaji": "Saisho ga Kanjin nan desu!",
+    "en": "First impressions are crucial!",
+    "zh": "良好的開端可是最關鍵的！"
+  },
+  {
+    "ja": "これからもさ、よろしくね！せーの",
+    "romaji": "Korekara mo Sa, Yoroshiku ne! Seeno",
+    "en": "Please look after me from now on too! Ready, set—",
+    "zh": "今後也請多多指教喔！預備——"
+  },
+  {
+    "ja": "ときのそらだよ！(YEAH！)",
+    "romaji": "Tokino Sora da yo! (YEAH!)",
+    "en": "I'm Tokino Sora! (YEAH!)",
+    "zh": "我是時乃空喔！(YEAH！)"
+  },
+  {
+    "ja": "さいごにFLY！(HIGH！)",
+    "romaji": "Saigo ni FLY! (HIGH!)",
+    "en": "One last time, FLY! (HIGH!)",
+    "zh": "最後一次飛躍 FLY！(HIGH！)"
+  },
+  {
+    "ja": "そら遠くまで届け",
+    "romaji": "Sora Tooku made Todoke",
+    "en": "Reach far into the sky",
+    "zh": "傳達到極其遙遠的天際吧"
+  },
+  {
+    "ja": "ドキドキで(WOW！)",
+    "romaji": "Dokidoki de (WOW!)",
+    "en": "With heart-pounding excitement (WOW!)",
+    "zh": "懷抱著無比的悸動(WOW！)"
+  },
+  {
+    "ja": "奇想天外に彩ったんだDream☆Story",
+    "romaji": "Kisoutengai ni Irodot Tanda Dream☆Story",
+    "en": "Colored in fantastical ways, this Dream☆Story",
+    "zh": "以奇想天開的方式去塗彩這份 Dream☆Story"
+  },
+  {
+    "ja": "やっぱ1秒たりとも目を離さないで欲しいな",
+    "romaji": "Yappa Ichibyou Taritomo Me wo Hanasanai de Hoshii na",
+    "en": "As expected, I really don't want you to take your eyes off me even for a second",
+    "zh": "果然連一秒鐘都不希望把視線從我身上移開呢"
+  },
+  {
+    "ja": "瞬きもしてらんない",
+    "romaji": "Mabataki mo Shiterannai",
+    "en": "Can't even afford to blink!",
+    "zh": "根本連眨眼都嫌浪費時間"
+  },
+  {
+    "ja": "あぁほらね最高でしょ？ イェー！",
+    "romaji": "Aa Horane Saikou desho? Yee!",
+    "en": "Ah, see? Isn't it the best? Yeah!",
+    "zh": "啊 你看吧 這不是最棒了嗎？Yeah！"
+  }
+  ]
+}

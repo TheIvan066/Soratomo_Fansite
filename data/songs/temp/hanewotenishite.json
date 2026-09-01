@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "title": "羽を手にして",
+    "artist": "ときのそら",
+    "originalKey": "C",
+    "composer": "Akki",
+    "lyricist": "Akki",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "album": "Dreaming!",
+    "releaseDate": "2019-03-27"
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "C G Am Em F C G C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "いつからだろう 夢[ゆめ]を語[かた]るのが"
+        },
+        {
+          "c": "F       C       G",
+          "t": "少[すこ]し怖[こわ]くなったのは"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "いつからだろう 俯[うつむ]く癖[くせ]がついて"
+        },
+        {
+          "c": "F       C       G",
+          "t": "空[そら]を見上[みあ]げなくなったのは"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus 1",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "誰[だれ]かの言葉[ことば]に傷[きず]ついて"
+        },
+        {
+          "c": "F       G       C",
+          "t": "立[た]ち止[ど]まってしまった日[ひ]も"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "羽[はね]を手[て]にして 飛[と]び立[た]つんだ"
+        },
+        {
+          "c": "F       C       G",
+          "t": "まだ見[み]ぬ世界[せかい]へ"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "羽[はね]を手[て]にして 飛[と]び立[た]つんだ"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "未来[みらい]を信[しん]じて"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "いつからだろう 笑顔[えがお]の裏[うら]に隠[かく]した"
+        },
+        {
+          "c": "F       C       G",
+          "t": "涙[なみだ]が増[ふ]えていったのは"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "いつからだろう 諦[あきら]めることに慣[な]れて"
+        },
+        {
+          "c": "F       C       G",
+          "t": "強[つよ]がってしまったのは"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus 2",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "誰[だれ]かの優[やさ]しさに触[ふ]れて"
+        },
+        {
+          "c": "F       G       C",
+          "t": "また歩[ある]き出[だ]せた日[ひ]も"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "羽[はね]を手[て]にして 飛[と]び立[た]つんだ"
+        },
+        {
+          "c": "F       C       G",
+          "t": "まだ見[み]ぬ世界[せかい]へ"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "羽[はね]を手[て]にして 飛[と]び立[た]つんだ"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "未来[みらい]を信[しん]じて"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "何度[なんど]でも立[た]ち上[あ]がれるさ"
+        },
+        {
+          "c": "F       G       C",
+          "t": "君[きみ]とならどこまでも行[い]ける"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "羽[はね]を手[て]にして 飛[と]び立[た]つんだ"
+        },
+        {
+          "c": "F       C       G",
+          "t": "まだ見[み]ぬ世界[せかい]へ"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "羽[はね]を手[て]にして 飛[と]び立[た]つんだ"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "未来[みらい]を信[しん]じて"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "C G Am Em F C G C",
+          "t": ""
+        }
+      ]
+    }
+  ],
+  "calls": [],
+  "lyrics": [
+    {
+      "ja": "いつからだろう 夢を語るのが",
+      "romaji": "Itsu kara darou yume wo kataru no ga",
+      "en": "When did it start, that speaking of dreams",
+      "zh": "是從什麼時候開始呢 訴說夢想這件事",
+      "notes": [
+        {
+          "word": "夢",
+          "meaning": "dream"
+        }
+      ]
+    },
+    {
+      "ja": "少し怖くなったのは",
+      "romaji": "Sukoshi kowaku natta no wa",
+      "en": "Became a little frightening?",
+      "zh": "變得有些令人害怕了呢",
+      "notes": [
+        {
+          "word": "怖い",
+          "meaning": "scary"
+        }
+      ]
+    },
+    {
+      "ja": "いつからだろう 俯く癖がついて",
+      "romaji": "Itsu kara darou utsumuku kuse ga tsuite",
+      "en": "When did it start, that I developed a habit of looking down",
+      "zh": "是從什麼時候開始呢 養成了低頭的習慣",
+      "notes": [
+        {
+          "word": "俯く",
+          "meaning": "look down"
+        }
+      ]
+    },
+    {
+      "ja": "空を見上げなくなったのは",
+      "romaji": "Sora wo miagenaku natta no wa",
+      "en": "And stopped looking up at the sky?",
+      "zh": "變得不再仰望天空了呢",
+      "notes": [
+        {
+          "word": "空",
+          "meaning": "sky"
+        }
+      ]
+    },
+    {
+      "ja": "誰かの言葉に傷ついて",
+      "romaji": "Dareka no kotoba ni kizutsuite",
+      "en": "Hurt by someone's words,",
+      "zh": "被某人的話語所傷害",
+      "notes": [
+        {
+          "word": "傷つく",
+          "meaning": "to be hurt"
+        }
+      ]
+    },
+    {
+      "ja": "立ち止まってしまった日も",
+      "romaji": "Tachidomatte shimatta hi mo",
+      "en": "Even on days I stopped in my tracks.",
+      "zh": "甚至在停下腳步的那天也是",
+      "notes": []
+    },
+    {
+      "ja": "羽を手にして 飛び立つんだ",
+      "romaji": "Hane wo te ni shite tobitatsu n da",
+      "en": "With wings in hand, I'll take flight",
+      "zh": "緊握雙翼 展翅高飛吧",
+      "notes": [
+        {
+          "word": "羽",
+          "meaning": "wing"
+        }
+      ]
+    },
+    {
+      "ja": "まだ見ぬ世界へ",
+      "romaji": "Mada minu sekai e",
+      "en": "To a world yet unseen.",
+      "zh": "飛向那未曾見過的世界",
+      "notes": [
+        {
+          "word": "世界",
+          "meaning": "world"
+        }
+      ]
+    },
+    {
+      "ja": "羽を手にして 飛び立つんだ",
+      "romaji": "Hane wo te ni shite tobitatsu n da",
+      "en": "With wings in hand, I'll take flight",
+      "zh": "緊握雙翼 展翅高飛吧",
+      "notes": []
+    },
+    {
+      "ja": "未来を信じて",
+      "romaji": "Mirai wo shinjite",
+      "en": "Believing in the future.",
+      "zh": "堅信著未來",
+      "notes": [
+        {
+          "word": "未来",
+          "meaning": "future"
+        }
+      ]
+    },
+    {
+      "ja": "いつからだろう 笑顔の裏に隠した",
+      "romaji": "Itsu kara darou egao no ura ni kakushita",
+      "en": "When did it start, that hidden behind my smile",
+      "zh": "是從什麼時候開始呢 藏在笑容背後",
+      "notes": [
+        {
+          "word": "笑顔",
+          "meaning": "smile"
+        }
+      ]
+    },
+    {
+      "ja": "涙が増えていったのは",
+      "romaji": "Namida ga fuete itta no wa",
+      "en": "My tears began to increase?",
+      "zh": "淚水變得越來越多了呢",
+      "notes": [
+        {
+          "word": "涙",
+          "meaning": "tear"
+        }
+      ]
+    },
+    {
+      "ja": "いつからだろう 諦めることに慣れて",
+      "romaji": "Itsu kara darou akirameru koto ni narete",
+      "en": "When did it start, that I got used to giving up",
+      "zh": "是從什麼時候開始呢 習慣了放棄",
+      "notes": [
+        {
+          "word": "諦める",
+          "meaning": "give up"
+        }
+      ]
+    },
+    {
+      "ja": "強がってしまったのは",
+      "romaji": "Tsuyogatte shimatta no wa",
+      "en": "And started to act tough?",
+      "zh": "變得逞強了呢",
+      "notes": []
+    },
+    {
+      "ja": "誰かの優しさに触れて",
+      "romaji": "Dareka no yasashisa ni furete",
+      "en": "Touched by someone's kindness,",
+      "zh": "觸碰到某人的溫柔",
+      "notes": [
+        {
+          "word": "優しさ",
+          "meaning": "kindness"
+        }
+      ]
+    },
+    {
+      "ja": "また歩き出せた日も",
+      "romaji": "Mata arukidaseta hi mo",
+      "en": "Even on days I could start walking again.",
+      "zh": "甚至在再次邁出腳步的那天也是",
+      "notes": []
+    },
+    {
+      "ja": "何度でも立ち上がれるさ",
+      "romaji": "Nando demo tachiagareru sa",
+      "en": "I can stand up again, no matter how many times.",
+      "zh": "無論多少次都能再次站起來",
+      "notes": [
+        {
+          "word": "何度",
+          "meaning": "how many times"
+        }
+      ]
+    },
+    {
+      "ja": "君とならどこまでも行ける",
+      "romaji": "Kimi to nara doko made mo ikeru",
+      "en": "With you, I can go anywhere.",
+      "zh": "只要有你 就能走到任何地方",
+      "notes": [
+        {
+          "word": "君",
+          "meaning": "you"
+        }
+      ]
+    },
+    {
+      "ja": "羽を手にして 飛び立つんだ",
+      "romaji": "Hane wo te ni shite tobitatsu n da",
+      "en": "With wings in hand, I'll take flight",
+      "zh": "緊握雙翼 展翅高飛吧",
+      "notes": []
+    },
+    {
+      "ja": "まだ見ぬ世界へ",
+      "romaji": "Mada minu sekai e",
+      "en": "To a world yet unseen.",
+      "zh": "飛向那未曾見過的世界",
+      "notes": []
+    },
+    {
+      "ja": "羽を手にして 飛び立つんだ",
+      "romaji": "Hane wo te ni shite tobitatsu n da",
+      "en": "With wings in hand, I'll take flight",
+      "zh": "緊握雙翼 展翅高飛吧",
+      "notes": []
+    },
+    {
+      "ja": "未来を信じて",
+      "romaji": "Mirai wo shinjite",
+      "en": "Believing in the future.",
+      "zh": "堅信著未來",
+      "notes": []
+    }
+  ]
+}

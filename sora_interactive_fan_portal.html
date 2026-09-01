@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tokino Sora Interactive Fan Portal</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        soraBlue: '#38c3ff',
+                        soraBlueDark: '#009bdc',
+                        soraPink: '#ff76ad',
+                        soraPinkDark: '#d4437e',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0f172a; /* Sophisticated dark neutral fallback */
+            background-image: radial-gradient(circle at 10% 20%, rgba(56, 195, 255, 0.15) 0%, transparent 40%),
+                              radial-gradient(circle at 90% 80%, rgba(255, 118, 173, 0.12) 0%, transparent 40%);
+            background-attachment: fixed;
+        }
+        .glass-panel {
+            background: rgba(15, 23, 42, 0.65);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        .glass-card {
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .glass-card:hover {
+            border-color: rgba(56, 195, 255, 0.4);
+            transform: translateY(-2px);
+        }
+        /* Custom scrollbars for a premium feel */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: rgba(15, 23, 42, 0.5);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: rgba(56, 195, 255, 0.3);
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: rgba(56, 195, 255, 0.5);
+        }
+    </style>
+</head>
+<body class="text-slate-100 min-h-screen flex flex-col pb-12">
+
+    <nav class="sticky top-0 z-50 glass-panel border-b border-white/10 px-4 py-3 mb-6">
+        <div class="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
+            <!-- Brand Logo -->
+            <div class="flex items-center gap-3">
+                <div class="w-10 h-10 rounded-full bg-gradient-to-tr from-soraBlue to-soraPink flex items-center justify-center shadow-lg shadow-soraBlue/20">
+                    <i class="fa-solid fa-star text-white animate-pulse"></i>
+                </div>
+                <div>
+                    <span class="font-bold text-lg tracking-wider bg-gradient-to-r from-soraBlue via-white to-soraPink bg-clip-text text-transparent">
+                        SORA PORTAL
+                    </span>
+                    <span class="block text-[10px] text-soraBlue font-semibold uppercase tracking-widest">Fansite Prototype</span>
+                </div>
+            </div>
+
+            <!-- Page Selection Navigation -->
+            <div class="flex items-center gap-2 bg-black/40 p-1 rounded-xl border border-white/5">
+                <button onclick="switchTab('songs')" id="btn-tab-songs" class="px-4 py-2 rounded-lg text-sm font-semibold transition-all duration-200 bg-gradient-to-r from-soraBlue to-soraBlueDark text-slate-900 shadow-md">
+                    <i class="fa-solid fa-music mr-2"></i><span data-i18n="navSongs">Songs Database</span>
+                </button>
+                <button onclick="switchTab('goods')" id="btn-tab-goods" class="px-4 py-2 rounded-lg text-sm font-semibold transition-all duration-200 text-slate-400 hover:text-white">
+                    <i class="fa-solid fa-bag-shopping mr-2"></i><span data-i18n="navGoods">Goods Directory</span>
+                </button>
+            </div>
+
+            <!-- Language Switcher Dropdown -->
+            <div class="flex items-center gap-2">
+                <label for="lang-select" class="text-xs text-slate-400 font-medium">
+                    <i class="fa-solid fa-globe mr-1"></i>
+                </label>
+                <select id="lang-select" onchange="changeLanguage(this.value)" class="bg-slate-900 border border-white/10 text-slate-200 text-xs rounded-lg px-2.5 py-1.5 focus:outline-none focus:border-soraBlue cursor-pointer">
+                    <option value="en">English (EN)</option>
+                    <option value="zh">繁體中文 (CH)</option>
+                    <option value="ja">日本語 (JP)</option>
+                </select>
+            </div>
+        </div>
+    </nav>
+
+    <!-- MAIN CONTENT CONTAINER -->
+    <main class="max-w-7xl w-full mx-auto px-4 flex-grow">
+        
+        <div id="tab-songs" class="space-y-6">
+            <!-- Header Section -->
+            <div class="glass-panel p-6 rounded-2xl flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
+                <div>
+                    <h1 class="text-2xl font-bold flex items-center gap-2 text-white">
+                        <i class="fa-solid fa-compact-disc text-soraPink animate-spin" style="animation-duration: 8s;"></i>
+                        <span>Alien Alien (エイリアンエイリアン)</span>
+                    </h1>
+                    <p class="text-xs text-slate-400 mt-1" data-i18n="songSub">Interactive multi-purpose performance guide & language study workspace.</p>
+                </div>
+                <div class="flex flex-wrap gap-2">
+                    <span class="px-3 py-1 bg-soraBlue/10 border border-soraBlue/20 text-soraBlue text-xs font-semibold rounded-full uppercase">Cover Performance</span>
+                    <span class="px-3 py-1 bg-soraPink/10 border border-soraPink/20 text-soraPink text-xs font-semibold rounded-full uppercase">Original by Nayutalien</span>
+                </div>
+            </div>
+
+            <!-- Dashboard Grid -->
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+                
+                <!-- COLUMN LEFT: Chords and Call Guide (6 cols) -->
+                <div class="lg:col-span-6 space-y-6">
+                    <!-- Widget 1: Interactive Chord Chart -->
+                    <div class="glass-panel p-6 rounded-2xl">
+                        <div class="flex items-center justify-between border-b border-white/10 pb-4 mb-4">
+                            <h2 class="font-bold flex items-center gap-2 text-white">
+                                <i class="fa-solid fa-guitar text-soraBlue"></i>
+                                <span data-i18n="chordsTitle">Guitar Chords & Transposer</span>
+                            </h2>
+                            <div class="flex items-center gap-2">
+                                <span class="text-xs text-slate-400" data-i18n="keyLabel">Key:</span>
+                                <select id="key-select" onchange="transposeChords(this.value)" class="bg-slate-900 border border-white/10 text-slate-200 text-xs rounded-lg px-2.5 py-1 focus:outline-none focus:border-soraBlue cursor-pointer">
+                                    <option value="0">Original (Am)</option>
+                                    <option value="1">Key +1 (A#m)</option>
+                                    <option value="2">Key +2 (Bm)</option>
+                                    <option value="3">Key +3 (Cm)</option>
+                                    <option value="4">Key +4 (C#m)</option>
+                                    <option value="-1">Key -1 (G#m)</option>
+                                    <option value="-2">Key -2 (Gm)</option>
+                                    <option value="-3">Key -3 (F#m)</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="bg-slate-950/80 p-4 rounded-xl border border-white/5 font-mono text-sm leading-relaxed overflow-x-auto text-slate-300">
+                            <div class="text-[11px] text-slate-500 uppercase tracking-widest mb-3 border-b border-white/5 pb-1">Intro / Verse Progressions</div>
+                            <pre id="chords-display" class="whitespace-pre-wrap">[Intro]
+<span class="text-soraBlue font-bold hover:underline cursor-pointer" onclick="showChordTips('Am')">Am</span>  <span class="text-soraBlue font-bold hover:underline cursor-pointer" onclick="showChordTips('G')">G</span>  <span class="text-soraBlue font-bold hover:underline cursor-pointer" onclick="showChordTips('F')">F</span>  <span class="text-soraBlue font-bold hover:underline cursor-pointer" onclick="showChordTips('E7')">E7</span>  (x2)
+
+[Verse 1]
+<span class="text-soraBlue font-bold hover:underline cursor-pointer" onclick="showChordTips('Am')">Am</span>            <span class="text-soraBlue font-bold hover:underline cursor-pointer" onclick="showChordTips('G')">G</span>
+Yureta Kanji no Seyonara ga
+<span class="text-soraBlue font-bold hover:underline cursor-pointer" onclick="showChordTips('F')">F</span>             <span class="text-soraBlue font-bold hover:underline cursor-pointer" onclick="showChordTips('E7')">E7</span>
+Tsuki no Uragawa ni Shizumu
+<span class="text-soraBlue font-bold hover:underline cursor-pointer" onclick="showChordTips('Am')">Am</span>            <span class="text-soraBlue font-bold hover:underline cursor-pointer" onclick="showChordTips('G')">G</span>
+Yureta Kanji no Seyonara ga
+<span class="text-soraBlue font-bold hover:underline cursor-pointer" onclick="showChordTips('F')">F</span>             <span class="text-soraBlue font-bold hover:underline cursor-pointer" onclick="showChordTips('E7')">E7</span>
+Tsuki no Uragawa ni Shizumu</pre>
+                        </div>
+                        <div id="chord-tip-box" class="mt-4 p-3 bg-soraBlue/5 border border-soraBlue/20 rounded-xl text-xs text-soraBlue hidden">
+                            <i class="fa-solid fa-circle-info mr-1.5"></i> <span id="chord-tip-text"></span>
+                        </div>
+                    </div>
+
+                    <!-- Widget 2: Multicolored Call Chart -->
+                    <div class="glass-panel p-6 rounded-2xl">
+                        <div class="flex items-center justify-between border-b border-white/10 pb-4 mb-4">
+                            <h2 class="font-bold flex items-center gap-2 text-white">
+                                <i class="fa-solid fa-bullhorn text-soraPink"></i>
+                                <span data-i18n="callTitle">Concert Call Chart (コール表)</span>
+                            </h2>
+                            <span class="text-[10px] bg-soraPink/10 text-soraPink border border-soraPink/20 px-2 py-0.5 rounded-md font-bold uppercase tracking-wider">Interactive Live Guide</span>
+                        </div>
+                        
+                        <!-- Call Color Legend -->
+                        <div class="grid grid-cols-3 gap-2 mb-4 text-center">
+                            <div class="p-1.5 bg-soraBlue/10 border border-soraBlue/20 rounded-lg text-[10px]">
+                                <span class="block font-bold text-soraBlue">Sora Lines</span>
+                                <span class="text-slate-400">Regular Text</span>
+                            </div>
+                            <div class="p-1.5 bg-soraPink/10 border border-soraPink/20 rounded-lg text-[10px]">
+                                <span class="block font-bold text-soraPink">Crowd Chants</span>
+                                <span class="text-slate-400">Pink Chants</span>
+                            </div>
+                            <div class="p-1.5 bg-purple-500/10 border border-purple-500/20 rounded-lg text-[10px]">
+                                <span class="block font-bold text-purple-400">Together / Action</span>
+                                <span class="text-slate-400">Clap / Jump</span>
+                            </div>
+                        </div>
+
+                        <!-- Live Call Script Sheet -->
+                        <div class="space-y-4 bg-slate-950/40 p-4 rounded-xl border border-white/5 text-sm">
+                            <div class="border-l-4 border-soraBlue pl-3 py-1">
+                                <span class="block text-xs text-slate-500 font-semibold mb-1">[Chorus A - Start]</span>
+                                <p class="text-slate-200">
+                                    エイリアン わたしエイリアン <br>
+                                    <span class="text-soraPink font-bold tracking-wide animate-pulse hover:underline cursor-pointer" onclick="triggerCallToast('Shout: EI-LI-AN!')">(エイリアン！)</span> あなたの心を惑わせる
+                                </p>
+                            </div>
+
+                            <div class="border-l-4 border-purple-500 pl-3 py-1">
+                                <span class="block text-xs text-slate-500 font-semibold mb-1">[Beat Drop Progression]</span>
+                                <p class="text-slate-200">
+                                    創造現実盲信症 <br>
+                                    感応性本能 <span class="text-purple-400 font-bold hover:underline cursor-pointer" onclick="triggerCallToast('Crowd Claps: 👏👏👏')">(クラップ！ 👏👏)</span>
+                                </p>
+                            </div>
+
+                            <div class="border-l-4 border-soraBlue pl-3 py-1">
+                                <span class="block text-xs text-slate-500 font-semibold mb-1">[Pre-Chorus climax]</span>
+                                <p class="text-slate-200">
+                                    交信を試みる <br>
+                                    <span class="text-soraPink font-bold hover:underline cursor-pointer" onclick="triggerCallToast('Shout: HAI! HAI!')">(ハイ！ ハイ！)</span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- COLUMN RIGHT: Lyrics Translation & Learning Points Workspace (6 cols) -->
+                <div class="lg:col-span-6">
+                    <div class="glass-panel p-6 rounded-2xl h-full flex flex-col">
+                        
+                        <!-- Header & Control Switches -->
+                        <div class="border-b border-white/10 pb-4 mb-4">
+                            <h2 class="font-bold flex items-center gap-2 text-white mb-3">
+                                <i class="fa-solid fa-language text-emerald-400"></i>
+                                <span data-i18n="workspaceTitle">Lyrics & Grammar Study Workspace</span>
+                            </h2>
+                            
+                            <!-- Toggle Buttons Grid -->
+                            <div class="grid grid-cols-2 sm:grid-cols-3 gap-2">
+                                <!-- Target Lang Choice -->
+                                <div class="col-span-2 sm:col-span-1 bg-black/40 p-1 rounded-xl flex border border-white/5">
+                                    <button onclick="setTranslationLang('en')" id="btn-trans-en" class="flex-1 py-1 text-xs rounded-lg font-semibold transition-all bg-soraBlue text-slate-900">EN</button>
+                                    <button onclick="setTranslationLang('zh')" id="btn-trans-zh" class="flex-1 py-1 text-xs rounded-lg font-semibold transition-all text-slate-400 hover:text-white">繁中</button>
+                                </div>
+                                <!-- Romaji Toggle -->
+                                <button onclick="toggleRomaji()" id="btn-toggle-romaji" class="px-3 py-1.5 rounded-xl border border-white/10 text-xs font-semibold bg-white/5 text-emerald-400 hover:bg-white/10">
+                                    <i class="fa-solid fa-font mr-1.5"></i>Romaji: ON
+                                </button>
+                                <!-- Learning Notes Toggle -->
+                                <button onclick="toggleNotes()" id="btn-toggle-notes" class="px-3 py-1.5 rounded-xl border border-white/10 text-xs font-semibold bg-white/5 text-amber-400 hover:bg-white/10">
+                                    <i class="fa-solid fa-book mr-1.5"></i>Notes: ON
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Scrollable Live Lyrics Study Sheet -->
+                        <div class="space-y-4 flex-grow overflow-y-auto pr-1" style="max-height: 520px;">
+                            
+                            <!-- Line 1 -->
+                            <div class="p-3 bg-white/5 rounded-xl border border-white/5 space-y-2">
+                                <div class="flex items-center justify-between">
+                                    <span class="text-xs font-mono text-slate-500">Line 01</span>
+                                    <span class="text-[10px] bg-emerald-500/10 text-emerald-400 px-1.5 py-0.5 rounded border border-emerald-500/20 font-bold">Vocabulary Highlighted</span>
+                                </div>
+                                <div class="text-base text-white font-semibold">エイリアン わたしエイリアン</div>
+                                <div class="text-xs text-slate-400 font-mono romaji-field">eirian watashi eirian</div>
+                                <div class="text-xs text-slate-300 font-medium translation-field" data-en="Alien, I am an alien" data-zh="外星人，我是外星人">Alien, I am an alien</div>
+                                
+                                <div class="notes-field pt-2 border-t border-white/5 text-xs text-amber-400 space-y-1">
+                                    <div><strong>わたし (Watashi):</strong> I / myself (humble, Standard Japanese first-person pronoun).</div>
+                                </div>
+                            </div>
+
+                            <!-- Line 2 -->
+                            <div class="p-3 bg-white/5 rounded-xl border border-white/5 space-y-2">
+                                <div class="flex items-center justify-between">
+                                    <span class="text-xs font-mono text-slate-500">Line 02</span>
+                                    <span class="text-[10px] bg-amber-500/10 text-amber-400 px-1.5 py-0.5 rounded border border-amber-500/20 font-bold">Grammar Concept</span>
+                                </div>
+                                <div class="text-base text-white font-semibold">あなたの心を惑わせる</div>
+                                <div class="text-xs text-slate-400 font-mono romaji-field">anata no kokoro wo madowaseru</div>
+                                <div class="text-xs text-slate-300 font-medium translation-field" data-en="Bewildering your heart" data-zh="迷惑著你的心">Bewildering your heart</div>
+                                
+                                <div class="notes-field pt-2 border-t border-white/5 text-xs text-amber-400 space-y-1">
+                                    <div><strong>あなた (Anata):</strong> You (singular).</div>
+                                    <div><strong>惑わせる (Madowaseru):</strong> To bewilder / to perplex. (Causative form of 惑う - madou).</div>
+                                </div>
+                            </div>
+
+                            <!-- Line 3 -->
+                            <div class="p-3 bg-white/5 rounded-xl border border-white/5 space-y-2">
+                                <div class="flex items-center justify-between">
+                                    <span class="text-xs font-mono text-slate-500">Line 03</span>
+                                    <span class="text-[10px] bg-purple-500/10 text-purple-400 px-1.5 py-0.5 rounded border border-purple-500/20 font-bold">N4 Vocabulary</span>
+                                </div>
+                                <div class="text-base text-white font-semibold">交信を試みる</div>
+                                <div class="text-xs text-slate-400 font-mono romaji-field">koushin wo kokoromiru</div>
+                                <div class="text-xs text-slate-300 font-medium translation-field" data-en="Attempting to communicate" data-zh="嘗試著進行交信">Attempting to communicate</div>
+                                
+                                <div class="notes-field pt-2 border-t border-white/5 text-xs text-amber-400 space-y-1">
+                                    <div><strong>交信 (Koushin):</strong> Contact/telecommunications (often used for space/radio links).</div>
+                                    <div><strong>試みる (Kokoromiru):</strong> To try / to attempt (Formal version of 試す - tamesu).</div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div id="tab-goods" class="hidden space-y-6">
+            <!-- Search Control Center -->
+            <div class="glass-panel p-6 rounded-2xl space-y-4">
+                <div class="flex flex-col md:flex-row items-stretch md:items-center justify-between gap-4">
+                    <div>
+                        <h2 class="text-xl font-bold text-white flex items-center gap-2">
+                            <i class="fa-solid fa-box-open text-soraBlue"></i>
+                            <span data-i18n="goodsTitle">Official Merch Directory</span>
+                        </h2>
+                        <p class="text-xs text-slate-400 mt-0.5" data-i18n="goodsSub">Explore her anniversary, birthday, and apparel records instantly.</p>
+                    </div>
+                    <!-- Live Search Bar -->
+                    <div class="relative max-w-sm w-full">
+                        <span class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none text-slate-500">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                        </span>
+                        <input type="text" id="goods-search" oninput="filterGoods()" placeholder="Search merchandise by title..." class="w-full pl-9 pr-4 py-2 bg-slate-900/80 border border-white/10 rounded-xl text-sm focus:outline-none focus:border-soraBlue text-slate-100 placeholder-slate-500">
+                    </div>
+                </div>
+
+                <!-- Category Filters (Toggles) -->
+                <div class="flex flex-wrap items-center gap-2 border-t border-white/10 pt-4">
+                    <span class="text-xs text-slate-400 font-semibold uppercase tracking-wider mr-2" data-i18n="filterLabel">Quick Filter:</span>
+                    <button onclick="setFilterTag('all')" id="btn-tag-all" class="px-3.5 py-1.5 rounded-full text-xs font-semibold border border-soraBlue bg-soraBlue/20 text-soraBlue transition">All Items</button>
+                    <button onclick="setFilterTag('anniversary')" id="btn-tag-anniversary" class="px-3.5 py-1.5 rounded-full text-xs font-semibold border border-white/10 bg-white/5 text-slate-300 hover:border-white/20 transition">Anniversary</button>
+                    <button onclick="setFilterTag('birthday')" id="btn-tag-birthday" class="px-3.5 py-1.5 rounded-full text-xs font-semibold border border-white/10 bg-white/5 text-slate-300 hover:border-white/20 transition">Birthday</button>
+                    <button onclick="setFilterTag('apparel')" id="btn-tag-apparel" class="px-3.5 py-1.5 rounded-full text-xs font-semibold border border-white/10 bg-white/5 text-slate-300 hover:border-white/20 transition">Apparel</button>
+                    <button onclick="setFilterTag('plushie')" id="btn-tag-plushie" class="px-3.5 py-1.5 rounded-full text-xs font-semibold border border-white/10 bg-white/5 text-slate-300 hover:border-white/20 transition">Plushie</button>
+                </div>
+            </div>
+
+            <!-- Goods Gallery Cards Grid -->
+            <div id="goods-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+                <!-- Card 1 -->
+                <div class="goods-card glass-panel rounded-2xl overflow-hidden flex flex-col h-full" data-tags="birthday, plushie">
+                    <div class="relative bg-gradient-to-br from-indigo-950 to-slate-900 h-48 flex items-center justify-center p-4">
+                        <i class="fa-solid fa-gift text-5xl text-soraPink opacity-40"></i>
+                        <span class="absolute top-2 right-2 bg-soraPink text-white text-[10px] font-bold px-2 py-0.5 rounded">2024 Birthday</span>
+                    </div>
+                    <div class="p-4 flex-grow flex flex-col justify-between">
+                        <div class="space-y-1.5">
+                            <h3 class="font-bold text-slate-100 text-sm leading-snug">Sora-chan Birthday Anniversary Mascot Plushie</h3>
+                            <p class="text-xs text-slate-400">An adorable collectible desktop plushie designed to commemorate her birthday broadcast.</p>
+                        </div>
+                        <div class="flex flex-wrap gap-1 mt-4 pt-3 border-t border-white/5">
+                            <span class="px-2 py-0.5 bg-white/5 text-slate-400 text-[10px] rounded-md font-semibold">#Birthday</span>
+                            <span class="px-2 py-0.5 bg-white/5 text-slate-400 text-[10px] rounded-md font-semibold">#Plushie</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="goods-card glass-panel rounded-2xl overflow-hidden flex flex-col h-full" data-tags="anniversary, apparel">
+                    <div class="relative bg-gradient-to-br from-teal-950 to-slate-900 h-48 flex items-center justify-center p-4">
+                        <i class="fa-solid fa-shirt text-5xl text-soraBlue opacity-40"></i>
+                        <span class="absolute top-2 right-2 bg-soraBlue text-slate-900 text-[10px] font-bold px-2 py-0.5 rounded">5th Anniversary</span>
+                    </div>
+                    <div class="p-4 flex-grow flex flex-col justify-between">
+                        <div class="space-y-1.5">
+                            <h3 class="font-bold text-slate-100 text-sm leading-snug">Sora 5th Anniversary Premium Windbreaker</h3>
+                            <p class="text-xs text-slate-400">Embroidered custom-fit outer athletic windbreaker with reflective sky-blue decals.</p>
+                        </div>
+                        <div class="flex flex-wrap gap-1 mt-4 pt-3 border-t border-white/5">
+                            <span class="px-2 py-0.5 bg-white/5 text-slate-400 text-[10px] rounded-md font-semibold">#Anniversary</span>
+                            <span class="px-2 py-0.5 bg-white/5 text-slate-400 text-[10px] rounded-md font-semibold">#Apparel</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="goods-card glass-panel rounded-2xl overflow-hidden flex flex-col h-full" data-tags="birthday, apparel">
+                    <div class="relative bg-gradient-to-br from-purple-950 to-slate-900 h-48 flex items-center justify-center p-4">
+                        <i class="fa-solid fa-hat-cowboy text-5xl text-purple-400 opacity-40"></i>
+                        <span class="absolute top-2 right-2 bg-purple-500 text-white text-[10px] font-bold px-2 py-0.5 rounded">2023 Birthday</span>
+                    </div>
+                    <div class="p-4 flex-grow flex flex-col justify-between">
+                        <div class="space-y-1.5">
+                            <h3 class="font-bold text-slate-100 text-sm leading-snug">Limited Celebration Casual Canvas Cap</h3>
+                            <p class="text-xs text-slate-400">100% organic heavy-weight cotton classic snapback cap with minimal celestial pattern.</p>
+                        </div>
+                        <div class="flex flex-wrap gap-1 mt-4 pt-3 border-t border-white/5">
+                            <span class="px-2 py-0.5 bg-white/5 text-slate-400 text-[10px] rounded-md font-semibold">#Birthday</span>
+                            <span class="px-2 py-0.5 bg-white/5 text-slate-400 text-[10px] rounded-md font-semibold">#Apparel</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card 4 -->
+                <div class="goods-card glass-panel rounded-2xl overflow-hidden flex flex-col h-full" data-tags="anniversary, plushie">
+                    <div class="relative bg-gradient-to-br from-emerald-950 to-slate-900 h-48 flex items-center justify-center p-4">
+                        <i class="fa-solid fa-paw text-5xl text-emerald-400 opacity-40"></i>
+                        <span class="absolute top-2 right-2 bg-emerald-500 text-slate-950 text-[10px] font-bold px-2 py-0.5 rounded">4th Anniversary</span>
+                    </div>
+                    <div class="p-4 flex-grow flex flex-col justify-between">
+                        <div class="space-y-1.5">
+                            <h3 class="font-bold text-slate-100 text-sm leading-snug">Ankimo Mascot Hand Puppet</h3>
+                            <p class="text-xs text-slate-400">Relive concert memories with this comfortable, soft plush fabric hand puppet of Ankimo.</p>
+                        </div>
+                        <div class="flex flex-wrap gap-1 mt-4 pt-3 border-t border-white/5">
+                            <span class="px-2 py-0.5 bg-white/5 text-slate-400 text-[10px] rounded-md font-semibold">#Anniversary</span>
+                            <span class="px-2 py-0.5 bg-white/5 text-slate-400 text-[10px] rounded-md font-semibold">#Plushie</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Sound Effects/Toast Center -->
+    <div id="toast-container" class="fixed bottom-6 right-6 z-50 space-y-2 pointer-events-none"></div>
+
+    <footer class="mt-12 text-center text-xs text-slate-500 max-w-7xl mx-auto w-full px-4 border-t border-white/5 pt-6">
+        <p>&copy; 2026 Tokino Sora International Fansite Union. All rights reserved. This is a mockup fan project.</p>
+        <p class="mt-1 text-slate-600">This fansite is not affiliated with Cover Corp, Hololive Production, or Tokino Sora.</p>
+    </footer>
+
+    <script>
+        // --- 1. MULTILINGUAL TRANSLATION DATA ---
+        const languagePack = {
+            en: {
+                navSongs: "🎵 Songs Database",
+                navGoods: "🛍️ Goods Directory",
+                songSub: "Interactive multi-purpose performance guide & language study workspace.",
+                chordsTitle: "Guitar Chords & Transposer",
+                keyLabel: "Key Transposition:",
+                callTitle: "Concert Call Chart (コール表)",
+                workspaceTitle: "Lyrics & Grammar Study Workspace",
+                goodsTitle: "Official Merch Directory",
+                goodsSub: "Explore her anniversary, birthday, and apparel records instantly.",
+                filterLabel: "Quick Filter:"
+            },
+            zh: {
+                navSongs: "🎵 歌單資料庫",
+                navGoods: "🛍️ 官方周邊指南",
+                songSub: "互動式現場演出應援指引與日語語法自主學習空間。",
+                chordsTitle: "吉他和弦與一鍵變調",
+                keyLabel: "變調選擇:",
+                callTitle: "現場演唱會應援口號 (コール表)",
+                workspaceTitle: "日語歌詞與文法分析工作坊",
+                goodsTitle: "官方周邊商品總覽",
+                goodsSub: "即刻探索歷屆週年紀念、生日直播以及特別設計服飾商品紀錄。",
+                filterLabel: "快速篩選:"
+            },
+            ja: {
+                navSongs: "🎵 楽曲データベース",
+                navGoods: "🛍️ グッズディレクトリ",
+                songSub: "インタラクティブなライブコールガイドおよび日本語学習用ワークスペース。",
+                chordsTitle: "ギターコード＆キーチェンジャー",
+                keyLabel: "キーの調整:",
+                callTitle: "ライブコール表",
+                workspaceTitle: "歌詞の和訳＆日本語学習ワークスペース",
+                goodsTitle: "公式グッズディレクトリ",
+                goodsSub: "誕生日、周年記念、アパレルグッズを瞬時に検索可能。",
+                filterLabel: "クイックフィルター:"
+            }
+        };
+
+        // Current Language State
+        let currentLang = 'en';
+
+        function changeLanguage(lang) {
+            currentLang = lang;
+            document.querySelectorAll('[data-i18n]').forEach(element => {
+                const key = element.getAttribute('data-i18n');
+                if (languagePack[lang] && languagePack[lang][key]) {
+                    element.textContent = languagePack[lang][key];
+                }
+            });
+            // Update translation cells on workspace based on active translation sub-tabs
+            setTranslationLang(activeTransLang);
+        }
+
+        // --- 2. SWITCH TAB NAVIGATION ---
+        function switchTab(tabId) {
+            const songsTab = document.getElementById('tab-songs');
+            const goodsTab = document.getElementById('tab-goods');
+            const btnSongs = document.getElementById('btn-tab-songs');
+            const btnGoods = document.getElementById('btn-tab-goods');
+
+            if (tabId === 'songs') {
+                songsTab.classList.remove('hidden');
+                goodsTab.classList.add('hidden');
+                btnSongs.className = "px-4 py-2 rounded-lg text-sm font-semibold transition-all duration-200 bg-gradient-to-r from-soraBlue to-soraBlueDark text-slate-900 shadow-md";
+                btnGoods.className = "px-4 py-2 rounded-lg text-sm font-semibold transition-all duration-200 text-slate-400 hover:text-white";
+            } else {
+                songsTab.classList.add('hidden');
+                goodsTab.classList.remove('hidden');
+                btnGoods.className = "px-4 py-2 rounded-lg text-sm font-semibold transition-all duration-200 bg-gradient-to-r from-soraPink to-soraPinkDark text-white shadow-md";
+                btnSongs.className = "px-4 py-2 rounded-lg text-sm font-semibold transition-all duration-200 text-slate-400 hover:text-white";
+            }
+            triggerToast(`Navigated to ${tabId === 'songs' ? 'Songs Database' : 'Merchandise Database'}`);
+        }
+
+        // --- 3. INTERACTIVE CHORD TRANSPOSER ---
+        const originalChordsData = [
+            { lineIdx: 1, text: "Am", spaces: "Am  G  F  E7  (x2)" },
+            { lineIdx: 4, text: "Am            G", matches: ["Am", "G"] },
+            { lineIdx: 6, text: "F             E7", matches: ["F", "E7"] }
+        ];
+
+        // Musical Key Arrays
+        const keyMap = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
+
+        function transposeChordString(chordStr, shift) {
+            return chordStr.replace(/\b[A-G]#?\b/g, (match) => {
+                let idx = keyMap.indexOf(match);
+                if (idx === -1) return match;
+                let newIdx = (idx + shift) % 12;
+                if (newIdx < 0) newIdx += 12;
+                return keyMap[newIdx];
+            });
+        }
+
+        function transposeChords(shiftValue) {
+            const shift = parseInt(shiftValue);
+            const chordsDisplay = document.getElementById('chords-display');
+            
+            // Reconstruct the display chords dynamically
+            let newChordsText = `[Intro]\n`;
+            newChordsText += transposeChordString("Am  G  F  E7", shift) + "  (x2)\n\n[Verse 1]\n";
+            newChordsText += transposeChordString("Am            G", shift) + "\nYureta Kanji no Seyonara ga\n";
+            newChordsText += transposeChordString("F             E7", shift) + "\nTsuki no Uragawa ni Shizumu\n";
+            newChordsText += transposeChordString("Am            G", shift) + "\nYureta Kanji no Seyonara ga\n";
+            newChordsText += transposeChordString("F             E7", shift) + "\nTsuki no Uragawa ni Shizumu";
+
+            // Add interactivity back to transposed output_json
+            const formatted = newChordsText.replace(/\b([A-G]#?m?7?)\b/g, (chord) => {
+                return `<span class="text-soraBlue font-bold hover:underline cursor-pointer" onclick="showChordTips('${chord}')">${chord}</span>`;
+            });
+            chordsDisplay.innerHTML = formatted;
+            triggerToast(`Transposed keys shifted by ${shift > 0 ? '+' : ''}${shift} semitones`);
+        }
+
+        function showChordTips(chord) {
+            const box = document.getElementById('chord-tip-box');
+            const text = document.getElementById('chord-tip-text');
+            box.classList.remove('hidden');
+            text.innerHTML = `<strong>Quick Chord Tip [${chord}]:</strong> Standard voicing suggested. Practice transitions smoothly to nail the rhythmic pacing of "Alien Alien"!`;
+        }
+
+        // --- 4. LYRICS STUDY WORKSPACE TOGGLES ---
+        let showRomaji = true;
+        let showNotes = true;
+        let activeTransLang = 'en';
+
+        function toggleRomaji() {
+            showRomaji = !showRomaji;
+            const btn = document.getElementById('btn-toggle-romaji');
+            const fields = document.querySelectorAll('.romaji-field');
+            
+            if (showRomaji) {
+                fields.forEach(f => f.classList.remove('hidden'));
+                btn.className = "px-3 py-1.5 rounded-xl border border-white/10 text-xs font-semibold bg-white/5 text-emerald-400 hover:bg-white/10";
+                btn.innerHTML = `<i class="fa-solid fa-font mr-1.5"></i>Romaji: ON`;
+            } else {
+                fields.forEach(f => f.classList.add('hidden'));
+                btn.className = "px-3 py-1.5 rounded-xl border border-white/10 text-xs font-semibold bg-white/5 text-slate-500 hover:bg-white/10";
+                btn.innerHTML = `<i class="fa-solid fa-font mr-1.5"></i>Romaji: OFF`;
+            }
+        }
+
+        function toggleNotes() {
+            showNotes = !showNotes;
+            const btn = document.getElementById('btn-toggle-notes');
+            const fields = document.querySelectorAll('.notes-field');
+            
+            if (showNotes) {
+                fields.forEach(f => f.classList.remove('hidden'));
+                btn.className = "px-3 py-1.5 rounded-xl border border-white/10 text-xs font-semibold bg-white/5 text-amber-400 hover:bg-white/10";
+                btn.innerHTML = `<i class="fa-solid fa-book mr-1.5"></i>Notes: ON`;
+            } else {
+                fields.forEach(f => f.classList.add('hidden'));
+                btn.className = "px-3 py-1.5 rounded-xl border border-white/10 text-xs font-semibold bg-white/5 text-slate-500 hover:bg-white/10";
+                btn.innerHTML = `<i class="fa-solid fa-book mr-1.5"></i>Notes: OFF`;
+            }
+        }
+
+        function setTranslationLang(lang) {
+            activeTransLang = lang;
+            const btnEn = document.getElementById('btn-trans-en');
+            const btnZh = document.getElementById('btn-trans-zh');
+            const transFields = document.querySelectorAll('.translation-field');
+
+            if (lang === 'en') {
+                btnEn.className = "flex-1 py-1 text-xs rounded-lg font-semibold transition-all bg-soraBlue text-slate-900";
+                btnZh.className = "flex-1 py-1 text-xs rounded-lg font-semibold transition-all text-slate-400 hover:text-white";
+                transFields.forEach(field => {
+                    field.textContent = field.getAttribute('data-en');
+                });
+            } else {
+                btnZh.className = "flex-1 py-1 text-xs rounded-lg font-semibold transition-all bg-soraBlue text-slate-900";
+                btnEn.className = "flex-1 py-1 text-xs rounded-lg font-semibold transition-all text-slate-400 hover:text-white";
+                transFields.forEach(field => {
+                    field.textContent = field.getAttribute('data-zh');
+                });
+            }
+        }
+
+        // --- 5. SEARCHABLE GOODS FILTERS ---
+        let activeFilterTag = 'all';
+
+        function setFilterTag(tag) {
+            activeFilterTag = tag;
+            const tags = ['all', 'anniversary', 'birthday', 'apparel', 'plushie'];
+            
+            tags.forEach(t => {
+                const btn = document.getElementById(`btn-tag-${t}`);
+                if (t === tag) {
+                    btn.className = "px-3.5 py-1.5 rounded-full text-xs font-semibold border border-soraBlue bg-soraBlue/20 text-soraBlue transition";
+                } else {
+                    btn.className = "px-3.5 py-1.5 rounded-full text-xs font-semibold border border-white/10 bg-white/5 text-slate-300 hover:border-white/20 transition";
+                }
+            });
+            filterGoods();
+        }
+
+        function filterGoods() {
+            const query = document.getElementById('goods-search').value.toLowerCase();
+            const cards = document.querySelectorAll('.goods-card');
+
+            cards.forEach(card => {
+                const title = card.querySelector('h3').textContent.toLowerCase();
+                const desc = card.querySelector('p').textContent.toLowerCase();
+                const tagsAttribute = card.getAttribute('data-tags');
+                
+                const matchesQuery = title.includes(query) || desc.includes(query);
+                const matchesTag = (activeFilterTag === 'all') || (tagsAttribute && tagsAttribute.split(', ').map(t => t.trim()).includes(activeFilterTag));
+
+                if (matchesQuery && matchesTag) {
+                    card.classList.remove('hidden');
+                } else {
+                    card.classList.add('hidden');
+                }
+            });
+        }
+
+        // --- 6. FLOATING HUD TOAST MESSAGES ---
+        function triggerToast(message) {
+            const container = document.getElementById('toast-container');
+            const toast = document.createElement('div');
+            toast.className = "p-3 bg-slate-900/95 border border-soraBlue/30 text-soraBlue rounded-xl text-xs font-semibold shadow-lg shadow-black/40 flex items-center gap-2 transform translate-y-2 opacity-0 transition-all duration-300 pointer-events-auto";
+            toast.innerHTML = `<i class="fa-solid fa-bell"></i> <span>${message}</span>`;
+            
+            container.appendChild(toast);
+            
+            // Animate entry
+            setTimeout(() => {
+                toast.classList.remove('opacity-0', 'translate-y-2');
+            }, 10);
+
+            // Animate removal
+            setTimeout(() => {
+                toast.classList.add('opacity-0', '-translate-y-2');
+                setTimeout(() => toast.remove(), 300);
+            }, 3000);
+        }
+
+        function triggerCallToast(action) {
+            const container = document.getElementById('toast-container');
+            const toast = document.createElement('div');
+            toast.className = "p-3 bg-slate-900/95 border border-soraPink/30 text-soraPink rounded-xl text-xs font-semibold shadow-lg shadow-black/40 flex items-center gap-2 transform translate-y-2 opacity-0 transition-all duration-300 pointer-events-auto";
+            toast.innerHTML = `<i class="fa-solid fa-volume-high"></i> <span>Live Call: <strong>${action}</strong></span>`;
+            
+            container.appendChild(toast);
+            
+            // Animate entry
+            setTimeout(() => {
+                toast.classList.remove('opacity-0', 'translate-y-2');
+            }, 10);
+
+            // Animate removal
+            setTimeout(() => {
+                toast.classList.add('opacity-0', '-translate-y-2');
+                setTimeout(() => toast.remove(), 300);
+            }, 3000);
+        }
+    </script>
+</body>
+</html>

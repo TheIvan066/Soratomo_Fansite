@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "title": "冴えない自分にラブソングを",
+    "artist": "ときのそら",
+    "originalKey": "C",
+    "composer": "石風呂",
+    "lyricist": "石風呂",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "capo": "0"
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "C G Am Em",
+          "t": ""
+        },
+        {
+          "c": "F C G C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "C         G",
+          "t": "冴[さ]えない自分[じぶん]に"
+        },
+        {
+          "c": "Am        Em",
+          "t": "ラブソングを"
+        },
+        {
+          "c": "F         C",
+          "t": "歌[うた]ってあげよう"
+        },
+        {
+          "c": "G         C",
+          "t": "今[いま]すぐここで"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus 1",
+      "lines": [
+        {
+          "c": "F         G",
+          "t": "誰[だれ]かのためじゃなくて"
+        },
+        {
+          "c": "Em        Am",
+          "t": "自分[じぶん]のためだけに"
+        },
+        {
+          "c": "F         G",
+          "t": "響[ひび]かせてみよう"
+        },
+        {
+          "c": "C",
+          "t": "この歌[うた]を"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "C         G",
+          "t": "ありのままの"
+        },
+        {
+          "c": "Am        Em",
+          "t": "君[きみ]が好[す]きだよ"
+        },
+        {
+          "c": "F         C",
+          "t": "不器用[ぶきよう]なとこも"
+        },
+        {
+          "c": "G         C",
+          "t": "全部[ぜんぶ]愛[いと]しい"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "C         G",
+          "t": "鏡[かがみ]に映[うつ]る"
+        },
+        {
+          "c": "Am        Em",
+          "t": "君[きみ]の顔[かお]は"
+        },
+        {
+          "c": "F         C",
+          "t": "少[すこ]しだけ"
+        },
+        {
+          "c": "G         C",
+          "t": "寂[さび]しそうに見[み]えた"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus 2",
+      "lines": [
+        {
+          "c": "F         G",
+          "t": "頑張[がんば]りすぎた日[ひ]も"
+        },
+        {
+          "c": "Em        Am",
+          "t": "泣[な]き疲[つか]れた夜[よる]も"
+        },
+        {
+          "c": "F         G",
+          "t": "そっと寄[よ]り添[そ]う"
+        },
+        {
+          "c": "C",
+          "t": "この歌[うた]を"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "C         G",
+          "t": "ありのままの"
+        },
+        {
+          "c": "Am        Em",
+          "t": "君[きみ]が好[す]きだよ"
+        },
+        {
+          "c": "F         C",
+          "t": "不器用[ぶきよう]なとこも"
+        },
+        {
+          "c": "G         C",
+          "t": "全部[ぜんぶ]愛[いと]しい"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "F         G",
+          "t": "誰[だれ]かと比[くら]べて"
+        },
+        {
+          "c": "Em        Am",
+          "t": "落[お]ち込[こ]む日[ひ]もあるけど"
+        },
+        {
+          "c": "F         G",
+          "t": "君[きみ]は君[きみ]で"
+        },
+        {
+          "c": "C",
+          "t": "素晴[すば]らしいんだ"
+        }
+      ]
+    },
+    {
+      "section": "Guitar Solo",
+      "lines": [
+        {
+          "c": "C G Am Em",
+          "t": ""
+        },
+        {
+          "c": "F C G C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "C         G",
+          "t": "ありのままの"
+        },
+        {
+          "c": "Am        Em",
+          "t": "君[きみ]が好[す]きだよ"
+        },
+        {
+          "c": "F         C",
+          "t": "不器用[ぶきよう]なとこも"
+        },
+        {
+          "c": "G         C",
+          "t": "全部[ぜんぶ]愛[いと]しい"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "C G Am Em",
+          "t": ""
+        },
+        {
+          "c": "F C G C",
+          "t": ""
+        },
+        {
+          "c": "C",
+          "t": ""
+        }
+      ]
+    }
+  ],
+  "calls": [],
+  "lyrics": [
+    {
+      "ja": "冴えない自分にラブソングを",
+      "romaji": "Saenai jibun ni rabu songu wo",
+      "en": "A love song for my uninspired self,",
+      "zh": "為這不起眼的我獻上一首情歌"
+    },
+    {
+      "ja": "歌ってあげよう今すぐここで",
+      "romaji": "Utatte ageyou ima sugu koko de",
+      "en": "I'll sing it right now, right here.",
+      "zh": "現在就為自己唱起，就在這裡。"
+    },
+    {
+      "ja": "誰かのためじゃなくて",
+      "romaji": "Dareka no tame janakute",
+      "en": "Not for anyone else,",
+      "zh": "不是為了誰，"
+    },
+    {
+      "ja": "自分のためだけに",
+      "romaji": "Jibun no tame dake ni",
+      "en": "But solely for myself,",
+      "zh": "只是為了自己，"
+    },
+    {
+      "ja": "響かせてみようこの歌を",
+      "romaji": "Hibikasete miyou kono uta wo",
+      "en": "Let this song resonate.",
+      "zh": "讓這首歌迴盪。"
+    },
+    {
+      "ja": "ありのままの君が好きだよ",
+      "romaji": "Ari no mama no kimi ga suki da yo",
+      "en": "I love you just the way you are,",
+      "zh": "我喜歡你真實的模樣，"
+    },
+    {
+      "ja": "不器用なとこも全部愛しい",
+      "romaji": "Bukiyou na toko mo zenbu itoshii",
+      "en": "Even your clumsiness, everything is precious.",
+      "zh": "連同你笨拙的地方，一切都如此珍貴。"
+    },
+    {
+      "ja": "鏡に映る君の顔は",
+      "romaji": "Kagami ni utsuru kimi no kao wa",
+      "en": "Your face reflected in the mirror",
+      "zh": "映照在鏡中的你的臉龐，"
+    },
+    {
+      "ja": "少しだけ寂しそうに見えた",
+      "romaji": "Sukoshi dake sabishisou ni mieta",
+      "en": "Looked a little lonely.",
+      "zh": "看起來有些寂寞。"
+    },
+    {
+      "ja": "頑張りすぎた日も",
+      "romaji": "Ganbari sugita hi mo",
+      "en": "Even on days you tried too hard,",
+      "zh": "無論是過於努力的日子，"
+    },
+    {
+      "ja": "泣き疲れた夜も",
+      "romaji": "Nakitsukareta yoru mo",
+      "en": "Or nights you cried yourself to sleep,",
+      "zh": "還是哭累的夜晚，"
+    },
+    {
+      "ja": "そっと寄り添うこの歌を",
+      "romaji": "Sotto yorisou kono uta wo",
+      "en": "This song will gently stay by your side.",
+      "zh": "這首歌都會輕輕地陪伴你。"
+    },
+    {
+      "ja": "ありのままの君が好きだよ",
+      "romaji": "Ari no mama no kimi ga suki da yo",
+      "en": "I love you just the way you are,",
+      "zh": "我喜歡你真實的模樣，"
+    },
+    {
+      "ja": "不器用なとこも全部愛しい",
+      "romaji": "Bukiyou na toko mo zenbu itoshii",
+      "en": "Even your clumsiness, everything is precious.",
+      "zh": "連同你笨拙的地方，一切都如此珍貴。"
+    },
+    {
+      "ja": "誰かと比べて落ち込む日もあるけど",
+      "romaji": "Dareka to kurabete ochikomu hi mo aru kedo",
+      "en": "There are days you compare yourself to others and feel down,",
+      "zh": "雖然也有與他人比較而感到沮喪的日子，"
+    },
+    {
+      "ja": "君は君で素晴らしいんだ",
+      "romaji": "Kimi wa kimi de subarashii n da",
+      "en": "But you are wonderful just as you are.",
+      "zh": "但你就是你，如此美好。"
+    },
+    {
+      "ja": "ありのままの君が好きだよ",
+      "romaji": "Ari no mama no kimi ga suki da yo",
+      "en": "I love you just the way you are,",
+      "zh": "我喜歡你真實的模樣，"
+    },
+    {
+      "ja": "不器用なとこも全部愛しい",
+      "romaji": "Bukiyou na toko mo zenbu itoshii",
+      "en": "Even your clumsiness, everything is precious.",
+      "zh": "連同你笨拙的地方，一切都如此珍貴。"
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "title": "Beyond",
+    "artist": "ときのそら",
+    "originalKey": "B",
+    "capo": "",
+    "description": "",
+    "composer": "草野華余子",
+    "lyricist": "草野華余子",
+    "album": "Beyond",
+    "releaseDate": "2023/02/22",
+    "coverUrl": "cover_images/a_beyond",
+    "penlight_color": [
+      "#0000ff"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/PyQLRhwl018?si=Ik9LTYrDA43fJAto"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        { "c": "Coming Soon!", "t": "Coming Soon!" }
+      ]
+    },
+    {
+      "section": "Intro",
+      "lines": [
+        { "c": "G    C    Em7    C    D", "t": "--   --   |  --  --|" }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        { "c": "G                 D", "t": "夕映えに揺蕩[たゆた](う)  少し伸びた前髪と" },
+        { "c": "C         Cm    D", "t": "かげぼうし  巡る  日々" },
+        { "c": "G              D/F#", "t": "楽しかった分だけ  今日が終わってしまうことが" },
+        { "c": "Em7            Cm    D", "t": "どうしても寂(し)く  なるけど" },
+        { "c": "Em7    G/D      C      G/B", "t": "忘(れ)ないで  同じ(そ)らを" },
+        { "c": "F         Dsus4  D", "t": "見上げてい(る)こ  と" }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        { "c": "G                D", "t": "どんな君だって  愛しく思うから" },
+        { "c": "Em7           Cm        D", "t": "大丈夫、大丈(夫)だって歌うから" },
+        { "c": "G                D", "t": "変わりゆく中で  変わらない気持ち" },
+        { "c": "Em7                 Cm        D", "t": "(で)ずっと大丈(夫)だって歌うから" },
+        { "c": "Em    EmM7  Em7    C#dim", "t": "時(間)  (も)距離  (も)越  (え)て" },
+        { "c": "Am7     Cm  D", "t": "心は側(に)  (あ)るから" }
+      ]
+    },
+    {
+      "section": "Interlude",
+      "lines": [
+        { "c": "G    C    Em7    C    D", "t": "--   --   |  --  --|" }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        { "c": "G                 D", "t": "通り雨に濡れて  凍えた爪先じゃ" },
+        { "c": "       C        Cm    D", "t": "上手く(歩)けずに  惑う日(々)" },
+        { "c": "G              D/F#", "t": "悲しかった分だけ  明日が少しでも" },
+        { "c": "        Em7            Cm    D", "t": "輝く(よ)うにいつでも  願ってい(る)から" },
+        { "c": "Em7   G/D          C        G/B", "t": "一(緒)に(掛)け替(え)ない  (と)きを" },
+        { "c": "F         Dsus4  D", "t": "重(ね)てゆ(こ)うよ  どこまでも" }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        { "c": "G               D", "t": "頑張れない日も  涙が出ない夜" },
+        { "c": "Em7           Cm        D", "t": "(も)大丈夫、大丈(夫)だって歌うから" },
+        { "c": "G               D", "t": "新しい一歩を  君が踏み出す朝" },
+        { "c": "Em7               Cm        D","t": "(も)ちゃんと大丈(夫)だって歌うから" },
+        { "c": "Em7     D        C     G    D/F#", "t": "そうちっ(ぽ)けな僕ら  心(揺)れ  (な)がらも" },
+        { "c": "Em7   Bm7     Am7  Bm7   Cm    D", "t": "大  (切)を重ね  (て)  未  (来)を  描く" }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        { "c": "G                D", "t": "どんな僕だって  愛してくれたこと" },
+        { "c": "Em7      D             Cm    D", "t": "いつだっ(て)いつだっ(て)忘れ  (な)いから" },
+        { "c": "Em7               D", "t": "変わりゆく中で  変わらない気持ちで" },
+        { "c": "Am7   Bm7     Cm    D", "t": "僕(の)精一  (杯)で  返すから" }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        { "c": "G                D", "t": "どんな君だって  愛しく思うから" },
+        { "c": "Em7           Cm        D", "t": "大丈夫、大丈(夫)だって歌うから" },
+        { "c": "G                   D", "t": "辿り着いた今日の日に  君という光に逢え" },
+        { "c": "Em7              Cm        D", "t": "(た)だから、大丈(夫)だって歌うから" },
+        { "c": "Em    EmM7  Em7    C#dim", "t": "時(間)  (も)距離  (も)越  (え)て" },
+        { "c": "Am7     Cm  D", "t": "心は側(に)  (あ)るから" }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        { "c": "G    C    Em7    C    Cm    G", "t": "--   --   |  --  --|  --   --|" }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "夕映えに揺蕩う　",
+      "call": ""
+    },
+    {
+      "lyrics": "少し伸びた前髪とかげぼうし　",
+      "call": ""
+    },
+    {
+      "lyrics": "巡る日々",
+      "call": ""
+    },
+    {
+      "lyrics": "楽しかった分だけ　",
+      "call": ""
+    },
+    {
+      "lyrics": "今日が終わってしまうことが",
+      "call": ""
+    },
+    {
+      "lyrics": "どうしても寂しくなるけど",
+      "call": ""
+    },
+    {
+      "lyrics": "忘れないで　",
+      "call": ""
+    },
+    {
+      "lyrics": "同じそらを見上げていること",
+      "call": ""
+    },
+    {
+      "lyrics": "どんな君だって　愛しく思うから",
+      "call": ""
+    },
+    {
+      "lyrics": "大丈夫、大丈夫だって歌うから",
+      "call": ""
+    },
+    {
+      "lyrics": "変わりゆく中で　変わらない気持ちで",
+      "call": ""
+    },
+    {
+      "lyrics": "ずっと　大丈夫だって歌うから",
+      "call": ""
+    },
+    {
+      "lyrics": "時間も距離も越えて　",
+      "call": ""
+    },
+    {
+      "lyrics": "心は側にあるから",
+      "call": ""
+    },
+    {
+      "lyrics": "通り雨に濡れて　",
+      "call": ""
+    },
+    {
+      "lyrics": "凍えた爪先じゃ上手く歩けずに　",
+      "call": ""
+    },
+    {
+      "lyrics": "惑う日々",
+      "call": ""
+    },
+    {
+      "lyrics": "悲しかった分だけ　",
+      "call": ""
+    },
+    {
+      "lyrics": "明日が少しでも輝くように",
+      "call": ""
+    },
+    {
+      "lyrics": "いつでも願っているから",
+      "call": ""
+    },
+    {
+      "lyrics": "一緒に　",
+      "call": ""
+    },
+    {
+      "lyrics": "掛け替えないときを重ねてゆこうよ　",
+      "call": ""
+    },
+    {
+      "lyrics": "どこまでも",
+      "call": ""
+    },
+    {
+      "lyrics": "頑張れない日も　涙が出ない夜も",
+      "call": ""
+    },
+    {
+      "lyrics": "大丈夫、大丈夫だって歌うから",
+      "call": ""
+    },
+    {
+      "lyrics": "新しい一歩を　君が踏み出す朝も",
+      "call": ""
+    },
+    {
+      "lyrics": "ちゃんと　大丈夫だって歌うから",
+      "call": ""
+    },
+    {
+      "lyrics": "そう　ちっぽけな僕ら　",
+      "call": ""
+    },
+    {
+      "lyrics": "心　揺れながらも",
+      "call": ""
+    },
+    {
+      "lyrics": "大切を重ねて　未来を描く",
+      "call": ""
+    },
+    {
+      "lyrics": "どんな僕だって　愛してくれたこと",
+      "call": ""
+    },
+    {
+      "lyrics": "いつだって　いつだって忘れないから",
+      "call": ""
+    },
+    {
+      "lyrics": "変わりゆく中で　変わらない気持ちで",
+      "call": ""
+    },
+    {
+      "lyrics": "僕の精一杯で返すから",
+      "call": ""
+    },
+    {
+      "lyrics": "どんな君だって　愛しく思うから",
+      "call": ""
+    },
+    {
+      "lyrics": "大丈夫、大丈夫だって歌うから",
+      "call": ""
+    },
+    {
+      "lyrics": "辿り着いた今日の日に",
+      "call": ""
+    },
+    {
+      "lyrics": "君という光に逢えた",
+      "call": ""
+    },
+    {
+      "lyrics": "だから、大丈夫だって歌うから",
+      "call": ""
+    },
+    {
+      "lyrics": "時間も距離も越えて　",
+      "call": ""
+    },
+    {
+      "lyrics": "心は側にあるから",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "夕映えに揺蕩う少し伸びた前髪とかげぼうし巡る日々",
+      "romaji": "Yūbae ni tayutau sukoshi nobita maegami to kagebōshi meguru hibi",
+      "en": "Swaying in the sunset light, slightly overgrown bangs and shadows in the passing days",
+      "zh": "晚霞中搖曳稍微變長的前髮與影子匆匆流轉的日子"
+    },
+    {
+      "ja": "楽しかった分だけ今日が終わってしまうことが",
+      "romaji": "Tanoshikatta bun dake kyō ga owatte shimau koto ga",
+      "en": "Just as much as it was fun, the fact that today is coming to an end",
+      "zh": "惟獨愉快的時光在今天就會迎來結束"
+    },
+    {
+      "ja": "どうしても寂しくなるけど",
+      "romaji": "Doushitemo sabishiku naru kedo",
+      "en": "Makes me feel lonely no matter what, but",
+      "zh": "雖然無論如何都會感到寂寞"
+    },
+    {
+      "ja": "忘れないで同じそらを見上げていること",
+      "romaji": "Wasurenaide onaji sora wo miagete iru koto",
+      "en": "Please don't forget that we are looking up at the exact same sky",
+      "zh": "但請別忘記我們正仰望着同一片的天空"
+    },
+    {
+      "ja": "どんな君だって愛しく思うから",
+      "romaji": "Donna kimi datte itoshiku omou kara",
+      "en": "Because no matter who you are, I cherish you so dearly",
+      "zh": "不論是怎樣的你我亦會深深愛着"
+    },
+    {
+      "ja": "大丈夫、大丈夫だって歌うから",
+      "romaji": "Daijoubu, daijoubu datte utau kara",
+      "en": "I will sing 'It's alright, it's going to be alright'",
+      "zh": "為你唱著「沒關係，沒關係的」"
+    },
+    {
+      "ja": "変わりゆく中で変わらない気持ちで",
+      "romaji": "Kawariyuku naka de kawaranai kimochi de",
+      "en": "Amidst all changes, with feelings that never change",
+      "zh": "在改變的過程中懷著始終不渝的心情"
+    },
+    {
+      "ja": "ずっと大丈夫だって歌うから",
+      "romaji": "Zutto daijoubu datte utau kara",
+      "en": "I will keep singing 'Everything is going to be fine'",
+      "zh": "一直對你唱著「不要緊的」"
+    },
+    {
+      "ja": "時間も距離も越えて心は側にあるから",
+      "romaji": "Jikan mo kyori mo koete kokoro wa soba ni aru kara",
+      "en": "Transcending time and distance, my heart will always be by your side",
+      "zh": "超越過時間與距離我心時刻與你相隨"
+    },
+    {
+      "ja": "通り雨に濡れて凍えた爪先じゃ上手く歩けずに惑う日々",
+      "romaji": "Tooriame ni nurete kogoeta tsumasaki ja umaku arukezu ni madou hibi",
+      "en": "Drenched by a passing shower, wandering days unable to walk well with frozen toes",
+      "zh": "被驟雨淋濕因冰冷的腳尖而無法順利邁步迷惘躊躇的日子"
+    },
+    {
+      "ja": "悲しかった分だけ明日が少しでも輝くように",
+      "romaji": "Kanashikatta bun dake ashita ga sukoshi demo kagayaku you ni",
+      "en": "Hoping tomorrow shines a little brighter for all the sadness experienced",
+      "zh": "惟獨悲傷的時光亦深盼能讓明天更為璀璨"
+    },
+    {
+      "ja": "いつでも願っているから",
+      "romaji": "Itsudemo nagatte iru kara",
+      "en": "Because I am always wishing for it",
+      "zh": "我會一直如此祈求"
+    },
+    {
+      "ja": "一緒に掛け替えないときを重ねてゆこうよどこまでも",
+      "romaji": "Issho ni kakegae no nai toki wo kasanete yukou yo doko mademo",
+      "en": "Let's weave irreplaceable moments together wherever we go",
+      "zh": "讓我們共度無可替代的時間一起前進吧不論海角或天涯",
+      "notes": [
+        { "word": "掛け替えない（かけがえのない）", "meaning": "Irreplaceable, precious 無可替代的" }
+      ]
+    },
+    {
+      "ja": "頑張れない日も涙が出ない夜も",
+      "romaji": "Ganbarenai hi mo namida ga denai yoru mo",
+      "en": "Even on days you can't push through, and nights when tears won't fall",
+      "zh": "意志消沉的每日欲哭無淚的每夜"
+    },
+    {
+      "ja": "大丈夫、大丈夫だって歌うから",
+      "romaji": "Daijoubu, daijoubu datte utau kara",
+      "en": "I will sing 'It's alright, it's going to be alright'",
+      "zh": "我亦會為你唱著「沒關係，沒關係的」"
+    },
+    {
+      "ja": "新しい一歩を君が踏み出す朝も",
+      "romaji": "Atarashii ippo wo kimi ga fumidasu asa mo",
+      "en": "Even on mornings when you take a brand new step forward",
+      "zh": "哪怕是你邁出新的一步的清晨"
+    },
+    {
+      "ja": "ちゃんと大丈夫だって歌うから",
+      "romaji": "Chanto daijoubu datte utau kara",
+      "en": "I will properly sing 'It's definitely going to be fine'",
+      "zh": "亦會好好對你唱著「不要緊的」"
+    },
+    {
+      "ja": "そうちっぽけな僕ら心揺れながらも",
+      "romaji": "Sou chippoke na bokura kokoro yurenagara mo",
+      "en": "Yes, even though our small selves waver inside",
+      "zh": "對啊即使是微不足道的我們內心起伏不定"
+    },
+    {
+      "ja": "大切を重ねて未来を描く",
+      "romaji": "Taisetsu wo kasanete mirai wo egaku",
+      "en": "We gather precious memories and paint our future",
+      "zh": "亦要積累重要的事物描繪出未來"
+    },
+    {
+      "ja": "どんな僕だって愛してくれたこと",
+      "romaji": "Donna boku datte aishite kureta koto",
+      "en": "That you loved me no matter who or how I was",
+      "zh": "不論是怎樣的我你亦願意深深愛著"
+    },
+    {
+      "ja": "いつだっていつだって忘れないから",
+      "romaji": "Itsudatte itsudatte wasurenai kara",
+      "en": "I will never, ever forget it",
+      "zh": "永永遠遠永永遠遠我都絕不忘懷"
+    },
+    {
+      "ja": "変わりゆく中で変わらない気持ちで",
+      "romaji": "Kawariyuku naka de kawaranai kimochi de",
+      "en": "Amidst all changes, with feelings that never change",
+      "zh": "在改變的過程中懷著始終不渝的心情"
+    },
+    {
+      "ja": "僕の精一杯で返すから",
+      "romaji": "Boku no seippai de kaesu kara",
+      "en": "I will return it to you with everything I've got",
+      "zh": "我會竭盡全力去回報你"
+    },
+    {
+      "ja": "どんな君だって愛しく思うから",
+      "romaji": "Donna kimi datte itoshiku omou kara",
+      "en": "Because no matter who you are, I cherish you so dearly",
+      "zh": "不論是怎樣的你我亦會深深愛著"
+    },
+    {
+      "ja": "大丈夫、大丈夫だって歌うから",
+      "romaji": "Daijoubu, daijoubu datte utau kara",
+      "en": "I will sing 'It's alright, it's going to be alright'",
+      "zh": "為你唱著「沒關係，沒關係的」"
+    },
+    {
+      "ja": "辿り着いた今日の日に君という光に逢えた",
+      "romaji": "Tadoritsuita kyou no hi ni kimi to iu hikari ni aeta",
+      "en": "On this day we finally reached, I met the light that is you",
+      "zh": "最終所抵達的今天我遇見了名為你的光"
+    },
+    {
+      "ja": "だから、大丈夫だって歌うから",
+      "romaji": "Dakara, daijoubu datte utau kara",
+      "en": "So, I will sing 'Everything is going to be okay'",
+      "zh": "所以，我會向你唱著「不要緊的」"
+    },
+    {
+      "ja": "時間も距離も越えて心は側にあるから",
+      "romaji": "Jikan mo kyori mo koete kokoro wa soba ni aru kara",
+      "en": "Transcending time and distance, my heart will always be by your side",
+      "zh": "超越過時間與距離我心時刻與你相隨"
+    }
+  ]
+}
