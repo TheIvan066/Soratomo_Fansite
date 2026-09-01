@@ -1,0 +1,1 @@
+<div id="song-app-root" data-source="/data/songs/watashito_anatato_minasamato.json"></div>

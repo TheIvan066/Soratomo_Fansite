@@ -1,0 +1,1 @@
+<div id="song-app-root" data-source="/data/songs/soratomo_doubutsu_youchien.json"></div>

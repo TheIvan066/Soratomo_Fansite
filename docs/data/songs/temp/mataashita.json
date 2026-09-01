@@ -1,0 +1,555 @@
+{
+  "meta": {
+    "title": "またあした",
+    "artist": "ときのそら",
+    "originalKey": "C",
+    "composer": "路地裏ロジック",
+    "lyricist": "路地裏ロジック",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "capo": "0"
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "C G Am Em F C G C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Aメロ",
+      "lines": [
+        {
+          "c": "C         G",
+          "t": "ゆれる()街灯 篠突[し(の)つ](く)雨"
+        },
+        {
+          "c": "Am        Em",
+          "t": "傘もささずに 立ち尽くす"
+        },
+        {
+          "c": "F         C",
+          "t": "君の横顔 濡れた髪"
+        },
+        {
+          "c": "G         C",
+          "t": "僕の心も 濡らしていく"
+        }
+      ]
+    },
+    {
+      "section": "Bメロ",
+      "lines": [
+        {
+          "c": "F         C",
+          "t": "言葉にできない 想いが"
+        },
+        {
+          "c": "G         C",
+          "t": "胸の奥で 渦巻いて"
+        },
+        {
+          "c": "F         C",
+          "t": "ただ見つめることしか"
+        },
+        {
+          "c": "G",
+          "t": "できないまま"
+        }
+      ]
+    },
+    {
+      "section": "サビ",
+      "lines": [
+        {
+          "c": "C         G",
+          "t": "またあしたって 言えるかな"
+        },
+        {
+          "c": "Am        Em",
+          "t": "君の笑顔に 会えるかな"
+        },
+        {
+          "c": "F         C",
+          "t": "この気持ち 伝えたい"
+        },
+        {
+          "c": "G         C",
+          "t": "でも今は まだ言えない"
+        }
+      ]
+    },
+    {
+      "section": "間奏",
+      "lines": [
+        {
+          "c": "C G Am Em F C G C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Aメロ",
+      "lines": [
+        {
+          "c": "C         G",
+          "t": "遠い記憶の 片隅で"
+        },
+        {
+          "c": "Am        Em",
+          "t": "君と出会った あの日を"
+        },
+        {
+          "c": "F         C",
+          "t": "思い出すたび 溢れる"
+        },
+        {
+          "c": "G         C",
+          "t": "切ないほどの 愛しさ"
+        }
+      ]
+    },
+    {
+      "section": "Bメロ",
+      "lines": [
+        {
+          "c": "F         C",
+          "t": "言葉にできない 想いが"
+        },
+        {
+          "c": "G         C",
+          "t": "胸の奥で 渦巻いて"
+        },
+        {
+          "c": "F         C",
+          "t": "ただ見つめることしか"
+        },
+        {
+          "c": "G",
+          "t": "できないまま"
+        }
+      ]
+    },
+    {
+      "section": "サビ",
+      "lines": [
+        {
+          "c": "C         G",
+          "t": "またあしたって 言えるかな"
+        },
+        {
+          "c": "Am        Em",
+          "t": "君の笑顔に 会えるかな"
+        },
+        {
+          "c": "F         C",
+          "t": "この気持ち 伝えたい"
+        },
+        {
+          "c": "G         C",
+          "t": "でも今は まだ言えない"
+        }
+      ]
+    },
+    {
+      "section": "Cメロ",
+      "lines": [
+        {
+          "c": "F         C",
+          "t": "いつかきっと 伝えたい"
+        },
+        {
+          "c": "G         C",
+          "t": "この想いを 君だけに"
+        },
+        {
+          "c": "F         C",
+          "t": "勇気を出して 言葉に"
+        },
+        {
+          "c": "G",
+          "t": "変えるから"
+        }
+      ]
+    },
+    {
+      "section": "サビ",
+      "lines": [
+        {
+          "c": "C         G",
+          "t": "またあしたって 言えるかな"
+        },
+        {
+          "c": "Am        Em",
+          "t": "君の笑顔に 会えるかな"
+        },
+        {
+          "c": "F         C",
+          "t": "この気持ち 伝えたい"
+        },
+        {
+          "c": "G         C",
+          "t": "でも今は まだ言えない"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "C G Am Em F C G C",
+          "t": ""
+        }
+      ]
+    }
+  ],
+  "calls": [],
+  "lyrics": [
+    {
+      "ja": "ゆれる街灯 篠突く雨",
+      "romaji": "Yureru gaitou shinotsuku ame",
+      "en": "The swaying streetlights, the pouring rain",
+      "zh": "搖曳的路燈，傾盆大雨",
+      "notes": [
+        {
+          "word": "街灯",
+          "meaning": "streetlight"
+        }
+      ]
+    },
+    {
+      "ja": "傘もささずに 立ち尽くす",
+      "romaji": "Kasa mo sasazu ni tachitsukusu",
+      "en": "Standing still without an umbrella",
+      "zh": "不撐傘地佇立著",
+      "notes": [
+        {
+          "word": "傘",
+          "meaning": "umbrella"
+        }
+      ]
+    },
+    {
+      "ja": "君の横顔 濡れた髪",
+      "romaji": "Kimi no yokogao nureta kami",
+      "en": "Your profile, your wet hair",
+      "zh": "你的側臉，濕潤的髮絲",
+      "notes": [
+        {
+          "word": "横顔",
+          "meaning": "profile"
+        }
+      ]
+    },
+    {
+      "ja": "僕の心も 濡らしていく",
+      "romaji": "Boku no kokoro mo nurashite iku",
+      "en": "My heart, too, becomes drenched",
+      "zh": "我的心也隨之濕潤"
+    },
+    {
+      "ja": "言葉にできない 想いが",
+      "romaji": "Kotoba ni dekinai omoi ga",
+      "en": "Feelings I can't put into words",
+      "zh": "無法言喻的思念",
+      "notes": [
+        {
+          "word": "想い",
+          "meaning": "feelings"
+        }
+      ]
+    },
+    {
+      "ja": "胸の奥で 渦巻いて",
+      "romaji": "Mune no oku de uzumaite",
+      "en": "Swirling deep within my chest",
+      "zh": "在心底深處盤旋",
+      "notes": [
+        {
+          "word": "渦巻いて",
+          "meaning": "swirling"
+        }
+      ]
+    },
+    {
+      "ja": "ただ見つめることしか",
+      "romaji": "Tada mitsumeru koto shika",
+      "en": "All I can do is just gaze",
+      "zh": "只能默默凝視",
+      "notes": [
+        {
+          "word": "見つめる",
+          "meaning": "to gaze"
+        }
+      ]
+    },
+    {
+      "ja": "できないまま",
+      "romaji": "Dekinai mama",
+      "en": "Without being able to do anything else",
+      "zh": "無能為力"
+    },
+    {
+      "ja": "またあしたって 言えるかな",
+      "romaji": "Mata ashita tte ieru kana",
+      "en": "Will I be able to say \"See you tomorrow\"?",
+      "zh": "我能說出「明天見」嗎？",
+      "notes": [
+        {
+          "word": "またあした",
+          "meaning": "see you tomorrow"
+        }
+      ]
+    },
+    {
+      "ja": "君の笑顔に 会えるかな",
+      "romaji": "Kimi no egao ni aeru kana",
+      "en": "Will I be able to see your smile?",
+      "zh": "我能再見到你的笑容嗎？",
+      "notes": [
+        {
+          "word": "笑顔",
+          "meaning": "smile"
+        }
+      ]
+    },
+    {
+      "ja": "この気持ち 伝えたい",
+      "romaji": "Kono kimochi tsutaetai",
+      "en": "I want to convey these feelings",
+      "zh": "我想傳達這份心意",
+      "notes": [
+        {
+          "word": "気持ち",
+          "meaning": "feelings"
+        }
+      ]
+    },
+    {
+      "ja": "でも今は まだ言えない",
+      "romaji": "Demo ima wa mada ienai",
+      "en": "But for now, I still can't say it",
+      "zh": "但現在，我還說不出口"
+    },
+    {
+      "ja": "遠い記憶の 片隅で",
+      "romaji": "Tooi kioku no katasumi de",
+      "en": "In a corner of distant memories",
+      "zh": "在遙遠記憶的角落",
+      "notes": [
+        {
+          "word": "記憶",
+          "meaning": "memory"
+        }
+      ]
+    },
+    {
+      "ja": "君と出会った あの日を",
+      "romaji": "Kimi to deatta ano hi wo",
+      "en": "That day I met you",
+      "zh": "與你相遇的那一天",
+      "notes": [
+        {
+          "word": "出会った",
+          "meaning": "met"
+        }
+      ]
+    },
+    {
+      "ja": "思い出すたび 溢れる",
+      "romaji": "Omoidasu tabi afureru",
+      "en": "Each time I recall it, it overflows",
+      "zh": "每當回想起，便滿溢而出",
+      "notes": [
+        {
+          "word": "溢れる",
+          "meaning": "overflows"
+        }
+      ]
+    },
+    {
+      "ja": "切ないほどの 愛しさ",
+      "romaji": "Setsunai hodo no itoshisa",
+      "en": "A love so bittersweet",
+      "zh": "那份令人心痛的愛戀",
+      "notes": [
+        {
+          "word": "愛しさ",
+          "meaning": "affection"
+        }
+      ]
+    },
+    {
+      "ja": "言葉にできない 想いが",
+      "romaji": "Kotoba ni dekinai omoi ga",
+      "en": "Feelings I can't put into words",
+      "zh": "無法言喻的思念",
+      "notes": [
+        {
+          "word": "想い",
+          "meaning": "feelings"
+        }
+      ]
+    },
+    {
+      "ja": "胸の奥で 渦巻いて",
+      "romaji": "Mune no oku de uzumaite",
+      "en": "Swirling deep within my chest",
+      "zh": "在心底深處盤旋",
+      "notes": [
+        {
+          "word": "渦巻いて",
+          "meaning": "swirling"
+        }
+      ]
+    },
+    {
+      "ja": "ただ見つめることしか",
+      "romaji": "Tada mitsumeru koto shika",
+      "en": "All I can do is just gaze",
+      "zh": "只能默默凝視",
+      "notes": [
+        {
+          "word": "見つめる",
+          "meaning": "to gaze"
+        }
+      ]
+    },
+    {
+      "ja": "できないまま",
+      "romaji": "Dekinai mama",
+      "en": "Without being able to do anything else",
+      "zh": "無能為力"
+    },
+    {
+      "ja": "またあしたって 言えるかな",
+      "romaji": "Mata ashita tte ieru kana",
+      "en": "Will I be able to say \"See you tomorrow\"?",
+      "zh": "我能說出「明天見」嗎？",
+      "notes": [
+        {
+          "word": "またあした",
+          "meaning": "see you tomorrow"
+        }
+      ]
+    },
+    {
+      "ja": "君の笑顔に 会えるかな",
+      "romaji": "Kimi no egao ni aeru kana",
+      "en": "Will I be able to see your smile?",
+      "zh": "我能再見到你的笑容嗎？",
+      "notes": [
+        {
+          "word": "笑顔",
+          "meaning": "smile"
+        }
+      ]
+    },
+    {
+      "ja": "この気持ち 伝えたい",
+      "romaji": "Kono kimochi tsutaetai",
+      "en": "I want to convey these feelings",
+      "zh": "我想傳達這份心意",
+      "notes": [
+        {
+          "word": "気持ち",
+          "meaning": "feelings"
+        }
+      ]
+    },
+    {
+      "ja": "でも今は まだ言えない",
+      "romaji": "Demo ima wa mada ienai",
+      "en": "But for now, I still can't say it",
+      "zh": "但現在，我還說不出口"
+    },
+    {
+      "ja": "いつかきっと 伝えたい",
+      "romaji": "Itsuka kitto tsutaetai",
+      "en": "Someday, I definitely want to convey it",
+      "zh": "總有一天，我一定會傳達",
+      "notes": [
+        {
+          "word": "いつか",
+          "meaning": "someday"
+        }
+      ]
+    },
+    {
+      "ja": "この想いを 君だけに",
+      "romaji": "Kono omoi wo kimi dake ni",
+      "en": "These feelings, only to you",
+      "zh": "這份心意，只傳達給你",
+      "notes": [
+        {
+          "word": "君",
+          "meaning": "you"
+        }
+      ]
+    },
+    {
+      "ja": "勇気を出して 言葉に",
+      "romaji": "Yuuki wo dashite kotoba ni",
+      "en": "Gathering my courage, into words",
+      "zh": "鼓起勇氣，化為言語",
+      "notes": [
+        {
+          "word": "勇気",
+          "meaning": "courage"
+        }
+      ]
+    },
+    {
+      "ja": "変えるから",
+      "romaji": "Kaeru kara",
+      "en": "Because I will change them",
+      "zh": "因為我會將其轉變"
+    },
+    {
+      "ja": "またあしたって 言えるかな",
+      "romaji": "Mata ashita tte ieru kana",
+      "en": "Will I be able to say \"See you tomorrow\"?",
+      "zh": "我能說出「明天見」嗎？",
+      "notes": [
+        {
+          "word": "またあした",
+          "meaning": "see you tomorrow"
+        }
+      ]
+    },
+    {
+      "ja": "君の笑顔に 会えるかな",
+      "romaji": "Kimi no egao ni aeru kana",
+      "en": "Will I be able to see your smile?",
+      "zh": "我能再見到你的笑容嗎？",
+      "notes": [
+        {
+          "word": "笑顔",
+          "meaning": "smile"
+        }
+      ]
+    },
+    {
+      "ja": "この気持ち 伝えたい",
+      "romaji": "Kono kimochi tsutaetai",
+      "en": "I want to convey these feelings",
+      "zh": "我想傳達這份心意",
+      "notes": [
+        {
+          "word": "気持ち",
+          "meaning": "feelings"
+        }
+      ]
+    },
+    {
+      "ja": "でも今は まだ言えない",
+      "romaji": "Demo ima wa mada ienai",
+      "en": "But for now, I still can't say it",
+      "zh": "但現在，我還說不出口"
+    }
+  ]
+}

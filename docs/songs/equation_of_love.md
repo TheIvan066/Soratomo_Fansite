@@ -1,0 +1,1 @@
+<div id="song-app-root" data-source="/data/songs/equation_of_love.json"></div>

@@ -1,0 +1,266 @@
+{
+  "meta": {
+    "title": "ゆっくり走れば風は吹く",
+    "artist": "ときのそら",
+    "originalKey": "C",
+    "composer": "瀬名航",
+    "lyricist": "瀬名航",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "capo": "0"
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "C       G       Am      F",
+          "t": "(Instrumental)"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "C       G       Am      F",
+          "t": "ゆっく[り](と)歩[ある](く)道[みち]() どこまでも続[つづ](く)空[そら]()"
+        },
+        {
+          "c": "C       G       Am      F",
+          "t": "振[ふ](り)返[かえ](れば)遠[とお](い)日[ひ](々) 夢[ゆめ](の)欠片[かけら](を)探[さが](して)"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus",
+      "lines": [
+        {
+          "c": "G       Am      F       C",
+          "t": "立[た](ち)止[ど](まる)こともあったけど"
+        },
+        {
+          "c": "G       Am      F       G",
+          "t": "信[しん](じてきた)この想[おも](い)"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C       G       Am      F",
+          "t": "ゆっく[り](と)走[はし](れば)風[かぜ](は)吹[ふ](く) 新[あたら](しい)明日[あす](へ)"
+        },
+        {
+          "c": "C       G       Am      F",
+          "t": "どんな時[とき](も)そばにいるよ ずっとこのままで"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "C       G       Am      F",
+          "t": "小[ちい](さな)光[ひかり](集[あつ](めて)) 輝[かがや](く)星[ほし](になろう)"
+        },
+        {
+          "c": "C       G       Am      F",
+          "t": "迷[まよ](いながらも)進[すす](む)道[みち]() 希望[きぼう](の)歌[うた](を)歌[うた](おう)"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus",
+      "lines": [
+        {
+          "c": "G       Am      F       C",
+          "t": "涙[なみだ](の)数[かず](だけ)強[つよ](くなれる)"
+        },
+        {
+          "c": "G       Am      F       G",
+          "t": "笑顔[えがお](見[み](せて))歩[ある](き)出[だ](そう)"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C       G       Am      F",
+          "t": "ゆっく[り](と)走[はし](れば)風[かぜ](は)吹[ふ](く) 新[あたら](しい)明日[あす](へ)"
+        },
+        {
+          "c": "C       G       Am      F",
+          "t": "どんな時[とき](も)そばにいるよ ずっとこのままで"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Dm      G       C       F",
+          "t": "広[ひろ](い)世界[せかい](で)出会[であ](えた)奇跡[きせき]()"
+        },
+        {
+          "c": "Dm      G       C",
+          "t": "大切[たいせつ](な)絆[きずな](を)胸[むね](に)"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C       G       Am      F",
+          "t": "ゆっく[り](と)走[はし](れば)風[かぜ](は)吹[ふ](く) 新[あたら](しい)明日[あす](へ)"
+        },
+        {
+          "c": "C       G       Am      F",
+          "t": "どんな時[とき](も)そばにいるよ ずっとこのままで"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "C       G       Am      F       C",
+          "t": "風[かぜ](に)乗[の](って) どこまでも"
+        }
+      ]
+    }
+  ],
+  "calls": [],
+  "lyrics": [
+    {
+      "ja": "(Instrumental)",
+      "romaji": "(Instrumental)",
+      "en": "(Instrumental)",
+      "zh": "(演奏)"
+    },
+    {
+      "ja": "ゆっくりと歩く道 どこまでも続く空",
+      "romaji": "Yukkuri to aruku michi doko made mo tsuzuku sora",
+      "en": "A path walked slowly, the sky stretching endlessly",
+      "zh": "緩緩前行的道路 天空無限延伸",
+      "notes": [
+        {
+          "word": "ゆっくり",
+          "meaning": "slowly"
+        }
+      ]
+    },
+    {
+      "ja": "振り返れば遠い日々 夢の欠片を探して",
+      "romaji": "Furikaereba tooi hibi yume no kakera wo sagashite",
+      "en": "Looking back at distant days, searching for fragments of dreams",
+      "zh": "回首遙遠的歲月 尋找夢的碎片",
+      "notes": [
+        {
+          "word": "欠片",
+          "meaning": "fragment"
+        }
+      ]
+    },
+    {
+      "ja": "立ち止まることもあったけど",
+      "romaji": "Tachidomaru koto mo atta kedo",
+      "en": "There were times I stopped, but",
+      "zh": "雖然也曾停下腳步"
+    },
+    {
+      "ja": "信じてきたこの想い",
+      "romaji": "Shinjite kita kono omoi",
+      "en": "This feeling I've always believed in",
+      "zh": "這份一直相信的思念"
+    },
+    {
+      "ja": "ゆっくり走れば風は吹く 新しい明日へ",
+      "romaji": "Yukkuri hashireba kaze wa fuku atarashii asu e",
+      "en": "If you run slowly, the wind will blow, towards a new tomorrow",
+      "zh": "緩緩奔跑風會吹拂 邁向嶄新的明天"
+    },
+    {
+      "ja": "どんな時もそばにいるよ ずっとこのままで",
+      "romaji": "Donna toki mo soba ni iru yo zutto kono mama de",
+      "en": "I'll always be by your side, forever just like this",
+      "zh": "無論何時都會在你身旁 永遠如此"
+    },
+    {
+      "ja": "小さな光集めて 輝く星になろう",
+      "romaji": "Chiisana hikari atsumete kagayaku hoshi ni narou",
+      "en": "Gathering small lights, let's become a shining star",
+      "zh": "匯聚微小的光芒 成為閃耀的星辰"
+    },
+    {
+      "ja": "迷いながらも進む道 希望の歌を歌おう",
+      "romaji": "Mayoi nagara mo susumu michi kibou no uta wo utaou",
+      "en": "Even while lost, we advance, let's sing a song of hope",
+      "zh": "即使迷惘也要前行 歌唱希望之歌"
+    },
+    {
+      "ja": "涙の数だけ強くなれる",
+      "romaji": "Namida no kazu dake tsuyoku nareru",
+      "en": "The more tears, the stronger we become",
+      "zh": "流多少淚就能變得多堅強"
+    },
+    {
+      "ja": "笑顔見せて歩き出そう",
+      "romaji": "Egao misete arukidasou",
+      "en": "Show a smile and let's start walking",
+      "zh": "展露笑容邁步前行"
+    },
+    {
+      "ja": "ゆっくり走れば風は吹く 新しい明日へ",
+      "romaji": "Yukkuri hashireba kaze wa fuku atarashii asu e",
+      "en": "If you run slowly, the wind will blow, towards a new tomorrow",
+      "zh": "緩緩奔跑風會吹拂 邁向嶄新的明天"
+    },
+    {
+      "ja": "どんな時もそばにいるよ ずっとこのままで",
+      "romaji": "Donna toki mo soba ni iru yo zutto kono mama de",
+      "en": "I'll always be by your side, forever just like this",
+      "zh": "無論何時都會在你身旁 永遠如此"
+    },
+    {
+      "ja": "広い世界で出会えた奇跡",
+      "romaji": "Hiroi sekai de deaeta kiseki",
+      "en": "A miracle we met in this wide world",
+      "zh": "在廣闊世界中相遇的奇蹟"
+    },
+    {
+      "ja": "大切な絆を胸に",
+      "romaji": "Taisetsu na kizuna wo mune ni",
+      "en": "With precious bonds in our hearts",
+      "zh": "將珍貴的羈絆銘記於心",
+      "notes": [
+        {
+          "word": "絆",
+          "meaning": "bond"
+        }
+      ]
+    },
+    {
+      "ja": "ゆっくり走れば風は吹く 新しい明日へ",
+      "romaji": "Yukkuri hashireba kaze wa fuku atarashii asu e",
+      "en": "If you run slowly, the wind will blow, towards a new tomorrow",
+      "zh": "緩緩奔跑風會吹拂 邁向嶄新的明天"
+    },
+    {
+      "ja": "どんな時もそばにいるよ ずっとこのままで",
+      "romaji": "Donna toki mo soba ni iru yo zutto kono mama de",
+      "en": "I'll always be by your side, forever just like this",
+      "zh": "無論何時都會在你身旁 永遠如此"
+    },
+    {
+      "ja": "風に乗って どこまでも",
+      "romaji": "Kaze ni notte doko made mo",
+      "en": "Riding the wind, anywhere",
+      "zh": "乘著風 無論何處"
+    }
+  ]
+}

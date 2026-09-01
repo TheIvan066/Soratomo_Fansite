@@ -1,0 +1,1 @@
+<div id="song-app-root" data-source="/data/songs/night_cube_paradox.json"></div>

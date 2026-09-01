@@ -1,0 +1,81 @@
+/* ==========================================================================
+Tokino Sora Fansite Custom Palette & Background Styling
+========================================================================== */
+
+:root {
+/* Sora's Signature Sky Blue Hex Code (#38c3ff) */
+--md-primary-fg-color:        #0146ea;
+--md-primary-fg-color--light:  #266AFF;
+--md-primary-fg-color--dark:   #0146ea;
+
+/* Sora's Accent Pink Hex Code (#ff76ad) */
+--md-accent-fg-color:         #f4286a;
+--md-accent-fg-color--transparent: rgba(255, 118, 173, 0.1);
+}
+
+/* Override variables for Dark Mode */
+[data-md-color-scheme="slate"] {
+--md-primary-fg-color:        #0146ea;
+--md-primary-fg-color--light:  #266AFF;
+--md-primary-fg-color--dark:   #0146ea;
+--md-accent-fg-color:         #f4286a;
+}
+
+/* ==========================================================================
+Background Image Customization
+========================================================================== /
+/ Set your background image here.
+The "../assets/background.jpg" points to your image inside the docs folder */
+body {
+background-image: url('../assets/temp_bg.tif');
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+/* ==========================================================================
+Glassmorphism Readability Adjustments
+Makes sure text panels are semi-transparent and highly readable
+========================================================================== */
+
+/* Light mode card styling */
+.md-content {
+background: rgba(255, 255, 255, 0.92) !important;
+backdrop-filter: blur(8px);
+-webkit-backdrop-filter: blur(8px);
+border-radius: 8px;
+padding: 20px;
+box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+/* Dark mode card styling */
+[data-md-color-scheme="slate"] .md-content {
+background: rgba(30, 34, 42, 0.92) !important;
+backdrop-filter: blur(8px);
+-webkit-backdrop-filter: blur(8px);
+box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Keep the sidebar menus clean and readable */
+.md-sidebar {
+background: rgba(255, 255, 255, 0.85) !important;
+backdrop-filter: blur(5px);
+border-radius: 8px;
+padding: 5px;
+}
+
+[data-md-color-scheme="slate"] .md-sidebar {
+background: rgba(30, 34, 42, 0.85) !important;
+}
+
+:has(#song-app-root) .md-content,
+:has(#song-app-root) .md-content__inner {
+    max-width: 100% !important;
+    width: 100% !important;
+}
+
+:has(#song-app-root) .md-main__inner {
+    max-width: 95% !important;
+    width: 95% !important;
+}

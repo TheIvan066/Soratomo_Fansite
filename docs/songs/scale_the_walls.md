@@ -1,0 +1,1 @@
+<div id="song-app-root" data-source="/data/songs/scale_the_walls.json"></div>

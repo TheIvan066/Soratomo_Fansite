@@ -1,0 +1,1 @@
+<div id="song-app-root" data-source="/data/songs/kirameki_rider.json"></div>

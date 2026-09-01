@@ -1,0 +1,648 @@
+{
+  "meta": {
+    "title": "夢色アスタリスク",
+    "artist": "ときのそら",
+    "originalKey": "D",
+    "capo": "",
+    "description": "",
+    "composer": "ていくる",
+    "lyricist": "ていくる",
+    "album": "Dreaming!",
+    "releaseDate": "2018/01/29",
+    "coverUrl": "cover_images/dreaming",
+    "penlight_color": [
+      "#0000ff"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/kTV6uSmiXEw?si=oUfbeLCz3k-DnXzx"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "",
+      "call": "ハイ！ハイ！ハイ！ハイ！～"
+    },
+    {
+      "lyrics": "あの\"星\"は綺麗で",
+      "call": ""
+    },
+    {
+      "lyrics": "上ばかり見て走って",
+      "call": ""
+    },
+    {
+      "lyrics": "そのたびにつまづいて",
+      "call": ""
+    },
+    {
+      "lyrics": "だけどそれも楽しくて",
+      "call": ""
+    },
+    {
+      "lyrics": "いつの間にか日は暮れて",
+      "call": ""
+    },
+    {
+      "lyrics": "夕焼けに照らされた",
+      "call": ""
+    },
+    {
+      "lyrics": "君の目は輝いて",
+      "call": ""
+    },
+    {
+      "lyrics": "「まるで\"星\"みたいだね」",
+      "call": ""
+    },
+    {
+      "lyrics": "夢の続きみるために",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "眠る暇はないからって",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "手をひいて走っていった",
+      "call": ""
+    },
+    {
+      "lyrics": "「いつかの空、見つけに行こう!」",
+      "call": ""
+    },
+    {
+      "lyrics": "それはきっとあの星のように",
+      "call": ""
+    },
+    {
+      "lyrics": "遠く彼方まで光っていて",
+      "call": ""
+    },
+    {
+      "lyrics": "いつか君が星を見ていた",
+      "call": ""
+    },
+    {
+      "lyrics": "連れていくよ あの時の空へ",
+      "call": ""
+    },
+    {
+      "lyrics": "（間奏1ループ目，8拍×4）",
+      "call": ""
+    },
+    {
+      "lyrics": "（間奏2ループ目）",
+      "call": "=== ハイ！=== ハイ！=== ハイ！=== ハイ！"
+    },
+    {
+      "lyrics": "",
+      "call": "スリー、ツー、ワン！"
+    },
+    {
+      "lyrics": "目が覚めてちょっと待って!",
+      "call": ""
+    },
+    {
+      "lyrics": "閉じた日記を開いて",
+      "call": ""
+    },
+    {
+      "lyrics": "書き残したことだって",
+      "call": ""
+    },
+    {
+      "lyrics": "忘れなくていいんだって",
+      "call": ""
+    },
+    {
+      "lyrics": "\"いつかみた夕焼け\"って",
+      "call": ""
+    },
+    {
+      "lyrics": "書ける日が来るまで",
+      "call": ""
+    },
+    {
+      "lyrics": "何度でも走って泣いて",
+      "call": ""
+    },
+    {
+      "lyrics": "あれれ、ありきたりだっけ?",
+      "call": ""
+    },
+    {
+      "lyrics": "涙流さないために",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "仰ぐ暇はないからって",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "前向いて走っていった",
+      "call": ""
+    },
+    {
+      "lyrics": "「いつかの空、見つけに行こう!」",
+      "call": ""
+    },
+    {
+      "lyrics": "それはきっとあの星のように",
+      "call": ""
+    },
+    {
+      "lyrics": "手が届きそうで届かなくて",
+      "call": ""
+    },
+    {
+      "lyrics": "いつか君と星を見ていた",
+      "call": ""
+    },
+    {
+      "lyrics": "連れていくよ あの時の空へ",
+      "call": ""
+    },
+    {
+      "lyrics": "（間奏1ループ目，8拍×4）",
+      "call": ""
+    },
+    {
+      "lyrics": "（間奏2ループ目）",
+      "call": "=== ハイ！=== ハイ！=== ハイ！=== ハイ！"
+    },
+    {
+      "lyrics": "",
+      "call": "スリー、ツー、ワン！"
+    },
+    {
+      "lyrics": "",
+      "call": "",
+      "extra_row": true,
+      "action": "℗℗≣℗≣℗℗≣ ×8"
+    },
+    {
+      "lyrics": "ふと空を見上げて",
+      "call": "",
+      "extra_row": true,
+      "action":"℗℗≣℗≣℗℗≣ ×4"
+    },
+    {
+      "lyrics": "あの星は綺麗で",
+      "call": "",
+      "extra_row": true,
+      "action":"℗℗≣℗≣℗℗≣ ×4"
+    },
+    {
+      "lyrics": "\"いつかみた夕焼け\"って",
+      "call": "",
+      "extra_row": true,
+      "action":"℗℗≣℗≣℗℗≣ ×2"
+    },
+    {
+      "lyrics": "書ける日が来るまで",
+      "call": "",
+      "extra_row": true,
+      "action": "℗℗≣℗≣℗℗≣ ×2"
+    },
+    {
+      "lyrics": "何度でも走って泣いて",
+      "call": "",
+      "extra_row": true,
+      "action":"℗℗≣℗≣℗℗≣ ×2"
+    },
+    {
+      "lyrics": "あれれ、ありきたりだっけ?",
+      "call": "",
+      "extra_row": true,
+      "action":"℗℗≣℗≣℗℗≣ ×2"
+    },
+    {
+      "lyrics": "いつの間にか目が覚めた",
+      "call": ""
+    },
+    {
+      "lyrics": "声に背中押されて",
+      "call": ""
+    },
+    {
+      "lyrics": "一歩ずつ歩きだした",
+      "call": ""
+    },
+    {
+      "lyrics": "いつかの空、見つけに行こう",
+      "call": ""
+    },
+    {
+      "lyrics": "夢の続きみるために",
+      "call": ""
+    },
+    {
+      "lyrics": "眠る暇はないからって",
+      "call": ""
+    },
+    {
+      "lyrics": "手をひいて走っていった",
+      "call": ""
+    },
+    {
+      "lyrics": "手をひいて走っていった",
+      "call": ""
+    },
+    {
+      "lyrics": "手をひいて走っていた",
+      "call": ""
+    },
+    {
+      "lyrics": "いつかの空、見ていた",
+      "call": ""
+    },
+    {
+      "lyrics": "それはきっとあの星のように",
+      "call": "それはきっとあの星のように"
+    },
+    {
+      "lyrics": "遠く彼方まで光っていて",
+      "call": "遠く彼方まで光っていて"
+    },
+    {
+      "lyrics": "いつか僕ら星を見ていた",
+      "call": "いつか僕ら星を見ていた"
+    },
+    {
+      "lyrics": "連れていくよ あの時の空へ",
+      "call": "連れていくよ あの時の空へ"
+    },
+    {
+      "lyrics": "探し続けて見つけたここからが僕らのスタートラインで",
+      "call": ""
+    },
+    {
+      "lyrics": "走り続けてふとあふれた君の涙までも輝いて",
+      "call": ""
+    },
+    {
+      "lyrics": "もがき続けて見ていたあの時の空はきっとまぼろしじゃない",
+      "call": ""
+    },
+    {
+      "lyrics": "振り返ればいつの日にか見とれていたあの星",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "ハイ！ハイ！ハイ！ハイ！～"
+    }
+  ],
+  "lyrics": [
+     {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "あの\"星\"は綺麗で",
+      "romaji": "Ano \"Hoshi\" ha Kirei de",
+      "en": "That \"star\" is beautiful",
+      "zh": "那一顆「星星」真美"
+    },
+    {
+      "ja": "上ばかり見て走って",
+      "romaji": "Ue Bakari Mite Hashitte",
+      "en": "Running while only looking up at the sky",
+      "zh": "只顧昂首向前奔跑"
+    },
+    {
+      "ja": "そのたびにつまづいて",
+      "romaji": "Sono Tabi ni Tsumazuite",
+      "en": "Stumbling every single time",
+      "zh": "每次都因而摔了跤"
+    },
+    {
+      "ja": "だけどそれも楽しくて",
+      "romaji": "Dakedo Sore mo Tanoshikute",
+      "en": "But even that was so much fun",
+      "zh": "但連那過程也無比歡樂"
+    },
+    {
+      "ja": "いつの間にか日は暮れて",
+      "romaji": "Itsunomanika Hi ha Kurete",
+      "en": "Before we noticed, the sun went down",
+      "zh": "不知不覺間夕陽西下"
+    },
+    {
+      "ja": "夕焼けに照らされた",
+      "romaji": "Yuuya ke ni Terasareta",
+      "en": "Illuminated by the sunset glow",
+      "zh": "被晚霞所映照著"
+    },
+    {
+      "ja": "君の目は輝いて",
+      "romaji": "Kimi no Me ha Kagayaite",
+      "en": "Your eyes were shining brightly",
+      "zh": "你的雙眼正熠熠生輝"
+    },
+    {
+      "ja": "「まるで\"星\"みたいだね」",
+      "romaji": "\"Marude \"Hoshi\" Mitai da ne\"",
+      "en": "\"It's just like a 'star', isn't it?\"",
+      "zh": "「簡直就像是一顆『星星』呢」"
+    },
+    {
+      "ja": "夢の続きみるために",
+      "romaji": "Yume no Tsuzuki Miru Tame ni",
+      "en": "Saying there's no time to sleep",
+      "zh": "說著為了看夢境的續集"
+    },
+    {
+      "ja": "眠る暇はないからって",
+      "romaji": "Nemuru Hima ha Nai Kara tte",
+      "en": "Because we have to see the continuation of the dream",
+      "zh": "根本就沒有空去入睡"
+    },
+    {
+      "ja": "手をひいて走っていった",
+      "romaji": "Te wo Hiite HashitteItta",
+      "en": "You took my hand and ran off",
+      "zh": "便牽起我的手奔跑起來"
+    },
+    {
+      "ja": "「いつかの空、見つけに行こう!」",
+      "romaji": "\"Itsuka no Sora, Mitsuke ni Ikou!\"",
+      "en": "\"Let me take you to the sky of that moment!\"",
+      "zh": "「去尋找昔日的那片天空吧！」"
+    },
+    {
+      "ja": "それはきっとあの星のように",
+      "romaji": "Sore ha Kitto Ano Hoshi no You ni",
+      "en": "Surely, like that distant star",
+      "zh": "那一定就像那一顆星星般"
+    },
+    {
+      "ja": "遠く彼方まで光っていて",
+      "romaji": "Tooku Kanata made HikatteIte",
+      "en": "Shining bright into the far distance",
+      "zh": "向著遙遠的彼方綻放光彩"
+    },
+    {
+      "ja": "いつか君が星を見ていた",
+      "romaji": "Itsuka Kimi ga Hoshi wo MiteIta",
+      "en": "Someday you were gazing at the stars",
+      "zh": "曾經的你曾凝望著星星"
+    },
+    {
+      "ja": "連れていくよ あの時の空へ",
+      "romaji": "TsureteIku yo Ano Toki no Sora he",
+      "en": "I'll take you back to the sky of that day",
+      "zh": "我會帶你前往 那時候的天空"
+    },
+    {
+      "ja": "目が覚めてちょっと待って!",
+      "romaji": "Me ga Samete Chotto Matte!",
+      "en": "Waking up and saying, \"Wait a second!\"",
+      "zh": "醒來後喊著「等等我！」"
+    },
+    {
+      "ja": "閉じた日記を開いて",
+      "romaji": "Tojita Nikki wo Hiraite",
+      "en": "Opening the closed diary",
+      "zh": "翻開合上的日記本"
+    },
+    {
+      "ja": "書き残したことだって",
+      "romaji": "Kakinokoshita Koto datte",
+      "en": "Even the things left unwritten",
+      "zh": "即使是遺留未寫下的心聲"
+    },
+    {
+      "ja": "忘れなくていいんだって",
+      "romaji": "Wasurenakute Iin datte",
+      "en": "It's alright not to forget them",
+      "zh": "也是可以不用去遺忘的"
+    },
+    {
+      "ja": "\"いつかみた夕焼け\"って",
+      "romaji": "\"Itsuka Mita Yuuyake\" tte",
+      "en": "Until the day comes when I can write",
+      "zh": "直到能夠寫下"
+    },
+    {
+      "ja": "書ける日が来るまで",
+      "romaji": "Kakeru Hi ga Kuru made",
+      "en": "\"The sunset we saw back then\"",
+      "zh": "「那一天所見過的夕陽」為止"
+    },
+    {
+      "ja": "何度でも走って泣いて",
+      "romaji": "Nandodemo Hashitte Naite",
+      "en": "Running and crying again and again",
+      "zh": "無數次地奔跑與哭泣"
+    },
+    {
+      "ja": "あれれ、ありきたりだっけ?",
+      "romaji": "Arere, Arikitari dakke?",
+      "en": "Oh wait, was it that ordinary after all?",
+      "zh": "誒，這不是很尋常的事嗎？"
+    },
+    {
+      "ja": "涙流さないために、仰ぐ暇はないからって",
+      "romaji": "Namida Nagasanai Tame ni, Aogu Hima ha Nai Kara tte",
+      "en": "Saying there's no time to look up so tears won't fall",
+      "zh": "說著為了不流下眼淚，根本沒有抬頭望天的時間"
+    },
+    {
+      "ja": "前向いて走っていった",
+      "romaji": "Mae Muite HashitteItta",
+      "en": "Looking straight ahead and running forward",
+      "zh": "朝向前方一直奔跑而去"
+    },
+    {
+      "ja": "「いつかの空、見つけに行こう!」",
+      "romaji": "\"Itsuka no Sora, Mitsuke ni Ikou!\"",
+      "en": "\"Let's go find the sky of that day!\"",
+      "zh": "「去尋找昔日的那片天空吧！」"
+    },
+    {
+      "ja": "それはきっとあの星のように",
+      "romaji": "Sore ha Kitto Ano Hoshi no You ni",
+      "en": "Surely, like that star",
+      "zh": "那一定就像那一顆星星般"
+    },
+    {
+      "ja": "手が届きそうで届かなくて",
+      "romaji": "Te ga Todokisou de Todokanaku te",
+      "en": "Seeming within reach yet untouchable",
+      "zh": "彷彿觸手可及卻又遙不可及"
+    },
+    {
+      "ja": "いつか君と星を見ていた",
+      "romaji": "Itsuka Kimi to Hoshi wo MiteIta",
+      "en": "Someday I was watching the stars with you",
+      "zh": "曾經與你一同凝望著星星"
+    },
+    {
+      "ja": "連れていくよ あの時の空へ",
+      "romaji": "TsureteIku yo Ano Toki no Sora he",
+      "en": "I'll take you back to the sky of that day",
+      "zh": "我會帶你前往 那時候的天空"
+    },
+    {
+      "ja": "ふと空を見上げて",
+      "romaji": "Futo Sora wo Miagete",
+      "en": "Suddenly looking up at the sky",
+      "zh": "突然仰望天空"
+    },
+    {
+      "ja": "あの星は綺麗で",
+      "romaji": "Ano Hoshi ha Kirei de",
+      "en": "That star is beautiful",
+      "zh": "那一顆星星真美"
+    },
+    {
+      "ja": "\"いつかみた夕焼け\"って",
+      "romaji": "\"Itsuka Mita Yuuyake\" tte",
+      "en": "Until the day comes when I can write",
+      "zh": "直到能夠寫下"
+    },
+    {
+      "ja": "書ける日が来るまで",
+      "romaji": "Kakeru Hi ga Kuru made",
+      "en": "\"The sunset we saw back then\"",
+      "zh": "「那一天所見過的夕陽」為止"
+    },
+    {
+      "ja": "何度でも走って泣いて",
+      "romaji": "Nandodemo Hashitte Naite",
+      "en": "Running and crying again and again",
+      "zh": "無數次地奔跑與哭泣"
+    },
+    {
+      "ja": "あれれ、ありきたりだっけ?",
+      "romaji": "Arere, Arikitari dakke?",
+      "en": "Oh wait, was it that ordinary after all?",
+      "zh": "誒，這不是很尋常的事嗎？"
+    },
+    {
+      "ja": "いつの間にか目が覚めた",
+      "romaji": "Itsunomanika Me ga Sameta",
+      "en": "Before I knew it, I woke up",
+      "zh": "不知不覺間醒了過來"
+    },
+    {
+      "ja": "声に背中押されて",
+      "romaji": "Koe ni Senaka Osarete",
+      "en": "Pushed forward by a voice from behind",
+      "zh": "被那聲音在背後推了一把"
+    },
+    {
+      "ja": "一歩ずつ歩きだした",
+      "romaji": "Ippozu tsu Arukidashita",
+      "en": "I began to walk step by step",
+      "zh": "一步一步邁開了步伐"
+    },
+    {
+      "ja": "いつかの空、見つけに行こう",
+      "romaji": "Itsuka no Sora, Mitsuke ni Ikou",
+      "en": "Let's go find the sky of that day",
+      "zh": "去尋找昔日的那片天空吧"
+    },
+    {
+      "ja": "夢の続きみるために",
+      "romaji": "Yume no Tsuzuki Miru Tame ni",
+      "en": "Saying there's no time to sleep",
+      "zh": "說著為了看夢境的續集"
+    },
+    {
+      "ja": "眠る暇はないからって",
+      "romaji": "Nemuru Hima ha Nai Kara tte",
+      "en": "Because we have to see the continuation of the dream",
+      "zh": "根本就沒有空去入睡"
+    },
+    {
+      "ja": "手をひいて走っていった",
+      "romaji": "Te wo Hiite HashitteItta",
+      "en": "You took my hand and ran off",
+      "zh": "便牽起我的手奔跑起來"
+    },
+    {
+      "ja": "手をひいて走っていった",
+      "romaji": "Te wo Hiite HashitteItta",
+      "en": "You took my hand and ran off",
+      "zh": "便牽起我的手奔跑起來"
+    },
+    {
+      "ja": "手をひいて走っていた",
+      "romaji": "Te wo Hiite HashitteIta",
+      "en": "We were running hand in hand",
+      "zh": "手牽著手向前奔跑"
+    },
+    {
+      "ja": "いつかの空、見ていた",
+      "romaji": "Itsuka no Sora, MiteIta",
+      "en": "We were looking at the sky of that day",
+      "zh": "凝望著昔日的那片天空"
+    },
+    {
+      "ja": "それはきっとあの星のように",
+      "romaji": "Sore ha Kitto Ano Hoshi no You ni",
+      "en": "Surely, like that star",
+      "zh": "那一定就像那一顆星星般"
+    },
+    {
+      "ja": "遠く彼方まで光っていて",
+      "romaji": "Tooku Kanata made HikatteIte",
+      "en": "Shining bright into the far distance",
+      "zh": "向著遙遠的彼方綻放光彩"
+    },
+    {
+      "ja": "いつか僕ら星を見ていた",
+      "romaji": "Itsuka Bokura Hoshi wo MiteIta",
+      "en": "Someday we were watching the stars",
+      "zh": "曾經我們一同凝望著星星"
+    },
+    {
+      "ja": "連れていくよ あの時の空へ",
+      "romaji": "TsureteIku yo Ano Toki no Sora he",
+      "en": "I'll take you back to the sky of that day",
+      "zh": "我會帶你前往 那時候的天空"
+    },
+    {
+      "ja": "探し続けて見つけたここからが僕らのスタートラインで",
+      "romaji": "Sagashitsuduzete Mitsuketa Koko kara ga Bokura no Sutaato Rain de",
+      "en": "Right here, where we kept searching and finally found, is our starting line",
+      "zh": "一直尋找著終獲發現的這裡，正是我們的起跑線"
+    },
+    {
+      "ja": "走り続けてふとあふれた君の涙までも輝いて",
+      "romaji": "Hashiritsuduzete Futo Afureta Kimi no Namida made mo Kagayaite",
+      "en": "Even the tears that suddenly spilled over as you kept running are shining bright",
+      "zh": "不斷奔跑中驟然湧出的、你的眼淚也閃爍著光芒"
+    },
+    {
+      "ja": "もがき続けて見ていたあの時の空はきっとまぼろしじゃない",
+      "romaji": "Mogakitsuduzete MiteIta Ano Toki no Sora ha Kitto Maboroshi Janai",
+      "en": "The sky of that time we watched while endlessly struggling is surely not an illusion",
+      "zh": "不斷掙扎中所看見的那時候的天空，絕對不是幻影"
+    },
+    {
+      "ja": "振り返ればいつの日にか見とれていたあの星",
+      "romaji": "Furikaereba Itsu no Hi ni ka MitoreteIta Ano Hoshi",
+      "en": "When looking back, that star we were captivated by once upon a time",
+      "zh": "回過頭來，那一顆曾幾何時讓人為之著迷的星星"
+    }
+    ]
+  }

@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "title": "Chu-Chu-Lu",
+    "artist": "ときのそら",
+    "originalKey": "C",
+    "composer": "koma’n",
+    "lyricist": "koma’n",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "capo": "0",
+    "coverUrl": "https://example.com/chu-chu-lu-cover.jpg",
+    "description": "This is a placeholder for Chu-Chu-Lu by Tokino Sora, as the song content (lyrics and chords) was not provided in the input. The structure follows the U-FRET page title and meta information.",
+    "releaseDate": "2023-01-01"
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "C     G     Am    F",
+          "t": "Chu-Chu-Lu, a sweet melody"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "C     G     Am    F",
+          "t": "Every day, a new adventure starts"
+        },
+        {
+          "c": "Dm    G     C     F",
+          "t": "With a smile, we play our parts"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "F     G     Em    Am",
+          "t": "Chu-Chu-Lu, sing along with me"
+        },
+        {
+          "c": "Dm    G     C",
+          "t": "Happy moments, wild and free"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "C     G     Am    F     C",
+          "t": "Chu-Chu-Lu, until we meet again"
+        }
+      ]
+    }
+  ],
+  "calls": [],
+  "lyrics": [
+    {
+      "ja": "チュチュル、甘いメロディー",
+      "romaji": "Chu-Chu-Lu, amai merodii",
+      "en": "Chu-Chu-Lu, a sweet melody",
+      "zh": "啾啾嚕，甜美旋律",
+      "notes": [
+        {
+          "word": "メロディー",
+          "meaning": "melody"
+        }
+      ]
+    },
+    {
+      "ja": "毎日、新しい冒険が始まる",
+      "romaji": "Mainichi, atarashii bouken ga hajimaru",
+      "en": "Every day, a new adventure starts",
+      "zh": "每天，新的冒險開始",
+      "notes": [
+        {
+          "word": "冒険",
+          "meaning": "adventure"
+        }
+      ]
+    },
+    {
+      "ja": "笑顔で、私たちの役割を演じる",
+      "romaji": "Egao de, watashitachi no yakuwari o enjiru",
+      "en": "With a smile, we play our parts",
+      "zh": "帶著笑容，我們扮演各自的角色",
+      "notes": [
+        {
+          "word": "笑顔",
+          "meaning": "smile"
+        }
+      ]
+    },
+    {
+      "ja": "チュチュル、私と一緒に歌おう",
+      "romaji": "Chu-Chu-Lu, watashi to issho ni utaou",
+      "en": "Chu-Chu-Lu, sing along with me",
+      "zh": "啾啾嚕，和我一起唱歌吧",
+      "notes": [
+        {
+          "word": "歌おう",
+          "meaning": "let's sing"
+        }
+      ]
+    },
+    {
+      "ja": "幸せな瞬間、自由奔放に",
+      "romaji": "Shiawase na shunkan, jiyuu honpou ni",
+      "en": "Happy moments, wild and free",
+      "zh": "快樂的瞬間，自由奔放",
+      "notes": [
+        {
+          "word": "瞬間",
+          "meaning": "moment"
+        }
+      ]
+    },
+    {
+      "ja": "チュチュル、また会う日まで",
+      "romaji": "Chu-Chu-Lu, mata au hi made",
+      "en": "Chu-Chu-Lu, until we meet again",
+      "zh": "啾啾嚕，直到我們再次相遇",
+      "notes": [
+        {
+          "word": "また",
+          "meaning": "again"
+        }
+      ]
+    }
+  ]
+}

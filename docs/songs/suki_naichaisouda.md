@@ -1,0 +1,1 @@
+<div id="song-app-root" data-source="/data/songs/suki_naichaisouda.json"></div>

@@ -1,0 +1,394 @@
+{
+  "meta": {
+    "title": "フレーフレーLOVE",
+    "artist": "ときのそら",
+    "originalKey": "C",
+    "composer": "多田慎也",
+    "lyricist": "多田慎也",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "capo": "0"
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": ""
+        },
+        {
+          "c": "F       C       G       C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "ねぇ、()ちょっと()聞[き](い)てくれるかな"
+        },
+        {
+          "c": "F       C       G",
+          "t": "最[さい]近[きん]なんだか()元[げん]気[き]ないの"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "ため()息[いき]ばかり()ついてる()私[わたし]に"
+        },
+        {
+          "c": "F       C       G",
+          "t": "喝[かつ]を()入[い]れてよ"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "頑[がん]張[ば]ってるのは()知[し]ってるけど"
+        },
+        {
+          "c": "F       G       C",
+          "t": "たまには()休[やす]んだって()いいんだよ"
+        },
+        {
+          "c": "F       G       Em      Am",
+          "t": "でもね、()やっぱり()悔[くや]しいから"
+        },
+        {
+          "c": "F       G",
+          "t": "もう()一[いち]度[ど]だけ"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "フレーフレーLOVE 届[とど]けたい()エール"
+        },
+        {
+          "c": "F       C       G",
+          "t": "君[きみ]の()笑[え]顔[がお]が()見[み]たいから"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "フレーフレーLOVE 負[ま]けないでね"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "きっと()夢[ゆめ]は()叶[かな]うから"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "ねぇ、()ちょっと()笑[わら]ってくれるかな"
+        },
+        {
+          "c": "F       C       G",
+          "t": "一[ひと]り()で()抱[かか]え()込[こ]まないで"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "いつでも()そばに()いるからね"
+        },
+        {
+          "c": "F       C       G",
+          "t": "頼[たよ]ってほしい"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "不[ふ]安[あん]な()気[き]持[も]ちも()わかるけど"
+        },
+        {
+          "c": "F       G       C",
+          "t": "信[しん]じる()気[き]持[も]ちを()忘[わす]れないで"
+        },
+        {
+          "c": "F       G       Em      Am",
+          "t": "ほら、()顔[かお]を()上[あ]げてごらんよ"
+        },
+        {
+          "c": "F       G",
+          "t": "未[み]来[らい]は()明[あか]るい"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "フレーフレーLOVE 届[とど]けたい()エール"
+        },
+        {
+          "c": "F       C       G",
+          "t": "君[きみ]の()笑[え]顔[がお]が()見[み]たいから"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "フレーフレーLOVE 負[ま]けないでね"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "きっと()夢[ゆめ]は()叶[かな]うから"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Am      Em      F       C",
+          "t": "時[とき]には()涙[なみだ]も()流[なが]すけど"
+        },
+        {
+          "c": "Am      Em      F       G",
+          "t": "それも()強[つよ]さに()変[か]わるから"
+        },
+        {
+          "c": "F       G       Em      Am",
+          "t": "大[だい]丈[じょう]夫[ぶ]、()一[ひと]りじゃないよ"
+        },
+        {
+          "c": "F       G",
+          "t": "さあ、()行[い]こう！"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "フレーフレーLOVE 届[とど]けたい()エール"
+        },
+        {
+          "c": "F       C       G",
+          "t": "君[きみ]の()笑[え]顔[がお]が()見[み]たいから"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "フレーフレーLOVE 負[ま]けないでね"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "きっと()夢[ゆめ]は()叶[かな]うから"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": ""
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "フレーフレーLOVE！"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "喝を入れてよ",
+      "call": "フレーフレー！"
+    },
+    {
+      "lyrics": "もう一度だけ",
+      "call": "もういっちょ！"
+    },
+    {
+      "lyrics": "フレーフレーLOVE 届けたいエール",
+      "call": "フレーフレー！"
+    },
+    {
+      "lyrics": "フレーフレーLOVE 負けないでね",
+      "call": "そらちゃん！"
+    },
+    {
+      "lyrics": "頼ってほしい",
+      "call": "いいよ！"
+    },
+    {
+      "lyrics": "未来は明るい",
+      "call": "イェーイ！"
+    },
+    {
+      "lyrics": "さあ、行こう！",
+      "call": "おー！"
+    },
+    {
+      "lyrics": "フレーフレーLOVE！",
+      "call": "フレーフレー！"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "ねぇ、ちょっと聞いてくれるかな",
+      "romaji": "Nee, chotto kiite kureru kana",
+      "en": "Hey, could you listen for a bit?",
+      "zh": "嘿，能聽我說一下嗎？",
+      "notes": [
+        {
+          "word": "聞いて",
+          "meaning": "listen"
+        }
+      ]
+    },
+    {
+      "ja": "最近なんだか元気ないの",
+      "romaji": "Saikin nandaka genki nai no",
+      "en": "Lately, I've been feeling a bit down.",
+      "zh": "最近總覺得沒什麼精神",
+      "notes": [
+        {
+          "word": "元気ない",
+          "meaning": "not energetic"
+        }
+      ]
+    },
+    {
+      "ja": "ため息ばかりついてる私に",
+      "romaji": "Tameiki bakari tsuiteru watashi ni",
+      "en": "To me, who's always sighing,",
+      "zh": "對總是嘆氣的我",
+      "notes": [
+        {
+          "word": "ため息",
+          "meaning": "sigh"
+        }
+      ]
+    },
+    {
+      "ja": "喝を入れてよ",
+      "romaji": "Katsu o irete yo",
+      "en": "Give me a cheer!",
+      "zh": "給我打打氣吧",
+      "notes": [
+        {
+          "word": "喝",
+          "meaning": "cheer"
+        }
+      ]
+    },
+    {
+      "ja": "頑張ってるのは知ってるけど",
+      "romaji": "Ganbatteru no wa shitteru kedo",
+      "en": "I know you're doing your best, but",
+      "zh": "我知道你很努力",
+      "notes": [
+        {
+          "word": "頑張ってる",
+          "meaning": "doing best"
+        }
+      ]
+    },
+    {
+      "ja": "たまには休んだっていいんだよ",
+      "romaji": "Tama ni wa yasundatte ii n da yo",
+      "en": "It's okay to rest sometimes.",
+      "zh": "偶爾休息一下也沒關係喔",
+      "notes": [
+        {
+          "word": "休んだって",
+          "meaning": "rest"
+        }
+      ]
+    },
+    {
+      "ja": "でもね、やっぱり悔しいから",
+      "romaji": "Demo ne, yappari kuyashii kara",
+      "en": "But still, I'm frustrated, so",
+      "zh": "但是呢，果然還是不甘心",
+      "notes": [
+        {
+          "word": "悔しい",
+          "meaning": "frustrated"
+        }
+      ]
+    },
+    {
+      "ja": "もう一度だけ",
+      "romaji": "Mou ichido dake",
+      "en": "Just one more time.",
+      "zh": "就再一次",
+      "notes": [
+        {
+          "word": "もう一度",
+          "meaning": "one more time"
+        }
+      ]
+    },
+    {
+      "ja": "フレーフレーLOVE 届けたいエール",
+      "romaji": "Furee Furee LOVE todoketai eeru",
+      "en": "Hooray Hooray LOVE, I want to send my cheers",
+      "zh": "加油加油LOVE，想傳達我的聲援",
+      "notes": [
+        {
+          "word": "エール",
+          "meaning": "cheers"
+        }
+      ]
+    },
+    {
+      "ja": "君の笑顔が見たいから",
+      "romaji": "Kimi no egao ga mitai kara",
+      "en": "Because I want to see your smile.",
+      "zh": "因為我想看見你的笑容",
+      "notes": [
+        {
+          "word": "笑顔",
+          "meaning": "smile"
+        }
+      ]
+    },
+    {
+      "ja": "フレーフレーLOVE 負けないでね",
+      "romaji": "Furee Furee LOVE makenaide ne",
+      "en": "Hooray Hooray LOVE, don't give up!",
+      "zh": "加油加油LOVE，不要輸喔",
+      "notes": [
+        {
+          "word": "負けないで",
+          "meaning": "don't give up"
+        }
+      ]
+    },
+    {
+      "ja": "きっと夢は叶うから",
+      "romaji": "Kitto yume wa kanau kara",
+      "en": "Your dreams will surely come true.",
+      "zh": "夢想一定會實現的",
+      "notes": [
+        {
+          "word": "叶う",
+          "meaning": "come true"
+        }
+      ]
+    },
+    {
+      "ja": "ねぇ、ちょっと笑ってくれるかな",
+      "romaji": "Nee, chotto waratte kureru kana",
+      "en": null
+    }
+  ]
+}

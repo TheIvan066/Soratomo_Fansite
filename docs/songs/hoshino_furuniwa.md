@@ -1,0 +1,1 @@
+<div id="song-app-root" data-source="/data/songs/hoshino_furuniwa.json"></div>

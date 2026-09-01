@@ -1,0 +1,318 @@
+{
+  "meta": {
+    "title": "ぐるぐる・ラブストーリー",
+    "artist": "ときのそら",
+    "originalKey": "G",
+    "composer": "戸嶋友祐",
+    "lyricist": "戸嶋友祐",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "capo": "0"
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "G D Em C",
+          "t": ""
+        },
+        {
+          "c": "G D Em C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "G       D       Em      C",
+          "t": "ぐるぐる[回(まわ)](る) 世界[せかい]()は今日[きょう]()も"
+        },
+        {
+          "c": "G       D       Em      C",
+          "t": "君[きみ]()と僕[ぼく]()を乗[の]()せて 進[すす]()んでく"
+        },
+        {
+          "c": "G       D       Em      C",
+          "t": "ドキドキするね 初[はじ]()めての感情[かんじょう]()"
+        },
+        {
+          "c": "G       D       Em      C",
+          "t": "手[て]()と手[て]()繋[つな]()いで どこまでも行[い]()こう"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus",
+      "lines": [
+        {
+          "c": "Am      Em      C       G",
+          "t": "迷[まよ]()いながらも 見[み]()つけた光[ひかり]()"
+        },
+        {
+          "c": "Am      Em      C       D",
+          "t": "それはきっと 君[きみ]()の笑顔[えがお]()"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "G       D       Em      C",
+          "t": "ぐるぐる・ラブストーリー 夢[ゆめ]()の続[つづ]()きを"
+        },
+        {
+          "c": "G       D       Em      C",
+          "t": "二人[ふたり]()で描[えが]()こう 未来[みらい]()のキャンバス"
+        },
+        {
+          "c": "G       D       Em      C",
+          "t": "キラキラ輝[かがや]()く 星屑[ほしくず]()のように"
+        },
+        {
+          "c": "G       D       Em      C",
+          "t": "永遠[えいえん]()に続[つづ]()く 愛[あい]()のメロディ"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "G       D       Em      C",
+          "t": "ふとした仕草[しぐさ]()に 胸[むね]()が高鳴[たかな]()る"
+        },
+        {
+          "c": "G       D       Em      C",
+          "t": "小[ちい]()さな幸[しあわ]()せ 見[み]()つけに行[い]()こう"
+        },
+        {
+          "c": "G       D       Em      C",
+          "t": "ケンカもするけど すぐに仲直[なかなお]()り"
+        },
+        {
+          "c": "G       D       Em      C",
+          "t": "それが二人[ふたり]()の 絆[きずな]()になる"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus",
+      "lines": [
+        {
+          "c": "Am      Em      C       G",
+          "t": "時[とき]()には涙[なみだ]()も 流[なが]()すけれど"
+        },
+        {
+          "c": "Am      Em      C       D",
+          "t": "君[きみ]()がいれば 乗[の]()り越[こ]()えられる"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "G       D       Em      C",
+          "t": "ぐるぐる・ラブストーリー 夢[ゆめ]()の続[つづ]()きを"
+        },
+        {
+          "c": "G       D       Em      C",
+          "t": "二人[ふたり]()で描[えが]()こう 未来[みらい]()のキャンバス"
+        },
+        {
+          "c": "G       D       Em      C",
+          "t": "キラキラ輝[かがや]()く 星屑[ほしくず]()のように"
+        },
+        {
+          "c": "G       D       Em      C",
+          "t": "永遠[えいえん]()に続[つづ]()く 愛[あい]()のメロディ"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Em      D       G       C",
+          "t": "季節[きせつ]()は巡[めぐ]()り 景色[けしき]()は変[か]()わる"
+        },
+        {
+          "c": "Em      D       C       D",
+          "t": "でもこの気持[きも]ちは ずっと変[か]()わらない"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "G       D       Em      C",
+          "t": "ぐるぐる・ラブストーリー 夢[ゆめ]()の続[つづ]()きを"
+        },
+        {
+          "c": "G       D       Em      C",
+          "t": "二人[ふたり]()で描[えが]()こう 未来[みらい]()のキャンバス"
+        },
+        {
+          "c": "G       D       Em      C",
+          "t": "キラキラ輝[かがや]()く 星屑[ほしくず]()のように"
+        },
+        {
+          "c": "G       D       Em      C",
+          "t": "永遠[えいえん]()に続[つづ]()く 愛[あい]()のメロディ"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "G D Em C",
+          "t": ""
+        },
+        {
+          "c": "G D Em C",
+          "t": ""
+        },
+        {
+          "c": "G",
+          "t": ""
+        }
+      ]
+    }
+  ],
+  "calls": [],
+  "lyrics": [
+    {
+      "ja": "ぐるぐる回る 世界は今日も",
+      "romaji": "Guruguru mawaru sekai wa kyou mo",
+      "en": "The spinning world, today too,",
+      "zh": "旋轉的世界，今天也一樣，",
+      "notes": [
+        {
+          "word": "ぐるぐる",
+          "meaning": "spinning"
+        }
+      ]
+    },
+    {
+      "ja": "君と僕を乗せて 進んでく",
+      "romaji": "Kimi to boku o nosete susundeku",
+      "en": "Carries you and me forward.",
+      "zh": "載著你我，持續前進。"
+    },
+    {
+      "ja": "ドキドキするね 初めての感情",
+      "romaji": "Dokidoki suru ne hajimete no kanjou",
+      "en": "My heart pounds, a first-time feeling,",
+      "zh": "心跳加速呢，這份初次的感情，",
+      "notes": [
+        {
+          "word": "ドキドキ",
+          "meaning": "heartbeat"
+        }
+      ]
+    },
+    {
+      "ja": "手と手繋いで どこまでも行こう",
+      "romaji": "Te to te tsunaide doko made mo ikou",
+      "en": "Let's hold hands and go anywhere.",
+      "zh": "牽著手，無論到哪裡都一起去吧。"
+    },
+    {
+      "ja": "迷いながらも 見つけた光",
+      "romaji": "Mayoi nagara mo mitsuketa hikari",
+      "en": "A light I found even while lost,",
+      "zh": "即使迷惘，也找到的光芒，"
+    },
+    {
+      "ja": "それはきっと 君の笑顔",
+      "romaji": "Sore wa kitto kimi no egao",
+      "en": "That must surely be your smile.",
+      "zh": "那一定，是你的笑容。"
+    },
+    {
+      "ja": "ぐるぐる・ラブストーリー 夢の続きを",
+      "romaji": "Guruguru rabu sutoorii yume no tsuzuki o",
+      "en": "A spinning love story, the continuation of a dream,",
+      "zh": "轉圈圈的愛情故事，夢想的延續，"
+    },
+    {
+      "ja": "二人で描こう 未来のキャンバス",
+      "romaji": "Futari de egakou mirai no kyanbasu",
+      "en": "Let's paint it together on the canvas of the future.",
+      "zh": "兩人一起描繪吧，未來的畫布。"
+    },
+    {
+      "ja": "キラキラ輝く 星屑のように",
+      "romaji": "Kirakira kagayaku hoshikuzu no you ni",
+      "en": "Sparkling brightly like stardust,",
+      "zh": "閃閃發光，如同星塵一般，",
+      "notes": [
+        {
+          "word": "キラキラ",
+          "meaning": "sparkling"
+        }
+      ]
+    },
+    {
+      "ja": "永遠に続く 愛のメロディ",
+      "romaji": "Eien ni tsuzuku ai no merodi",
+      "en": "A melody of love that lasts forever.",
+      "zh": "永遠持續的，愛的旋律。"
+    },
+    {
+      "ja": "ふとした仕草に 胸が高鳴る",
+      "romaji": "Futoshita shigusa ni mune ga takanaru",
+      "en": "My heart beats fast at your casual gestures.",
+      "zh": "在不經意的舉動中，心跳加速。"
+    },
+    {
+      "ja": "小さな幸せ 見つけに行こう",
+      "romaji": "Chiisana shiawase mitsuke ni ikou",
+      "en": "Let's go find small happiness.",
+      "zh": "一起去尋找，小小的幸福吧。"
+    },
+    {
+      "ja": "ケンカもするけど すぐに仲直り",
+      "romaji": "Kenka mo suru kedo sugu ni nakanaori",
+      "en": "We might fight, but we make up quickly.",
+      "zh": "雖然也會吵架，但很快就和好。"
+    },
+    {
+      "ja": "それが二人の 絆になる",
+      "romaji": "Sore ga futari no kizuna ni naru",
+      "en": "That becomes our bond.",
+      "zh": "那會成為，兩人的羈絆。"
+    },
+    {
+      "ja": "時には涙も 流すけれど",
+      "romaji": "Toki ni wa namida mo nagasu keredo",
+      "en": "Sometimes we shed tears, but",
+      "zh": "雖然有時也會流淚，"
+    },
+    {
+      "ja": "君がいれば 乗り越えられる",
+      "romaji": "Kimi ga ireba norikoerareru",
+      "en": "If you're here, we can overcome anything.",
+      "zh": "只要有你在，就能克服。"
+    },
+    {
+      "ja": "季節は巡り 景色は変わる",
+      "romaji": "Kisetsu wa meguri keshiki wa kawaru",
+      "en": "Seasons turn, scenery changes,",
+      "zh": "季節輪轉，景色變換，"
+    },
+    {
+      "ja": "でもこの気持ちは ずっと変わらない",
+      "romaji": "Demo kono kimochi wa zutto kawaranai",
+      "en": "But these feelings will never change.",
+      "zh": "但這份心情，永遠不會改變。"
+    }
+  ]
+}

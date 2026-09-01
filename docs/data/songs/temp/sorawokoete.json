@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "title": "そらを超えて",
+    "artist": "ときのそら",
+    "originalKey": "C",
+    "composer": "Kijibato",
+    "lyricist": "Kijibato",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "album": "Dreaming!",
+    "capo": "0",
+    "releaseDate": "2019-03-27"
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": ""
+        },
+        {
+          "c": "F       C       G       C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "見慣[み(な)れ]た景色[け(しき)]に背[せ]を向[む]けて"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "踏[ふ]み出[だ]した一歩[いっ(ぽ)]は 少[すこ]しだけ震[ふる]えてた"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "でもね、大丈夫[だい(じょう)ぶ]"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "君[きみ]がくれた言葉[こと(ば)]が 背中[せ(なか)]を押[お]してくれたから"
+        },
+        {
+          "c": "F       G       C",
+          "t": "もう迷[まよ]わない"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "そらを超[こ]えて どこまでも行[い]こう"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "光[ひか]りの先[さき]へ 夢[ゆめ]を追[お]いかけて"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "どんな壁[かべ]も 乗[の]り越[こ]えてみせるよ"
+        },
+        {
+          "c": "F       G       C",
+          "t": "君[きみ]と一緒[いっ(しょ)]なら きっと"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "新[あたら]しい出会[であ]いと 別[わか]れを繰[く]り返[かえ]して"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "強[つよ]くなれた気[き]がする ありがとう"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "一人[ひと(り)]じゃないってこと 教[おし]えてくれた君[きみ]に"
+        },
+        {
+          "c": "F       G       C",
+          "t": "感謝[かん(しゃ)]してるよ"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "そらを超[こ]えて どこまでも行[い]こう"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "光[ひか]りの先[さき]へ 夢[ゆめ]を追[お]いかけて"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "どんな壁[かべ]も 乗[の]り越[こ]えてみせるよ"
+        },
+        {
+          "c": "F       G       C",
+          "t": "君[きみ]と一緒[いっ(しょ)]なら きっと"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "時[とき]には涙[なみだ]が溢[あふ]れても 君[きみ]の笑顔[え(がお)]が私[わたし]を照[て]らす"
+        },
+        {
+          "c": "F       G       C",
+          "t": "何度[なん(ど)]でも立[た]ち上[あ]がれる"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "そらを超[こ]えて どこまでも行[い]こう"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "光[ひか]りの先[さき]へ 夢[ゆめ]を追[お]いかけて"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "どんな壁[かべ]も 乗[の]り越[こ]えてみせるよ"
+        },
+        {
+          "c": "F       G       C",
+          "t": "君[きみ]と一緒[いっ(しょ)]なら きっと"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": ""
+        },
+        {
+          "c": "F       C       G       C",
+          "t": ""
+        },
+        {
+          "c": "C",
+          "t": "そらを超[こ]えて"
+        }
+      ]
+    }
+  ],
+  "calls": [],
+  "lyrics": [
+    {
+      "ja": "見慣れた景色に背を向けて",
+      "romaji": "Minareta keshiki ni se wo mukete",
+      "en": "Turning my back on the familiar scenery,",
+      "zh": "背對著熟悉的景色，"
+    },
+    {
+      "ja": "踏み出した一歩は",
+      "romaji": "Fumidashita ippo wa",
+      "en": "The first step I took",
+      "zh": "邁出的第一步，"
+    },
+    {
+      "ja": "少しだけ震えてた",
+      "romaji": "Sukoshi dake furueteta",
+      "en": "Trembled just a little.",
+      "zh": "有些許顫抖。"
+    },
+    {
+      "ja": "でもね、大丈夫",
+      "romaji": "Demo ne, daijoubu",
+      "en": "But it's okay, you know.",
+      "zh": "但是呢，沒關係的。"
+    },
+    {
+      "ja": "君がくれた言葉が",
+      "romaji": "Kimi ga kureta kotoba ga",
+      "en": "Because the words you gave me",
+      "zh": "因為你給我的話語，"
+    },
+    {
+      "ja": "背中を押してくれたから",
+      "romaji": "Senaka wo oshite kureta kara",
+      "en": "Pushed me forward,",
+      "zh": "推動了我的背脊，"
+    },
+    {
+      "ja": "もう迷わない",
+      "romaji": "Mou mayowanai",
+      "en": "I won't hesitate anymore.",
+      "zh": "我不再迷茫。"
+    },
+    {
+      "ja": "そらを超えて どこまでも行こう",
+      "romaji": "Sora wo koete doko made mo ikou",
+      "en": "Beyond the sky, let's go anywhere,",
+      "zh": "超越天空，無論去哪裡都行，"
+    },
+    {
+      "ja": "光の先へ 夢を追いかけて",
+      "romaji": "Hikari no saki e yume wo oikakete",
+      "en": "Towards the light, chasing our dreams.",
+      "zh": "追逐著夢想，前往光芒的彼方。"
+    },
+    {
+      "ja": "どんな壁も 乗り越えてみせるよ",
+      "romaji": "Donna kabe mo norikoete miseru yo",
+      "en": "I'll overcome any wall,",
+      "zh": "無論什麼樣的阻礙，我都會跨越給你看，"
+    },
+    {
+      "ja": "君と一緒なら きっと",
+      "romaji": "Kimi to issho nara kitto",
+      "en": "If I'm with you, I'm sure.",
+      "zh": "只要和你在一起，一定能做到。"
+    },
+    {
+      "ja": "新しい出会いと",
+      "romaji": "Atarashii deai to",
+      "en": "New encounters",
+      "zh": "新的相遇，"
+    },
+    {
+      "ja": "別れを繰り返して",
+      "romaji": ""
+    }
+  ]
+}

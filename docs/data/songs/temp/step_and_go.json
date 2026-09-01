@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "title": "Step and Go!!",
+    "artist": "ときのそら",
+    "originalKey": "C",
+    "composer": "多田慎也",
+    "lyricist": "多田慎也",
+    "penlight_color": [
+      "#ff0000"
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": " "
+        },
+        {
+          "c": "F       C       G       C",
+          "t": " "
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "いつだってそうさ 立ち止[た(ちど)ま](って)"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "ため息[ためいき](ついてた)日々[ひび](もあったね)"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "だけどもう大丈夫[だいじょうぶ]() 振[ふ](り)向[む](かない)"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "新[あたら](しい)私[わたし](に) Step and Go!!"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus 1",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "不安[ふあん](な)気持[きも](ちも) 迷[まよ](いも)全部[ぜんぶ]()"
+        },
+        {
+          "c": "F       G       C",
+          "t": "この歌[うた](に)乗[の](せて) 飛[と](び)越[こ](えていこう)"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "Step and Go!! 夢[ゆめ](に)向[む](かって)"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "一歩[いっぽ](ずつ)進[すす](むんだ) 諦[あきら](めない)"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "Step and Go!! 輝[かがや](く)未来[みらい](へ)"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "みんなと一緒[いっしょ](なら) どこまでも行[い](ける)"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "時[とき](には)つまずき 転[ころ](んでしまう)"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "そんな日[ひ](もあるさ) それでもいい"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "立[た](ち)上[あ(が)](ってまた) 歩[ある](き)出[だ](せば)"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "きっと強[つよ](くなれる) Step and Go!!"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus 2",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "笑顔[えがお](の)魔法[まほう](で) 涙[なみだ](も)拭[ふ](いて)"
+        },
+        {
+          "c": "F       G       C",
+          "t": "希望[きぼう](の)光[ひかり](を) 探[さが](しに)行[い](こう)"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "Step and Go!! 夢[ゆめ](に)向[む](かって)"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "一歩[いっぽ](ずつ)進[すす](むんだ) 諦[あきら](めない)"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "Step and Go!! 輝[かがや](く)未来[みらい](へ)"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "みんなと一緒[いっしょ](なら) どこまでも行[い](ける)"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "F       G       Em      Am",
+          "t": "一人[ひとり](じゃないんだ) 支[ささ](え)合[あ](って)"
+        },
+        {
+          "c": "F       G       C",
+          "t": "大[おお](きな)声[こえ](で) 歌[うた](い)続[つづ](けよう)"
+        },
+        {
+          "c": "F       G       Em      Am",
+          "t": "どんな困難[こんなん](も) 乗[の](り)越[こ](えられる)"
+        },
+        {
+          "c": "F       G       C",
+          "t": "信[しん](じる)気持[きも](ちが) 私[わたし](たちの)翼[つばさ]()"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": "Step and Go!! 夢[ゆめ](に)向[む](かって)"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "一歩[いっぽ](ずつ)進[すす](むんだ) 諦[あきら](めない)"
+        },
+        {
+          "c": "C       G       Am      Em",
+          "t": "Step and Go!! 輝[かがや](く)未来[みらい](へ)"
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "みんなと一緒[いっしょ](なら) どこまでも行[い](ける)"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "C G Am Em F C G C",
+          "t": "Step and Go!!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "Step and Go!! 夢に向かって",
+      "call": "Hey! Hey! Go!"
+    },
+    {
+      "lyrics": "一歩ずつ進むんだ 諦めない",
+      "call": "Sora! Sora! Fight!"
+    },
+    {
+      "lyrics": "Step and Go!! 輝く未来へ",
+      "call": "Hey! Hey! Go!"
+    },
+    {
+      "lyrics": "みんなと一緒なら どこまでも行ける",
+      "call": "Sora! Sora! Jump!"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "いつだってそうさ 立ち止まって",
+      "romaji": "Itsudatte sousa tachidomatte",
+      "en": "It's always been like this, stopping in my tracks",
+      "zh": "總是如此 停下腳步",
+      "notes": [
+        {
+          "word": "立ち止まって",
+          "meaning": "stopping"
+        }
+      ]
+    },
+    {
+      "ja": "ため息ついてた日々もあったね",
+      "romaji": "Tameiki tsuiteta hibi mo atta ne",
+      "en": "There were days I'd just sigh, weren't there?",
+      "zh": "也有過嘆息的日子呢",
+      "notes": [
+        {
+          "word": "ため息",
+          "meaning": "sigh"
+        }
+      ]
+    },
+    {
+      "ja": "だけどもう大丈夫 振り向かない",
+      "romaji": "Dakedo mou daijoubu furimukanai",
+      "en": "But it's alright now, I won't look back",
+      "zh": "但現在已經沒關係了 不再回頭",
+      "notes": [
+        {
+          "word": "大丈夫",
+          "meaning": "alright"
+        }
+      ]
+    },
+    {
+      "ja": "新しい私に Step and Go!!",
+      "romaji": "Atarashii watashi ni Step and Go!!",
+      "en": "Towards a new me, Step and Go!!",
+      "zh": "邁向嶄新的我 Step and Go!!",
+      "notes": [
+        {
+          "word": "新しい",
+          "meaning": "new"
+        }
+      ]
+    },
+    {
+      "ja": "不安な気持ちも 迷いも全部",
+      "romaji": "Fuan na kimochi mo mayoi mo zenbu",
+      "en": "All my anxieties and hesitations",
+      "zh": "不安的心情 迷惘的一切",
+      "notes": [
+        {
+          "word": "不安",
+          "meaning": "anxiety"
+        }
+      ]
+    },
+    {
+      "ja": "この歌に乗せて 飛び越えていこう",
+      "romaji": "Kono uta ni nosete tobikoete ikou",
+      "en": "I'll put them into this song and leap over them",
+      "zh": "乘著這首歌 讓我們一同跨越",
+      "notes": [
+        {
+          "word": "飛び越えて",
+          "meaning": "leap over"
+        }
+      ]
+    },
+    {
+      "ja": "Step and Go!! 夢に向かって",
+      "romaji": "Step and Go!! Yume ni mukatte",
+      "en": "Step and Go!! Towards our dreams",
+      "zh": "Step and Go!! 朝著夢想",
+      "notes": [
+        {
+          "word": "夢",
+          "meaning": "dream"
+        }
+      ]
+    },
+    {
+      "ja": "一歩ずつ進むんだ 諦めない",
+      "romaji": "Ippo zutsu susumunda akiramenai",
+      "en": "We'll advance step by step, never giving up",
+      "zh": "一步步前進 絕不放棄",
+      "notes": [
+        {
+          "word": "諦めない",
+          "meaning": "never give up"
+        }
+      ]
+    },
+    {
+      "ja": "Step and Go!! 輝く未来へ",
+      "romaji": "Step and Go!! Kagayaku mirai e",
+      "en": "Step and Go!! Towards a shining future",
+      "zh": "Step and Go!! 邁向閃耀的未來",
+      "notes": [
+        {
+          "word": "未来",
+          "meaning": "future"
+        }
+      ]
+    },
+    {
+      "ja": "みんなと一緒なら どこまでも行ける",
+      "romaji": "Minna to issho nara doko made mo ikeru",
+      "en": "If we're all together, we can go anywhere",
+      "zh": "只要和大家在一起 無論何處都能抵達",
+      "notes": [
+        {
+          "word": "一緒",
+          "meaning": "together"
+        }
+      ]
+    },
+    {
+      "ja": "時にはつまずき 転んでしまう",
+      "romaji": "Toki ni wa tsumazuki koronde shimau",
+      "en": "Sometimes we stumble and fall"
+    }
+  ]
+}

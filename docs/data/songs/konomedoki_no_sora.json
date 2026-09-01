@@ -1,0 +1,929 @@
+{
+  "meta": {
+    "title": "木の芽時の空（花時の空）",
+    "artist": "ときのそら",
+    "originalKey": "D",
+    "capo": "",
+    "description": "",
+    "composer": "路地裏ロジック",
+    "lyricist": "路地裏ロジック",
+    "album": "くもはれ",
+    "releaseDate": "2018/01/19",
+    "coverUrl": "cover_images/kumohare",
+    "penlight_color": [
+      "#0000ff", "#ffb3ef"
+    ],
+    "links": [
+      {"name": "路地裏ロジック 木の芽時の空", "url": "https://youtu.be/UWGffnBwccs?si=dqcSocuuPlZHBZRO"},
+      {"name": "soraSong MV 木の芽時の空", "url": "https://youtu.be/BvlCYJ1XZ3Y?si=_QBGtBqHkw0N_6hB"},
+      {"name": "路地裏ロジック 花時の空", "url": "https://youtu.be/kF-wfsSBems?si=zIZOOojMUxQaqTxi"},
+      {"name": "花時の空", "url": "https://youtu.be/cWDRKNLFBmc?si=WNw5OhyYWeJyL03H"}
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "    A",
+          "t": "----|"
+        },
+        {
+          "c": "D6    E     F#m7       D6   Esus4   A",
+          "t": "- - - - |- - - - |- - - - |- - - - |"
+        },
+        {
+          "c": "D6    E     F#m7       D6   Esus4   A",
+          "t": "- - - - |- - - - |- - - - |- - - - |"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "D6     Esus4   F#m7       D6  Esus4  A",
+          "t": "(見)渡(し)た(瞳)に映(る)(青)(空)"
+        },
+        {
+          "c": "D6     Esus4    F#m7   ",
+          "t": "(霞)み(か)け(だ)けれど"
+        },
+        {
+          "c": "      D6       Esus4      A",
+          "t": "踏み(出)して(み)よう(か)"
+        },
+        {
+          "c": "D6     Esus4     F#m7",
+          "t": "(透)き(通)った(キ)ャンバス"
+        },
+        {
+          "c": "      D6    Esus4  A",
+          "t": "これ(か)ら(の)(形)"
+        },
+        {
+          "c": "D6     Esus4   F#m7",
+          "t": "(忘)れ(た)り(し)ないよ"
+        },
+        {
+          "c": "      D6        Esus4        A",
+          "t": "それ(が)私[わ(た)し]だ(よ)"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "      F#m7     D         Esus4      A     F#m7     D        Esus4     A",
+          "t": "時計[(と)け(い)]は流[(な)が](さ)れ(ぐ)る(ぐ)る回[(ま)わ](る)"
+        },
+        {
+          "c": "      F#m7     D         Esus4      A           F#m7     D         Esus4      A",
+          "t": "足跡[(あ)し(あ)と]数[(か)ぞ](え)て靴紐[(く)つ(ひ)も]結[(む)す](ぶ)"
+        },
+        {
+          "c": "[D F G D']",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "D6            Esus4",
+          "t": "(花)ひらり開(い)てくよ"
+        },
+        {
+          "c": "F#m7               A/C#",
+          "t": "(寒)空でも愛[あ(い)]せるよ"
+        },
+        {
+          "c": "        D6",
+          "t": "そらへ(駆)けてく"
+        },
+        {
+          "c": "        F#m7",
+          "t": "ときを(生)きてる"
+        },
+        {
+          "c": "     A        G#m7b5      C#7",
+          "t": "止(ま)らない(よ)私[わ(た)し]"
+        },
+        {
+          "c": "D6                 Esus4",
+          "t": "(あ)なたのことも(知)ってるよ"
+        },
+        {
+          "c": "F#m7           A/C#",
+          "t": "(優)しい言葉(知)ってるよ"
+        },
+        {
+          "c": "        A        Bm7",
+          "t": "遠回[(と)おま(わ)]りでも"
+        },
+        {
+          "c": "       A/C#",
+          "t": "荒れた(道)でも"
+        },
+        {
+          "c": "        D           Esus4          D6",
+          "t": "歩[あ(る)]いてき(て)良かった(な)ぁ"
+        }
+      ]
+    },
+    {
+      "section": "Interlude 1",
+      "lines": [
+         {
+          "c": "D6    Esus4 F#m7        D6  Esus4   F#m7",
+          "t": "- - - - |- - - - |- - - - |- - - - |"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "D6        Esus4       F#m7            D6    Esus4    A",
+          "t": "(見)とれ(た)星[ほ(し)]影にかざ(す)手(の)ひ(ら)"
+        },
+        {
+          "c": "D6        Esus4   F#m7   ",
+          "t": "(と)めど(な)く(溢)れた"
+        },
+        {
+          "c": "   D6         Esus4           A",
+          "t": "深(い)空[そ(ら)]の色[い(ろ)]"
+        },
+        {
+          "c": "D6     Esus4    F#m7",
+          "t": "(思)え(ば)ど(ん)な日も"
+        },
+        {
+          "c": "      D6    Esus4    A",
+          "t": "ピー(ス)の(よ)う(で)"
+        },
+        {
+          "c": "    D6         Esus4       F#m",
+          "t": "私[(わ)たし](は)私[わ(た)し]だと"
+        },
+        {
+          "c": "   D6     Esus4      A",
+          "t": "信(じ)ら(れ)るん(だ)"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "F#m7     D     Esus4    A     F#m7  D  Esus4    A",
+          "t": "(目)を(閉)じ(て)好(き)な(歌)(口)(ず)さ(む)"
+        },
+        {
+          "c": "     F#m7    D      Esus4     A    F#m7  D    Esus4    A",
+          "t": "私[(わ)た(し)]の(メ)ロ(ディ)(届)(い)て(ま)す(か)"
+        },
+        {
+          "c": "[D F G D']",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "D6                   Esus4",
+          "t": "(花)ふわり彩[いろ(ど)]ってくよ"
+        },
+        {
+          "c": "F#m7          A/C#",
+          "t": "(巡)り集めた(絵)の具で"
+        },
+        {
+          "c": "      D6            F#m7",
+          "t": "旅の(思)い出お揃(い)なのは"
+        },
+        {
+          "c": "        A          G#m7b5       C#7",
+          "t": "支[さ(さ)]えあっ(た)証[あ(か)し]"
+        },
+        {
+          "c": "D6                     Esus4",
+          "t": "(た)わいない話[はな(し)]もしよう"
+        },
+        {
+          "c": "F#m7             E/G#",
+          "t": "(あ)なたの夢き(き)たいな"
+        },
+        {
+          "c": "        A       Bm7             A/C#",
+          "t": "隣[と(な)り](を)向いて笑い(か)けるよ"
+        },
+        {
+          "c": "     D        Esus4          FM7",
+          "t": "ず(っ)とずっ(と)ありがと(う)"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "        G              Em7            Am7",
+          "t": "雨[あ(め)]降る夜で(も) ここにあ(っ)たんだ"
+        },
+        {
+          "c": "G       Dm7     Em7              FM7               Em7",
+          "t": "(あ)の(空)の(色)を 光[ひか(り)]待つ場所[ば(しょ)]を"
+        },
+        {
+          "c": "            Dm7          Em7        FM7    G7/F    C",
+          "t": "旅路[たび(じ)]のキセ(キ)を 見(せ)た(い)か(ら)"
+        },
+        {
+          "c": "C  D  G  Em7    Am7  G/B  C  D",
+          "t": "-  -  -  -  |-  -  -  -  |"
+        }
+      ]
+    },
+    {
+      "section": "Verse 3",
+      "lines": [
+        {
+          "c": "C       Dsus4   Em7       C             D        G",
+          "t": "(見)渡(し)た(瞳)は春(の)青空[あ(お)ぞ(ら)]"
+        },
+        {
+          "c": "C         Dsus4 Em7",
+          "t": "(木)の芽(風)(微)かに"
+        },
+        {
+          "c": "    C       D        G",
+          "t": "髪(を)揺(ら)して(く)"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "C                Dsus4",
+          "t": "(あ)なたの声が(聴)こえる"
+        },
+        {
+          "c": "Em7                    G",
+          "t": "(響)きあう音は強[つ(よ)]く"
+        },
+        {
+          "c": "             C                Em7",
+          "t": "この高[た(か)]鳴りと同じ(速)さで"
+        },
+        {
+          "c": "        G          D > > >",
+          "t": "夢[ゆ(め)]の先(へ)==="
+        },
+        {
+          "c": "E > > > X",
+          "t": "= = = =|"
+        },
+        {
+          "c": "    D6         Esus4",
+          "t": "花(ひ)らり開(い)てくよ"
+        },
+        {
+          "c": "F#m7               A/C#",
+          "t": "(寒)空でも愛[あ(い)]せるよ"
+        },
+        {
+          "c": "         D6",
+          "t": "そらへ(駆)けてく"
+        },
+        {
+          "c": "        F#m",
+          "t": "ときを(生)きてる"
+        },
+        {
+          "c": "     A        G#m7b5      C#7",
+          "t": "止(ま)らない(よ)私[わ(た)し]"
+        },
+        {
+          "c": "D6                 Esus4",
+          "t": "(あ)なたのことも(知)ってるよ"
+        },
+        {
+          "c": "F#m7           A/C#",
+          "t": "(優)しい言葉(知)ってるよ"
+        },
+        {
+          "c": "        A        Bm7                 A/C",
+          "t": "遠回[(と)おま(わ)]りでも荒れた(道)でも"
+        },
+        {
+          "c": "        D          Esus4           F#m7       Faug   A/E   D#m7b5",
+          "t": "歩[あ(る)]いてき(て)良かった(なぁ)...  ==   ==   ==|"
+        },
+        {
+          "c": "    Bm7       Esus4",
+          "t": "止(ま)らない(よ)"
+        },
+        {
+          "c": "              D6          Esus4",
+          "t": "一緒に歩[あ(る)]いてい(こ)う"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "D6    Esus4 F#m7       D6   Esus4   F#m7",
+          "t": "- - - - |- - - - |- - - - |- - - - |"
+        },
+        {
+          "c": "D6    Esus4 F#m7       D6   Esus4   F#m7",
+          "t": "- - - - |- - - - |- - - - |- - - - |"
+        },
+        {
+          "c": "D6    Esus4 F#m7       D6   Esus4   F#m7",
+          "t": "- - - - |- - - - |- - - - |- - - - |"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "見渡した瞳に映る青空",
+      "call": ""
+    },
+    {
+      "lyrics": "霞みかけだけれど",
+      "call": ""
+    },
+    {
+      "lyrics": "踏み出してみようか",
+      "call": ""
+    },
+    {
+      "lyrics": "透き通ったキャンバス",
+      "call": ""
+    },
+    {
+      "lyrics": "これからの形",
+      "call": ""
+    },
+    {
+      "lyrics": "忘れたりしないよ",
+      "call": ""
+    },
+    {
+      "lyrics": "それが私だよ",
+      "call": ""
+    },
+    {
+      "lyrics": "時計は流されぐるぐる回る",
+      "call": ""
+    },
+    {
+      "lyrics": "足跡数えて靴紐結ぶ",
+      "call": ""
+    },
+    {
+      "lyrics": "花ひらり開いてくよ",
+      "call": ""
+    },
+    {
+      "lyrics": "寒空でも愛せるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "そらへ駆けてく",
+      "call": ""
+    },
+    {
+      "lyrics": "ときを生きてる",
+      "call": ""
+    },
+    {
+      "lyrics": "止まらないよ私",
+      "call": ""
+    },
+    {
+      "lyrics": "あなたのことも知ってるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "優しい言葉知ってるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "遠回りでも荒れた道でも",
+      "call": ""
+    },
+    {
+      "lyrics": "歩いてきて良かったなぁ",
+      "call": ""
+    },
+    {
+      "lyrics": "見とれた星影にかざす手のひら",
+      "call": ""
+    },
+    {
+      "lyrics": "とめどなく溢れた",
+      "call": ""
+    },
+    {
+      "lyrics": "深い空の色",
+      "call": ""
+    },
+    {
+      "lyrics": "思えばどんな日も",
+      "call": ""
+    },
+    {
+      "lyrics": "ピースのようで",
+      "call": ""
+    },
+    {
+      "lyrics": "私は私だと",
+      "call": ""
+    },
+    {
+      "lyrics": "信じられるんだ",
+      "call": ""
+    },
+    {
+      "lyrics": "目を閉じて好きな歌口ずさむ",
+      "call": ""
+    },
+    {
+      "lyrics": "私のメロディ届いてますか",
+      "call": ""
+    },
+    {
+      "lyrics": "花ふわり彩ってくよ",
+      "call": ""
+    },
+    {
+      "lyrics": "巡り集めた絵の具で",
+      "call": ""
+    },
+    {
+      "lyrics": "旅の思い出お揃いなのは",
+      "call": ""
+    },
+    {
+      "lyrics": "支えあった証",
+      "call": ""
+    },
+    {
+      "lyrics": "たわいない話もしよう",
+      "call": ""
+    },
+    {
+      "lyrics": "あなたの夢ききたいな",
+      "call": ""
+    },
+    {
+      "lyrics": "隣を向いて笑いかけるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "ずっとずっとありがとう",
+      "call": ""
+    },
+    {
+      "lyrics": "雨降る夜でも ここにあったんだ",
+      "call": ""
+    },
+    {
+      "lyrics": "あの空の色を 光待つ場所を",
+      "call": ""
+    },
+    {
+      "lyrics": "旅路のキセキを 見せたいから",
+      "call": ""
+    },
+    {
+      "lyrics": "見渡した瞳は春の青空",
+      "call": ""
+    },
+    {
+      "lyrics": "木の芽風微かに",
+      "call": ""
+    },
+    {
+      "lyrics": "髪を揺らしてく",
+      "call": ""
+    },
+    {
+      "lyrics": "あなたの声が聴こえる",
+      "call": ""
+    },
+    {
+      "lyrics": "響きあう音は強く",
+      "call": ""
+    },
+    {
+      "lyrics": "この高鳴りと同じ速さで",
+      "call": ""
+    },
+    {
+      "lyrics": "夢の先へ",
+      "call": ""
+    },
+    {
+      "lyrics": "花ひらり開いてくよ",
+      "call": ""
+    },
+    {
+      "lyrics": "寒空でも愛せるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "そらへ駆けてく",
+      "call": ""
+    },
+    {
+      "lyrics": "ときを生きてる",
+      "call": ""
+    },
+    {
+      "lyrics": "止まらないよ私",
+      "call": ""
+    },
+    {
+      "lyrics": "あなたのことも知ってるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "優しい言葉知ってるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "遠回りでも荒れた道でも",
+      "call": ""
+    },
+    {
+      "lyrics": "歩いてきて良かったなぁ...",
+      "call": ""
+    },
+    {
+      "lyrics": "止まらないよ",
+      "call": ""
+    },
+    {
+      "lyrics": "一緒に歩いていこう",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+      {
+      "ja": "見渡した瞳に映る青空",
+      "romaji": "Mawatashita Hitomi ni Utsuru Aozora",
+      "en": "The blue sky reflected in my eyes as I gazed upon the horizon",
+      "zh": "眺望着遠方，雙眸裏映照著藍天"
+    },
+    {
+      "ja": "霞みかけだけれど",
+      "romaji": "Kasumi Kakeda keredo",
+      "en": "Although it is hazy ahead",
+      "zh": "縱使前方滿是陰霾"
+    },
+    {
+      "ja": "踏み出してみようか",
+      "romaji": "Fumidashite Miyou ka",
+      "en": "I shall still try taking a step forward",
+      "zh": "還是試著邁出步伐吧"
+    },
+    {
+      "ja": "透き通ったキャンバス",
+      "romaji": "Sukitootta Kyanbasu",
+      "en": "The crystal clear canvas",
+      "zh": "通透的畫布"
+    },
+    {
+      "ja": "これからの形",
+      "romaji": "Korekara no Katachi",
+      "en": "and the shape it is going to become -",
+      "zh": "它未來的形狀"
+    },
+    {
+      "ja": "忘れたりしないよ",
+      "romaji": "Wasuretari Shinai yo",
+      "en": "I will never forget it",
+      "zh": "我絕對不會忘記啊"
+    },
+    {
+      "ja": "それが私だよ",
+      "romaji": "Sore ga Watashi dayo",
+      "en": "That is who I am",
+      "zh": "那就是我啊"
+    },
+    {
+      "ja": "時計は流されぐるぐる回る",
+      "romaji": "Tokei ha Nagasare Guruguru Mawaru",
+      "en": "The clock ticks along, spinning round and round",
+      "zh": "時針隨時間流轉滴答滴答地轉動"
+    },
+    {
+      "ja": "足跡数えて靴紐結ぶ",
+      "romaji": "Ashiato Kazoete Kutsuhimo Musubu",
+      "en": "Counting footprints as I tied my shoelaces",
+      "zh": "細數著腳印，繋好鞋帶"
+    },
+    {
+      "ja": "花ひらり開いてくよ",
+      "romaji": "Hana Hirari Hiraiteku yo",
+      "en": "Flowers bloom as they flutter",
+      "zh": "花兒翩翩綻放開來"
+    },
+    {
+      "ja": "寒空でも愛せるよ",
+      "romaji": "Samazora demo Aiseru yo",
+      "en": "I can adore even under a freezing sky",
+      "zh": "即使在寒空之下也令人憐愛"
+    },
+    {
+      "ja": "そらへ駆けてく",
+      "romaji": "Sora he Kaketeku",
+      "en": "Dashing towards the sky",
+      "zh": "奔向天空"
+    },
+    {
+      "ja": "ときを生きてる",
+      "romaji": "Toki wo Ikiteru",
+      "en": "Living in this moment",
+      "zh": "活在頃刻"
+    },
+    {
+      "ja": "止まらないよ私",
+      "romaji": "Tomaranai yo Watashi",
+      "en": "Never would I stop, ever",
+      "zh": "我是不會停下來的啊"
+    },
+    {
+      "ja": "あなたのことも知ってるよ",
+      "romaji": "Anata no Koto mo Shitteru yo",
+      "en": "I know about you too",
+      "zh": "我也知道你的事情喔"
+    },
+    {
+      "ja": "優しい言葉知ってるよ",
+      "romaji": "Yasashii Kotoba Shitteru yo",
+      "en": "I also know the kind words you say",
+      "zh": "也知道你所說過的溫柔話語"
+    },
+    {
+      "ja": "遠回りでも荒れた道でも",
+      "romaji": "Toomawari demo Areta Michi demo",
+      "en": "Even if it's a detour; even if it's a rough road",
+      "zh": "縱使是迂回的遠路 或是崎嶇的荒路"
+    },
+    {
+      "ja": "歩いてきて良かったなぁ",
+      "romaji": "Aruite Kite Yokatta naa",
+      "en": "I'm so glad we traversed it all the way here",
+      "zh": "能一路走過來真是太好了呢"
+    },
+    {
+      "ja": "見とれた星影にかざす手のひら",
+      "romaji": "Mitoreta Hoshikage ni Kazasu Tenohira",
+      "en": "Holding up my palm against the mesmerizing starlight",
+      "zh": "將手掌高舉向着令人著迷的星光"
+    },
+    {
+      "ja": "とめどなく溢れた",
+      "romaji": "Tomedonaku Afureta",
+      "en": "Overflowing endlessly are",
+      "zh": "繁星間源源不絕地湧出"
+    },
+    {
+      "ja": "深い空の色",
+      "romaji": "Fukai Sora no Iro",
+      "en": "the deep colors of the sky",
+      "zh": "深邃的天空色彩"
+    },
+    {
+      "ja": "思えばどんな日も",
+      "romaji": "Omoeba Donna Hi mo",
+      "en": "Looking back, no matter what kind of day it was,",
+      "zh": "回想起來，無論哪一天"
+    },
+    {
+      "ja": "ピースのようで",
+      "romaji": "Piisu no You de",
+      "en": "they were all puzzle pieces",
+      "zh": "都像是拼圖的一塊"
+    },
+    {
+      "ja": "私は私だと",
+      "romaji": "Watashi ha Watashi da to",
+      "en": "that made me able to believe",
+      "zh": "令我能夠堅信着"
+    },
+    {
+      "ja": "信じられるんだ",
+      "romaji": "Shinjirarendan",
+      "en": "that I am me",
+      "zh": "我就是我"
+    },
+    {
+      "ja": "目を閉じて好きな歌口ずさむ",
+      "romaji": "Me wo Tojite Sukina Uta Kuchizusamu",
+      "en": "Closing my eyes, humming my favorite song",
+      "zh": "閉上雙眼 哼唱著喜歡的歌曲"
+    },
+    {
+      "ja": "私のメロディ届いてますか",
+      "romaji": "Watashi no Merodi Todoitemasu ka",
+      "en": "Is my melody reaching you?",
+      "zh": "你聽得到我的旋律嗎？"
+    },
+    {
+      "ja": "花ふわり彩ってくよ",
+      "romaji": "Hana Fuwari Irodotteku yo",
+      "en": "Embellishing flowers softly with colors",
+      "zh": "用一路走來蒐集的畫具"
+    },
+    {
+      "ja": "巡り集めた絵の具で",
+      "romaji": "Meguri Atsumeta Enogu de",
+      "en": "using the paints and brushes I have gathered along the journey",
+      "zh": "為花朵輕盈地添上色彩"
+    },
+
+    {
+      "ja": "旅の思い出お揃いなのは",
+      "romaji": "Tabi no Omoide Osoroi na no ha",
+      "en": "The shared memories in our journeys",
+      "zh": "在旅途的回憶裏，相印的"
+    },
+    {
+      "ja": "支えあった証",
+      "romaji": "Sasaeatta Akashi",
+      "en": "is the proof that we carried each other through",
+      "zh": "正是我們互相扶持的證明"
+    },
+    {
+      "ja": "たわいない話もしよう",
+      "romaji": "Tawainai Hanashi mo Shiyou",
+      "en": "Let's chat about silly, casual things too",
+      "zh": "也來聊些無關緊要的小事吧"
+    },
+    {
+      "ja": "あなたの夢ききたいな",
+      "romaji": "Anata no Yume Kikitai na",
+      "en": "I want to hear about your dream as well",
+      "zh": "也想聽聽你的夢想呢"
+    },
+    {
+      "ja": "隣を向いて笑いかけるよ",
+      "romaji": "Tonari wo Muite Waraikakeru yo",
+      "en": "I'll turn to your side with a smile",
+      "zh": "我會轉身向著你微笑啊"
+    },
+    {
+      "ja": "ずっとずっとありがとう",
+      "romaji": "Zutto Zutto Arigatou",
+      "en": "Thank you forever and always",
+      "zh": "一直、一直以來真的謝謝你"
+    },
+    {
+      "ja": "雨降る夜でも ここにあったんだ",
+      "romaji": "Ame Furu Yoru demo Koko ni Attanda",
+      "en": "Even on rainy nights, you are right here",
+      "zh": "即使是在滂沱雨夜 也一直在這裡"
+    },
+    {
+      "ja": "あの空の色を 光待つ場所を",
+      "romaji": "Ano Sora no Iro wo Hikari Matsu Basho wo",
+      "en": "The colors of that sky, the place waiting for light,",
+      "zh": "那片天空的顏色 那個等候曙光的地方"
+    },
+    {
+      "ja": "旅路のキセキを 見せたいから",
+      "romaji": "Tabiji no Kiseki wo Misetai kara",
+      "en": "the miraculiferous journey, are all that I want you to see",
+      "zh": "這段奇蹟的旅途 都想讓你看見",
+      "notes": [
+        {
+          "word": "キセキ",
+          "meaning": "a double entendre of 奇蹟 (miracle) and 軌跡 (trajectory) \n 語帶雙關，可同時解作奇蹟和軌跡"
+        }
+      ]
+    },
+    {
+      "ja": "見渡した瞳は春の青空",
+      "romaji": "Mawatashita Hitomi ha Haru no Aozora",
+      "en": "The eyes gazing upon the horizon is the blue sky of springtime",
+      "zh": "眺望着遠方的雙眸，是春日的藍天"
+    },
+    {
+      "ja": "木の芽風微かに",
+      "romaji": "Konomekaze Kasuka ni",
+      "en": "The spring breeze faintly",
+      "zh": "初春的微風輕輕"
+    },
+    {
+      "ja": "髪を揺らしてく",
+      "romaji": "Kami wo Yurashiteku",
+      "en": "sways my hair",
+      "zh": "搖曳著髮梢"
+    },
+    {
+      "ja": "あなたの声が聴こえる",
+      "romaji": "Anata no Koe ga Kikoeru",
+      "en": "I can hear your voice",
+      "zh": "我能聽見你的聲音"
+    },
+    {
+      "ja": "響きあう音は強く",
+      "romaji": "Hibikiai Oto ha Tsuyoku",
+      "en": "The sounds that resonate between us grow ever stronger",
+      "zh": "彼此共鳴的聲音是如此強烈"
+    },
+    {
+      "ja": "この高鳴りと同じ速さで",
+      "romaji": "Kono Takanari to Onaji Hayasa de",
+      "en": "Using the same speed as this thumping heart,",
+      "zh": "用與這份悸動一樣的速度"
+    },
+    {
+      "ja": "夢の先へ",
+      "romaji": "Yume no Saki he",
+      "en": "let's head towards the next chapter of our dream",
+      "zh": "邁向夢的彼方"
+    },
+
+    {
+      "ja": "花ひらり開いてくよ",
+      "romaji": "Hana Hirari Hiraiteku yo",
+      "en": "Flowers flutteringly bloom",
+      "zh": "花兒翩然綻放開來"
+    },
+    {
+      "ja": "寒空でも愛せるよ",
+      "romaji": "Samazora demo Aiseru yo",
+      "en": "I can love even if it is a freezing sky",
+      "zh": "即使在寒冷的天空之下也能去愛"
+    },
+    {
+      "ja": "そらへ駆けてく",
+      "romaji": "Sora he Kaketeku",
+      "en": "Dashing towards the sky",
+      "zh": "奔向天空"
+    },
+    {
+      "ja": "ときを生きてる",
+      "romaji": "Toki wo Ikiteru",
+      "en": "Living thorugh time",
+      "zh": "活過時間"
+    },
+    {
+      "ja": "止まらないよ私",
+      "romaji": "Tomaranai yo Watashi",
+      "en": "No, I won't stop",
+      "zh": "我不會停下來的啊"
+    },
+    {
+      "ja": "あなたのことも知ってるよ",
+      "romaji": "Anata no Koto mo Shitteru yo",
+      "en": "I know about you",
+      "zh": "我也知道你的事情"
+    },
+    {
+      "ja": "優しい言葉知ってるよ",
+      "romaji": "Yasashii Kotoba Shitteru yo",
+      "en": "and the kind words that you said too",
+      "zh": "也記得你説過的溫柔話語啊"
+    },
+    {
+      "ja": "遠回りでも荒れた道でも",
+      "romaji": "Toomawari demo Areta Michi demo",
+      "en": "Even if it's a detour; even if it's a rough road",
+      "zh": "縱使是迂回的遠路 或是崎嶇的荒路"
+    },
+    {
+      "ja": "歩いてきて良かったなぁ...",
+      "romaji": "Aruite Kite Yokatta naa...",
+      "en": "I'm so glad we traversed it all the way here...",
+      "zh": "能一路走過來真是太好了呢..."
+    },
+    {
+      "ja": "止まらないよ",
+      "romaji": "Tomaranai yo",
+      "en": "won't be stopping",
+      "zh": "不會停下來啊"
+    },
+    {
+      "ja": "一緒に歩いていこう",
+      "romaji": "Issho ni Aruite Ikou",
+      "en": "Let's walk forward together",
+      "zh": " 一起邁步前進吧"
+    }
+  ]
+}

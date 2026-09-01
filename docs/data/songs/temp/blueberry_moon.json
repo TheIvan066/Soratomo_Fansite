@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "title": "ブルーベリームーン",
+    "artist": "ときのそら",
+    "originalKey": "C",
+    "composer": "原田雄一",
+    "lyricist": "原田雄一",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "album": "Dreaming!",
+    "releaseDate": "2019-03-27"
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "C G Am Em F C G C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "C         G",
+          "t": "ゆれる()街灯[がいとう] 篠突[し(の)つ](く)雨[あめ]"
+        },
+        {
+          "c": "Am        Em",
+          "t": "傘[かさ]もささずに 立ち尽[た(ち)つ](く)す"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus 1",
+      "lines": [
+        {
+          "c": "F         G",
+          "t": "君[きみ]の言葉[ことば]が 胸[むね]に響[ひび](く)"
+        },
+        {
+          "c": "Em        Am",
+          "t": "忘[わす]れられない あの日[ひ]のこと"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "C         G",
+          "t": "ブルーベリームーン 夜空[よぞら]に浮[う](かぶ)"
+        },
+        {
+          "c": "Am        Em",
+          "t": "淡[あわ]い光[ひかり]が 僕[ぼく]らを照[て](らす)"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "C         G",
+          "t": "冷[つめ]たい風[かぜ]が 頬[ほお]を撫[な](でる)"
+        },
+        {
+          "c": "Am        Em",
+          "t": "君[きみ]の温[ぬく]もり 思[おも]い出[だ](す)"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus 2",
+      "lines": [
+        {
+          "c": "F         G",
+          "t": "遠[とお]い記憶[きおく]が 蘇[よみがえ](る)"
+        },
+        {
+          "c": "Em        Am",
+          "t": "もう一度[いちど]だけ 会[あ](いたい)な"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "C         G",
+          "t": "ブルーベリームーン 夜空[よぞら]に浮[う](かぶ)"
+        },
+        {
+          "c": "Am        Em",
+          "t": "淡[あわ]い光[ひかり]が 僕[ぼく]らを照[て](らす)"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "F         G",
+          "t": "時[とき]が流[なが]れても 変[か](わらない)"
+        },
+        {
+          "c": "Em        Am",
+          "t": "この想[おも]いは 永遠[えいえん]に"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "C         G",
+          "t": "ブルーベリームーン 夜空[よぞら]に浮[う](かぶ)"
+        },
+        {
+          "c": "Am        Em",
+          "t": "淡[あわ]い光[ひかり]が 僕[ぼく]らを照[て](らす)"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "C G Am Em F C G C",
+          "t": ""
+        }
+      ]
+    }
+  ],
+  "calls": [],
+  "lyrics": [
+    {
+      "ja": "ゆれる街灯 篠突く雨",
+      "romaji": "Yureru gaitou shinotsuku ame",
+      "en": "Swaying streetlights, a driving rain,",
+      "zh": "搖曳的路燈，滂沱大雨，",
+      "notes": [
+        {
+          "word": "篠突く雨",
+          "meaning": "driving rain"
+        }
+      ]
+    },
+    {
+      "ja": "傘もささずに 立ち尽くす",
+      "romaji": "Kasa mo sasazu ni tachitsukusu",
+      "en": "I stand still without an umbrella.",
+      "zh": "我撐著傘，佇立原地。"
+    },
+    {
+      "ja": "君の言葉が 胸に響く",
+      "romaji": "Kimi no kotoba ga mune ni hibiku",
+      "en": "Your words echo in my heart,",
+      "zh": "你的話語，迴盪在我心中，",
+      "notes": [
+        {
+          "word": "響く",
+          "meaning": "echo"
+        }
+      ]
+    },
+    {
+      "ja": "忘れられない あの日のこと",
+      "romaji": "Wasurerarenai ano hi no koto",
+      "en": "I can't forget that day.",
+      "zh": "那一天，我無法忘懷。"
+    },
+    {
+      "ja": "ブルーベリームーン 夜空に浮かぶ",
+      "romaji": "Blueberry Moon Yozora ni ukabu",
+      "en": "Blueberry Moon, floating in the night sky,",
+      "zh": "藍莓月亮，浮現夜空，"
+    },
+    {
+      "ja": "淡い光が 僕らを照らす",
+      "romaji": "Awai hikari ga bokura wo terasu",
+      "en": "Its faint light illuminates us.",
+      "zh": "微弱的光芒，照耀著我們。",
+      "notes": [
+        {
+          "word": "淡い",
+          "meaning": "faint"
+        }
+      ]
+    },
+    {
+      "ja": "冷たい風が 頬を撫でる",
+      "romaji": "Tsumetai kaze ga hoo wo naderu",
+      "en": "A cold wind brushes my cheek,",
+      "zh": "冰冷的風，輕撫我的臉頰，",
+      "notes": [
+        {
+          "word": "撫でる",
+          "meaning": "brush"
+        }
+      ]
+    },
+    {
+      "ja": "君の温もり 思い出す",
+      "romaji": "Kimi no nukumori omoidasu",
+      "en": "I remember your warmth.",
+      "zh": "我想起了你的溫暖。"
+    },
+    {
+      "ja": "遠い記憶が 蘇る",
+      "romaji": "Tooi kioku ga yomigaeru",
+      "en": "Distant memories revive,",
+      "zh": "遙遠的記憶，再次浮現，",
+      "notes": [
+        {
+          "word": "蘇る",
+          "meaning": "revive"
+        }
+      ]
+    },
+    {
+      "ja": "もう一度だけ 会いたいな",
+      "romaji": "Mou ichido dake aitai na",
+      "en": "I wish to see you just one more time.",
+      "zh": "我多麼想再見你一面。"
+    },
+    {
+      "ja": "ブルーベリームーン 夜空に浮かぶ",
+      "romaji": "Blueberry Moon Yozora ni ukabu",
+      "en": "Blueberry Moon, floating in the night sky,",
+      "zh": "藍莓月亮，浮現夜空，"
+    },
+    {
+      "ja": "淡い光が 僕らを照らす",
+      "romaji": "Awai hikari ga bokura wo terasu",
+      "en": "Its faint light illuminates us.",
+      "zh": "微弱的光芒，照耀著我們。"
+    },
+    {
+      "ja": "時が流れても 変わらない",
+      "romaji": "Toki ga nagarete mo kawaranai",
+      "en": "Even if time flows on, these feelings won't change,",
+      "zh": "即使時光流逝，這份思念也不會改變，"
+    },
+    {
+      "ja": "この想いは 永遠に",
+      "romaji": "Kono omoi wa eien ni",
+      "en": "They are eternal.",
+      "zh": "它將永遠存在。",
+      "notes": [
+        {
+          "word": "永遠に",
+          "meaning": "eternally"
+        }
+      ]
+    },
+    {
+      "ja": "ブルーベリームーン 夜空に浮かぶ",
+      "romaji": "Blueberry Moon Yozora ni ukabu",
+      "en": "Blueberry Moon, floating in the night sky,",
+      "zh": "藍莓月亮，浮現夜空，"
+    },
+    {
+      "ja": "淡い光が 僕らを照らす",
+      "romaji": "Awai hikari ga bokura wo terasu",
+      "en": "Its faint light illuminates us.",
+      "zh": "微弱的光芒，照耀著我們。"
+    }
+  ]
+}

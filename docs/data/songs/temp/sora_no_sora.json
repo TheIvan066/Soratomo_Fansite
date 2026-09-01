@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "title": "空ノ空",
+    "artist": "ときのそら",
+    "originalKey": "C",
+    "composer": "広川恵一",
+    "lyricist": "畑亜貴",
+    "penlight_color": [
+      "Blue"
+    ],
+    "album": "Dreaming!",
+    "releaseDate": "2019-03-27"
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "C G",
+          "t": ""
+        },
+        {
+          "c": "Am Em",
+          "t": ""
+        },
+        {
+          "c": "F C",
+          "t": ""
+        },
+        {
+          "c": "G C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "C G",
+          "t": "見上げた空は"
+        },
+        {
+          "c": "Am Em",
+          "t": "どこまでも広がる"
+        },
+        {
+          "c": "F C",
+          "t": "夢を乗せて"
+        },
+        {
+          "c": "G C",
+          "t": "輝く未来へ"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "F G",
+          "t": "空ノ空 歌おう"
+        },
+        {
+          "c": "Em Am",
+          "t": "希望の歌を"
+        },
+        {
+          "c": "Dm G",
+          "t": "みんなと一緒なら"
+        },
+        {
+          "c": "C",
+          "t": "どこまでも行ける"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "見上げた空は",
+      "call": "Hai!"
+    },
+    {
+      "lyrics": "どこまでも広がる",
+      "call": "Fu Fu!"
+    },
+    {
+      "lyrics": "輝く未来へ",
+      "call": "Sora-chan!"
+    },
+    {
+      "lyrics": "空ノ空 歌おう",
+      "call": "Hai! Hai!"
+    },
+    {
+      "lyrics": "希望の歌を",
+      "call": "Fuwa Fuwa!"
+    },
+    {
+      "lyrics": "どこまでも行ける",
+      "call": "Yeah!"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "見上げた空は",
+      "romaji": "Miageta sora wa",
+      "en": "The sky I looked up at,",
+      "zh": "我所仰望的天空，"
+    },
+    {
+      "ja": "どこまでも広がる",
+      "romaji": "Dokomademo hirogaru",
+      "en": "Spreads out endlessly,",
+      "zh": "無限地延伸開來，"
+    },
+    {
+      "ja": "夢を乗せて",
+      "romaji": "Yume wo nosete",
+      "en": "Carrying our dreams,",
+      "zh": "承載著夢想，"
+    },
+    {
+      "ja": "輝く未来へ",
+      "romaji": "Kagayaku mirai e",
+      "en": "Towards a shining future.",
+      "zh": "邁向閃耀的未來。"
+    },
+    {
+      "ja": "空ノ空 歌おう",
+      "romaji": "Sora no Sora utaou",
+      "en": "Let's sing Sora no Sora,",
+      "zh": "歌唱空之空吧，",
+      "notes": [
+        {
+          "word": "空ノ空",
+          "meaning": "A clever wordplay. 'Sora' (空) means 'sky', and it is also Tokino Sora's name. Thus, it can be interpreted as 'Sky's Sky' or 'Sora's Sky', symbolizing her boundless presence and aspirations."
+        }
+      ]
+    },
+    {
+      "ja": "希望の歌を",
+      "romaji": "Kibou no uta wo",
+      "en": "A song of hope,",
+      "zh": "一首希望之歌，"
+    },
+    {
+      "ja": "みんなと一緒なら",
+      "romaji": "Minna to issho nara",
+      "en": "If we're all together,",
+      "zh": "如果大家在一起，"
+    },
+    {
+      "ja": "どこまでも行ける",
+      "romaji": "Dokomademo ikeru",
+      "en": "We can go anywhere.",
+      "zh": "就能去到任何地方。"
+    }
+  ]
+}

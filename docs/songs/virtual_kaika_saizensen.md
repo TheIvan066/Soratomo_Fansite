@@ -1,0 +1,1 @@
+<div id="song-app-root" data-source="/data/songs/virtual_kaika_saizensen.json"></div>

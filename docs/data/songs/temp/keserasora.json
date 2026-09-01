@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "title": "ケ・セラ・ソラ!",
+    "artist": "ときのそら",
+    "originalKey": "F",
+    "composer": "komo(狐妄)",
+    "lyricist": "komo(狐妄)",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "album": "Dreaming!",
+    "capo": "0",
+    "coverUrl": "https://hololive.hololivepro.com/wp-content/uploads/2023/03/TokinoSora_Dreaming_jacket.jpg",
+    "description": "Tokino Sora's cheerful and encouraging song, 'Que Sera Sora!', meaning 'Whatever will be, will be, Sora!'. This beginner-friendly version simplifies the chords for easy play.",
+    "releaseDate": "2019-03-27"
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": ""
+        },
+        {
+          "c": "F       C       G       C",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "C           G           Am      Em",
+          "t": "ねぇ、そらともさん 今日[きょう]()も元気[げんき]()？"
+        },
+        {
+          "c": "F           C           G       C",
+          "t": "みんなに会[あ]()えて嬉[うれ]()しいな"
+        },
+        {
+          "c": "C           G           Am      Em",
+          "t": "歌[うた]()って踊[おど]()って 笑顔[えがお]()になろう"
+        },
+        {
+          "c": "F           C           G       C",
+          "t": "ケ・セラ・ソラ！ 魔法[まほう]()の言葉[ことば]()"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus",
+      "lines": [
+        {
+          "c": "F           G           C       Am",
+          "t": "ちょっとくらい 失敗[しっぱい]()したって"
+        },
+        {
+          "c": "F           G           C",
+          "t": "大丈夫[だいじょうぶ]()！ ほら、笑[わら]()って"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C           G           Am      Em",
+          "t": "ケ・セラ・ソラ！ 明日[あした]()はきっと"
+        },
+        {
+          "c": "F           C           G       C",
+          "t": "良[い]()いことあるさ 歌[うた]()おうよ"
+        },
+        {
+          "c": "C           G           Am      Em",
+          "t": "ケ・セラ・ソラ！ 夢[ゆめ]()を乗[の]()せて"
+        },
+        {
+          "c": "F           C           G       C",
+          "t": "どこまでも行[い]()こう ずっと"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "C           G           Am      Em",
+          "t": "落[お]()ち込[こ]()んだ時[とき]()も 涙[なみだ]()の日[ひ]()も"
+        },
+        {
+          "c": "F           C           G       C",
+          "t": "一人[ひとり]()じゃないから 大丈夫[だいじょうぶ]()"
+        },
+        {
+          "c": "C           G           Am      Em",
+          "t": "手[て]()と手[て]()繋[つな]()いで 乗[の]()り越[こ]()えよう"
+        },
+        {
+          "c": "F           C           G       C",
+          "t": "ケ・セラ・ソラ！ 勇気[ゆうき]()の言葉[ことば]()"
+        }
+      ]
+    },
+    {
+      "section": "Pre-Chorus",
+      "lines": [
+        {
+          "c": "F           G           C       Am",
+          "t": "ちょっとくらい 遠回[とおまわ]()りしたって"
+        },
+        {
+          "c": "F           G           C",
+          "t": "大丈夫[だいじょうぶ]()！ ほら、進[すす]()もう"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C           G           Am      Em",
+          "t": "ケ・セラ・ソラ！ 明日[あした]()はきっと"
+        },
+        {
+          "c": "F           C           G       C",
+          "t": "良[い]()いことあるさ 歌[うた]()おうよ"
+        },
+        {
+          "c": "C           G           Am      Em",
+          "t": "ケ・セラ・ソラ！ 夢[ゆめ]()を乗[の]()せて"
+        },
+        {
+          "c": "F           C           G       C",
+          "t": "どこまでも行[い]()こう ずっと"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "F           G           C       Am",
+          "t": "どんな時[とき]()も 諦[あきら]()めないで"
+        },
+        {
+          "c": "F           G           C",
+          "t": "信[しん]()じる気持[きも]()ち 大切[たいせつ]()に"
+        },
+        {
+          "c": "F           G           C       Am",
+          "t": "みんなの笑顔[えがお]()が 私[わたし]()の宝物[たからもの]()"
+        },
+        {
+          "c": "F           G           C",
+          "t": "ありがとう ずっと大好[だいす]()き"
+        }
+      ]
+    },
+    {
+      "section": "Chorus",
+      "lines": [
+        {
+          "c": "C           G           Am      Em",
+          "t": "ケ・セラ・ソラ！ 明日[あした]()はきっと"
+        },
+        {
+          "c": "F           C           G       C",
+          "t": "良[い]()いことあるさ 歌[うた]()おうよ"
+        },
+        {
+          "c": "C           G           Am      Em",
+          "t": "ケ・セラ・ソラ！ 夢[ゆめ]()を乗[の]()せて"
+        },
+        {
+          "c": "F           C           G       C",
+          "t": "どこまでも行[い]()こう ずっと"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "C       G       Am      Em",
+          "t": ""
+        },
+        {
+          "c": "F       C       G       C",
+          "t": "(ケ・セラ・ソラ！)"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "ねぇ、そらともさん 今日も元気？",
+      "call": "はーい！"
+    },
+    {
+      "lyrics": "みんなに会えて嬉しいな",
+      "call": "イェーイ！"
+    },
+    {
+      "lyrics": "歌って踊って 笑顔になろう",
+      "call": "フッフー！"
+    },
+    {
+      "lyrics": "ケ・セラ・ソラ！ 魔法の言葉",
+      "call": "ソラちゃん！"
+    },
+    {
+      "lyrics": "大丈夫！ ほら、笑って",
+      "call": "かわいいー！"
+    },
+    {
+      "lyrics": "良いことあるさ 歌おうよ",
+      "call": "オー！"
+    },
+    {
+      "lyrics": "どこまでも行こう ずっと",
+      "call": "ソラちゃん最高！"
+    },
+    {
+      "lyrics": "一人じゃないから 大丈夫",
+      "call": "大丈夫！"
+    },
+    {
+      "lyrics": "ケ・セラ・ソラ！ 勇気の言葉",
+      "call": "ソラちゃん！"
+    },
+    {
+      "lyrics": "大丈夫！ ほら、進もう",
+      "call": "がんばれー！"
+    },
+    {
+      "lyrics": "信じる気持ち 大切に",
+      "call": "フッフー！"
+    },
+    {
+      "lyrics": "みんなの笑顔が 私の宝物",
+      "call": "ソラちゃん！"
+    },
+    {
+      "lyrics": "ありがとう ずっと大好き",
+      "call": "大好きー！"
+    },
+    {
+      "lyrics": "(ケ・セラ・ソラ！)",
+      "call": "ソラちゃん！"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "ねぇ、そらともさん 今日も元気？",
+      "romaji": "Nee, Soratomosan Kyou mo genki?",
+      "en": "Hey, Soratomo-san, are you doing well today?",
+      "zh": "嘿，空友們，今天也很有精神嗎？",
+      "notes": [
+        {
+          "word": "そらともさん",
+          "meaning": "Sora's friends (fans)"
+        }
+      ]
+    },
+    {
+      "ja": "みんなに会えて嬉しいな",
+      "romaji": "Minna ni aete ureshii na",
+      "en": "I'm so happy to see everyone.",
+      "zh": "能見到大家真開心啊。"
+    },
+    {
+      "ja": "歌って踊って 笑顔になろう",
+      "romaji": "Utatte odotte Egao ni narou"
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "title": "スタースタースタート",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "ナユタン星人",
+    "lyricist": "ナユタン星人",
+    "album": "STAR STAR☆T",
+    "releaseDate": "2024-03-06",
+    "coverUrl": "cover_images/star_star_start.jpg",
+    "penlight_color": ["#ff0000"],
+    "links": [
+      { "name": "Official MV", "url": "https://youtu.be/VCsWgOMu4_8?si=6LcEEJ27lZR_-xuC"}
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        { "c": "X", "t": "----|" },
+        { "c": "E5  G5  A5  B5  A5  G5  E5  D5  E5  G5  E5  D5  E5", "t": "=  =  =  =  =  =  =  = | =  =  =  =  ====|" },
+        { "c": "E5  G5  A5  B5  A5  G5  E5  D5  E5  G5  E5  D5  E5", "t": "=  =  =  =  =  =  =  = | =  =  =  =  ====|" },
+        { "c": "E5  G5  A5  B5  A5  G5  E5  D5  E5  G5  E5  D5  E5", "t": "=  =  =  =  =  =  =  = | =  =  =  =  ====|" },
+        { "c": "E5  G5  A5  B5  A5  G5  E5  D5  E5  G5  E5  D5  E5", "t": "=  =  =  =  =  =  =  = | =  =  =  =  ====|" },
+        { "c": "Em        C                   D         G", "t": "----| (フッフー！)----| ----| (フーワッフーワッ！)----|" },
+        { "c": "Em        C                   D         G", "t": "----| (フッフー！)----| ----| (フーワッフーワッ！)----|" }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        { "c": "Em", "t": "(我)らの宇宙のはじまりは(パパヤ)" },
+        { "c": "", "t": "触れた瞬間アララララ(パパヤ)" },
+        { "c": "C", "t": "(は)ぁ～ これは困った！ " },
+        { "c": "        Em", "t": "二度と(も)とにもどらない大！爆！発！" },
+        { "c": "Em", "t": "(そ)して星が生まれまして(パパヤ)" },
+        { "c": "", "t": "明け方の一番星は(パパヤ)" },
+        { "c": "C", "t": "(あ)なたと出逢った！" },
+        { "c": "        Em", "t": "これは(次)元を揺るがす大！発！見！" }
+      ]
+    },
+    {
+      "section": "Pre-Chorus 1",
+      "lines": [
+        { "c": "Am           Bm           C", "t": "(こ)のまま(ハ)ート打(ち)上げて" },
+        { "c": "D            Em", "t": "(ど)こまで(も)たかい宇宙まで" },
+        { "c": "", "t": "「めっちゃ飛んじゃいたいっ！」" }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        { "c": "      Em                                 C", "t": "さあ(ス)タースタースタートきった (こ)のラブは" },
+        { "c": "      D                                G", "t": "あな(た)がいなきゃ待ったなしで (超)！新！星！" },
+        { "c": "      Em", "t": "する(ぞ)？(オー・オ・オー！) " },
+        { "c": "           C", "t": "しちゃう(ぞ)！？(オー・オ・オー！) " },
+        { "c": "    D                  G", "t": "あ(な)たに言ってま(す)っ！" },
+        { "c": "                 Em                              C", "t": "ドュユアンダ (ス)タ スタ スタンド あの (わ)かってる？" },
+        { "c": "      D                        G", "t": "ほら(目)の前にずっとある (一)！等！星！" },
+        { "c": "      Em", "t": "みて(る)？(オー・オ・オー！)" },
+        { "c": "         C", "t": "きーて(る)！？(オー・オ・オー！)" },
+        { "c": "      D                     G", "t": "この(ビ)ッグバン気づい(て)！！！！！！" },
+        { "c": "   Em                      C", "t": "((ナ)ナナナ ナナナナ (ナ)ナナナナ) " },
+        { "c": "         D                        G", "t": "愛は地(球)くらいに膨らんで (こ)んなになってんぞ" },
+        { "c": "   Em                      C", "t": "((ナ)ナナナ ナナナナ (ナ)ナナナナ) " },
+        { "c": "           D                   Bm7       B7/D#       Em", "t": "そうさ第(三)の惑星は この(と)きの (た)めのス(タ)ー！" }
+      ]
+    },
+    {
+      "section": "Interlude 1",
+      "lines": [
+        { "c": "Em        C                   D         G", "t": "----| (フッフー！)----| ----| (フーワッフーワッ！)----|" },
+        { "c": "Em        C                   D         G", "t": "----| (フッフー！)----| ----| (フーワッフーワッ！)----|" }
+     ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        { "c": "        Em", "t": "デデデ(電)波を送信" },
+        { "c": "", "t": "あなたのハートにノーティス" },
+        { "c": "               Em", "t": "「暇なときで(い)いよ？」みたいなカオして" },
+        { "c": "", "t": "(めちゃめちゃ待機……！)" },
+        { "c": "C", "t": "(チ)ョットの反応くれたら喜ばしい" },
+        { "c": "       Em                      F        Em", "t": "てか (こ)んなの逃すなんて(嘆)かわ(し)い……" },
+        { "c": "Em", "t": "(我)らの星の活動は(パパヤ)" },
+        { "c": "", "t": "わりと続いてムムムムム！(パパヤ)" },
+         { "c": "C", "t": "(い)やぁ～これはスゴいな！" },
+        { "c": "        Em", "t": "つまり(あ)なたとわたしの創！世！記！" }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        { "c": "Am           Bm           C", "t": "(こ)のまま(ハ)ートあ(な)たごと" },
+        { "c": "D            Em", "t": "(連)れて彼方[か(な)た]を目指したら" },
+        { "c": "", "t": "「めっちゃ飛んじゃったっ！」" }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        { "c": "       Em                              C", "t": "あぁ (ス)タースタースタートした(こ)のラブは" },
+        { "c": "      D                           G", "t": "あな(た)がいなきゃいまごろ (超)新星" },
+        { "c": "      Em", "t": "して(た)……(オー・オ・オー！)" },
+        { "c": "         C", "t": "してた(が)！(オー・オ・オー！)" },
+        { "c": "       D                G", "t": "ほら(今)日まで続い(た)――！" }
+      ]
+    },
+    {
+      "section": "Chorus 3 - Key Fm",
+      "lines": [
+        { "c": "                 Fm                                Db", "t": "ドュユアンダ (ス)タ スタ スタンド ちゃんと(わ)かってね！？" },
+        { "c": "           Eb                  Ab", "t": "いっそう(光)度まして輝く (一)！等！星！" },
+        { "c": "         Fm", "t": "あなた(と)！(オー・オ・オー！) " },
+        { "c": "         Db", "t": "わたし(で)！(オー・オ・オー！) " },
+        { "c": "Eb                     Ab", "t": "(ビ)ッグバンしたい(の)！！！！！！" },
+        { "c": "  Fm                       Db", "t": "((ナ)ナナナ ナナナナ (ナ)ナナナナ) " },
+        { "c": "         Eb                       Ab", "t": "愛は地(球)くらいに膨らんで (こ)んなになってんぞ" },
+        { "c": "  Fm                       Db", "t": "((ナ)ナナナ ナナナナ (ナ)ナナナナ) " },
+        { "c": "           Eb                 Cm7        C7/E       X", "t": "そうさ第(三)の惑星は この(と)きの (た)めに(ス)タート！" }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        { "c": "Fm       Db                  Eb        Ab", "t": "----| (フッフー！)----| ----| (フーワッフーワッ！)----|" },
+        { "c": "Fm       Db                  Eb        Ab", "t": "----| (フッフー！)----| ----| (フーワッフーワッ！)----|" },
+        { "c": "F7sus4/Gb      Fm", "t": "     ----|   ----|" }
+      ]
+    }
+  ],
+  "calls": [
+    { "lyrics": "", "call": "(フッフー！)(フーワッフーワッ！)" },
+    { "lyrics": "", "call": "(フッフー！)(フーワッフーワッ！)" },
+    { "lyrics": "我らの宇宙のはじまりは", "call": "                                     (パパヤ)" },
+    { "lyrics": "触れた瞬間アララララ", "call": "                                  (パパヤ)" },
+    { "lyrics": "はぁ～ これは困った！", "call": "" },
+    { "lyrics": "二度ともとにもどらない大！爆！発！", "call": "                                     大！爆！発！" },
+    { "lyrics": "そして星が生まれまして", "call": "                                     (パパヤ)" },
+    { "lyrics": "明け方の一番星は", "call": "                            (パパヤ)" },
+    { "lyrics": "あなたと出逢った！ ", "call": "" },
+    { "lyrics": "これは次元を揺るがす大！発！見！", "call": "                                  大！発！見！" },
+    { "lyrics": "このままハート打ち上げて どこまでもたかい宇宙まで", "call": "" },
+    { "lyrics": "「めっちゃ飛んじゃいたいっ！」", "call": "「めっちゃ飛んじゃいたいっ！」" },
+    { "lyrics": "さあスタースタースタートきった このラブは", "call": "" },
+    { "lyrics": "あなたがいなきゃ待ったなしで 超！新！星！", "call": "                                                 超！新！星！" },
+    { "lyrics": "するぞ？", "call": "             (オー・オ・オー！)" },
+    { "lyrics": "しちゃうぞ！？", "call": "                        (オー・オ・オー！)" },
+    { "lyrics": "あなたに言ってますっ！", "call": "" },
+    { "lyrics": "ドュユアンダ スタ スタ スタンド あの わかってる？", "call": "" },
+    { "lyrics": "ほら目の前にずっとある 一！等！星！", "call": "                                       一！等！星！" },
+    { "lyrics": "みてる？", "call": "             (オー・オ・オー！)" },
+    { "lyrics": "きーてる！？", "call": "                    (オー・オ・オー！)" },
+    { "lyrics": "このビッグバン気づいて！！！！！！", "call": "" },
+    { "lyrics": "(ナナナナ ナナナナ ナナナナナ)", "call": "(ナナナナ ナナナナ ナナナナナ)" },
+    { "lyrics": "愛は地球くらいに膨らんで こんなになってんぞ", "call": "","extra_row": true,"action": "                                                                         [pp]" },
+    { "lyrics": "(ナナナナ ナナナナ ナナナナナ)", "call": "(ナナナナ ナナナナ ナナナナナ)" },
+    { "lyrics": "そうさ第三の惑星は このときのためのスター！", "call": "" },
+    { "lyrics": "", "call": "(フッフー！)(フーワッフーワッ！)" },
+    { "lyrics": "", "call": "(フッフー！)(フーワッフーワッ！)" },
+    { "lyrics": "デデデ電波を送信 あなたのハートにノーティス", "call": "" },
+    { "lyrics": "「暇なときでいいよ？」みたいなカオして", "call": "" },
+    { "lyrics": "", "call": "(めちゃめちゃ待機……！)" },
+    { "lyrics": "チョットの反応くれたら喜ばしい", "call": "" },
+    { "lyrics": "てか こんなの逃すなんて嘆かわしい……", "call": "" },
+    { "lyrics": "我らの星の活動は", "call": "                            (パパヤ)" },
+    { "lyrics": "わりと続いてムムムムム！", "call": "                                       (パパヤ)" },
+    { "lyrics": "いやぁ～これはスゴいな！", "call": "" },
+    { "lyrics": "つまりあなたとわたしの創！世！記！", "call": "                                      創！世！記！" },
+    { "lyrics": "このままハートあなたごと連れて彼方を目指したら", "call": "" },
+    { "lyrics": "「めっちゃ飛んじゃったっ！」", "call": "「めっちゃ飛んじゃったっ！」" },
+    { "lyrics": "あぁ スタースタースタートした このラブは", "call": "" },
+    { "lyrics": "あなたがいなきゃいまごろ 超新星", "call": "" },
+    { "lyrics": "してた……", "call": "                (オー・オ・オー！)" },
+    { "lyrics": "してたが！", "call": "                (オー・オ・オー！)" },
+    { "lyrics": "ほら今日まで続いた――！", "call": "" },
+    { "lyrics": "ドュユアンダ スタ スタ スタンド ちゃんとわかってね！？", "call": "" },
+    { "lyrics": "いっそう光度まして輝く 一！等！星！", "call": "                                      一！等！星！" },
+    { "lyrics": "あなたと！", "call": "                (オー・オ・オー！)" },
+    { "lyrics": "わたしで！", "call": "                (オー・オ・オー！)" },
+    { "lyrics": "ビッグバンしたいの！！！！！！", "call": "" },
+    { "lyrics": "(ナナナナ ナナナナ ナナナナナ)", "call": "(ナナナナ ナナナナ ナナナナナ)" },
+    { "lyrics": "愛は地球くらいに膨らんで こんなになってんぞ", "call": "","extra_row": true,"action": "                                                                         [pp]"  },
+    { "lyrics": "(ナナナナ ナナナナ ナナナナナ)", "call": "(ナナナナ ナナナナ ナナナナナ)" },
+    { "lyrics": "そうさ第三の惑星は このときのためにスタート！", "call": "" },
+    { "lyrics": "", "call": "(フッフー！)(フーワッフーワッ！)" },
+    { "lyrics": "", "call": "(フッフー！)(フーワッフーワッ！)" }
+  ],
+  "lyrics": [
+    {
+      "ja": "我らの宇宙のはじまりは",
+      "romaji": "Warera no Sora no Hajimari ha",
+      "en": "At the beginning of our universe,",
+      "zh": "我們宇宙的開始"
+    },
+    {
+      "ja": "触れた瞬間アララララ",
+      "romaji": "Fureta Shunkan Arararara",
+      "en": "the moment we touched, oh my my my!",
+      "zh": "觸碰到的瞬間啊拉拉拉"
+    },
+    {
+      "ja": "はぁ～ これは困った！",
+      "romaji": "Haa~ Kore ha Komatta!",
+      "en": "Ah~ this is trouble!",
+      "zh": "啊～ 這下困擾了！"
+    },
+    {
+      "ja": "二度ともとにもどらない大！爆！発！",
+      "romaji": "Nido to Moto ni Modoranai Dai-Baku-Hatsu!",
+      "en": "A big explosion that can never be undone!",
+      "zh": "再也無法復原的大！爆！發！"
+    },
+    {
+      "ja": "そして星が生まれまして",
+      "romaji": "Soshite Hoshi ga Umaremashte",
+      "en": "Then stars were born",
+      "zh": "接著繁星誕生了"
+    },
+    {
+      "ja": "明け方の一番星は",
+      "romaji": "Akegata no Ichibanboshi ha",
+      "en": "and the morning star",
+      "zh": "晨曦最亮的星",
+      "notes": [
+        { "word": "一番星", "meaning": "The first star of the evening 夜空仲最亮的星、長庚星" }
+      ]
+    },
+    {
+      "ja": "あなたと出逢った！",
+      "romaji": "Anata to Deatta!",
+      "en": "met you!",
+      "zh": "與你相遇了！"
+    },
+    {
+      "ja": "これは次元を揺るがす大！発！見！",
+      "romaji": "Kore ha Jigen wo Yurugasu Dai-Hatsu-Ken!",
+      "en": "This is a dimension-shaking big! discovery!",
+      "zh": "這是震撼次元的大！發！現！"
+    },
+    {
+      "ja": "このままハート打ち上げて どこまでもたかい宇宙まで 「めっちゃ飛んじゃいたいっ！」",
+      "romaji": "Konomama Haato Uchiagete Doko made mo Takai Sora made Meccha Tonjaitai!",
+      "en": "Launching our hearts just like this, into the highest reaches of space, \"I wanna fly so high!\"",
+      "zh": "就這樣把心發射出去 直到遙遠的宇宙 「真想飛起來啊！」"
+    },
+    {
+      "ja": "さあスタースタースタートきった このラブは",
+      "romaji": "Saa Sutaa Sutaa Sutaato Kitta Kono Rabu ha",
+      "en": "Now, this star-star-started love",
+      "zh": "來吧 Star Star Start 啟動的這份愛"
+    },
+    {
+      "ja": "あなたがいなきゃ待ったなしで 超！新！星！",
+      "romaji": "anata ga inakya matta nashi de chou-shin-sei!",
+      "en": "will go supernova without waiting if you're not here!",
+      "zh": "如果沒有你 就迫不及待地 超！新！星！",
+      "notes": [
+        { "word": "超新星", "meaning": "Supernova 超新星" }
+      ]
+    },
+    {
+      "ja": "するぞ？ しちゃうぞ！？ あなたに言ってますっ！",
+      "romaji": "Suru zo? Shichau zo!? Anata ni ittemasu!",
+      "en": "I'll do it, you know? I really will!? I'm talking to you!",
+      "zh": "要做囉？ 我真要做了喔！？ 我是在跟你說啦！"
+    },
+    {
+      "ja": "ドュユアンダ スタ スタ スタンド あの わかってる？",
+      "romaji": "Do yu anda sutasuta sutando ano wakatteru?",
+      "en": "Do you understand-stand-stand? Um, do you realize?",
+      "zh": "Do you understand Sta-Sta-Stand 那個、你懂嗎？"
+    },
+    {
+      "ja": "ほら目の前にずっとある 一！等！星！",
+      "romaji": "Hora me no mae ni zutto aru ittou-sei!",
+      "en": "Look, right in front of your eyes all along: a first-magnitude star!",
+      "zh": "看吧 一直就在你眼前的 一！等！星！",
+      "notes": [
+        { "word": "一等星", "meaning": "First-magnitude star 一等星" }
+      ]
+    },
+    {
+      "ja": "みてる？ きーてる！？ このビッグバン気づいて！！！！！！",
+      "romaji": "Miteru? Kiiteru!? Kono bigguban kizuite!!!!!!",
+      "en": "Are you watching? Are you listening!? Notice this Big Bang!!!!!!",
+      "zh": "在看嗎？ 有在聽嗎！？ 快察覺到這個 Big Bang 吧！！！！！！"
+    },
+    {
+      "ja": "(ナナナナ ナナナナ ナナナナナ) 愛は地球くらいに膨らんでこんなになってんぞ",
+      "romaji": "(Na na na na na na na na na na na na na) Ai ha chikyuu kurai ni fukurande konna ni natten zo",
+      "en": "(Na-na-na-na...) Love has expanded as big as the Earth, look how huge it's gotten!",
+      "zh": "(Na-na-na-na...) 愛意膨脹到了有地球那麼大 已經變成這樣了啊"
+    },
+    {
+      "ja": "(ナナナナ ナナナナ ナナナナナ) そうさ第三の惑星はこのときのためのスター！",
+      "romaji": "(Na na na na na na na na na na na na na) Soussa daisan no wakusei ha kono toki no tame no sutaa!",
+      "en": "(Na-na-na-na...) That's right, the third planet is the star made for this moment!",
+      "zh": "(Na-na-na-na...) 沒錯 這第三顆行星 就是為了這一刻而存在的 Star！",
+      "notes": [
+        { "word": "第三の惑星", "meaning": "The 3rd planet from the Sun (Earth) 太陽系第三行星（地球）" }
+      ]
+    },
+    {
+      "ja": "デデデ電波を送信 あなたのハートにノーティス",
+      "romaji": "De-de-de denpa wo soushin anata no haato ni nootisu",
+      "en": "Transmitting radio waves, sending a notice to your heart!",
+      "zh": "發-發-發射電波 向你的心傳達 Notice"
+    },
+    {
+      "ja": "「暇なときでいいよ？」みたいなカオして (めちゃめちゃ待機……！)",
+      "romaji": "\"Hima na toki de ii yo?\" mitai na kao shite (Mechamecha taiki...!)",
+      "en": "Making a face like \"Whenever you're free is fine?\" (In reality: super eagerly waiting...!)",
+      "zh": "裝出一副「有空再回就好囉？」的表情 （實際上：超～級期待地等待中……！）"
+    },
+    {
+      "ja": "チョットの反応くれたら喜ばしい てか こんなの逃すなんて嘆かわしい……",
+      "romaji": "Chotto no hannou kuretara yorokobashii teka konna no nogasu nante nagekawashii...",
+      "en": "Just a tiny response would make me happy, I mean, missing out on this would be deplorable...",
+      "zh": "只要給點微小的回應就很開心了 是說錯過這種事簡直太可悲了……",
+      "notes": [
+        { "word": "嘆かわしい", "meaning": "Lamentable / deplorable 令人感嘆、可悲" }
+      ]
+    },
+    {
+      "ja": "我らの星の活動は わりと続いてムムムムム！",
+      "romaji": "Warera no hoshi no katsudou ha warito tsuzSuite mumumumum!",
+      "en": "Our star's activity has been going on for quite a while, mm-mm-mm!",
+      "zh": "我們這顆星球的活動 還挺持久的呢 哼哼哼哼哼！"
+    },
+    {
+      "ja": "いやぁ～これはスゴいな！ つまりあなたとわたしの創！世！記！",
+      "romaji": "Iyaa~ kore ha sugoi na! Tsumari anata to watashi no sou-sei-ki!",
+      "en": "Wow~ this is amazing! In other words, this is the Genesis of you and me!",
+      "zh": "哇啊～ 這可真厲害呢！ 也就是你與我的 創！世！紀！",
+      "notes": [
+        { "word": "創世記", "meaning": "Genesis 創世記" }
+      ]
+    },
+    {
+      "ja": "このままハートあなたごと連れて彼方を目指したら 「めっちゃ飛んじゃったっ！」",
+      "romaji": "Kono mama haato anata goto tsurete kanata wo mezashitara \"Meccha tonjiatta!\"",
+      "en": "Taking our hearts along with you toward the far beyond, \"We flew so far!\"",
+      "zh": "就這樣連同你的心一起帶往彼岸 「結果飛超遠的啦！」"
+    },
+    {
+      "ja": "あぁ スタースタースタートした このラブはあなたがいなきゃいまごろ超新星してた……",
+      "romaji": "Aa sutaa sutaa sutaato shita kono rabu ha anata ga inakya imagoro choushinsei shiteta...",
+      "en": "Ah, this star-star-started love would have gone supernova by now if not for you...",
+      "zh": "啊啊 Star Star Start 啟動的這份愛 如果沒有你 現在恐怕早就變成超新星了……"
+    },
+    {
+      "ja": "してたが！ ほら今日まで続いた――！",
+      "romaji": "Shiteta ga! Hora kyou made tsuzuita--!",
+      "en": "But even so! Look, it has lasted until today--!",
+      "zh": "雖然差點就爆了！ 但你看，還是延續到了今天――！"
+    },
+    {
+      "ja": "ドュユアンダ スタ スタ スタンド ちゃんとわかってね！？",
+      "romaji": "Do yu anda sutasuta sutando chanto wakatte ne!?",
+      "en": "Do you understand-stand-stand? Please make sure you understand, okay!?",
+      "zh": "Do you understand Sta-Sta-Stand 要好好瞭解喔！？"
+    },
+    {
+      "ja": "いっそう光度まして輝く 一！等！星！",
+      "romaji": "Issou koudo mashite kagayaku ittou-sei!",
+      "en": "Shining brighter than ever, a first-magnitude star!",
+      "zh": "光度倍增、熠熠生輝的 一！等！星！"
+    },
+    {
+      "ja": "あなたと！ わたしで！ ビッグバンしたいの！！！！！！",
+      "romaji": "Anata to! Watashi de! Bigguban shitai no!!!!!!",
+      "en": "With you! And with me! I want to create a Big Bang together!!!!!!",
+      "zh": "想與你！ 與我一同！ 創造 Big Bang 啊！！！！！！"
+    },
+    {
+      "ja": "(ナナナナ ナナナナ ナナナナナ) 愛は地球くらいに膨らんでこんなになってんぞ",
+      "romaji": "(Na na na na na na na na na na na na na) Ai ha chikyuu kurai ni fukurande konna ni natten zo",
+      "en": "(Na-na-na-na...) Love has expanded as big as the Earth, look how huge it's gotten!",
+      "zh": "(Na-na-na-na...) 愛意膨脹到了有地球那麼大 已經變成這樣了啊"
+    },
+    {
+      "ja": "(ナナナナ ナナナナ ナナナナナ) そうさ第三の惑星はこのときのためにスタート！",
+      "romaji": "(Na na na na na na na na na na na na na) Soussa daisan no wakusei ha kono toki no tame ni sutaato!",
+      "en": "(Na-na-na-na...) That's right, the third planet is starting for this very moment!",
+      "zh": "(Na-na-na-na...) 沒錯 這第三顆行星 就是為了這一刻而 Start！"
+    }
+  ]
+}

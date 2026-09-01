@@ -1,0 +1,187 @@
+site_name: Tokino Sora Fan Site
+theme:
+  name: material
+  palette:
+# Standard light/dark modes (we override these hex colors in extra.css)
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
+    primary: light blue
+    accent: pink
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: light blue
+    accent: pink
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - pymdownx.superfences # Allows advanced blocks
+  - pymdownx.tabbed:     # Enables the multi-language tabs
+      alternate_style: true
+  - attr_list
+  - md_in_html
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - js/songs.js
+  - js/songs_sort.js
+  - js/goods.js
+
+nav:
+  - Home: index.md
+  - '🎵 歌 Songs':
+    - 総覧 概覧 Overview: songs/songs_index.md
+    - 'Dreaming!':
+      - 'Dream☆Story': songs/dream_story.md
+      - 'ヒロイック・ヒロイン': songs/heroic_heroin.md
+      - 'コトバカゼ': songs/kotobakaze.md
+      - 'ほしのふるにわ': songs/hoshino_furuniwa.md
+      - '冴えない自分にラブソングを': songs/saenai.md
+      - 'IMAGE source': songs/image_source.md
+      - 'ブレンドキャラバン': songs/friend_caravan.md
+      - '未練レコード': songs/miren.md
+      - '海より深い空の下': songs/umiyori.md
+      - 'そんな雨の日には': songs/amenohiniha.md
+      - 'メトロナイト': songs/metronight.md
+      - 'Wandering Days': songs/wandering_days.md
+      - '好き、泣いちゃいそうだ': songs/suki_naichaisouda.md
+      - 'おかえり': songs/okaeri.md
+      - '夢色アスタリスク': songs/yumeiro_asterisk.md
+    - 'My Loving':
+      - 'Equation of Love': songs/equation_of_love.md
+      - 'Wonderland': songs/wonderland.md
+      - 'サヨナラブロッサム': songs/sayonara_blossom.md
+      - '刹那ティックコード': songs/setsunatic.md
+      - 'フレーフレーLOVE': songs/furefure_love.md
+      - 'ゆっくり走れば風は吹く': songs/yukkuri.md
+    - 'ON STAGE!':
+      - 'Step and Go!!': songs/step_and_go.md
+      - 'Chu-Chu-Lu': songs/chu_chu_lu.md
+      - 'リア/リモシンパサイザー': songs/riarimo_sypathizer.md
+      - 'ブルーベリームーン': songs/blueberry_moon.md
+      - '空祭り': songs/soramatsuri.md
+      - 'ぐるぐる・ラブストーリー': songs/guruguru_love_story.md
+      - 'マイオドレ！舞舞タイム': songs/maimai_time.md
+      - '青空のシンフォニー': songs/aozora_symphony.md
+    - 'くもはれ':
+        - 'KumoHurray!': songs/kumohare.md
+        - '木の芽時の空（花時の空）': songs/konomedoki_no_sora.md
+    - 'Re:Play':
+      - 'HOT LIMIT': songs/hot_limit.md
+      - 'ロマンスの神様': songs/romance_no_kamisama.md
+      - 'ファンサ': songs/fansa.md
+      - 'MASAYUME CHASING': songs/masayume.md
+      - '怪物': songs/kaibutsu.md
+      - 'アンドロイドガール': songs/android_girl.md
+      - 'God knows...': songs/god_knows.md
+      - 'Butterfly': songs/butterfly.md
+      - 'まっさらブルージーンズ': songs/massara_blue_jeans.md
+      - '嘘': songs/uso.md
+      - '赤いスイートピー': songs/akai_sweet_pea.md
+      - 'この世界で': songs/konosekaide.md
+      - 'KING': songs/king.md
+      - 'エイリアンエイリアン': songs/alien_alien.md
+      - '太陽系デスコ': songs/taiyoukei_disco.md
+    - 'Happy Meowthday!!':
+      - 'Happy Meowthday!!': songs/happy_meowthday.md
+      - 'そらを超えて': songs/sorawo_koete.md
+    - 'Sign':
+      - 'ピッとして！マーマレード': songs/marmalade.md
+      - 'ユメゾラ☆ファンファーレ': songs/yumezora_fanfare.md
+      - 'ロゴバッジ': songs/logo_badge.md
+      - '羽を手にして': songs/hanewo_tenishite.md
+      - '空ノ空': songs/soranosora.md
+      - 'エゴナデ・ラビリンス': songs/egonade_labrynth.md
+      - 'エレクトリカル・サーフィン': songs/electrical_surfing.md
+      - 'デジタリックリリック': songs/digitalic_lyric.md
+      - '黄昏ミッドナイト': songs/tasogare_midnight.md
+      - 'メアリースイート': songs/mary_sweet.md
+      - 'そらのとき': songs/soranotoki.md
+      - 'ポラリスソラリス': songs/polaris_soraris.md
+    - 'Beyond':
+      - 'Beyond': songs/beyond.md
+      - 'キセキノセカイ': songs/kisekino_sekai.md
+      - 'ケ・セラ・ソラ！': songs/que_sera_sora.md
+      - 'またあした': songs/mataashita.md
+    - 'STAR STAR☆T':
+      - 'Rolling, Loading!!': songs/rolling_loading.md
+      - 'スタースタースタート': songs/star_star_start.md
+      - '傘賛歌': songs/sansanka.md
+      - 'ナイトキューブパラドクス': songs/night_cube_paradox.md
+      - 'ブルーディスコ': songs/blue_disco.md
+      - 'はじまりは一直線': songs/hajimariha_icchokusen.md
+    - 'Pulse':
+      - 'Swallow Tail': songs/swallow_tail.md
+      - 'Diva': songs/2_diva.md
+      - '∞超スーパー無限インフィニティ∞': songs/chousuper_mugen_infinity.md
+      - 'I T8KE ME': songs/i_t8ke_me.md
+      - "Fallin' Rollin' Coaster": songs/fallin_rollin_coaster.md
+      - 'バチャリアラブ': songs/virtual_real_love.md
+      - 'アマテラテラス': songs/amateraterasu.md
+      - 'Dancing Reed': songs/dancing_reed.md
+      - 'ラッキーセブンスホイッスル': songs/lucky_7_whistle.md
+      - 'おかえりなさい': songs/okaerinasai.md
+    - 'その他のシングル 其他單曲 Other Singles':
+      - 'わたしとあなたと皆さまと！': songs/watashito_anatato_minasamato.md
+      - 'あの日見た空': songs/anohimitasora.md
+      - 'そらともどうぶつようちえん': songs/soratomo_doubutsu_youchien.md
+      - '青空ステージ': songs/aozora_stage.md
+      - '同じ空の下で': songs/onajisorano_shitade.md
+      - 'シーソーゲーム': songs/seesaw_game.md
+      - 'わたしとあなたと皆さまと！': songs/watashito_anatato_minasamato.md
+      - '決意のソラへ': songs/ketsuino_sorahe.md
+    - 'グループ 團體唱片 Group Albums':
+      - 'バーチャル開花最前線！/Fragment':
+        - 'バーチャル開花最前線！': songs/virtual_kaika_saizensen.md
+        - 'Fragment': songs/fragment.md
+      - 'Shiny Smily Story':
+        - 'Shiny Smily Story': songs/sss.md
+      - 'キラメキライダー☆':
+          - 'キラメキライダー☆': songs/kirameki_rider.md
+      - '四月一日さん家で歌ってみた':
+          - 'V・V・斬り込みます！': songs/v_v_kirikomimasu.md
+          - 'あの子とシンパシー': songs/anokoto_sympathy.md
+          - '花が咲いたら': songs/hanaga_saitara.md
+      - 'ホロライブ言えるかな？ ':
+          - 'ホロライブ言えるかな？ ': songs/hololive_ierukana.md
+      - 'ピース！！':
+          - 'ピース！！': songs/peace.md
+      - '飛んでK！ホロライブサマー':
+          - '飛んでK！ホロライブサマー': songs/tonde_k.md
+      - 'ホロメン音頭':
+          - 'ホロメン音頭': songs/hololive_ontou.md
+      - '青春アーカイブ':
+          - '青春アーカイブ': songs/seishun_archive.md
+      - 'Futurity Step':
+          - Scale the walls': songs/scale_the_walls.md
+          - 君と僕はアルビレオ 惹かれ合う彗星テイル': songs/kimito_bokuha_albireo.md
+          - テレパシー': songs/telepathy.md
+          - せーので！': songs/senode.md
+          - ハジメノイッポ': songs/hajimeno_ipp.md
+          - 恋愛コスモロジー': songs/rennai_cosmology.md
+          - 惑わす星': songs/madowasuhoshi.md
+          - いけないんだ': songs/ikenainda.md
+          - ふたりDestiny': songs/futari_destiny.md
+          - MAG-NET': songs/mag_net.md
+          - '紅藍クロニクル': songs/kurenai_chronicle.md
+      - 'Capture the Moment':
+          - 'Capture the Moment': songs/capture_the_moment.md
+      - 'キズナトキセキ':
+          - 'キズナトキセキ': songs/kizunato_kiseki.md
+      - 'GET THE CROWN':
+          - 'GET THE CROWN': songs/get_the_crown.md
+      - '夢色ワンダー':
+          - '夢色ワンダー': songs/yumeiro_wonder.md
+      - 'BEEP BEEP':
+          - 'BEEP BEEP': songs/beep_beep.md
+  - '🛍️ 公式商品 Goods': goods/goods_index.md
