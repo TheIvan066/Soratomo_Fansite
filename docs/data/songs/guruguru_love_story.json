@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "title": "ぐるぐる・ラブストーリー",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "戸嶋友祐",
+    "lyricist": "戸嶋友祐",
+    "album": "ON STAGE!",
+    "releaseDate": "2020/08/20",
+    "coverUrl": "cover_images/on_stage",
+    "penlight_color": [
+      "#ffb3ef"
+    ],
+    "links": [
+      {
+        "name": "Official MV (Short Ver)",
+        "url": "https://youtu.be/A4rwGGrBVrg?si=5YxqUesV7FQU7Sk4"
+      },
+      {
+        "name": "Full Ver",
+        "url": "https://youtu.be/EJDQ5BMZKuM?si=kwQWS4jcdYOMFgTz"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "コ・コ・コ・恋する　私かがやく",
+      "call": "コ・コ・コ"
+    },
+    {
+      "lyrics": "ほらね？キラキラキラ煌めいてる",
+      "call": ""
+    },
+    {
+      "lyrics": "タ・タ・タ・太陽みたいに笑う私の",
+      "call": "タ・タ・タ"
+    },
+    {
+      "lyrics": "メマメマメマぐるしいラブストーリー",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    },
+    {
+      "lyrics": "ああもう！やんなっちゃうわ！",
+      "call": ""
+    },
+    {
+      "lyrics": "今度ばかりは許せないの！！",
+      "call": ""
+    },
+    {
+      "lyrics": "その悪気なさげな君の笑顔が",
+      "call": ""
+    },
+    {
+      "lyrics": "大・大・大嫌いが",
+      "call": ""
+    },
+    {
+      "lyrics": "いつからか大好きになった",
+      "call": ""
+    },
+    {
+      "lyrics": "…今日のところは許してあげるわ",
+      "call": ""
+    },
+    {
+      "lyrics": "だからほら早く君から",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "答え聞かせて？",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "いつまで待たせるの",
+      "call": ""
+    },
+    {
+      "lyrics": "もう！目を逸らさないで！",
+      "call": ""
+    },
+    {
+      "lyrics": "コ・コ・コ・恋する　私必ず",
+      "call": "コ・コ・コ"
+    },
+    {
+      "lyrics": "いつも　キミキミ君を探してる",
+      "call": ""
+    },
+    {
+      "lyrics": "タ・タ・タ・太陽みたいに笑う",
+      "call": "タ・タ・タ"
+    },
+    {
+      "lyrics": "その笑顔が大好きなんです",
+      "call": ""
+    },
+    {
+      "lyrics": "コ・コ・コ・恋する　私かがやく",
+      "call": "コ・コ・コ"
+    },
+    {
+      "lyrics": "ほらね？キラキラキラ煌めいてる",
+      "call": ""
+    },
+    {
+      "lyrics": "タ・タ・タ・太陽みたいに笑う",
+      "call": "タ・タ・タ"
+    },
+    {
+      "lyrics": "私と君のメマメマぐるしいラブストーリー",
+      "call": ""
+    },
+    {
+      "lyrics": "ずっと気になってた",
+      "call": ""
+    },
+    {
+      "lyrics": "君に相応しいのは誰？",
+      "call": ""
+    },
+    {
+      "lyrics": "案外　私自信とかないから…",
+      "call": ""
+    },
+    {
+      "lyrics": "ぐる・ぐる・ぐる駆け巡る",
+      "call": ""
+    },
+    {
+      "lyrics": "プラス・マイナス　思考回路",
+      "call": ""
+    },
+    {
+      "lyrics": "…今日のところは一休みするわ",
+      "call": ""
+    },
+    {
+      "lyrics": "でもね、本音だよ",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "二人見てきた景色で",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "確信へと変わる",
+      "call": ""
+    },
+    {
+      "lyrics": "もう手を離さないわ！",
+      "call": ""
+    },
+    {
+      "lyrics": "コ・コ・コ・恋する　私変われる",
+      "call": "コ・コ・コ"
+    },
+    {
+      "lyrics": "いつも　キミキミ君を想うから",
+      "call": ""
+    },
+    {
+      "lyrics": "タ・タ・タ・大胆不敵になれる",
+      "call": "タ・タ・タ"
+    },
+    {
+      "lyrics": "「どうして？」だなんて",
+      "call": ""
+    },
+    {
+      "lyrics": "…言わせないで！",
+      "call": ""
+    },
+    {
+      "lyrics": "コ・コ・コ・恋する　私かがやく",
+      "call": "コ・コ・コ"
+    },
+    {
+      "lyrics": "ほらね？キラキラキラ煌めいてる",
+      "call": ""
+    },
+    {
+      "lyrics": "タ・タ・タ・単純明快でいて",
+      "call": "タ・タ・タ"
+    },
+    {
+      "lyrics": "まだまだ　そう終われない",
+      "call": ""
+    },
+    {
+      "lyrics": "ラブストーリー",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    },
+    {
+      "lyrics": "二人　翼はないけれど",
+      "call": ""
+    },
+    {
+      "lyrics": "繋いだ両手で無敵なの！",
+      "call": ""
+    },
+    {
+      "lyrics": "疑う余地もないわ期待してて？",
+      "call": ""
+    },
+    {
+      "lyrics": "恋する　私ときめく",
+      "call": "",
+      "extra_row": true,
+      "action": "= = p p = = p = ×2"
+    },
+    {
+      "lyrics": "ずっとキミキミ君と探していく",
+      "call": "",
+      "extra_row": true,
+      "action": "= = p p = = p = ×2"
+    },
+    {
+      "lyrics": "大好き　そんな気持ちを",
+      "call": "",
+      "extra_row": true,
+      "action": "= = p p = = p = ×2"
+    },
+    {
+      "lyrics": "10年100年　いつまででも",
+      "call": "",
+      "extra_row": true,
+      "action": "= = p p = = p = "
+    },
+    {
+      "lyrics": "コ・コ・コ・コ・コ・コ・コ・恋する　私かがやく",
+      "call": "コ・コ・コ・コ・コ・コ・コ"
+    },
+    {
+      "lyrics": "ほらね？キラキラキラ煌めいてる",
+      "call": ""
+    },
+    {
+      "lyrics": "タ・タ・タ・太陽みたいに笑う",
+      "call": "タ・タ・タ"
+    },
+    {
+      "lyrics": "私と君のメマメマぐるしい",
+      "call": ""
+    },
+    {
+      "lyrics": "いつでもぐるぐる忙しい　ラブストーリー",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "コ・コ・コ・恋する　私かがやく",
+      "romaji": "Ko Ko Ko Koisuru Watashi Kagayaku",
+      "en": "Lo-lo-lo-loving, I shine",
+      "zh": "戀、戀、戀愛中的我閃閃發光"
+    },
+    {
+      "ja": "ほらね？キラキラキラ煌めいてる",
+      "romaji": "Hora ne? Kira Kira Kira Kirameiteru",
+      "en": "See? I'm sparkling, glittering, gleaming",
+      "zh": "看吧？閃閃亮亮地燦爛奪目"
+    },
+    {
+      "ja": "タ・タ・タ・太陽みたいに笑う私の",
+      "romaji": "Ta Ta Ta Taiyou Mitai ni Warau Watashi no",
+      "en": "Smiling like the su-su-su-sun, my",
+      "zh": "像太、太、太陽一樣笑著，我的"
+    },
+    {
+      "ja": "メマメマメマぐるしいラブストーリー",
+      "romaji": "Mema Mema Mema Gurushii Rabu Sutoorii",
+      "en": "Dizzy, dizzy, dizzying love story",
+      "zh": "眼花撩亂的愛情故事"
+    },
+    {
+      "ja": "ああもう！やんなっちゃうわ！",
+      "romaji": "Aa Mou! Yannatchau wa!",
+      "en": "Ugh, enough! I'm so fed up!",
+      "zh": "啊，真是的！煩死了！"
+    },
+    {
+      "ja": "今度ばかりは許せないの！！",
+      "romaji": "Kondo Bakari ha Yurusenai no!!",
+      "en": "This time I just can't forgive you!!",
+      "zh": "唯獨這次絕不原諒你！！"
+    },
+    {
+      "ja": "その悪気なさげな君の笑顔が",
+      "romaji": "Sono Warugi Nasage na Kimi no Egao ga",
+      "en": "That innocent-looking smile of yours",
+      "zh": "你那副毫無惡意的笑容"
+    },
+    {
+      "ja": "大・大・大嫌いが",
+      "romaji": "Dai Dai Daikirai ga",
+      "en": "I ha-ha-hated it",
+      "zh": "明明非常非常討厭"
+    },
+    {
+      "ja": "いつからか大好きになった",
+      "romaji": "Itsu kara ka Daisuki ni Natta",
+      "en": "But somewhere along the way, I came to love it",
+      "zh": "不知不覺卻變得好喜歡"
+    },
+    {
+      "ja": "…今日のところは許してあげるわ",
+      "romaji": "...Kyou no Tokoro ha Yurushite Ageru wa",
+      "en": "...For today, I'll forgive you",
+      "zh": "……今天就先原諒你吧"
+    },
+    {
+      "ja": "だからほら早く君から",
+      "romaji": "Dakara Hora Hayaku Kimi kara",
+      "en": "So come on, hurry up—from you",
+      "zh": "所以快點，由你先"
+    },
+    {
+      "ja": "答え聞かせて？",
+      "romaji": "Kotae Kikasete?",
+      "en": "Let me hear your answer?",
+      "zh": "讓我聽聽答案？"
+    },
+    {
+      "ja": "いつまで待たせるの",
+      "romaji": "Itsu made Mataseru no",
+      "en": "How long are you going to make me wait?",
+      "zh": "你要讓我等到什麼時候"
+    },
+    {
+      "ja": "もう！目を逸らさないで！",
+      "romaji": "Mou! Me wo Sorasanaide!",
+      "en": "Hey! Don't look away!",
+      "zh": "真是的！別移開視線！"
+    },
+    {
+      "ja": "コ・コ・コ・恋する　私必ず",
+      "romaji": "Ko Ko Ko Koisuru Watashi Kanarazu",
+      "en": "Lo-lo-lo-loving, I will always",
+      "zh": "戀、戀、戀愛中的我一定"
+    },
+    {
+      "ja": "いつも　キミキミ君を探してる",
+      "romaji": "Itsumo Kimi Kimi Kimi wo Sagashiteru",
+      "en": "Always be searching for you, you, you",
+      "zh": "永遠都在尋尋覓覓著你"
+    },
+    {
+      "ja": "タ・タ・タ・太陽みたいに笑う",
+      "romaji": "Ta Ta Ta Taiyou Mitai ni Warau",
+      "en": "You smile like the su-su-su-sun",
+      "zh": "像太、太、太陽一樣笑著"
+    },
+    {
+      "ja": "その笑顔が大好きなんです",
+      "romaji": "Sono Egao ga Daisuki na n Desu",
+      "en": "I love that smile so much",
+      "zh": "我最喜歡那個笑容了"
+    },
+    {
+      "ja": "コ・コ・コ・恋する　私かがやく",
+      "romaji": "Ko Ko Ko Koisuru Watashi Kagayaku",
+      "en": "Lo-lo-lo-loving, I shine",
+      "zh": "戀、戀、戀愛中的我閃閃發光"
+    },
+    {
+      "ja": "ほらね？キラキラキラ煌めいてる",
+      "romaji": "Hora ne? Kira Kira Kira Kirameiteru",
+      "en": "See? I'm sparkling, glittering, gleaming",
+      "zh": "看吧？閃閃亮亮地燦爛奪目"
+    },
+    {
+      "ja": "タ・タ・タ・太陽みたいに笑う",
+      "romaji": "Ta Ta Ta Taiyou Mitai ni Warau",
+      "en": "Smiling like the su-su-su-sun",
+      "zh": "像太、太、太陽一樣笑著"
+    },
+    {
+      "ja": "私と君のメマメマぐるしいラブストーリー",
+      "romaji": "Watashi to Kimi no Mema Mema Gurushii Rabu Sutoorii",
+      "en": "Our dizzy, dizzy, dizzying love story",
+      "zh": "我與你眼花撩亂的愛情故事"
+    },
+    {
+      "ja": "ずっと気になってた",
+      "romaji": "Zutto Ki ni Natteta",
+      "en": "I've been wondering all along",
+      "zh": "一直很在意"
+    },
+    {
+      "ja": "君に相応しいのは誰？",
+      "romaji": "Kimi ni Fusawashii no ha Dare?",
+      "en": "Who is worthy of you?",
+      "zh": "配得上你的人是誰？"
+    },
+    {
+      "ja": "案外　私自信とかないから…",
+      "romaji": "Angai Watashi Jishin to ka Nai kara...",
+      "en": "Surprisingly, I don't have much confidence in myself...",
+      "zh": "出乎意料，我對自己沒什麼自信……"
+    },
+    {
+      "ja": "ぐる・ぐる・ぐる駆け巡る",
+      "romaji": "Guru Guru Guru Kakemeguru",
+      "en": "Round and round, racing through my mind",
+      "zh": "團團轉地盤旋著"
+    },
+    {
+      "ja": "プラス・マイナス　思考回路",
+      "romaji": "Purasu Mainasu Shikou Kairo",
+      "en": "Plus and minus in my thought circuits",
+      "zh": "正面負面的思考迴路"
+    },
+    {
+      "ja": "…今日のところは一休みするわ",
+      "romaji": "...Kyou no Tokoro ha Hitoyasumi Suru wa",
+      "en": "...For today, I'll take a little break",
+      "zh": "……今天就先休息一下"
+    },
+    {
+      "ja": "でもね、本音だよ",
+      "romaji": "Demo ne, Honne Da yo",
+      "en": "But hey, this is my true feeling",
+      "zh": "但是呢，這是真心話"
+    },
+    {
+      "ja": "二人見てきた景色で",
+      "romaji": "Futari Mite Kita Keshiki de",
+      "en": "Through the scenery we've seen together",
+      "zh": "憑著兩人一同看過的風景"
+    },
+    {
+      "ja": "確信へと変わる",
+      "romaji": "Kakushin e to Kawaru",
+      "en": "It turns into certainty",
+      "zh": "化為了確信"
+    },
+    {
+      "ja": "もう手を離さないわ！",
+      "romaji": "Mou Te wo Hanasanai wa!",
+      "en": "I won't let go of your hand anymore!",
+      "zh": "不會再放開你的手了！"
+    },
+    {
+      "ja": "コ・コ・コ・恋する　私変われる",
+      "romaji": "Ko Ko Ko Koisuru Watashi Kawareru",
+      "en": "Lo-lo-lo-loving, I can change",
+      "zh": "戀、戀、戀愛中的我能改變"
+    },
+    {
+      "ja": "いつも　キミキミ君を想うから",
+      "romaji": "Itsumo Kimi Kimi Kimi wo Omou kara",
+      "en": "Because I'm always thinking of you, you, you",
+      "zh": "因為總是想著你"
+    },
+    {
+      "ja": "タ・タ・タ・大胆不敵になれる",
+      "romaji": "Ta Ta Ta Daitan Futeki ni Nareru",
+      "en": "I can become bo-bo-bo-bold and fearless",
+      "zh": "能變得膽、膽、膽大無畏"
+    },
+    {
+      "ja": "「どうして？」だなんて",
+      "romaji": "「Doushite?」 Da Nante",
+      "en": "Don't make me say",
+      "zh": "別讓我說出"
+    },
+    {
+      "ja": "…言わせないで！",
+      "romaji": "...Iwase Naide!",
+      "en": "...\"Why?\"!",
+      "zh": "……「為什麼？」這種話！"
+    },
+    {
+      "ja": "コ・コ・コ・恋する　私かがやく",
+      "romaji": "Ko Ko Ko Koisuru Watashi Kagayaku",
+      "en": "Lo-lo-lo-loving, I shine",
+      "zh": "戀、戀、戀愛中的我閃閃發光"
+    },
+    {
+      "ja": "ほらね？キラキラキラ煌めいてる",
+      "romaji": "Hora ne? Kira Kira Kira Kirameiteru",
+      "en": "See? I'm sparkling, glittering, gleaming",
+      "zh": "看吧？閃閃亮亮地燦爛奪目"
+    },
+    {
+      "ja": "タ・タ・タ・単純明快でいて",
+      "romaji": "Ta Ta Ta Tanjun Meikai de Ite",
+      "en": "Keep it si-si-si-simple and clear",
+      "zh": "簡、簡、簡單明瞭地"
+    },
+    {
+      "ja": "まだまだ　そう終われない",
+      "romaji": "Mada Mada Sou Owarenai",
+      "en": "It can't end just yet",
+      "zh": "還不能就這樣結束"
+    },
+    {
+      "ja": "ラブストーリー",
+      "romaji": "Rabu Sutoorii",
+      "en": "This love story",
+      "zh": "愛情故事"
+    },
+    {
+      "ja": "二人　翼はないけれど",
+      "romaji": "Futari Tsubasa ha Nai keredo",
+      "en": "We may not have wings",
+      "zh": "雖然兩人沒有翅膀"
+    },
+    {
+      "ja": "繋いだ両手で無敵なの！",
+      "romaji": "Tsunaida Ryoute de Muteki na no!",
+      "en": "But with our joined hands, we're invincible!",
+      "zh": "牽起的雙手讓我們無敵！"
+    },
+    {
+      "ja": "疑う余地もないわ期待してて？",
+      "romaji": "Utagau Yochi mo Nai wa Kitai Shitete?",
+      "en": "There's no room for doubt—look forward to it?",
+      "zh": "毫無懷疑的餘地，敬請期待？"
+    },
+    {
+      "ja": "恋する　私ときめく",
+      "romaji": "Koisuru Watashi Tokimeku",
+      "en": "Loving, my heart flutters",
+      "zh": "戀愛中的我心跳不已"
+    },
+    {
+      "ja": "ずっとキミキミ君と探していく",
+      "romaji": "Zutto Kimi Kimi Kimi to Sagashite Iku",
+      "en": "I'll keep searching with you, you, you forever",
+      "zh": "永遠與你一同探尋下去"
+    },
+    {
+      "ja": "大好き　そんな気持ちを",
+      "romaji": "Daisuki Sonna Kimochi wo",
+      "en": "This feeling of loving you",
+      "zh": "最喜歡的這份心情"
+    },
+    {
+      "ja": "10年100年　いつまででも",
+      "romaji": "Juunen Hyakunen Itsu made demo",
+      "en": "For ten years, a hundred years, forever and ever",
+      "zh": "十年、一百年，直到永遠"
+    },
+    {
+      "ja": "コ・コ・コ・コ・コ・コ・コ・恋する　私かがやく",
+      "romaji": "Ko Ko Ko Ko Ko Ko Ko Koisuru Watashi Kagayaku",
+      "en": "Lo-lo-lo-lo-lo-lo-lo-loving, I shine",
+      "zh": "戀、戀、戀、戀、戀、戀、戀愛中的我閃閃發光"
+    },
+    {
+      "ja": "ほらね？キラキラキラ煌めいてる",
+      "romaji": "Hora ne? Kira Kira Kira Kirameiteru",
+      "en": "See? I'm sparkling, glittering, gleaming",
+      "zh": "看吧？閃閃亮亮地燦爛奪目"
+    },
+    {
+      "ja": "タ・タ・タ・太陽みたいに笑う",
+      "romaji": "Ta Ta Ta Taiyou Mitai ni Warau",
+      "en": "Smiling like the su-su-su-sun",
+      "zh": "像太、太、太陽一樣笑著"
+    },
+    {
+      "ja": "私と君のメマメマぐるしい",
+      "romaji": "Watashi to Kimi no Mema Mema Gurushii",
+      "en": "Our dizzy, dizzy, dizzying",
+      "zh": "我與你眼花撩亂"
+    },
+    {
+      "ja": "いつでもぐるぐる忙しい　ラブストーリー",
+      "romaji": "Itsu demo Guruguru Isogashii Rabu Sutoorii",
+      "en": "Always spinning and busy—love story",
+      "zh": "總是團團轉忙個不停的愛情故事"
+    }
+  ]
+}

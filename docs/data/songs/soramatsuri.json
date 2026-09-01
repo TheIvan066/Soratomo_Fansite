@@ -1,0 +1,628 @@
+{
+  "meta": {
+    "title": "空祭り",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "瀬名航",
+    "lyricist": "瀬名航",
+    "album": "ON STAGE!",
+    "releaseDate": "2020/10/21",
+    "coverUrl": "cover_images/on_stage",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/Bqj5DsHNJpE?si=Q2LLbfF4Jg2t8t3d"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "今だけ笑い飛ばせ　三分ちょいのお祭りじゃ！(ハイ！)",
+      "call": "                                                                        (ハイ！)"
+    },
+    {
+      "lyrics": "(あ、ヨイショ！)",
+      "call": "(あ、ヨイショ！)"
+    },
+    {
+      "lyrics": "(あ、それそれそれそれ！)",
+      "call": "(あ、それそれそれそれ！)"
+    },
+    {
+      "lyrics": "(あ、どした)",
+      "call": "(あ、どした)"
+    },
+    {
+      "lyrics": "頭ん中反省会　絶えぬ後悔",
+      "call": ""
+    },
+    {
+      "lyrics": "誰も気にしない？　これぞ不可思議",
+      "call": ""
+    },
+    {
+      "lyrics": "気になっちゃうアレコレ一旦置いといて叫べ！",
+      "call": ""
+    },
+    {
+      "lyrics": "えいや！っさぁえいや！",
+      "call": "えいや！っさぁえいや！"
+    },
+    {
+      "lyrics": "っさぁそーれっそーれっそーれっそーれっ！",
+      "call": "っさぁそーれっそーれっそーれっそーれっ！"
+    },
+    {
+      "lyrics": "(AhーAhー)一緒に悩んだり",
+      "call": "(AhーAhー)"
+    },
+    {
+      "lyrics": "(AhーAhー)一緒に浮かれちゃったり",
+      "call": "(AhーAhー)"
+    },
+    {
+      "lyrics": "(AhーAhー)一緒に語り合ってみようじゃない？",
+      "call": "(AhーAhー)"
+    },
+    {
+      "lyrics": "衝動を解き放つ場所に立てる日を待ち侘びた僕ら",
+      "call": ""
+    },
+    {
+      "lyrics": "お祭り騒ぎだね！",
+      "call": "                          フッフー！"
+    },
+    {
+      "lyrics": "ええじゃないか　ええじゃないか　空祭り (あ、ヨイショ！)",
+      "call": "                                                                  (あ、ヨイショ！)"
+    },
+    {
+      "lyrics": "たまには踊らにゃ身に毒じゃ (あ、それ！)",
+      "call": "                                              (あ、それ！)"
+    },
+    {
+      "lyrics": "わーー！ってなって　うぅー。。ってなって　風任せ (あ、どした)",
+      "call": "                                                                                 (あ、どした)"
+    },
+    {
+      "lyrics": "なるようになるので (あ、それそれそれそれ！) ",
+      "call": "                                (あ、それそれそれそれ！)"
+    },
+    {
+      "lyrics": "宴ぞ皆の者　遊びこそガチでぶつかってみろ",
+      "call": ""
+    },
+    {
+      "lyrics": "今だけ笑い飛ばせ",
+      "call": ""
+    },
+    {
+      "lyrics": "頑張った分のご褒美じゃ！(ハイ！)",
+      "call": "                                         (ハイ！)"
+    },
+    {
+      "lyrics": "(あ、ヨイショ！)",
+      "call": "(あ、ヨイショ！)"
+    },
+    {
+      "lyrics": "(あ、それそれそれそれ！)",
+      "call": "(あ、それそれそれそれ！)"
+    },
+    {
+      "lyrics": "(あ、どした)",
+      "call": "(あ、どした)"
+    },
+    {
+      "lyrics": "始まった反省会　夜は天敵",
+      "call": ""
+    },
+    {
+      "lyrics": "気付けば眠れない？　これぞ不可思議",
+      "call": ""
+    },
+    {
+      "lyrics": "気になっちゃうアレコレ一旦置いといて叫べ！",
+      "call": ""
+    },
+    {
+      "lyrics": "えいや！っさぁえいや！",
+      "call": "えいや！っさぁえいや！"
+    },
+    {
+      "lyrics": "っさぁそーれっそーれっそーれっそーれっ！",
+      "call": "っさぁそーれっそーれっそーれっそーれっ！"
+    },
+    {
+      "lyrics": "(AhーAhー)ハメ外したくなったり",
+      "call": "(AhーAhー)"
+    },
+    {
+      "lyrics": "(AhーAhー)ズル休みたくなったり",
+      "call": "(AhーAhー)"
+    },
+    {
+      "lyrics": "(AhーAhー)正直、参りました～。。な時もあるでしょうが",
+      "call": "(AhーAhー)"
+    },
+    {
+      "lyrics": "転べばまた起きりゃいい　さほど難しくない",
+      "call": ""
+    },
+    {
+      "lyrics": "諸行無常　世知辛いこの世で息抜くために",
+      "call": ""
+    },
+    {
+      "lyrics": "準備はいいか？さぁ踊るのだ～～！",
+      "call": ""
+    },
+    {
+      "lyrics": "ええじゃないか　ええじゃないか　空祭り (あ、ヨイショ！)",
+      "call": "                                                                  (あ、ヨイショ！)"
+    },
+    {
+      "lyrics": "たまには踊らにゃ身に毒じゃ (あ、それ！)",
+      "call": "                                              (あ、それ！)"
+    },
+    {
+      "lyrics": "わーー！ってなって　うぅー。。ってなって　風任せ (あ、どした)",
+      "call": "                                                                                 (あ、どした)"
+    },
+    {
+      "lyrics": "なるようになるので (あ、それそれそれそれ！) ",
+      "call": "                                (あ、それそれそれそれ！)"
+    },
+    {
+      "lyrics": "宴ぞ皆の者　トラブルこそ面白がってみろ",
+      "call": ""
+    },
+    {
+      "lyrics": "今だけ笑い飛ばせ",
+      "call": ""
+    },
+    {
+      "lyrics": "後でちゃんと謝るぞ！(ハイ！)",
+      "call": "                                  (ハイ！)"
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    },
+    {
+      "lyrics": "ええじゃないか　ええじゃないか　今だけさ",
+      "call": ""
+    },
+    {
+      "lyrics": "(ええじゃないか　ええじゃないか　今だけさ)",
+      "call": "(ええじゃないか　ええじゃないか　今だけさ)"
+    },
+    {
+      "lyrics": "ええじゃないか　ええじゃないか　踊り出せ",
+      "call": ""
+    },
+    {
+      "lyrics": "(ええじゃないか　ええじゃないか　踊り出せ)",
+      "call": "(ええじゃないか　ええじゃないか　踊り出せ)"
+    },
+    {
+      "lyrics": "ええじゃないか　ええじゃないか　空祭り(あ、ヨイショ！)",
+      "call": "                                                                 (あ、ヨイショ！)"
+    },
+    {
+      "lyrics": "たまには踊らにゃ身に毒じゃ(あ、それ！)",
+      "call": "                                            (あ、それ！)"
+    },
+    {
+      "lyrics": "わーー！ってなって　うぅー。。ってなって　風任せ(あ、どした)",
+      "call": "                                                                                (あ、どした)"
+    },
+    {
+      "lyrics": "なるようになるので (あ、それそれそれそれ！) ",
+      "call": "                                (あ、それそれそれそれ！)"
+    },
+    {
+      "lyrics": "宴ぞ皆の者　遊びこそガチでぶつかってみろ",
+      "call": ""
+    },
+    {
+      "lyrics": "今だけ笑い飛ばせ",
+      "call": ""
+    },
+    {
+      "lyrics": "頑張った分のご褒美じゃ！(ハイ！)",
+      "call": "                                         (ハイ！)"
+    },
+    {
+      "lyrics": "またね、次も遊ぼうね！！(ハイ！)",
+      "call": "                                         (ハイ！)"
+    },
+    {
+      "lyrics": "(あ、ヨイショ！)",
+      "call": "(あ、ヨイショ！)"
+    },
+    {
+      "lyrics": "(あ、それそれそれそれ！)",
+      "call": "(あ、それそれそれそれ！)"
+    },
+    {
+      "lyrics": "(あ、どした)",
+      "call": "(あ、どした)"
+    },
+    {
+      "lyrics": "(あ、それそれそれそれ！)",
+      "call": "(あ、それそれそれそれ！)"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "今だけ笑い飛ばせ　三分ちょいのお祭りじゃ！(ハイ！)",
+      "romaji": "Ima Dake Waraitobase Sanpun Choi no Omatsuri ja! (Hai!)",
+      "en": "Laugh it off just for now—it's a little three-minute festival! (Yeah!)",
+      "zh": "就趁現在一笑置之，這是短短三分多鐘的祭典！（嗨！）"
+    },
+    {
+      "ja": "(あ、ヨイショ！)",
+      "romaji": "(A, Yoisho!)",
+      "en": "(Ah, heave-ho!)",
+      "zh": "（啊，嘿咻！）"
+    },
+    {
+      "ja": "(あ、それそれそれそれ！)",
+      "romaji": "(A, Sore Sore Sore Sore!)",
+      "en": "(Ah, that's it, that's it, that's it!)",
+      "zh": "（啊，就是這樣就是這樣！）"
+    },
+    {
+      "ja": "(あ、どした)",
+      "romaji": "(A, Doshita)",
+      "en": "(Ah, what's up)",
+      "zh": "（啊，怎麼了）"
+    },
+    {
+      "ja": "頭ん中反省会　絶えぬ後悔",
+      "romaji": "Atama n Naka Hanseikai Taenu Koukai",
+      "en": "A review session in my head, endless regret",
+      "zh": "腦海裡的檢討會，無止盡的後悔"
+    },
+    {
+      "ja": "誰も気にしない？　これぞ不可思議",
+      "romaji": "Dare mo Ki ni Shinai? Kore zo Fukashigi",
+      "en": "No one even cares? How mysterious",
+      "zh": "誰都不在意？這真是不可思議"
+    },
+    {
+      "ja": "気になっちゃうアレコレ一旦置いといて叫べ！",
+      "romaji": "Ki ni Natchau Arekore Ittan Oitoite Sakebe!",
+      "en": "Set aside all those little worries for now and shout!",
+      "zh": "把在意的大小事先擱一旁，大聲吶喊！"
+    },
+    {
+      "ja": "えいや！っさぁえいや！",
+      "romaji": "Eiya! Saa Eiya!",
+      "en": "Eiya! Now, eiya!",
+      "zh": "嘿呀！來吧嘿呀！"
+    },
+    {
+      "ja": "っさぁそーれっそーれっそーれっそーれっ！",
+      "romaji": "Saa Sore Sore Sore Sore!",
+      "en": "Now, go, go, go, go!",
+      "zh": "來吧，上啊上啊上啊上啊！"
+    },
+    {
+      "ja": "(AhーAhー)一緒に悩んだり",
+      "romaji": "(Ah Ah) Issho ni Nayandari",
+      "en": "(Ah-ah) Worrying together",
+      "zh": "（AhーAhー）一起煩惱"
+    },
+    {
+      "ja": "(AhーAhー)一緒に浮かれちゃったり",
+      "romaji": "(Ah Ah) Issho ni Ukarechattari",
+      "en": "(Ah-ah) Getting carried away together",
+      "zh": "（AhーAhー）一起歡騰雀躍"
+    },
+    {
+      "ja": "(AhーAhー)一緒に語り合ってみようじゃない？",
+      "romaji": "(Ah Ah) Issho ni Katariatte Miyou ja Nai?",
+      "en": "(Ah-ah) Why don't we talk it out together?",
+      "zh": "（AhーAhー）一起暢談一番如何？"
+    },
+    {
+      "ja": "衝動を解き放つ場所に立てる日を待ち侘びた僕ら",
+      "romaji": "Shoudou wo Tokihanatsu Basho ni Tateru Hi wo Machiwabita Bokura",
+      "en": "We've been waiting for the day we can stand where impulses run free",
+      "zh": "我們翹首盼望能站在釋放衝動之地的日子"
+    },
+    {
+      "ja": "お祭り騒ぎだね！",
+      "romaji": "Omatsuri Sawagi Da ne!",
+      "en": "It's a full-on festival!",
+      "zh": "真是場祭典狂歡呢！"
+    },
+    {
+      "ja": "ええじゃないか　ええじゃないか　空祭り (あ、ヨイショ！)",
+      "romaji": "Ee ja Nai ka Ee ja Nai ka Sora Matsuri (A, Yoisho!)",
+      "en": "Isn't it fine, isn't it fine—a sky festival (Ah, heave-ho!)",
+      "zh": "有何不可，有何不可，天空祭典（啊，嘿咻！）"
+    },
+    {
+      "ja": "たまには踊らにゃ身に毒じゃ (あ、それ！)",
+      "romaji": "Tama ni ha Odoranya Mi ni Doku ja (A, Sore!)",
+      "en": "Sometimes if you don't dance, it's bad for you (Ah, that's it!)",
+      "zh": "偶爾不跳舞可是有害身心（啊，就是這樣！）"
+    },
+    {
+      "ja": "わーー！ってなって　うぅー。。ってなって　風任せ (あ、どした)",
+      "romaji": "Waa! tte Natte Uu... tte Natte Kaze Makase (A, Doshita)",
+      "en": "Going \"waah!\" and then \"ugh...\" and leaving it to the wind (Ah, what's up)",
+      "zh": "一下子哇啊！一下子嗚嗚……隨風去吧（啊，怎麼了）"
+    },
+    {
+      "ja": "なるようになるので (あ、それそれそれそれ！)",
+      "romaji": "Naru You ni Naru node (A, Sore Sore Sore Sore!)",
+      "en": "Things will work out somehow (Ah, that's it, that's it, that's it!)",
+      "zh": "船到橋頭自然直（啊，就是這樣就是這樣！）"
+    },
+    {
+      "ja": "宴ぞ皆の者　遊びこそガチでぶつかってみろ",
+      "romaji": "Utage zo Mina no Mono Asobi Koso Gachi de Butsukatte Miro",
+      "en": "It's a feast, everyone—throw yourselves into play for real",
+      "zh": "盛宴開始，眾人啊，玩樂就要全力以赴"
+    },
+    {
+      "ja": "今だけ笑い飛ばせ",
+      "romaji": "Ima Dake Waraitobase",
+      "en": "Laugh it off just for now",
+      "zh": "就趁現在一笑置之"
+    },
+    {
+      "ja": "頑張った分のご褒美じゃ！(ハイ！)",
+      "romaji": "Ganbatta Bun no Gohoubi ja! (Hai!)",
+      "en": "It's a reward for all your hard work! (Yeah!)",
+      "zh": "這是努力過後的獎賞！（嗨！）"
+    },
+    {
+      "ja": "(あ、ヨイショ！)",
+      "romaji": "(A, Yoisho!)",
+      "en": "(Ah, heave-ho!)",
+      "zh": "（啊，嘿咻！）"
+    },
+    {
+      "ja": "(あ、それそれそれそれ！)",
+      "romaji": "(A, Sore Sore Sore Sore!)",
+      "en": "(Ah, that's it, that's it, that's it!)",
+      "zh": "（啊，就是這樣就是這樣！）"
+    },
+    {
+      "ja": "(あ、どした)",
+      "romaji": "(A, Doshita)",
+      "en": "(Ah, what's up)",
+      "zh": "（啊，怎麼了）"
+    },
+    {
+      "ja": "始まった反省会　夜は天敵",
+      "romaji": "Hajimatta Hanseikai Yoru ha Tenteki",
+      "en": "The review session has begun—the night is my enemy",
+      "zh": "檢討會開始了，夜晚是天敵"
+    },
+    {
+      "ja": "気付けば眠れない？　これぞ不可思議",
+      "romaji": "Kizukeba Nemurenai? Kore zo Fukashigi",
+      "en": "Before I know it, I can't sleep? How mysterious",
+      "zh": "回過神來就睡不著？這真是不可思議"
+    },
+    {
+      "ja": "気になっちゃうアレコレ一旦置いといて叫べ！",
+      "romaji": "Ki ni Natchau Arekore Ittan Oitoite Sakebe!",
+      "en": "Set aside all those little worries for now and shout!",
+      "zh": "把在意的大小事先擱一旁，大聲吶喊！"
+    },
+    {
+      "ja": "えいや！っさぁえいや！",
+      "romaji": "Eiya! Saa Eiya!",
+      "en": "Eiya! Now, eiya!",
+      "zh": "嘿呀！來吧嘿呀！"
+    },
+    {
+      "ja": "っさぁそーれっそーれっそーれっそーれっ！",
+      "romaji": "Saa Sore Sore Sore Sore!",
+      "en": "Now, go, go, go, go!",
+      "zh": "來吧，上啊上啊上啊上啊！"
+    },
+    {
+      "ja": "(AhーAhー)ハメ外したくなったり",
+      "romaji": "(Ah Ah) Hame Hazushitaku Nattari",
+      "en": "(Ah-ah) Wanting to let loose",
+      "zh": "（AhーAhー）想放縱一下"
+    },
+    {
+      "ja": "(AhーAhー)ズル休みたくなったり",
+      "romaji": "(Ah Ah) Zuru Yasumitaku Nattari",
+      "en": "(Ah-ah) Wanting to skip out",
+      "zh": "（AhーAhー）想偷懶休息"
+    },
+    {
+      "ja": "(AhーAhー)正直、参りました～。。な時もあるでしょうが",
+      "romaji": "(Ah Ah) Shoujiki, Mairimashita... na Toki mo Aru Deshou ga",
+      "en": "(Ah-ah) Honestly, there are times you just feel beaten...",
+      "zh": "（AhーAhー）老實說，也有感到吃不消的時候吧"
+    },
+    {
+      "ja": "転べばまた起きりゃいい　さほど難しくない",
+      "romaji": "Korobeba Mata Okirya Ii Sahodo Muzukashikunai",
+      "en": "If you fall, just get up again—it's not that hard",
+      "zh": "跌倒了再爬起來就好，沒那麼困難"
+    },
+    {
+      "ja": "諸行無常　世知辛いこの世で息抜くために",
+      "romaji": "Shogyou Mujou Sechigarai Kono Yo de Ikinuku Tame ni",
+      "en": "All things pass—to catch your breath in this harsh world",
+      "zh": "諸行無常，為了在這艱難世間喘口氣"
+    },
+    {
+      "ja": "準備はいいか？さぁ踊るのだ～～！",
+      "romaji": "Junbi ha Ii ka? Saa Odoru no Da!!",
+      "en": "Are you ready? Now, dance!!",
+      "zh": "準備好了嗎？來吧，跳舞吧～～！"
+    },
+    {
+      "ja": "ええじゃないか　ええじゃないか　空祭り (あ、ヨイショ！)",
+      "romaji": "Ee ja Nai ka Ee ja Nai ka Sora Matsuri (A, Yoisho!)",
+      "en": "Isn't it fine, isn't it fine—a sky festival (Ah, heave-ho!)",
+      "zh": "有何不可，有何不可，天空祭典（啊，嘿咻！）"
+    },
+    {
+      "ja": "たまには踊らにゃ身に毒じゃ (あ、それ！)",
+      "romaji": "Tama ni ha Odoranya Mi ni Doku ja (A, Sore!)",
+      "en": "Sometimes if you don't dance, it's bad for you (Ah, that's it!)",
+      "zh": "偶爾不跳舞可是有害身心（啊，就是這樣！）"
+    },
+    {
+      "ja": "わーー！ってなって　うぅー。。ってなって　風任せ (あ、どした)",
+      "romaji": "Waa! tte Natte Uu... tte Natte Kaze Makase (A, Doshita)",
+      "en": "Going \"waah!\" and then \"ugh...\" and leaving it to the wind (Ah, what's up)",
+      "zh": "一下子哇啊！一下子嗚嗚……隨風去吧（啊，怎麼了）"
+    },
+    {
+      "ja": "なるようになるので (あ、それそれそれそれ！)",
+      "romaji": "Naru You ni Naru node (A, Sore Sore Sore Sore!)",
+      "en": "Things will work out somehow (Ah, that's it, that's it, that's it!)",
+      "zh": "船到橋頭自然直（啊，就是這樣就是這樣！）"
+    },
+    {
+      "ja": "宴ぞ皆の者　トラブルこそ面白がってみろ",
+      "romaji": "Utage zo Mina no Mono Toraburu Koso Omoshirogatte Miro",
+      "en": "It's a feast, everyone—enjoy even the trouble",
+      "zh": "盛宴開始，眾人啊，連麻煩都要樂在其中"
+    },
+    {
+      "ja": "今だけ笑い飛ばせ",
+      "romaji": "Ima Dake Waraitobase",
+      "en": "Laugh it off just for now",
+      "zh": "就趁現在一笑置之"
+    },
+    {
+      "ja": "後でちゃんと謝るぞ！(ハイ！)",
+      "romaji": "Ato de Chanto Ayamaru zo! (Hai!)",
+      "en": "I'll apologize properly later! (Yeah!)",
+      "zh": "之後會好好道歉的！（嗨！）"
+    },
+    {
+      "ja": "ええじゃないか　ええじゃないか　今だけさ",
+      "romaji": "Ee ja Nai ka Ee ja Nai ka Ima Dake sa",
+      "en": "Isn't it fine, isn't it fine—just for now",
+      "zh": "有何不可，有何不可，就趁現在"
+    },
+    {
+      "ja": "(ええじゃないか　ええじゃないか　今だけさ)",
+      "romaji": "(Ee ja Nai ka Ee ja Nai ka Ima Dake sa)",
+      "en": "(Isn't it fine, isn't it fine—just for now)",
+      "zh": "（有何不可，有何不可，就趁現在）"
+    },
+    {
+      "ja": "ええじゃないか　ええじゃないか　踊り出せ",
+      "romaji": "Ee ja Nai ka Ee ja Nai ka Odoridase",
+      "en": "Isn't it fine, isn't it fine—start dancing",
+      "zh": "有何不可，有何不可，起舞吧"
+    },
+    {
+      "ja": "(ええじゃないか　ええじゃないか　踊り出せ)",
+      "romaji": "(Ee ja Nai ka Ee ja Nai ka Odoridase)",
+      "en": "(Isn't it fine, isn't it fine—start dancing)",
+      "zh": "（有何不可，有何不可，起舞吧）"
+    },
+    {
+      "ja": "ええじゃないか　ええじゃないか　空祭り(あ、ヨイショ！)",
+      "romaji": "Ee ja Nai ka Ee ja Nai ka Sora Matsuri (A, Yoisho!)",
+      "en": "Isn't it fine, isn't it fine—a sky festival (Ah, heave-ho!)",
+      "zh": "有何不可，有何不可，天空祭典（啊，嘿咻！）"
+    },
+    {
+      "ja": "たまには踊らにゃ身に毒じゃ(あ、それ！)",
+      "romaji": "Tama ni ha Odoranya Mi ni Doku ja (A, Sore!)",
+      "en": "Sometimes if you don't dance, it's bad for you (Ah, that's it!)",
+      "zh": "偶爾不跳舞可是有害身心（啊，就是這樣！）"
+    },
+    {
+      "ja": "わーー！ってなって　うぅー。。ってなって　風任せ(あ、どした)",
+      "romaji": "Waa! tte Natte Uu... tte Natte Kaze Makase (A, Doshita)",
+      "en": "Going \"waah!\" and then \"ugh...\" and leaving it to the wind (Ah, what's up)",
+      "zh": "一下子哇啊！一下子嗚嗚……隨風去吧（啊，怎麼了）"
+    },
+    {
+      "ja": "なるようになるので (あ、それそれそれそれ！)",
+      "romaji": "Naru You ni Naru node (A, Sore Sore Sore Sore!)",
+      "en": "Things will work out somehow (Ah, that's it, that's it, that's it!)",
+      "zh": "船到橋頭自然直（啊，就是這樣就是這樣！）"
+    },
+    {
+      "ja": "宴ぞ皆の者　遊びこそガチでぶつかってみろ",
+      "romaji": "Utage zo Mina no Mono Asobi Koso Gachi de Butsukatte Miro",
+      "en": "It's a feast, everyone—throw yourselves into play for real",
+      "zh": "盛宴開始，眾人啊，玩樂就要全力以赴"
+    },
+    {
+      "ja": "今だけ笑い飛ばせ",
+      "romaji": "Ima Dake Waraitobase",
+      "en": "Laugh it off just for now",
+      "zh": "就趁現在一笑置之"
+    },
+    {
+      "ja": "頑張った分のご褒美じゃ！(ハイ！)",
+      "romaji": "Ganbatta Bun no Gohoubi ja! (Hai!)",
+      "en": "It's a reward for all your hard work! (Yeah!)",
+      "zh": "這是努力過後的獎賞！（嗨！）"
+    },
+    {
+      "ja": "またね、次も遊ぼうね！！(ハイ！)",
+      "romaji": "Mata ne, Tsugi mo Asobou ne!! (Hai!)",
+      "en": "See you later—let's play again next time!! (Yeah!)",
+      "zh": "再見囉，下次再一起玩吧！！（嗨！）"
+    },
+    {
+      "ja": "(あ、ヨイショ！)",
+      "romaji": "(A, Yoisho!)",
+      "en": "(Ah, heave-ho!)",
+      "zh": "（啊，嘿咻！）"
+    },
+    {
+      "ja": "(あ、それそれそれそれ！)",
+      "romaji": "(A, Sore Sore Sore Sore!)",
+      "en": "(Ah, that's it, that's it, that's it!)",
+      "zh": "（啊，就是這樣就是這樣！）"
+    },
+    {
+      "ja": "(あ、どした)",
+      "romaji": "(A, Doshita)",
+      "en": "(Ah, what's up)",
+      "zh": "（啊，怎麼了）"
+    },
+    {
+      "ja": "(あ、それそれそれそれ！)",
+      "romaji": "(A, Sore Sore Sore Sore!)",
+      "en": "(Ah, that's it, that's it, that's it!)",
+      "zh": "（啊，就是這樣就是這樣！）"
+    }
+  ]
+}
