@@ -1,0 +1,714 @@
+{
+  "meta": {
+    "title": "Rolling, Loading!!",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "Akki",
+    "lyricist": "新谷風太",
+    "album": "Star Star☆t",
+    "releaseDate": "2024/03/06",
+    "coverUrl": "cover_images/star_star_start",
+    "penlight_color": [
+      "#0000ff"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/VCsWgOMu4_8?si=6LcEEJ27lZR_-xuC"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "最高の光は　いま目の前にあるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "積み重ねた物語の結晶",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    },
+    {
+      "lyrics": "6本目のロウソクまで吹き消したら",
+      "call": "",
+      "extra_row": true,
+      "action": "= = p p = = p = | = = p p = = p ="
+    },
+    {
+      "lyrics": "みんなワーワーで　めっちゃパレード!にぎやかがいいよね",
+      "call": "",
+      "extra_row": true,
+      "action": "= = p p = = p = | = = p p = = p ="
+    },
+    {
+      "lyrics": "全世界の隅々まで　伝えなくちゃ",
+      "call": "",
+      "extra_row": true,
+      "action": "= = p p = = p = | = = p p = = p ="
+    },
+    {
+      "lyrics": "最大限の “I'm Happy!!!!!!”　フルボリュームで",
+      "call": ""
+    },
+    {
+      "lyrics": "まだまだ途中だよね　バテずに一直線",
+      "call": ""
+    },
+    {
+      "lyrics": "果てなきところまでド派手に行きたいじゃん",
+      "call": ""
+    },
+    {
+      "lyrics": "もし　たまにほら 6×6(ムム)ってもさ",
+      "call": ""
+    },
+    {
+      "lyrics": "その先に三十六景だ",
+      "call": ""
+    },
+    {
+      "lyrics": "ハチャメチャ、でもここまで来たね",
+      "call": ""
+    },
+    {
+      "lyrics": "よっしゃー!",
+      "call": "よっしゃー!"
+    },
+    {
+      "lyrics": "サンキュー!ろろろろ",
+      "call": "サンキュー!"
+    },
+    {
+      "lyrics": "ロッキュー!まだまだ",
+      "call": "ロッキュー!"
+    },
+    {
+      "lyrics": "Rolling! Loading!　進化中",
+      "call": ""
+    },
+    {
+      "lyrics": "最新系の私だ　キミが目撃者だ!",
+      "call": ""
+    },
+    {
+      "lyrics": "サンキュー!ろろろろ",
+      "call": "サンキュー!"
+    },
+    {
+      "lyrics": "ロッキュー!回れよ",
+      "call": "ロッキュー!"
+    },
+    {
+      "lyrics": "Rolling! Loading!　ぐーるりっ",
+      "call": ""
+    },
+    {
+      "lyrics": "第六惑星までも届けたいメロディ",
+      "call": ""
+    },
+    {
+      "lyrics": "(ろっろー!ろっろー!)",
+      "call": "(ろっろー!ろっろー!)"
+    },
+    {
+      "lyrics": "風向きよし!",
+      "call": ""
+    },
+    {
+      "lyrics": "(ろっろー!ろっろー!)",
+      "call": "(ろっろー!ろっろー!)"
+    },
+    {
+      "lyrics": "空駆ける旅はまだ続いてく",
+      "call": ""
+    },
+    {
+      "lyrics": "6年目が6巻目の　お話なら",
+      "call": "",
+      "extra_row": true,
+      "action": "= = p p = = p = | = = p p = = p ="
+    },
+    {
+      "lyrics": "とりあえずは　安泰じゃん　打ち切りは回避だ",
+      "call": "",
+      "extra_row": true,
+      "action": "= = p p = = p = | = = p p = = p ="
+    },
+    {
+      "lyrics": "でもでもだよ　中だるみは　なりたくない",
+      "call": "",
+      "extra_row": true,
+      "action": "= = p p = = p = | = = p p = = p ="
+    },
+    {
+      "lyrics": "通過点なんだ　目指すは6億部です",
+      "call": ""
+    },
+    {
+      "lyrics": "山あり谷ありでも　なんのそのだって!",
+      "call": ""
+    },
+    {
+      "lyrics": "道なき道だろうと強気で GO and GO",
+      "call": ""
+    },
+    {
+      "lyrics": "あちゃ　コケちゃって　ぐぬってもさ",
+      "call": ""
+    },
+    {
+      "lyrics": "六輪駆動とかどうでしょか!?",
+      "call": ""
+    },
+    {
+      "lyrics": "免許無いなら乗り合わしてこうっっ",
+      "call": ""
+    },
+    {
+      "lyrics": "いっけー!",
+      "call": "いっけー!"
+    },
+    {
+      "lyrics": "サンキュー!ろろろろ",
+      "call": "サンキュー!"
+    },
+    {
+      "lyrics": "ロッキュー!飛ばせよ",
+      "call": "ロッキュー"
+    },
+    {
+      "lyrics": "Rolling! Loading!　ジェット級",
+      "call": ""
+    },
+    {
+      "lyrics": "6回転のジャンプすら飛べそうな気がするね",
+      "call": ""
+    },
+    {
+      "lyrics": "サンキュー!ろろろろ",
+      "call": "サンキュー!"
+    },
+    {
+      "lyrics": "ロッキュー!踊れよ",
+      "call": "ロッキュー!"
+    },
+    {
+      "lyrics": "Rolling! Loading!　ぐーるるっ",
+      "call": ""
+    },
+    {
+      "lyrics": "6列目のキミもちゃんと聞こえてるかい!?",
+      "call": ""
+    },
+    {
+      "lyrics": "(ろっろー!ろっろー!)",
+      "call": "(ろっろー!ろっろー!)"
+    },
+    {
+      "lyrics": "それならよし!",
+      "call": ""
+    },
+    {
+      "lyrics": "(ろっろー!ろっろー!)",
+      "call": "(ろっろー!ろっろー!)"
+    },
+    {
+      "lyrics": "空光る星に手を伸ばした",
+      "call": ""
+    },
+    {
+      "lyrics": "積み上げたら　歌えそうなんだ",
+      "call": ""
+    },
+    {
+      "lyrics": "キラ　キラ　未来",
+      "call": ""
+    },
+    {
+      "lyrics": "廻り廻る Future View!!!!!!!",
+      "call": ""
+    },
+    {
+      "lyrics": "サンキュー!ろろろろ",
+      "call": "サンキュー!"
+    },
+    {
+      "lyrics": "ロッキュー!まだまだ",
+      "call": "ロッキュー!"
+    },
+    {
+      "lyrics": "Rolling! Loading!　進化中",
+      "call": ""
+    },
+    {
+      "lyrics": "今世紀の旅路をキミと輝きたい!",
+      "call": ""
+    },
+    {
+      "lyrics": "サンキュー!ろろろろ",
+      "call": "サンキュー!"
+    },
+    {
+      "lyrics": "ロッキュー!回れよ",
+      "call": "ロッキュー!"
+    },
+    {
+      "lyrics": "Rolling! Loading!　ぐーるりっ",
+      "call": ""
+    },
+    {
+      "lyrics": "6光年の先へ届けたいメロディ",
+      "call": ""
+    },
+    {
+      "lyrics": "(ろっろー!ろっろー!)",
+      "call": "(ろっろー!ろっろー!)"
+    },
+    {
+      "lyrics": "風向きよし!",
+      "call": ""
+    },
+    {
+      "lyrics": "(ろっろー!ろっろー!)",
+      "call": "(ろっろー!ろっろー!)"
+    },
+    {
+      "lyrics": "ココロもよし!",
+      "call": ""
+    },
+    {
+      "lyrics": "(ろっろー!ろっろー!)",
+      "call": "(ろっろー!ろっろー!)"
+    },
+    {
+      "lyrics": "まだ行けるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "(ろっろー!ろっろー!)",
+      "call": "(ろっろー!ろっろー!)"
+    },
+    {
+      "lyrics": "キミと共に",
+      "call": ""
+    },
+    {
+      "lyrics": "(ろっろー!ろっろー!)",
+      "call": "(ろっろー!ろっろー!)"
+    },
+    {
+      "lyrics": "彼方へいま",
+      "call": ""
+    },
+    {
+      "lyrics": "(ろっろー!ろっろー!)",
+      "call": "(ろっろー!ろっろー!)"
+    },
+    {
+      "lyrics": "空駆ける旅をまだ続けよう Ah",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "最高の光は　いま目の前にあるよ",
+      "romaji": "Saikou no Hikari ha Ima Me no Mae ni Aru yo",
+      "en": "The greatest light is right before your eyes now",
+      "zh": "最棒的光芒，此刻就在眼前"
+    },
+    {
+      "ja": "積み重ねた物語の結晶",
+      "romaji": "Tsumikasaneta Monogatari no Kesshou",
+      "en": "The crystal of all the stories we've piled up",
+      "zh": "層層累積的故事結晶"
+    },
+    {
+      "ja": "6本目のロウソクまで吹き消したら",
+      "romaji": "Ropponme no Rousoku made Fukikeshitara",
+      "en": "Once we blow out the sixth candle",
+      "zh": "吹熄第六根蠟燭之後"
+    },
+    {
+      "ja": "みんなワーワーで　めっちゃパレード!にぎやかがいいよね",
+      "romaji": "Minna Waawaa de Meccha Pareedo! Nigiyaka ga Ii yo ne",
+      "en": "Everyone's cheering—what a parade! Lively is best, right?",
+      "zh": "大家哇哇歡呼，超盛大的遊行！熱鬧最棒了"
+    },
+    {
+      "ja": "全世界の隅々まで　伝えなくちゃ",
+      "romaji": "Zensekai no Sumizumi made Tsutaenakucha",
+      "en": "I have to spread it to every corner of the world",
+      "zh": "必須傳達到全世界的每個角落"
+    },
+    {
+      "ja": "最大限の “I'm Happy!!!!!!”　フルボリュームで",
+      "romaji": "Saidaigen no \"I'm Happy!!!!!!\" Furu Boryuumu de",
+      "en": "At maximum \"I'm Happy!!!!!!\" at full volume",
+      "zh": "用最大音量喊出「我超開心！！！！！！」"
+    },
+    {
+      "ja": "まだまだ途中だよね　バテずに一直線",
+      "romaji": "Mada Mada Tochuu Da yo ne Batezu ni Icchokusen",
+      "en": "We're still only partway, right? Without losing steam, straight ahead",
+      "zh": "還在半路上呢，不顯疲態地筆直向前"
+    },
+    {
+      "ja": "果てなきところまでド派手に行きたいじゃん",
+      "romaji": "Hate Naki Tokoro made Dohade ni Ikitai jan",
+      "en": "I wanna go all the way to the endless beyond in flashy style, don't you?",
+      "zh": "想到無盡的遠方華麗前行，對吧"
+    },
+    {
+      "ja": "もし　たまにほら 6×6(ムム)ってもさ",
+      "romaji": "Moshi Tama ni Hora Mu Mu tte mo sa",
+      "en": "Even if sometimes, you know, things go \"hmm hmm\"",
+      "zh": "即使偶爾，你看，陷入苦思"
+    },
+    {
+      "ja": "その先に三十六景だ",
+      "romaji": "Sono Saki ni Sanjuurokkei Da",
+      "en": "Beyond that are thirty-six views",
+      "zh": "前方還有三十六景"
+    },
+    {
+      "ja": "ハチャメチャ、でもここまで来たね",
+      "romaji": "Hachamecha, Demo Koko made Kita ne",
+      "en": "It's been chaotic, but we've made it this far",
+      "zh": "亂糟糟的，但我們也走到這了呢"
+    },
+    {
+      "ja": "よっしゃー!",
+      "romaji": "Yosshaa!",
+      "en": "Alright!",
+      "zh": "好耶！"
+    },
+    {
+      "ja": "サンキュー!ろろろろ　ロッキュー!まだまだ",
+      "romaji": "Sankyuu! Rorororo Rokkyuu! Mada Mada",
+      "en": "Thank you! Ro-ro-ro-ro, rock you! Not done yet",
+      "zh": "謝謝！嚕嚕嚕嚕，搖滾你！還早呢"
+    },
+    {
+      "ja": "Rolling! Loading!　進化中",
+      "romaji": "Rolling! Loading! Shinkachuu",
+      "en": "Rolling! Loading! Evolving",
+      "zh": "Rolling! Loading! 進化中"
+    },
+    {
+      "ja": "最新系の私だ　キミが目撃者だ!",
+      "romaji": "Saishinkei no Watashi Da Kimi ga Mokugekisha Da!",
+      "en": "I'm the latest model—you're the witness!",
+      "zh": "我是最新型的我，你是見證者！"
+    },
+    {
+      "ja": "サンキュー!ろろろろ　ロッキュー!回れよ",
+      "romaji": "Sankyuu! Rorororo Rokkyuu! Maware yo",
+      "en": "Thank you! Ro-ro-ro-ro, rock you! Spin around",
+      "zh": "謝謝！嚕嚕嚕嚕，搖滾你！旋轉吧"
+    },
+    {
+      "ja": "Rolling! Loading!　ぐーるりっ",
+      "romaji": "Rolling! Loading! Guururi",
+      "en": "Rolling! Loading! Round and round",
+      "zh": "Rolling! Loading! 轉圈圈"
+    },
+    {
+      "ja": "第六惑星までも届けたいメロディ",
+      "romaji": "Dairoku Wakusei made mo Todoketai Merodi",
+      "en": "A melody I want to send even to the sixth planet",
+      "zh": "想傳達到第六行星的旋律"
+    },
+    {
+      "ja": "(ろっろー!ろっろー!)",
+      "romaji": "(Rorroo! Rorroo!)",
+      "en": "(Ro-ro! Ro-ro!)",
+      "zh": "（嚕嚕！嚕嚕！）"
+    },
+    {
+      "ja": "風向きよし!",
+      "romaji": "Kazamuki Yoshi!",
+      "en": "The wind is in our favor!",
+      "zh": "風向正好！"
+    },
+    {
+      "ja": "(ろっろー!ろっろー!)",
+      "romaji": "(Rorroo! Rorroo!)",
+      "en": "(Ro-ro! Ro-ro!)",
+      "zh": "（嚕嚕！嚕嚕！）"
+    },
+    {
+      "ja": "空駆ける旅はまだ続いてく",
+      "romaji": "Sora Kakeru Tabi ha Mada Tsuzuiteku",
+      "en": "The journey racing through the sky still goes on",
+      "zh": "馳騁天空的旅程仍在繼續"
+    },
+    {
+      "ja": "6年目が6巻目の　お話なら",
+      "romaji": "Rokunenme ga Roku Kanme no Ohanashi Nara",
+      "en": "If the sixth year is the sixth volume of the story",
+      "zh": "如果第六年是第六卷的故事"
+    },
+    {
+      "ja": "とりあえずは　安泰じゃん　打ち切りは回避だ",
+      "romaji": "Toriaezu ha Antai jan Uchikiri ha Kaihi Da",
+      "en": "For now, we're safe—we've avoided cancellation",
+      "zh": "總之暫時安泰，避免了腰斬"
+    },
+    {
+      "ja": "でもでもだよ　中だるみは　なりたくない",
+      "romaji": "Demo Demo Da yo Nakadarumi ha Naritakunai",
+      "en": "But, but—I don't want it to drag in the middle",
+      "zh": "但是但是啊，不想有中段疲軟"
+    },
+    {
+      "ja": "通過点なんだ　目指すは6億部です",
+      "romaji": "Tsuukaten na n Da Mezasu ha Roku Oku Bu Desu",
+      "en": "It's just a waypoint—the goal is 600 million copies",
+      "zh": "這只是個中繼點，目標是六億本"
+    },
+    {
+      "ja": "山あり谷ありでも　なんのそのだって!",
+      "romaji": "Yama Ari Tani Ari demo Nan no Sono Datte!",
+      "en": "Even with peaks and valleys, no big deal!",
+      "zh": "就算有高山低谷，也算不了什麼！"
+    },
+    {
+      "ja": "道なき道だろうと強気で GO and GO",
+      "romaji": "Michi Naki Michi Darou to Tsuyoki de GO and GO",
+      "en": "Even on a pathless road, boldly go and go",
+      "zh": "就算是沒有路的路，也要強勢前進"
+    },
+    {
+      "ja": "あちゃ　コケちゃって　ぐぬってもさ",
+      "romaji": "Acha Kokechatte Gunutte mo sa",
+      "en": "Oops, even if I trip and groan",
+      "zh": "哎呀，就算跌倒了不甘心"
+    },
+    {
+      "ja": "六輪駆動とかどうでしょか!?",
+      "romaji": "Rokurin Kudou to ka Dou Desho ka!?",
+      "en": "How about six-wheel drive or something!?",
+      "zh": "六輪驅動之類的如何！？"
+    },
+    {
+      "ja": "免許無いなら乗り合わしてこうっっ",
+      "romaji": "Menkyo Nai Nara Noriawashite Kou",
+      "en": "If you don't have a license, let's ride together",
+      "zh": "沒駕照的話就一起搭車吧"
+    },
+    {
+      "ja": "いっけー!",
+      "romaji": "Ikkee!",
+      "en": "Let's go!",
+      "zh": "衝啊！"
+    },
+    {
+      "ja": "サンキュー!ろろろろ　ロッキュー!飛ばせよ",
+      "romaji": "Sankyuu! Rorororo Rokkyuu! Tobase yo",
+      "en": "Thank you! Ro-ro-ro-ro, rock you! Let it fly",
+      "zh": "謝謝！嚕嚕嚕嚕，搖滾你！飛起來吧"
+    },
+    {
+      "ja": "Rolling! Loading!　ジェット級",
+      "romaji": "Rolling! Loading! Jetto Kyuu",
+      "en": "Rolling! Loading! Jet-class",
+      "zh": "Rolling! Loading! 噴射等級"
+    },
+    {
+      "ja": "6回転のジャンプすら飛べそうな気がするね",
+      "romaji": "Rokkaiten no Janpu Sura Tobesou na Ki ga Suru ne",
+      "en": "It feels like I could even pull off a sextuple jump",
+      "zh": "感覺連六圈跳躍都飛得起來呢"
+    },
+    {
+      "ja": "サンキュー!ろろろろ　ロッキュー!踊れよ",
+      "romaji": "Sankyuu! Rorororo Rokkyuu! Odore yo",
+      "en": "Thank you! Ro-ro-ro-ro, rock you! Dance",
+      "zh": "謝謝！嚕嚕嚕嚕，搖滾你！跳舞吧"
+    },
+    {
+      "ja": "Rolling! Loading!　ぐーるるっ",
+      "romaji": "Rolling! Loading! Guururu",
+      "en": "Rolling! Loading! Round and round",
+      "zh": "Rolling! Loading! 轉啊轉"
+    },
+    {
+      "ja": "6列目のキミもちゃんと聞こえてるかい!?",
+      "romaji": "Roku Retsume no Kimi mo Chanto Kikoeteru Kai!?",
+      "en": "Even you in the sixth row—can you hear me clearly!?",
+      "zh": "第六排的你也清楚聽見了嗎！？"
+    },
+    {
+      "ja": "(ろっろー!ろっろー!)",
+      "romaji": "(Rorroo! Rorroo!)",
+      "en": "(Ro-ro! Ro-ro!)",
+      "zh": "（嚕嚕！嚕嚕！）"
+    },
+    {
+      "ja": "それならよし!",
+      "romaji": "Sore Nara Yoshi!",
+      "en": "If so, all good!",
+      "zh": "那就好！"
+    },
+    {
+      "ja": "(ろっろー!ろっろー!)",
+      "romaji": "(Rorroo! Rorroo!)",
+      "en": "(Ro-ro! Ro-ro!)",
+      "zh": "（嚕嚕！嚕嚕！）"
+    },
+    {
+      "ja": "空光る星に手を伸ばした",
+      "romaji": "Sora Hikaru Hoshi ni Te wo Nobashita",
+      "en": "I reached out my hand to the stars shining in the sky",
+      "zh": "向天空中閃耀的星星伸出手"
+    },
+    {
+      "ja": "積み上げたら　歌えそうなんだ",
+      "romaji": "Tsumiagetara Utaesou na n Da",
+      "en": "If I stack them up, it feels like I could sing",
+      "zh": "堆疊起來，就好像能歌唱"
+    },
+    {
+      "ja": "キラ　キラ　未来",
+      "romaji": "Kira Kira Mirai",
+      "en": "A glittering, sparkling future",
+      "zh": "閃閃發光的未來"
+    },
+    {
+      "ja": "廻り廻る Future View!!!!!!!",
+      "romaji": "Mawari Mawaru Future View!!!!!!!",
+      "en": "An ever-turning future view!!!!!!!",
+      "zh": "不斷輪轉的未來視野！！！！！！！"
+    },
+    {
+      "ja": "サンキュー!ろろろろ　ロッキュー!まだまだ",
+      "romaji": "Sankyuu! Rorororo Rokkyuu! Mada Mada",
+      "en": "Thank you! Ro-ro-ro-ro, rock you! Not done yet",
+      "zh": "謝謝！嚕嚕嚕嚕，搖滾你！還早呢"
+    },
+    {
+      "ja": "Rolling! Loading!　進化中",
+      "romaji": "Rolling! Loading! Shinkachuu",
+      "en": "Rolling! Loading! Evolving",
+      "zh": "Rolling! Loading! 進化中"
+    },
+    {
+      "ja": "今世紀の旅路をキミと輝きたい!",
+      "romaji": "Konseiki no Tabiji wo Kimi to Kagayakitai!",
+      "en": "I want to shine with you on this century's journey!",
+      "zh": "想與你一起在本世紀的旅途上閃耀！"
+    },
+    {
+      "ja": "サンキュー!ろろろろ　ロッキュー!回れよ",
+      "romaji": "Sankyuu! Rorororo Rokkyuu! Maware yo",
+      "en": "Thank you! Ro-ro-ro-ro, rock you! Spin around",
+      "zh": "謝謝！嚕嚕嚕嚕，搖滾你！旋轉吧"
+    },
+    {
+      "ja": "Rolling! Loading!　ぐーるりっ",
+      "romaji": "Rolling! Loading! Guururi",
+      "en": "Rolling! Loading! Round and round",
+      "zh": "Rolling! Loading! 轉圈圈"
+    },
+    {
+      "ja": "6光年の先へ届けたいメロディ",
+      "romaji": "Roku Kounen no Saki e Todoketai Merodi",
+      "en": "A melody I want to send six light-years away",
+      "zh": "想傳達到六光年之外的旋律"
+    },
+    {
+      "ja": "(ろっろー!ろっろー!)",
+      "romaji": "(Rorroo! Rorroo!)",
+      "en": "(Ro-ro! Ro-ro!)",
+      "zh": "（嚕嚕！嚕嚕！）"
+    },
+    {
+      "ja": "風向きよし!",
+      "romaji": "Kazamuki Yoshi!",
+      "en": "The wind is in our favor!",
+      "zh": "風向正好！"
+    },
+    {
+      "ja": "(ろっろー!ろっろー!)",
+      "romaji": "(Rorroo! Rorroo!)",
+      "en": "(Ro-ro! Ro-ro!)",
+      "zh": "（嚕嚕！嚕嚕！）"
+    },
+    {
+      "ja": "ココロもよし!",
+      "romaji": "Kokoro mo Yoshi!",
+      "en": "My heart is ready too!",
+      "zh": "心情也正好！"
+    },
+    {
+      "ja": "(ろっろー!ろっろー!)",
+      "romaji": "(Rorroo! Rorroo!)",
+      "en": "(Ro-ro! Ro-ro!)",
+      "zh": "（嚕嚕！嚕嚕！）"
+    },
+    {
+      "ja": "まだ行けるよ",
+      "romaji": "Mada Ikeru yo",
+      "en": "We can still go on",
+      "zh": "還能繼續走"
+    },
+    {
+      "ja": "(ろっろー!ろっろー!)",
+      "romaji": "(Rorroo! Rorroo!)",
+      "en": "(Ro-ro! Ro-ro!)",
+      "zh": "（嚕嚕！嚕嚕！）"
+    },
+    {
+      "ja": "キミと共に",
+      "romaji": "Kimi to Tomo ni",
+      "en": "Together with you",
+      "zh": "與你一同"
+    },
+    {
+      "ja": "(ろっろー!ろっろー!)",
+      "romaji": "(Rorroo! Rorroo!)",
+      "en": "(Ro-ro! Ro-ro!)",
+      "zh": "（嚕嚕！嚕嚕！）"
+    },
+    {
+      "ja": "彼方へいま",
+      "romaji": "Kanata e Ima",
+      "en": "To the far beyond, now",
+      "zh": "此刻向彼方"
+    },
+    {
+      "ja": "(ろっろー!ろっろー!)",
+      "romaji": "(Rorroo! Rorroo!)",
+      "en": "(Ro-ro! Ro-ro!)",
+      "zh": "（嚕嚕！嚕嚕！）"
+    },
+    {
+      "ja": "空駆ける旅をまだ続けよう Ah",
+      "romaji": "Sora Kakeru Tabi wo Mada Tsuzukeyou Ah",
+      "en": "Let's keep on with this sky-racing journey, ah",
+      "zh": "繼續這趟馳騁天空的旅程吧，Ah"
+    }
+  ]
+}
