@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "title": "そらを超えて",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "Kiibato",
+    "lyricist": "Kiibato",
+    "album": "Happy Meowthday!!",
+    "releaseDate": "2022/05/15",
+    "coverUrl": "cover_images/a_happy_meowthday",
+    "penlight_color": [
+      "#0000ff"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/3XDMzK-U0fg?si=zYYEXMbF22J00Zt4"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "私待ってるよ…",
+      "call": ""
+    },
+    {
+      "lyrics": "（オ・オオ・オ・オ・オー）",
+      "call": "（オ・オオ・オ・オ・オー）"
+    },
+    {
+      "lyrics": "（オ・オオ・オーオオオー）",
+      "call": "（オ・オオ・オーオオオー）"
+    },
+    {
+      "lyrics": "（オ・オオ・オ・オ・オー）",
+      "call": "（オ・オオ・オ・オ・オー）"
+    },
+    {
+      "lyrics": "張りたてのキャンバスに",
+      "call": ""
+    },
+    {
+      "lyrics": "私(あなた)はまだひとりぼっち",
+      "call": ""
+    },
+    {
+      "lyrics": "1歩目を踏み出して",
+      "call": ""
+    },
+    {
+      "lyrics": "ここから始まったストーリー",
+      "call": ""
+    },
+    {
+      "lyrics": "夢で見た景色は",
+      "call": ""
+    },
+    {
+      "lyrics": "(超満員大アリーナ)",
+      "call": "(超満員大アリーナ)"
+    },
+    {
+      "lyrics": "憧れを叶えて！",
+      "call": ""
+    },
+    {
+      "lyrics": "(青空の向こうへ)",
+      "call": "(青空の向こうへ)"
+    },
+    {
+      "lyrics": "私待ってるよ待ってるよ待ってるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "この広い舞台(そら)で",
+      "call": "",
+      "extra_row": true,
+      "action": "                                  pp"
+    },
+    {
+      "lyrics": "あの日からキミがここへたどり着くのを",
+      "call": ""
+    },
+    {
+      "lyrics": "今歌ってるよ歌ってるよ歌ってるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "夢の方目掛けて",
+      "call": "",
+      "extra_row": true,
+      "action": "                        pp"
+    },
+    {
+      "lyrics": "きっとどうか届いて！",
+      "call": ""
+    },
+    {
+      "lyrics": "（オ・オオ・オ・オ・オー）",
+      "call": "（オ・オオ・オ・オ・オー）"
+    },
+    {
+      "lyrics": "（オ・オオ・オーオオオー）",
+      "call": "（オ・オオ・オーオオオー）"
+    },
+    {
+      "lyrics": "（オ・オオ・オ・オ・オー）",
+      "call": "（オ・オオ・オ・オ・オー）"
+    },
+    {
+      "lyrics": "円卓は広がって",
+      "call": ""
+    },
+    {
+      "lyrics": "瞬く無数のアステル",
+      "call": ""
+    },
+    {
+      "lyrics": "夢みたいな色で",
+      "call": ""
+    },
+    {
+      "lyrics": "まだまだ追いかけ続けて",
+      "call": ""
+    },
+    {
+      "lyrics": "チャレンジはとまらない",
+      "call": ""
+    },
+    {
+      "lyrics": "(継続的スローペースドリーマー)",
+      "call": "(継続的スローペースドリーマー)"
+    },
+    {
+      "lyrics": "点と点を繋げて",
+      "call": ""
+    },
+    {
+      "lyrics": "(星間線上へ)",
+      "call": "(星間線上へ)"
+    },
+    {
+      "lyrics": "私待ってるよ待ってるよ待ってるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "今もずっとここで",
+      "call": "",
+      "extra_row": true,
+      "action": "                            pp"
+    },
+    {
+      "lyrics": "いつの日かキミが見つけてくれますように",
+      "call": ""
+    },
+    {
+      "lyrics": "ねぇ歌ってるよ歌ってるよ歌ってるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "時空間を超えて",
+      "call": "",
+      "extra_row": true,
+      "action": "                        pp"
+    },
+    {
+      "lyrics": "君のもとへ届いて！",
+      "call": ""
+    },
+    {
+      "lyrics": "（オ・オオ・オ・オ・オー）",
+      "call": "（オ・オオ・オ・オ・オー）"
+    },
+    {
+      "lyrics": "（オ・オオ・オーオオオー）",
+      "call": "（オ・オオ・オーオオオー）"
+    },
+    {
+      "lyrics": "（オ・オオ・オ・オ・オー）",
+      "call": "（オ・オオ・オ・オ・オー）"
+    },
+    {
+      "lyrics": "待ってるよ待ってるよ待ってるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "時代(とき)が変わっても",
+      "call": ""
+    },
+    {
+      "lyrics": "同じ星が彼方向こうへ飛び立とうとも",
+      "call": ""
+    },
+    {
+      "lyrics": "寂しくても　何度でも　歓声を原動力に変えて",
+      "call": ""
+    },
+    {
+      "lyrics": "原動力に変えて",
+      "call": ""
+    },
+    {
+      "lyrics": "ここまで歩んできた私なら…！",
+      "call": ""
+    },
+    {
+      "lyrics": "私待ってるよ待ってるよ待ってるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "この広い舞台(そら)で",
+      "call": "",
+      "extra_row": true,
+      "action": "                                  pp"
+    },
+    {
+      "lyrics": "あの日からキミがここへたどり着くのを",
+      "call": ""
+    },
+    {
+      "lyrics": "今歌ってるよ歌ってるよ歌ってるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "目指したあの場所で",
+      "call": "",
+      "extra_row": true,
+      "action": "                               pp"
+    },
+    {
+      "lyrics": "きっとどうか届いて！",
+      "call": ""
+    },
+    {
+      "lyrics": "夢をどうか叶えて！",
+      "call": ""
+    },
+    {
+      "lyrics": "（オ・オオ・オ・オ・オー）",
+      "call": "（オ・オオ・オ・オ・オー）"
+    },
+    {
+      "lyrics": "（オ・オオ・オーオオオー）",
+      "call": "（オ・オオ・オーオオオー）"
+    },
+    {
+      "lyrics": "（オ・オオ・オ・オ・オー）",
+      "call": "（オ・オオ・オ・オ・オー）"
+    },
+    {
+      "lyrics": "（オ・オオ・オ・オ・オー）",
+      "call": "（オ・オオ・オ・オ・オー）"
+    }
+  ],
+  "lyrics": [
+     {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    }
+  ]
+}

@@ -1,1 +1,0 @@
-<div id="song-app-root" data-source="/data/songs/digitalic_lyri.json"></div>

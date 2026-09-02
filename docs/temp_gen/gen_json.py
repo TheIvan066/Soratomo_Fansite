@@ -12,7 +12,7 @@ def create_song_files(input_filename):
         return
 
     # Create an output_json directory to keep things organized
-    output_dir = "output_json"
+    output_dir = "../data/output_json"
     os.makedirs(output_dir, exist_ok=True)
 
     for song in songs:
@@ -55,7 +55,7 @@ def create_song_files(input_filename):
                 }
             ],
             "calls": [
-                {"lyrics": "我らの宇宙のはじまりは", "call": "              (パパヤ)"}
+                {"lyrics": "我らの宇宙のはじまりは", "call": ""}
             ],
             "lyrics": [
                 {

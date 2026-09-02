@@ -1,0 +1,570 @@
+{
+  "meta": {
+    "title": "エレクトリカル・サーフィン",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "眞塩楓",
+    "lyricist": "眞塩楓",
+    "album": "Sign",
+    "releaseDate": "2022/09/07",
+    "coverUrl": "cover_images/sign",
+    "penlight_color": [
+      "#ffff00"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/TNQ8iLDslFg?si=3XyctBMdXLNEjh7L"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    },
+    {
+      "lyrics": "前略 電子の海は今日も",
+      "call": ""
+    },
+    {
+      "lyrics": "晴れ 時々雪 ところによりパフェ",
+      "call": ""
+    },
+    {
+      "lyrics": "前人未踏のテラバイ島で",
+      "call": ""
+    },
+    {
+      "lyrics": "またどこかのあなたを 待機中",
+      "call": ""
+    },
+    {
+      "lyrics": "偶然だって必然のうち",
+      "call": ""
+    },
+    {
+      "lyrics": "受信送信は見えない糸でしょ",
+      "call": ""
+    },
+    {
+      "lyrics": "断然こっちがしっくりくる",
+      "call": ""
+    },
+    {
+      "lyrics": "Enter space で escape",
+      "call": ""
+    },
+    {
+      "lyrics": "(The boom) ここは0と1の楽園",
+      "call": "(The boom)"
+    },
+    {
+      "lyrics": "(The boom) 広く深い世界から見つけだして",
+      "call": "(The boom)"
+    },
+    {
+      "lyrics": "エレクトリカル",
+      "call": ""
+    },
+    {
+      "lyrics": "サーフィン サーフィン",
+      "call": "サーフィン サーフィン"
+    },
+    {
+      "lyrics": "こちらに来て来て",
+      "call": "",
+      "extra_row": true,
+      "action": "                           pp"
+    },
+    {
+      "lyrics": "好いも狂いもいただきます",
+      "call": ""
+    },
+    {
+      "lyrics": "サーフィン サーフィン",
+      "call": "サーフィン サーフィン"
+    },
+    {
+      "lyrics": "手と手とってって",
+      "call": "",
+      "extra_row": true,
+      "action": "                           pp"
+    },
+    {
+      "lyrics": "白昼夢中 夢中で踊り明かしましょう",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    },
+    {
+      "lyrics": "攻略!電子の海は今日も",
+      "call": ""
+    },
+    {
+      "lyrics": "赤 青 緑でとにかくいっぱいいっぱい",
+      "call": ""
+    },
+    {
+      "lyrics": "悠々自適のテラバイ島で",
+      "call": ""
+    },
+    {
+      "lyrics": "お待ちかねのいつもの 開始中（えい）",
+      "call": ""
+    },
+    {
+      "lyrics": "そんなこんなどんなもんなあんなようなこと",
+      "call": ""
+    },
+    {
+      "lyrics": "くだらなさこそが至福の時でしょ",
+      "call": ""
+    },
+    {
+      "lyrics": "のんびりでぐーたらであーだこーだでいこう",
+      "call": ""
+    },
+    {
+      "lyrics": "Command delete で respawn",
+      "call": ""
+    },
+    {
+      "lyrics": "(The boom) ここは雲の向こうの未来",
+      "call": "(The boom)"
+    },
+    {
+      "lyrics": "(The boom) 狭く暗いブラウザじゃ物足りないの",
+      "call": "(The boom)"
+    },
+    {
+      "lyrics": "エレクトリカル",
+      "call": ""
+    },
+    {
+      "lyrics": "サーフィン サーフィン",
+      "call": "サーフィン サーフィン"
+    },
+    {
+      "lyrics": "こちらにきてきて",
+      "call": "",
+      "extra_row": true,
+      "action": "                           pp"
+    },
+    {
+      "lyrics": "酸いも憂いも忘れてさ",
+      "call": ""
+    },
+    {
+      "lyrics": "サーフィン サーフィン",
+      "call": "サーフィン サーフィン"
+    },
+    {
+      "lyrics": "手と手とってって",
+      "call": "",
+      "extra_row": true,
+      "action": "                           pp"
+    },
+    {
+      "lyrics": "白昼夢中 夢中にするわ 憶えてて",
+      "call": ""
+    },
+    {
+      "lyrics": "（サーフィン サーフィン）",
+      "call": "（サーフィン サーフィン）"
+    },
+    {
+      "lyrics": "（らにきてきて）",
+      "call": ""
+    },
+    {
+      "lyrics": "（サーサーサーサーフィン サーフィン）",
+      "call": "（サーサーサーサーフィン サーフィン）"
+    },
+    {
+      "lyrics": "（こちらにきてきてきてきて きてきて）",
+      "call": ""
+    },
+    {
+      "lyrics": "エレクトリカル",
+      "call": ""
+    },
+    {
+      "lyrics": "サーフィン サーフィン",
+      "call": ""
+    },
+    {
+      "lyrics": "こちらを見て見て",
+      "call": ""
+    },
+    {
+      "lyrics": "空に輝くキセキの輪",
+      "call": ""
+    },
+    {
+      "lyrics": "サーフィン サーフィン",
+      "call": ""
+    },
+    {
+      "lyrics": "手と手とってて",
+      "call": ""
+    },
+    {
+      "lyrics": "Welcome to 夢中で",
+      "call": ""
+    },
+    {
+      "lyrics": "飛べ！ 飛べ！ 飛べ！ 飛べ！ 飛べ！ 飛べ！",
+      "call": "飛べ！ 飛べ！ 飛べ！ 飛べ！ 飛べ！ 飛べ！"
+    },
+    {
+      "lyrics": "サーフィン サーフィン",
+      "call": "サーフィン サーフィン"
+    },
+    {
+      "lyrics": "こちらに来て来て",
+      "call": "",
+      "extra_row": true,
+      "action": "                           pp"
+    },
+    {
+      "lyrics": "好いも狂いもいただきます",
+      "call": ""
+    },
+    {
+      "lyrics": "サーフィン サーフィン",
+      "call": "サーフィン サーフィン"
+    },
+    {
+      "lyrics": "手と手とってって",
+      "call": "",
+      "extra_row": true,
+      "action": "                           pp"
+    },
+    {
+      "lyrics": "白昼夢中 夢中で踊り明かしましょう",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "前略 電子の海は今日も",
+      "romaji": "Zenryaku Denshi no Umi ha Kyou mo",
+      "en": "A quick note—the digital sea today is again",
+      "zh": "前略，電子之海今天也是"
+    },
+    {
+      "ja": "晴れ 時々雪 ところによりパフェ",
+      "romaji": "Hare Tokidoki Yuki Tokoro ni Yori Pafe",
+      "en": "Sunny, sometimes snowy, with a chance of parfait",
+      "zh": "晴天，偶爾下雪，局部地區有聖代"
+    },
+    {
+      "ja": "前人未踏のテラバイ島で",
+      "romaji": "Zenjin Mitou no Terabai Tou de",
+      "en": "On the unexplored terabyte island",
+      "zh": "在無人踏足的兆位元組島上"
+    },
+    {
+      "ja": "またどこかのあなたを 待機中",
+      "romaji": "Mata Dokoka no Anata wo Taikichuu",
+      "en": "Waiting again for you, somewhere out there",
+      "zh": "再次等待著不知在何處的你"
+    },
+    {
+      "ja": "偶然だって必然のうち",
+      "romaji": "Guuzen Datte Hitsuzen no Uchi",
+      "en": "Even coincidence is part of inevitability",
+      "zh": "偶然也是必然的一部分"
+    },
+    {
+      "ja": "受信送信は見えない糸でしょ",
+      "romaji": "Jushin Soushin ha Mienai Ito Desho",
+      "en": "Receiving and sending are invisible threads, right?",
+      "zh": "收訊與傳訊就像看不見的線對吧"
+    },
+    {
+      "ja": "断然こっちがしっくりくる",
+      "romaji": "Danzen Kocchi ga Shikkuri Kuru",
+      "en": "This side definitely feels just right",
+      "zh": "絕對是這邊更為契合"
+    },
+    {
+      "ja": "Enter space で escape",
+      "romaji": "Enter Space de Escape",
+      "en": "Enter space and escape",
+      "zh": "Enter space 然後 escape"
+    },
+    {
+      "ja": "(The boom) ここは0と1の楽園",
+      "romaji": "(The Boom) Koko ha Zero to Ichi no Rakuen",
+      "en": "(The boom) This is a paradise of zeroes and ones",
+      "zh": "（The boom）這裡是0與1的樂園"
+    },
+    {
+      "ja": "(The boom) 広く深い世界から見つけだして",
+      "romaji": "(The Boom) Hiroku Fukai Sekai kara Mitsukedashite",
+      "en": "(The boom) Find me from this vast, deep world",
+      "zh": "（The boom）從寬廣深邃的世界中找到我"
+    },
+    {
+      "ja": "エレクトリカル サーフィン サーフィン",
+      "romaji": "Erekutorikaru Saafin Saafin",
+      "en": "Electrical surfing, surfing",
+      "zh": "電子衝浪，衝浪"
+    },
+    {
+      "ja": "こちらに来て来て",
+      "romaji": "Kochira ni Kite Kite",
+      "en": "Come here, come, come",
+      "zh": "過來這裡吧，來吧來吧"
+    },
+    {
+      "ja": "好いも狂いもいただきます",
+      "romaji": "Yoi mo Kurui mo Itadakimasu",
+      "en": "I'll savor both the good and the mad",
+      "zh": "美好的與瘋狂的，我全都收下"
+    },
+    {
+      "ja": "サーフィン サーフィン",
+      "romaji": "Saafin Saafin",
+      "en": "Surfing, surfing",
+      "zh": "衝浪，衝浪"
+    },
+    {
+      "ja": "手と手とってって",
+      "romaji": "Te to Te Totte tte",
+      "en": "Take my hand, take it",
+      "zh": "牽起手，牽起來"
+    },
+    {
+      "ja": "白昼夢中 夢中で踊り明かしましょう",
+      "romaji": "Hakuchuu Muchuu Muchuu de Odori Akashimashou",
+      "en": "In broad daylight, let's dance the night away in a daze",
+      "zh": "大白天地，忘我地跳舞到天明吧"
+    },
+    {
+      "ja": "攻略!電子の海は今日も",
+      "romaji": "Kouryaku! Denshi no Umi ha Kyou mo",
+      "en": "Strategy guide! The digital sea today is again",
+      "zh": "攻略！電子之海今天也是"
+    },
+    {
+      "ja": "赤 青 緑でとにかくいっぱいいっぱい",
+      "romaji": "Aka Ao Midori de Tonikaku Ippai Ippai",
+      "en": "Red, blue, green—anyway, full to the brim",
+      "zh": "紅藍綠，總之滿滿滿"
+    },
+    {
+      "ja": "悠々自適のテラバイ島で",
+      "romaji": "Yuuyuu Jiteki no Terabai Tou de",
+      "en": "On the leisurely terabyte island",
+      "zh": "在悠閒自在的兆位元組島上"
+    },
+    {
+      "ja": "お待ちかねのいつもの 開始中（えい）",
+      "romaji": "Omachikane no Itsumo no Kaishichuu (Ei)",
+      "en": "The usual you've been waiting for is now starting (hey)",
+      "zh": "久等的慣例活動，開始中（嘿）"
+    },
+    {
+      "ja": "そんなこんなどんなもんなあんなようなこと",
+      "romaji": "Sonna Konna Donna Mon na Anna You na Koto",
+      "en": "This kind, that kind, whatever kind, that kind of thing",
+      "zh": "這樣那樣、各種各樣、諸如此類的事"
+    },
+    {
+      "ja": "くだらなさこそが至福の時でしょ",
+      "romaji": "Kudaranasa Koso ga Shifuku no Toki Desho",
+      "en": "It's the silliness itself that's the blissful time, right?",
+      "zh": "正是無聊瑣事才是至福時光對吧"
+    },
+    {
+      "ja": "のんびりでぐーたらであーだこーだでいこう",
+      "romaji": "Nonbiri de Guutara de Aa da Koo da de Ikou",
+      "en": "Let's go slowly, lazily, chatting about this and that",
+      "zh": "悠哉懶散地，東扯西扯地前進吧"
+    },
+    {
+      "ja": "Command delete で respawn",
+      "romaji": "Command Delete de Respawn",
+      "en": "Command delete and respawn",
+      "zh": "Command delete 然後 respawn"
+    },
+    {
+      "ja": "(The boom) ここは雲の向こうの未来",
+      "romaji": "(The Boom) Koko ha Kumo no Mukou no Mirai",
+      "en": "(The boom) This is the future beyond the clouds",
+      "zh": "（The boom）這裡是雲端彼方的未來"
+    },
+    {
+      "ja": "(The boom) 狭く暗いブラウザじゃ物足りないの",
+      "romaji": "(The Boom) Semaku Kurai Burauza ja Monotarinai no",
+      "en": "(The boom) A narrow, dark browser isn't enough",
+      "zh": "（The boom）狹窄陰暗的瀏覽器無法滿足"
+    },
+    {
+      "ja": "エレクトリカル サーフィン サーフィン",
+      "romaji": "Erekutorikaru Saafin Saafin",
+      "en": "Electrical surfing, surfing",
+      "zh": "電子衝浪，衝浪"
+    },
+    {
+      "ja": "こちらにきてきて",
+      "romaji": "Kochira ni Kite Kite",
+      "en": "Come here, come, come",
+      "zh": "過來這裡吧，來吧來吧"
+    },
+    {
+      "ja": "酸いも憂いも忘れてさ",
+      "romaji": "Sui mo Urei mo Wasurete sa",
+      "en": "Forgetting both bitterness and sorrow",
+      "zh": "忘掉酸楚與憂愁吧"
+    },
+    {
+      "ja": "サーフィン サーフィン",
+      "romaji": "Saafin Saafin",
+      "en": "Surfing, surfing",
+      "zh": "衝浪，衝浪"
+    },
+    {
+      "ja": "手と手とってって",
+      "romaji": "Te to Te Totte tte",
+      "en": "Take my hand, take it",
+      "zh": "牽起手，牽起來"
+    },
+    {
+      "ja": "白昼夢中 夢中にするわ 憶えてて",
+      "romaji": "Hakuchuu Muchuu Muchuu ni Suru wa Oboetete",
+      "en": "I'll make you dazed in broad daylight—remember that",
+      "zh": "大白天地讓你著迷，記住了"
+    },
+    {
+      "ja": "（サーフィン サーフィン）",
+      "romaji": "(Saafin Saafin)",
+      "en": "(Surfing, surfing)",
+      "zh": "（衝浪，衝浪）"
+    },
+    {
+      "ja": "（らにきてきて）",
+      "romaji": "(Ra ni Kite Kite)",
+      "en": "(Come here, come, come)",
+      "zh": "（來這裡吧，來吧來吧）"
+    },
+    {
+      "ja": "（サーサーサーサーフィン サーフィン）",
+      "romaji": "(Saa Saa Saa Saafin Saafin)",
+      "en": "(Sur-sur-sur-surfing, surfing)",
+      "zh": "（衝衝衝衝浪，衝浪）"
+    },
+    {
+      "ja": "（こちらにきてきてきてきて きてきて）",
+      "romaji": "(Kochira ni Kite Kite Kite Kite Kite Kite)",
+      "en": "(Come here, come, come, come, come, come, come)",
+      "zh": "（過來這裡吧，來吧來吧來吧來吧來吧來吧）"
+    },
+    {
+      "ja": "エレクトリカル サーフィン サーフィン",
+      "romaji": "Erekutorikaru Saafin Saafin",
+      "en": "Electrical surfing, surfing",
+      "zh": "電子衝浪，衝浪"
+    },
+    {
+      "ja": "こちらを見て見て",
+      "romaji": "Kochira wo Mite Mite",
+      "en": "Look this way, look, look",
+      "zh": "看看這裡吧，看看吧"
+    },
+    {
+      "ja": "空に輝くキセキの輪",
+      "romaji": "Sora ni Kagayaku Kiseki no Wa",
+      "en": "A ring of miracles shining in the sky",
+      "zh": "在天空閃耀的奇蹟之環"
+    },
+    {
+      "ja": "サーフィン サーフィン",
+      "romaji": "Saafin Saafin",
+      "en": "Surfing, surfing",
+      "zh": "衝浪，衝浪"
+    },
+    {
+      "ja": "手と手とってて",
+      "romaji": "Te to Te Tottete",
+      "en": "Holding hands",
+      "zh": "手牽著手"
+    },
+    {
+      "ja": "Welcome to 夢中で 飛べ 飛べ",
+      "romaji": "Welcome to Muchuu de Tobe Tobe",
+      "en": "Welcome to—in a daze, fly, fly",
+      "zh": "Welcome to 忘我地飛吧，飛吧"
+    },
+    {
+      "ja": "飛べ 飛べ 飛べ 飛べ",
+      "romaji": "Tobe Tobe Tobe Tobe",
+      "en": "Fly, fly, fly, fly",
+      "zh": "飛吧，飛吧，飛吧，飛吧"
+    },
+    {
+      "ja": "サーフィン サーフィン",
+      "romaji": "Saafin Saafin",
+      "en": "Surfing, surfing",
+      "zh": "衝浪，衝浪"
+    },
+    {
+      "ja": "こちらに来て来て",
+      "romaji": "Kochira ni Kite Kite",
+      "en": "Come here, come, come",
+      "zh": "過來這裡吧，來吧來吧"
+    },
+    {
+      "ja": "好いも狂いもいただきます",
+      "romaji": "Yoi mo Kurui mo Itadakimasu",
+      "en": "I'll savor both the good and the mad",
+      "zh": "美好的與瘋狂的，我全都收下"
+    },
+    {
+      "ja": "サーフィン サーフィン",
+      "romaji": "Saafin Saafin",
+      "en": "Surfing, surfing",
+      "zh": "衝浪，衝浪"
+    },
+    {
+      "ja": "手と手とってって",
+      "romaji": "Te to Te Totte tte",
+      "en": "Take my hand, take it",
+      "zh": "牽起手，牽起來"
+    },
+    {
+      "ja": "白昼夢中 夢中で踊り明かしましょう",
+      "romaji": "Hakuchuu Muchuu Muchuu de Odori Akashimashou",
+      "en": "In broad daylight, let's dance the night away in a daze",
+      "zh": "大白天地，忘我地跳舞到天明吧"
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "meta": {
+    "title": "メアリースイート",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "柊キライ",
+    "lyricist": "柊キライ",
+    "album": "Sign",
+    "releaseDate": "2022/09/07",
+    "coverUrl": "cover_images/sign",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/yQGAT0Yo5o8?si=FKUv8HHsaF3q-XEh"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×6"
+    },
+    {
+      "lyrics": "私を縛る",
+      "call": ""
+    },
+    {
+      "lyrics": "ロー　ロー　ロー　あなた私のこと",
+      "call": ""
+    },
+    {
+      "lyrics": "ホー　ホー　ホー",
+      "call": ""
+    },
+    {
+      "lyrics": "ホー　ホー　ホー　知らないね",
+      "call": "ホー　ホー　ホー"
+    },
+    {
+      "lyrics": "滔々と注げば広がるもの",
+      "call": ""
+    },
+    {
+      "lyrics": "想像の私",
+      "call": ""
+    },
+    {
+      "lyrics": "二元論から解き放たれたいや",
+      "call": ""
+    },
+    {
+      "lyrics": "今すぐにさ",
+      "call": ""
+    },
+    {
+      "lyrics": "ああ",
+      "call": ""
+    },
+    {
+      "lyrics": "バンと全てが 12345 バン",
+      "call": "                                バン"
+    },
+    {
+      "lyrics": "君だけには教えてあげる",
+      "call": ""
+    },
+    {
+      "lyrics": "秘密のステージでドッカンと",
+      "call": ""
+    },
+    {
+      "lyrics": "バアと現る　チクタク　カチコチとバン",
+      "call": "                                                       バン"
+    },
+    {
+      "lyrics": "無意味でもいい　おとぎの国",
+      "call": ""
+    },
+    {
+      "lyrics": "就寝前後に作りあげましょうか",
+      "call": ""
+    },
+    {
+      "lyrics": "ロー　ロー　ロー　ホー　ホー　ホー",
+      "call": "ロー　ロー　ロー　ホー　ホー　ホー"
+    },
+    {
+      "lyrics": "秘密合わせて",
+      "call": ""
+    },
+    {
+      "lyrics": "ロー　ロー　ロー　ホー　ホー　ホー",
+      "call": "ロー　ロー　ロー　ホー　ホー　ホー"
+    },
+    {
+      "lyrics": "毒も混ぜちゃえ",
+      "call": ""
+    },
+    {
+      "lyrics": "ロー　ロー　ロー　ホー　ホー　ホー",
+      "call": "ロー　ロー　ロー　ホー　ホー　ホー"
+    },
+    {
+      "lyrics": "悪さ塗れて",
+      "call": ""
+    },
+    {
+      "lyrics": "ロー　ロー　ロー　ホー　ホー　ホー",
+      "call": "ロー　ロー　ロー　ホー　ホー　ホー"
+    },
+    {
+      "lyrics": "眠くなるね　おやすみ",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    },
+    {
+      "lyrics": "ソーッ　ソーッ　ソーッと",
+      "call": "ソーッ　ソーッ　ソーッ"
+    },
+    {
+      "lyrics": "みんな私のこと",
+      "call": ""
+    },
+    {
+      "lyrics": "ホー　ホー　ホー",
+      "call": ""
+    },
+    {
+      "lyrics": "ホー　ホー　ホー　知ったつもり",
+      "call": "ホー　ホー　ホー"
+    },
+    {
+      "lyrics": "ノー　ノー　ノー　今まで朦朧と生きてきたよね",
+      "call": ""
+    },
+    {
+      "lyrics": "それで出来てきたよね",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    },
+    {
+      "lyrics": "バンと全てが 12345 バン",
+      "call": "                                バン"
+    },
+    {
+      "lyrics": "君だけには教えてあげる",
+      "call": ""
+    },
+    {
+      "lyrics": "その君も真なのかな？",
+      "call": ""
+    },
+    {
+      "lyrics": "ロー　ロー　ロー　ロー　ロー　ロー",
+      "call": "ロー　ロー　ロー　ロー　ロー　ロー"
+    },
+    {
+      "lyrics": "ホー　ホー　ホー　ホー　ホー　ホー",
+      "call": "ホー　ホー　ホー　ホー　ホー　ホー"
+    },
+    {
+      "lyrics": "ロー　ロー　ロー　ロー　ロー　ロー",
+      "call": "ロー　ロー　ロー　ロー　ロー　ロー"
+    },
+    {
+      "lyrics": "ホー　ホー　ホー　ホー",
+      "call": "ホー　ホー　ホー　ホー"
+    },
+    {
+      "lyrics": "ロー　ロー　ロー　ロー　ロー　ロー",
+      "call": "ロー　ロー　ロー　ロー　ロー　ロー"
+    },
+    {
+      "lyrics": "ホー　ホー　ホー　ホー　ホー　ホー",
+      "call": "ホー　ホー　ホー　ホー　ホー　ホー"
+    },
+    {
+      "lyrics": "暇の夢　今際に浸りながら　さ",
+      "call": ""
+    },
+    {
+      "lyrics": "ああ",
+      "call": ""
+    },
+    {
+      "lyrics": "バンと全てが 12345 バン",
+      "call": "                                バン"
+    },
+    {
+      "lyrics": "君だけには教えてあげる",
+      "call": ""
+    },
+    {
+      "lyrics": "秘密のステージでドッカンと",
+      "call": ""
+    },
+    {
+      "lyrics": "バアと現る　チクタク　カチコチとバン",
+      "call": "                                                       バン"
+    },
+    {
+      "lyrics": "無意味でもいい　おとぎの国",
+      "call": ""
+    },
+    {
+      "lyrics": "就寝前後に作りあげましょう",
+      "call": ""
+    },
+    {
+      "lyrics": "バンとバンとバンで嗚呼",
+      "call": ""
+    },
+    {
+      "lyrics": "ドレミファソラシドッカン",
+      "call": "                           ドッカン"
+    },
+    {
+      "lyrics": "私が振る　いい子のタクト",
+      "call": ""
+    },
+    {
+      "lyrics": "秘密のステージのトゥッティを",
+      "call": ""
+    },
+    {
+      "lyrics": "ドカン　ドカンと鳴り止まぬ",
+      "call": ""
+    },
+    {
+      "lyrics": "ドカン　カン　カン　カン",
+      "call": "ドカン　カン　カン　カン"
+    },
+    {
+      "lyrics": "嵐のように",
+      "call": ""
+    },
+    {
+      "lyrics": "全て台無しに　売れない物書き",
+      "call": ""
+    },
+    {
+      "lyrics": "ロー　ロー　ロー　ホー　ホー　ホー",
+      "call": "ロー　ロー　ロー　ホー　ホー　ホー"
+    },
+    {
+      "lyrics": "秘密合わせて",
+      "call": ""
+    },
+    {
+      "lyrics": "ロー　ロー　ロー　ホー　ホー　ホー",
+      "call": "ロー　ロー　ロー　ホー　ホー　ホー"
+    },
+    {
+      "lyrics": "毒も混ぜちゃえ",
+      "call": ""
+    },
+    {
+      "lyrics": "ロー　ロー　ロー　ホー　ホー　ホー",
+      "call": "ロー　ロー　ロー　ホー　ホー　ホー"
+    },
+    {
+      "lyrics": "悪さ塗れて",
+      "call": ""
+    },
+    {
+      "lyrics": "ロー　ロー　ロー　ホー　ホー　ホー",
+      "call": "ロー　ロー　ロー　ホー　ホー　ホー"
+    },
+    {
+      "lyrics": "眠くなるね　グッナイ",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×7"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "私を縛る",
+      "romaji": "Watashi wo Shibaru",
+      "en": "It binds me",
+      "zh": "束縛著我"
+    },
+    {
+      "ja": "ロー　ロー　ロー　あなた私のこと",
+      "romaji": "Roo Roo Roo Anata Watashi no Koto",
+      "en": "La, la, la—you, about me",
+      "zh": "囉、囉、囉，你對我的事"
+    },
+    {
+      "ja": "ホー　ホー　ホー",
+      "romaji": "Hoo Hoo Hoo",
+      "en": "Ho, ho, ho",
+      "zh": "呵、呵、呵"
+    },
+    {
+      "ja": "ホー　ホー　ホー　知らないね",
+      "romaji": "Hoo Hoo Hoo Shiranai ne",
+      "en": "Ho, ho, ho—you don't know, do you?",
+      "zh": "呵、呵、呵，不知道吧"
+    },
+    {
+      "ja": "滔々と注げば広がるもの",
+      "romaji": "Toutou to Sosogeba Hirogaru Mono",
+      "en": "What spreads if you pour it in torrents",
+      "zh": "滔滔灌注便會擴散的東西"
+    },
+    {
+      "ja": "想像の私",
+      "romaji": "Souzou no Watashi",
+      "en": "Is the imagined me",
+      "zh": "是想像中的我"
+    },
+    {
+      "ja": "二元論から解き放たれたいや",
+      "romaji": "Nigenron kara Tokihanataretai ya",
+      "en": "I want to be freed from dualism",
+      "zh": "好想從二元論中解放"
+    },
+    {
+      "ja": "今すぐにさ",
+      "romaji": "Ima Sugu ni sa",
+      "en": "Right now",
+      "zh": "立刻馬上"
+    },
+    {
+      "ja": "ああ",
+      "romaji": "Aa",
+      "en": "Ah",
+      "zh": "啊啊"
+    },
+    {
+      "ja": "バンと全てが 12345 バン",
+      "romaji": "Ban to Subete ga 12345 Ban",
+      "en": "Bang—everything, 12345, bang",
+      "zh": "砰地一聲，一切 12345 砰"
+    },
+    {
+      "ja": "君だけには教えてあげる",
+      "romaji": "Kimi Dake ni ha Oshiete Ageru",
+      "en": "I'll tell only you",
+      "zh": "只告訴你一個人"
+    },
+    {
+      "ja": "秘密のステージでドッカンと",
+      "romaji": "Himitsu no Suteeji de Dokkan to",
+      "en": "With a boom on a secret stage",
+      "zh": "在秘密舞台上轟然綻放"
+    },
+    {
+      "ja": "バアと現る　チクタク　カチコチとバン",
+      "romaji": "Baa to Arawaru Chikutaku Kachikochi to Ban",
+      "en": "Appearing with a ta-da—tick-tock, stiff and cold, then bang",
+      "zh": "突然現身，滴答滴答，僵硬冰冷，砰"
+    },
+    {
+      "ja": "無意味でもいい　おとぎの国",
+      "romaji": "Muimi demo Ii Otogi no Kuni",
+      "en": "Even if it's meaningless, a fairy-tale land",
+      "zh": "即使毫無意義也無妨，童話國度"
+    },
+    {
+      "ja": "就寝前後に作りあげましょうか",
+      "romaji": "Shuushin Zengo ni Tsukuriagemashou ka",
+      "en": "Shall we build it around bedtime?",
+      "zh": "在睡前打造出來吧"
+    },
+    {
+      "ja": "ロー　ロー　ロー　ホー　ホー　ホー",
+      "romaji": "Roo Roo Roo Hoo Hoo Hoo",
+      "en": "La, la, la—ho, ho, ho",
+      "zh": "囉、囉、囉，呵、呵、呵"
+    },
+    {
+      "ja": "秘密合わせて　毒も混ぜちゃえ",
+      "romaji": "Himitsu Awasete Doku mo Maze Chae",
+      "en": "Match our secrets and mix in some poison",
+      "zh": "合起秘密，把毒也混進去"
+    },
+    {
+      "ja": "悪さ塗れて　眠くなるね　おやすみ",
+      "romaji": "Warusa Mamirete Nemuku Naru ne Oyasumi",
+      "en": "Covered in mischief, getting sleepy—goodnight",
+      "zh": "沾染惡作劇，開始睏了呢，晚安"
+    },
+    {
+      "ja": "ソーッ　ソーッ　ソーッと",
+      "romaji": "Soot Soot Soot to",
+      "en": "Softly, softly, softly",
+      "zh": "輕輕地、輕輕地、輕輕地"
+    },
+    {
+      "ja": "みんな私のこと",
+      "romaji": "Minna Watashi no Koto",
+      "en": "Everyone, about me",
+      "zh": "大家對我的事"
+    },
+    {
+      "ja": "ホー　ホー　ホー",
+      "romaji": "Hoo Hoo Hoo",
+      "en": "Ho, ho, ho",
+      "zh": "呵、呵、呵"
+    },
+    {
+      "ja": "ホー　ホー　ホー　知ったつもり",
+      "romaji": "Hoo Hoo Hoo Shitta Tsumori",
+      "en": "Ho, ho, ho—they think they know",
+      "zh": "呵、呵、呵，自以為知道"
+    },
+    {
+      "ja": "ノー　ノー　ノー　今まで朦朧と生きてきたよね",
+      "romaji": "Noo Noo Noo Ima made Mourou to Ikite Kita yo ne",
+      "en": "No, no, no—you've been living in a haze until now, haven't you?",
+      "zh": "不、不、不，至今都朦朧地活著呢"
+    },
+    {
+      "ja": "それで出来てきたよね",
+      "romaji": "Sore de Dekite Kita yo ne",
+      "en": "And that's how you've managed",
+      "zh": "就這樣一路走過來了"
+    },
+    {
+      "ja": "バンと全てが 12345 バン",
+      "romaji": "Ban to Subete ga 12345 Ban",
+      "en": "Bang—everything, 12345, bang",
+      "zh": "砰地一聲，一切 12345 砰"
+    },
+    {
+      "ja": "君だけには教えてあげる",
+      "romaji": "Kimi Dake ni ha Oshiete Ageru",
+      "en": "I'll tell only you",
+      "zh": "只告訴你一個人"
+    },
+    {
+      "ja": "その君も真なのかな？",
+      "romaji": "Sono Kimi mo Shin na no Kana?",
+      "en": "I wonder if even you are real?",
+      "zh": "而那樣的你也是真的嗎？"
+    },
+    {
+      "ja": "ロー　ロー　ロー　ロー　ロー　ロー",
+      "romaji": "Roo Roo Roo Roo Roo Roo",
+      "en": "La, la, la, la, la, la",
+      "zh": "囉、囉、囉、囉、囉、囉"
+    },
+    {
+      "ja": "ホー　ホー　ホー　ホー　ホー　ホー",
+      "romaji": "Hoo Hoo Hoo Hoo Hoo Hoo",
+      "en": "Ho, ho, ho, ho, ho, ho",
+      "zh": "呵、呵、呵、呵、呵、呵"
+    },
+    {
+      "ja": "暇の夢　今際に浸りながら　さ",
+      "romaji": "Hima no Yume Imawa ni Hitari Nagara sa",
+      "en": "Soaking in idle dreams at the brink of death",
+      "zh": "在臨終之際沉浸於閒暇的夢中"
+    },
+    {
+      "ja": "ああ",
+      "romaji": "Aa",
+      "en": "Ah",
+      "zh": "啊啊"
+    },
+    {
+      "ja": "バンと全てが 12345 バン",
+      "romaji": "Ban to Subete ga 12345 Ban",
+      "en": "Bang—everything, 12345, bang",
+      "zh": "砰地一聲，一切 12345 砰"
+    },
+    {
+      "ja": "君だけには教えてあげる",
+      "romaji": "Kimi Dake ni ha Oshiete Ageru",
+      "en": "I'll tell only you",
+      "zh": "只告訴你一個人"
+    },
+    {
+      "ja": "秘密のステージでドッカンと",
+      "romaji": "Himitsu no Suteeji de Dokkan to",
+      "en": "With a boom on a secret stage",
+      "zh": "在秘密舞台上轟然綻放"
+    },
+    {
+      "ja": "バアと現る　チクタク　カチコチとバン",
+      "romaji": "Baa to Arawaru Chikutaku Kachikochi to Ban",
+      "en": "Appearing with a ta-da—tick-tock, stiff and cold, then bang",
+      "zh": "突然現身，滴答滴答，僵硬冰冷，砰"
+    },
+    {
+      "ja": "無意味でもいい　おとぎの国",
+      "romaji": "Muimi demo Ii Otogi no Kuni",
+      "en": "Even if it's meaningless, a fairy-tale land",
+      "zh": "即使毫無意義也無妨，童話國度"
+    },
+    {
+      "ja": "就寝前後に作りあげましょう",
+      "romaji": "Shuushin Zengo ni Tsukuriagemashou",
+      "en": "Let's build it around bedtime",
+      "zh": "在睡前打造出來吧"
+    },
+    {
+      "ja": "バンとバンとバンで嗚呼",
+      "romaji": "Ban to Ban to Ban de Aa",
+      "en": "With bang, bang, bang—ah",
+      "zh": "砰砰砰，啊啊"
+    },
+    {
+      "ja": "ドレミファソラシドッカン",
+      "romaji": "Do Re Mi Fa So Ra Shi Dokkan",
+      "en": "Do-re-mi-fa-so-la-ti-boom",
+      "zh": "Do Re Mi Fa Sol La Si 轟"
+    },
+    {
+      "ja": "私が振る　いい子のタクト",
+      "romaji": "Watashi ga Furu Ii Ko no Takuto",
+      "en": "I'll wave the good child's baton",
+      "zh": "我揮舞著好孩子的指揮棒"
+    },
+    {
+      "ja": "秘密のステージのトゥッティを",
+      "romaji": "Himitsu no Suteeji no Tutti wo",
+      "en": "The tutti of the secret stage",
+      "zh": "秘密舞台的全奏"
+    },
+    {
+      "ja": "ドカン　ドカンと鳴り止まぬ",
+      "romaji": "Dokan Dokan to Nariyamanu",
+      "en": "Boom, boom—it won't stop ringing",
+      "zh": "轟隆轟隆響個不停"
+    },
+    {
+      "ja": "ドカン　カン　カン　カン",
+      "romaji": "Dokan Kan Kan Kan",
+      "en": "Boom, clang, clang, clang",
+      "zh": "轟隆，鏗，鏗，鏗"
+    },
+    {
+      "ja": "嵐のように",
+      "romaji": "Arashi no You ni",
+      "en": "Like a storm",
+      "zh": "宛如暴風雨般"
+    },
+    {
+      "ja": "全て台無しに　売れない物書き",
+      "romaji": "Subete Dainashi ni Urenai Monokaki",
+      "en": "Ruining everything—an unsellable writer",
+      "zh": "把一切搞砸，賣不出去的作家"
+    },
+    {
+      "ja": "ロー　ロー　ロー　ホー　ホー　ホー",
+      "romaji": "Roo Roo Roo Hoo Hoo Hoo",
+      "en": "La, la, la—ho, ho, ho",
+      "zh": "囉、囉、囉，呵、呵、呵"
+    },
+    {
+      "ja": "秘密合わせて　毒も混ぜちゃえ",
+      "romaji": "Himitsu Awasete Doku mo Maze Chae",
+      "en": "Match our secrets and mix in some poison",
+      "zh": "合起秘密，把毒也混進去"
+    },
+    {
+      "ja": "悪さ塗れて　眠くなるね　グッナイ",
+      "romaji": "Warusa Mamirete Nemuku Naru ne Gunnai",
+      "en": "Covered in mischief, getting sleepy — goodnight",
+      "zh": "沾染惡作劇，開始睏了呢，晚安"
+    }
+  ]
+}

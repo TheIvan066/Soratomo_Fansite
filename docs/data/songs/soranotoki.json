@@ -1,0 +1,849 @@
+{
+  "meta": {
+    "title": "そらのとき",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "広瀬香美",
+    "lyricist": "広瀬香美",
+    "album": "Sign",
+    "releaseDate": "2022/08/30",
+    "coverUrl": "cover_images/sign",
+    "penlight_color": [
+      "#ff0000",
+      "#00ff00"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/i_SH8Zrwb08?si=ZvMjardC_yJTXAab"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "ときに愛をちょ　君の空をちょ Wanna be your superstar",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！"
+    },
+    {
+      "lyrics": "目標リストを更新しなきゃ",
+      "call": ""
+    },
+    {
+      "lyrics": "昨日の希望(ゆめ)は通過点なのさ",
+      "call": ""
+    },
+    {
+      "lyrics": "奇跡みたいなあの瞬間(とき)だってさ",
+      "call": ""
+    },
+    {
+      "lyrics": "超えて　超えて　超えて行くんだ",
+      "call": ""
+    },
+    {
+      "lyrics": "ファーストエイムは get to the next stage",
+      "call": ""
+    },
+    {
+      "lyrics": "コードネームは 170907",
+      "call": ""
+    },
+    {
+      "lyrics": "デイドリームに浸ってないで come on！！ hurry up！！",
+      "call": ""
+    },
+    {
+      "lyrics": "Every time Every day",
+      "call": ""
+    },
+    {
+      "lyrics": "止まらねぇぞ",
+      "call": ""
+    },
+    {
+      "lyrics": "ブレーキが効かないこのアタシと",
+      "call": ""
+    },
+    {
+      "lyrics": "ずっと一緒にいてちょうだい",
+      "call": ""
+    },
+    {
+      "lyrics": "あなただけの I wanna be your superstar",
+      "call": ""
+    },
+    {
+      "lyrics": "wanna wanna wanna wanna wanna be a superstar",
+      "call": ""
+    },
+    {
+      "lyrics": "ときに愛をちょうだい　きみの空をちょうだい",
+      "call": ""
+    },
+    {
+      "lyrics": "キラキラ光って大きくなあれ",
+      "call": ""
+    },
+    {
+      "lyrics": "虹色の輪 Around The World",
+      "call": ""
+    },
+    {
+      "lyrics": "悔しい日もあったね　一緒に涙したね",
+      "call": ""
+    },
+    {
+      "lyrics": "あの日があるから今がある",
+      "call": ""
+    },
+    {
+      "lyrics": "ついてきて ！OK！",
+      "call": "                     OK！"
+    },
+    {
+      "lyrics": "ときに愛をちょ　君の空をちょ",
+      "call": ""
+    },
+    {
+      "lyrics": "そらとともに Lets's GO！！",
+      "call": "                     Lets's GO！！"
+    },
+    {
+      "lyrics": "up up up up up clap clap clap",
+      "call": ""
+    },
+    {
+      "lyrics": "up up up up up clap clap",
+      "call": ""
+    },
+    {
+      "lyrics": "私達の未来は out of control",
+      "call": ""
+    },
+    {
+      "lyrics": "絶滅危機のフェーズへ暴走中",
+      "call": ""
+    },
+    {
+      "lyrics": "誰が救うんだ　拒否ってる暇はないんだ",
+      "call": ""
+    },
+    {
+      "lyrics": "やるんだ　やるんだ　やるしかないんだ",
+      "call": ""
+    },
+    {
+      "lyrics": "恐れる気持ちは皆同じだ",
+      "call": ""
+    },
+    {
+      "lyrics": "怯んで振り返るの　アタシもだ",
+      "call": ""
+    },
+    {
+      "lyrics": "でも　そんな時こその合言葉",
+      "call": ""
+    },
+    {
+      "lyrics": "Every time Every day　止まらねぇぞ",
+      "call": ""
+    },
+    {
+      "lyrics": "最高の of the year にしてあげるわ",
+      "call": ""
+    },
+    {
+      "lyrics": "輝ける in our lives にしよう",
+      "call": ""
+    },
+    {
+      "lyrics": "あなただけの I wanna be your superstar",
+      "call": ""
+    },
+    {
+      "lyrics": "wanna wanna wanna wanna wanna be a superstar",
+      "call": ""
+    },
+    {
+      "lyrics": "ときに愛をちょうだい",
+      "call": ""
+    },
+    {
+      "lyrics": "きみの空をちょうだい",
+      "call": ""
+    },
+    {
+      "lyrics": "ギンギン歌って夢を奏でて",
+      "call": ""
+    },
+    {
+      "lyrics": "虹色の輪 Around The World",
+      "call": ""
+    },
+    {
+      "lyrics": "∞(無限)に夢を発信",
+      "call": ""
+    },
+    {
+      "lyrics": "君がいれば安心",
+      "call": ""
+    },
+    {
+      "lyrics": "君と会えたから　今(そら)がある",
+      "call": ""
+    },
+    {
+      "lyrics": "ありがとう！　ありがとう！",
+      "call": "                        ありがとう！"
+    },
+    {
+      "lyrics": "ずっと愛をちょ",
+      "call": ""
+    },
+    {
+      "lyrics": "ずっと空をちょ",
+      "call": ""
+    },
+    {
+      "lyrics": "そらとともに Lets's GO！！",
+      "call": "                     Lets's GO！！"
+    },
+    {
+      "lyrics": "up up up up up clap clap clap",
+      "call": ""
+    },
+    {
+      "lyrics": "up up up up up clap clap",
+      "call": ""
+    },
+    {
+      "lyrics": "up up up up up clap clap clap",
+      "call": ""
+    },
+    {
+      "lyrics": "up up up up up clap clap",
+      "call": ""
+    },
+    {
+      "lyrics": "宇宙の果ての星座を　きみと探し当てたい",
+      "call": ""
+    },
+    {
+      "lyrics": "最初の上陸は　きみと挑みたい",
+      "call": ""
+    },
+    {
+      "lyrics": "一つずつ思い出を作って",
+      "call": ""
+    },
+    {
+      "lyrics": "一つずつ今を積み重ねて",
+      "call": ""
+    },
+    {
+      "lyrics": "同じ過去、",
+      "call": ""
+    },
+    {
+      "lyrics": "同じ今、",
+      "call": ""
+    },
+    {
+      "lyrics": "同じ未来、いくつできるだろ",
+      "call": ""
+    },
+    {
+      "lyrics": "ときに愛をちょうだい",
+      "call": ""
+    },
+    {
+      "lyrics": "きみの空をちょうだい",
+      "call": ""
+    },
+    {
+      "lyrics": "キラキラ光って大きくなあれ",
+      "call": ""
+    },
+    {
+      "lyrics": "虹色の輪 Around The World",
+      "call": ""
+    },
+    {
+      "lyrics": "悔しい日もあったね",
+      "call": ""
+    },
+    {
+      "lyrics": "一緒に涙したね",
+      "call": ""
+    },
+    {
+      "lyrics": "あの日があるから今がある",
+      "call": ""
+    },
+    {
+      "lyrics": "ついてきて！ OK！",
+      "call": "                     OK！"
+    },
+    {
+      "lyrics": "ありがとう！　ありがとう！",
+      "call": "                        ありがとう！"
+    },
+    {
+      "lyrics": "大好きだよ！ OK！",
+      "call": "                     OK！"
+    },
+    {
+      "lyrics": "ときに愛をちょ",
+      "call": ""
+    },
+    {
+      "lyrics": "君の空をちょ",
+      "call": ""
+    },
+    {
+      "lyrics": "ずっと愛をちょ",
+      "call": ""
+    },
+    {
+      "lyrics": "ずっと空をちょ",
+      "call": ""
+    },
+    {
+      "lyrics": "ときに愛をちょ",
+      "call": ""
+    },
+    {
+      "lyrics": "君の空をちょ",
+      "call": ""
+    },
+    {
+      "lyrics": "そらとともに Lets's GO！！",
+      "call": "                     Lets's GO！！"
+    },
+    {
+      "lyrics": "up up up up up clap clap clap",
+      "call": ""
+    },
+    {
+      "lyrics": "up up up up up clap clap",
+      "call": ""
+    },
+    {
+      "lyrics": "up up up up up clap clap clap",
+      "call": ""
+    },
+    {
+      "lyrics": "up up up up up clap clap",
+      "call": ""
+    },
+    {
+      "lyrics": "Lets's GO！！",
+      "call": "Lets's GO！！"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "ときに愛をちょ　君の空をちょ Wanna be your superstar",
+      "romaji": "Toki ni Ai wo Cho Kimi no Sora wo Cho Wanna Be Your Superstar",
+      "en": "Sometimes give me love, give me your sky—wanna be your superstar",
+      "zh": "有時給我一點愛，給我一點你的天空，想成為你的超級巨星"
+    },
+    {
+      "ja": "目標リストを更新しなきゃ",
+      "romaji": "Mokuhyou Risuto wo Koushin Shinakya",
+      "en": "I have to update my list of goals",
+      "zh": "必須更新目標清單"
+    },
+    {
+      "ja": "昨日の希望(ゆめ)は通過点なのさ",
+      "romaji": "Kinou no Yume ha Tsuukaten na no sa",
+      "en": "Yesterday's dream is just a waypoint",
+      "zh": "昨天的希望（夢想）只是個中繼點"
+    },
+    {
+      "ja": "奇跡みたいなあの瞬間(とき)だってさ",
+      "romaji": "Kiseki Mitai na Ano Toki Datte sa",
+      "en": "Even that miracle-like moment",
+      "zh": "即使是那宛如奇蹟的瞬間"
+    },
+    {
+      "ja": "超えて　超えて　超えて行くんだ",
+      "romaji": "Koete Koete Koete Iku n Da",
+      "en": "I'll go beyond, beyond, beyond it",
+      "zh": "超越、超越、不斷超越"
+    },
+    {
+      "ja": "ファーストエイムは get to the next stage",
+      "romaji": "Faasuto Eimu ha Get to the Next Stage",
+      "en": "My first aim is to get to the next stage",
+      "zh": "首要目標是前往下一個舞台"
+    },
+    {
+      "ja": "コードネームは 170907",
+      "romaji": "Koodo Neemu ha 170907",
+      "en": "My code name is 170907",
+      "zh": "代號是 170907"
+    },
+    {
+      "ja": "デイドリームに浸ってないで come on！！ hurry up！！",
+      "romaji": "Deidoriimu ni Hitattenaide Come On!! Hurry Up!!",
+      "en": "Don't soak in daydreams—come on!! Hurry up!!",
+      "zh": "別沉浸在白日夢裡，come on！！ hurry up！！"
+    },
+    {
+      "ja": "Every time Every day",
+      "romaji": "Every Time Every Day",
+      "en": "Every time, every day",
+      "zh": "Every time Every day"
+    },
+    {
+      "ja": "止まらねぇぞ",
+      "romaji": "Tomaranee zo",
+      "en": "I won't stop",
+      "zh": "我可不會停下"
+    },
+    {
+      "ja": "ブレーキが効かないこのアタシと",
+      "romaji": "Bureeki ga Kikanai Kono Atashi to",
+      "en": "With this brake-less me",
+      "zh": "和煞不住的這個我"
+    },
+    {
+      "ja": "ずっと一緒にいてちょうだい",
+      "romaji": "Zutto Issho ni Ite Choudai",
+      "en": "Please stay with me forever",
+      "zh": "請一直待在我身邊"
+    },
+    {
+      "ja": "あなただけの I wanna be your superstar",
+      "romaji": "Anata Dake no I Wanna Be Your Superstar",
+      "en": "Just for you—I wanna be your superstar",
+      "zh": "只屬於你的，想成為你的超級巨星"
+    },
+    {
+      "ja": "wanna wanna wanna wanna wanna be a superstar",
+      "romaji": "Wanna Wanna Wanna Wanna Wanna Be a Superstar",
+      "en": "Wanna, wanna, wanna, wanna, wanna be a superstar",
+      "zh": "想、想、想、想、想成為超級巨星"
+    },
+    {
+      "ja": "ときに愛をちょうだい　きみの空をちょうだい",
+      "romaji": "Toki ni Ai wo Choudai Kimi no Sora wo Choudai",
+      "en": "Sometimes give me love, give me your sky",
+      "zh": "有時給我愛，給我你的天空"
+    },
+    {
+      "ja": "キラキラ光って大きくなあれ",
+      "romaji": "Kira Kira Hikatte Ookiku Naare",
+      "en": "Sparkle and shine, grow big and bright",
+      "zh": "閃閃發光，快快長大"
+    },
+    {
+      "ja": "虹色の輪 Around The World",
+      "romaji": "Nijiiro no Wa Around The World",
+      "en": "A rainbow-colored ring around the world",
+      "zh": "七彩的圓環，環繞世界"
+    },
+    {
+      "ja": "悔しい日もあったね　一緒に涙したね",
+      "romaji": "Kuyashii Hi mo Atta ne Issho ni Namida Shita ne",
+      "en": "There were frustrating days, and we cried together",
+      "zh": "也曾有懊悔的日子，也曾一起流淚"
+    },
+    {
+      "ja": "あの日があるから今がある",
+      "romaji": "Ano Hi ga Aru kara Ima ga Aru",
+      "en": "Because of those days, we have today",
+      "zh": "因為有那些日子，才有現在"
+    },
+    {
+      "ja": "ついてきて ！OK！",
+      "romaji": "Tsuite Kite! OK!",
+      "en": "Follow me! OK!",
+      "zh": "跟上來吧！OK！"
+    },
+    {
+      "ja": "ときに愛をちょ　君の空をちょ",
+      "romaji": "Toki ni Ai wo Cho Kimi no Sora wo Cho",
+      "en": "Sometimes give me love, give me your sky",
+      "zh": "有時給我一點愛，給我一點你的天空"
+    },
+    {
+      "ja": "そらとともに Lets's GO！！",
+      "romaji": "Sora to Tomo ni Let's GO!!",
+      "en": "Together with the sky—let's go!!",
+      "zh": "與天空一同，Let's GO！！"
+    },
+    {
+      "ja": "up up up up up clap clap clap",
+      "romaji": "Up Up Up Up Up Clap Clap Clap",
+      "en": "Up, up, up, up, up—clap, clap, clap",
+      "zh": "up up up up up 拍拍拍"
+    },
+    {
+      "ja": "up up up up up clap clap",
+      "romaji": "Up Up Up Up Up Clap Clap",
+      "en": "Up, up, up, up, up—clap, clap",
+      "zh": "up up up up up 拍拍"
+    },
+    {
+      "ja": "私達の未来は out of control",
+      "romaji": "Watashitachi no Mirai ha Out of Control",
+      "en": "Our future is out of control",
+      "zh": "我們的未來失控中"
+    },
+    {
+      "ja": "絶滅危機のフェーズへ暴走中",
+      "romaji": "Zetsumetsu Kiki no Feezu e Bousouchuu",
+      "en": "Rampaging toward the endangered phase",
+      "zh": "正暴走邁向滅絕危機的階段"
+    },
+    {
+      "ja": "誰が救うんだ　拒否ってる暇はないんだ",
+      "romaji": "Dare ga Sukuu n Da Kyotteru Hima ha Nai n Da",
+      "en": "Who's going to save us? There's no time to refuse",
+      "zh": "誰來拯救，沒有拒絕的閒工夫"
+    },
+    {
+      "ja": "やるんだ　やるんだ　やるしかないんだ",
+      "romaji": "Yaru n Da Yaru n Da Yaru Shika Nai n Da",
+      "en": "I'll do it, I'll do it—I have no choice but to do it",
+      "zh": "要去做、要去做、只能放手去做"
+    },
+    {
+      "ja": "恐れる気持ちは皆同じだ",
+      "romaji": "Osoreru Kimochi ha Minna Onaji Da",
+      "en": "The feeling of fear is the same for everyone",
+      "zh": "恐懼的心情大家都一樣"
+    },
+    {
+      "ja": "怯んで振り返るの　アタシもだ",
+      "romaji": "Hirunde Furikaeru no Atashi mo Da",
+      "en": "Even I flinch and look back",
+      "zh": "退縮回頭的人，我也是啊"
+    },
+    {
+      "ja": "でも　そんな時こその合言葉",
+      "romaji": "Demo Sonna Toki Koso no Aikotoba",
+      "en": "But that's exactly when our password matters",
+      "zh": "但正是這種時候的通關密語"
+    },
+    {
+      "ja": "Every time Every day　止まらねぇぞ",
+      "romaji": "Every Time Every Day Tomaranee zo",
+      "en": "Every time, every day—I won't stop",
+      "zh": "Every time Every day 我可不會停下"
+    },
+    {
+      "ja": "最高の of the year にしてあげるわ",
+      "romaji": "Saikou no of the Year ni Shite Ageru wa",
+      "en": "I'll make it the best of the year",
+      "zh": "會讓你成為年度最佳"
+    },
+    {
+      "ja": "輝ける in our lives にしよう",
+      "romaji": "Kagayakeru in Our Lives ni Shiyou",
+      "en": "Let's make it shine in our lives",
+      "zh": "讓我們的人生閃耀"
+    },
+    {
+      "ja": "あなただけの I wanna be your superstar",
+      "romaji": "Anata Dake no I Wanna Be Your Superstar",
+      "en": "Just for you—I wanna be your superstar",
+      "zh": "只屬於你的，想成為你的超級巨星"
+    },
+    {
+      "ja": "wanna wanna wanna wanna wanna be a superstar",
+      "romaji": "Wanna Wanna Wanna Wanna Wanna Be a Superstar",
+      "en": "Wanna, wanna, wanna, wanna, wanna be a superstar",
+      "zh": "想、想、想、想、想成為超級巨星"
+    },
+    {
+      "ja": "ときに愛をちょうだい",
+      "romaji": "Toki ni Ai wo Choudai",
+      "en": "Sometimes give me love",
+      "zh": "有時給我愛"
+    },
+    {
+      "ja": "きみの空をちょうだい",
+      "romaji": "Kimi no Sora wo Choudai",
+      "en": "Give me your sky",
+      "zh": "給我你的天空"
+    },
+    {
+      "ja": "ギンギン歌って夢を奏でて",
+      "romaji": "Gingin Utatte Yume wo Kanadete",
+      "en": "Singing loudly and playing out dreams",
+      "zh": "高聲歌唱，奏響夢想"
+    },
+    {
+      "ja": "虹色の輪 Around The World",
+      "romaji": "Nijiiro no Wa Around The World",
+      "en": "A rainbow-colored ring around the world",
+      "zh": "七彩的圓環，環繞世界"
+    },
+    {
+      "ja": "∞(無限)に夢を発信",
+      "romaji": "Mugen ni Yume wo Hasshin",
+      "en": "Broadcasting dreams infinitely",
+      "zh": "無限發送夢想"
+    },
+    {
+      "ja": "君がいれば安心",
+      "romaji": "Kimi ga Ireba Anshin",
+      "en": "I feel safe when you're here",
+      "zh": "有你在就安心"
+    },
+    {
+      "ja": "君と会えたから　今(そら)がある",
+      "romaji": "Kimi to Aeta kara Sora ga Aru",
+      "en": "Because I met you, there's a sky (now)",
+      "zh": "因為遇見了你，才有現在的這片天空"
+    },
+    {
+      "ja": "ありがとう！　ありがとう！",
+      "romaji": "Arigatou! Arigatou!",
+      "en": "Thank you! Thank you!",
+      "zh": "謝謝你！謝謝你！"
+    },
+    {
+      "ja": "ずっと愛をちょ",
+      "romaji": "Zutto Ai wo Cho",
+      "en": "Always give me a little love",
+      "zh": "永遠給我一點愛"
+    },
+    {
+      "ja": "ずっと空をちょ",
+      "romaji": "Zutto Sora wo Cho",
+      "en": "Always give me a little sky",
+      "zh": "永遠給我一點天空"
+    },
+    {
+      "ja": "そらとともに Lets's GO！！",
+      "romaji": "Sora to Tomo ni Let's GO!!",
+      "en": "Together with the sky—let's go!!",
+      "zh": "與天空一同，Let's GO！！"
+    },
+    {
+      "ja": "up up up up up clap clap clap",
+      "romaji": "Up Up Up Up Up Clap Clap Clap",
+      "en": "Up, up, up, up, up—clap, clap, clap",
+      "zh": "up up up up up 拍拍拍"
+    },
+    {
+      "ja": "up up up up up clap clap",
+      "romaji": "Up Up Up Up Up Clap Clap",
+      "en": "Up, up, up, up, up—clap, clap",
+      "zh": "up up up up up 拍拍"
+    },
+    {
+      "ja": "up up up up up clap clap clap",
+      "romaji": "Up Up Up Up Up Clap Clap Clap",
+      "en": "Up, up, up, up, up—clap, clap, clap",
+      "zh": "up up up up up 拍拍拍"
+    },
+    {
+      "ja": "up up up up up clap clap",
+      "romaji": "Up Up Up Up Up Clap Clap",
+      "en": "Up, up, up, up, up—clap, clap",
+      "zh": "up up up up up 拍拍"
+    },
+    {
+      "ja": "宇宙の果ての星座を　きみと探し当てたい",
+      "romaji": "Uchuu no Hate no Seiza wo Kimi to Sagashiatetai",
+      "en": "I want to find the constellation at the edge of the universe with you",
+      "zh": "想和你一起找到宇宙盡頭的星座"
+    },
+    {
+      "ja": "最初の上陸は　きみと挑みたい",
+      "romaji": "Saisho no Jouriku ha Kimi to Idomitai",
+      "en": "I want the first landing to be attempted with you",
+      "zh": "第一次登陸，想和你一起挑戰"
+    },
+    {
+      "ja": "一つずつ思い出を作って",
+      "romaji": "Hitotsu Zutsu Omoide wo Tsukutte",
+      "en": "Making memories one by one",
+      "zh": "一個一個創造回憶"
+    },
+    {
+      "ja": "一つずつ今を積み重ねて",
+      "romaji": "Hitotsu Zutsu Ima wo Kasanete",
+      "en": "Layering the present one by one",
+      "zh": "一個一個累積當下"
+    },
+    {
+      "ja": "同じ過去、",
+      "romaji": "Onaji Kako,",
+      "en": "The same past,",
+      "zh": "相同的過去、"
+    },
+    {
+      "ja": "同じ今、",
+      "romaji": "Onaji Ima,",
+      "en": "The same present,",
+      "zh": "相同的現在、"
+    },
+    {
+      "ja": "同じ未来、いくつできるだろ",
+      "romaji": "Onaji Mirai, Ikutsu Dekiru Daro",
+      "en": "The same future—how many can we make?",
+      "zh": "相同的未來，能創造多少呢"
+    },
+    {
+      "ja": "ときに愛をちょうだい",
+      "romaji": "Toki ni Ai wo Choudai",
+      "en": "Sometimes give me love",
+      "zh": "有時給我愛"
+    },
+    {
+      "ja": "きみの空をちょうだい",
+      "romaji": "Kimi no Sora wo Choudai",
+      "en": "Give me your sky",
+      "zh": "給我你的天空"
+    },
+    {
+      "ja": "キラキラ光って大きくなあれ",
+      "romaji": "Kira Kira Hikatte Ookiku Naare",
+      "en": "Sparkle and shine, grow big and bright",
+      "zh": "閃閃發光，快快長大"
+    },
+    {
+      "ja": "虹色の輪 Around The World",
+      "romaji": "Nijiiro no Wa Around The World",
+      "en": "A rainbow-colored ring around the world",
+      "zh": "七彩的圓環，環繞世界"
+    },
+    {
+      "ja": "悔しい日もあったね",
+      "romaji": "Kuyashii Hi mo Atta ne",
+      "en": "There were frustrating days",
+      "zh": "也曾有懊悔的日子"
+    },
+    {
+      "ja": "一緒に涙したね",
+      "romaji": "Issho ni Namida Shita ne",
+      "en": "And we cried together",
+      "zh": "也曾一起流淚"
+    },
+    {
+      "ja": "あの日があるから今がある",
+      "romaji": "Ano Hi ga Aru kara Ima ga Aru",
+      "en": "Because of those days, we have today",
+      "zh": "因為有那些日子，才有現在"
+    },
+    {
+      "ja": "ついてきて！ OK！",
+      "romaji": "Tsuite Kite! OK!",
+      "en": "Follow me! OK!",
+      "zh": "跟上來吧！OK！"
+    },
+    {
+      "ja": "ありがとう！　ありがとう！",
+      "romaji": "Arigatou! Arigatou!",
+      "en": "Thank you! Thank you!",
+      "zh": "謝謝你！謝謝你！"
+    },
+    {
+      "ja": "大好きだよ！ OK！",
+      "romaji": "Daisuki Da yo! OK!",
+      "en": "I love you so much! OK!",
+      "zh": "最喜歡你了！OK！"
+    },
+    {
+      "ja": "ときに愛をちょ",
+      "romaji": "Toki ni Ai wo Cho",
+      "en": "Sometimes give me a little love",
+      "zh": "有時給我一點愛"
+    },
+    {
+      "ja": "君の空をちょ",
+      "romaji": "Kimi no Sora wo Cho",
+      "en": "Give me a little of your sky",
+      "zh": "給我一點你的天空"
+    },
+    {
+      "ja": "ずっと愛をちょ",
+      "romaji": "Zutto Ai wo Cho",
+      "en": "Always give me a little love",
+      "zh": "永遠給我一點愛"
+    },
+    {
+      "ja": "ずっと空をちょ",
+      "romaji": "Zutto Sora wo Cho",
+      "en": "Always give me a little sky",
+      "zh": "永遠給我一點天空"
+    },
+    {
+      "ja": "ときに愛をちょ",
+      "romaji": "Toki ni Ai wo Cho",
+      "en": "Sometimes give me a little love",
+      "zh": "有時給我一點愛"
+    },
+    {
+      "ja": "君の空をちょ",
+      "romaji": "Kimi no Sora wo Cho",
+      "en": "Give me a little of your sky",
+      "zh": "給我一點你的天空"
+    },
+    {
+      "ja": "そらとともに Lets's GO！！",
+      "romaji": "Sora to Tomo ni Let's GO!!",
+      "en": "Together with the sky—let's go!!",
+      "zh": "與天空一同，Let's GO！！"
+    },
+    {
+      "ja": "up up up up up clap clap clap",
+      "romaji": "Up Up Up Up Up Clap Clap Clap",
+      "en": "Up, up, up, up, up—clap, clap, clap",
+      "zh": "up up up up up 拍拍拍"
+    },
+    {
+      "ja": "up up up up up clap clap",
+      "romaji": "Up Up Up Up Up Clap Clap",
+      "en": "Up, up, up, up, up—clap, clap",
+      "zh": "up up up up up 拍拍"
+    },
+    {
+      "ja": "up up up up up clap clap clap",
+      "romaji": "Up Up Up Up Up Clap Clap Clap",
+      "en": "Up, up, up, up, up—clap, clap, clap",
+      "zh": "up up up up up 拍拍拍"
+    },
+    {
+      "ja": "up up up up up clap clap",
+      "romaji": "Up Up Up Up Up Clap Clap",
+      "en": "Up, up, up, up, up—clap, clap",
+      "zh": "up up up up up 拍拍"
+    },
+    {
+      "ja": "Lets's GO！！",
+      "romaji": "Let's GO!!",
+      "en": "Let's go!!",
+      "zh": "Let's GO！！"
+    }
+  ]
+}

@@ -1,9 +1,107 @@
 [
   {
-    "title": "木の芽時の空（花時の空）",
-    "album": "くもはれ",
-    "releaseDate": "2018/01/19",
-    "coverUrl": "/assets/cover_images/kumohare.png",
-    "slug": "/songs/konomedoki_no_sora"
+    "title": "Hot limit",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "/assets/cover_images/re_play.png",
+    "slug": "/songs/hot_limit"
+  },
+  {
+    "title": "ロマンスの神様",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "/assets/cover_images/re_play.png",
+    "slug": "/songs/romance_no_kamisama"
+  },
+  {
+    "title": "ファンサ",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "/assets/cover_images/re_play.png",
+    "slug": "/songs/fansa"
+  },
+  {
+    "title": "MASAYUME CHASING",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "/assets/cover_images/re_play.png",
+    "slug": "/songs/masayume_chasing"
+  },
+  {
+    "title": "怪物",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "/assets/cover_images/re_play.png",
+    "slug": "/songs/kaibutsu"
+  },
+  {
+    "title": "アンドロイドガール",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "/assets/cover_images/re_play.png",
+    "slug": "/songs/android_girl"
+  },
+  {
+    "title": "God Knows...",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "/assets/cover_images/re_play.png",
+    "slug": "/songs/god_knows"
+  },
+  {
+    "title": "Butterfly",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "/assets/cover_images/re_play.png",
+    "slug": "/songs/butterfly"
+  },
+  {
+    "title": "まっさらブルージーンズ",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "/assets/cover_images/re_play.png",
+    "slug": "/songs/romance_no_kamisama"
+  },
+  {
+    "title": "ロマンスの神様",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "/assets/cover_images/re_play.png",
+    "slug": "/songs/massara_blue_jeans"
+  },
+  {
+    "title": "嘘",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "/assets/cover_images/re_play.png",
+    "slug": "/songs/uso"
+  },
+  {
+    "title": "赤いスイートピー",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "/assets/cover_images/re_play.png",
+    "slug": "/songs/akai_sweet_pea"
+  },
+  {
+    "title": "この世界で",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "/assets/cover_images/re_play.png",
+    "slug": "/songs/kono_sekaide"
+  },
+  {
+    "title": "KING",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "/assets/cover_images/re_play.png",
+    "slug": "/songs/king"
+  },
+  {
+    "title": "太陽系ディスコ",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "/assets/cover_images/re_play.png",
+    "slug": "/songs/taiyoukei_disco"
   }
 ]

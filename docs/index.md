@@ -1,6 +1,15 @@
-# Welcome to the Tokino Sora Fansite
+# Welcome to the Soratomo's Fansite
+# ようこそ!
 
-This is a place where you can find anything related to the one and only Tokino Sora
+#### このサイトは、ときのそらに関わるものを載せております～
+#### 此網站放了關於ときのそら的東西～
+#### This is a place where you can find anything related to the one and only Tokino Sora~
 
- ![Tokino Sora](/assets/TokinoSora.png)
+
+
+ [免責条項 Disclaimer](disclaimer.md)
+
+
+
+![ShokiSora](assets/TokinoSora.png)
 

@@ -1,0 +1,682 @@
+{
+  "meta": {
+    "title": "ピッとして！マーマレード",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "田淵智也 ",
+    "lyricist": "田淵智也 ",
+    "album": "Sign",
+    "releaseDate": "2022/09/06",
+    "coverUrl": "cover_images/sign",
+    "penlight_color": [
+      "#ffff00"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/qz2vIm2XK5A?si=EdqLPzUD2WSB8Qqb"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "こんなにこんなに叶えたいんだ",
+      "call": ""
+    },
+    {
+      "lyrics": "強く願って願うだけ夢になった",
+      "call": ""
+    },
+    {
+      "lyrics": "そうだからしっかりピッとして マーマレード",
+      "call": ""
+    },
+    {
+      "lyrics": "私がんばるよ がんばるからね",
+      "call": ""
+    },
+    {
+      "lyrics": "よっしゃ get up, stand up, run up, grow up, up",
+      "call": "よっしゃ get up, stand up, run up, grow up, up"
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    },
+    {
+      "lyrics": "時に満面で 時にチャラけて",
+      "call": ""
+    },
+    {
+      "lyrics": "時に凛々しく",
+      "call": ""
+    },
+    {
+      "lyrics": "コロコロ変わる空模様みたい",
+      "call": ""
+    },
+    {
+      "lyrics": "どれもちゃんと空だし",
+      "call": ""
+    },
+    {
+      "lyrics": "繋ぐ星と星のフレーズ",
+      "call": ""
+    },
+    {
+      "lyrics": "私と君のやりとりが線になる",
+      "call": ""
+    },
+    {
+      "lyrics": "素敵 ロマンチックでドラマチック",
+      "call": ""
+    },
+    {
+      "lyrics": "星座になって そして歌になる",
+      "call": ""
+    },
+    {
+      "lyrics": "日進月歩って言えるほどたくましく",
+      "call": ""
+    },
+    {
+      "lyrics": "できてないかもしれない",
+      "call": ""
+    },
+    {
+      "lyrics": "せいぜいトライアンドエラーっていう感じか？",
+      "call": ""
+    },
+    {
+      "lyrics": "I my me (ススメナヤメ カンガエテ)",
+      "call": "              (ススメナヤメ カンガエテ)"
+    },
+    {
+      "lyrics": "ねえ、これが私でいいかな？",
+      "call": ""
+    },
+    {
+      "lyrics": "いいでしょ ちょっとやそっとじゃ揺らがないの",
+      "call": ""
+    },
+    {
+      "lyrics": "こんぐらいは la-ta-la, la-ta-la 笑えちゃうの",
+      "call": ""
+    },
+    {
+      "lyrics": "笑えたら次に行こう",
+      "call": ""
+    },
+    {
+      "lyrics": "気づいてる？ちょっと成長してるよ",
+      "call": "                                                       フフフー！"
+    },
+    {
+      "lyrics": "キュートにキュートに甘いだけじゃなくて",
+      "call": ""
+    },
+    {
+      "lyrics": "ほんのりほんのりほろ苦いの",
+      "call": ""
+    },
+    {
+      "lyrics": "だって合言葉はピッとして マーマレード",
+      "call": ""
+    },
+    {
+      "lyrics": "君に会えるまで次は何しよう？",
+      "call": ""
+    },
+    {
+      "lyrics": "よっしゃ get up, stand up, run up, grow up",
+      "call": "よっしゃ get up, stand up, run up, grow up"
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    },
+    {
+      "lyrics": "細部に凝って真心込めて",
+      "call": ""
+    },
+    {
+      "lyrics": "届けたいんだもん",
+      "call": ""
+    },
+    {
+      "lyrics": "一期一会かもしれないけど",
+      "call": ""
+    },
+    {
+      "lyrics": "繋がれ、空みたく",
+      "call": ""
+    },
+    {
+      "lyrics": "どんな服を着て街に出よう",
+      "call": ""
+    },
+    {
+      "lyrics": "どんな髪型を試そう",
+      "call": ""
+    },
+    {
+      "lyrics": "一つ一つ君に見てほしいから",
+      "call": ""
+    },
+    {
+      "lyrics": "ほんとだよ？君はどうだろう？",
+      "call": ""
+    },
+    {
+      "lyrics": "もしもが いっぱいいっぱい連なって奇跡が",
+      "call": ""
+    },
+    {
+      "lyrics": "いっぱいいっぱい起きちゃって",
+      "call": ""
+    },
+    {
+      "lyrics": "見たことない景色になる",
+      "call": ""
+    },
+    {
+      "lyrics": "君と私が作った景色だよ",
+      "call": "                                     フフフー！"
+    },
+    {
+      "lyrics": "とってもとっても嬉しいんだ",
+      "call": ""
+    },
+    {
+      "lyrics": "だからね ほんとにほんとにありがとう、だ",
+      "call": ""
+    },
+    {
+      "lyrics": "君がくれるその声でマーマレード",
+      "call": ""
+    },
+    {
+      "lyrics": "どんな色にでもなれる",
+      "call": ""
+    },
+    {
+      "lyrics": "紅茶に溶かすメロディーや",
+      "call": ""
+    },
+    {
+      "lyrics": "食パンに塗るリズムで",
+      "call": ""
+    },
+    {
+      "lyrics": "楽しさメーターは上がっていく",
+      "call": ""
+    },
+    {
+      "lyrics": "(ススメ ススメ モットユケ)",
+      "call": "(ススメ ススメ モットユケ)"
+    },
+    {
+      "lyrics": "ねえ、だから私は私で",
+      "call": ""
+    },
+    {
+      "lyrics": "いたいの こんなにこんなに叶えたくて",
+      "call": ""
+    },
+    {
+      "lyrics": "強く願って願うだけ夢になって",
+      "call": ""
+    },
+    {
+      "lyrics": "なったからね 諦めるはずない",
+      "call": ""
+    },
+    {
+      "lyrics": "そのステージはきっとそこにある",
+      "call": ""
+    },
+    {
+      "lyrics": "一緒に一緒に目指したいの",
+      "call": ""
+    },
+    {
+      "lyrics": "景色を一緒一緒に作りたいの",
+      "call": ""
+    },
+    {
+      "lyrics": "そうだからしっかりピッとして マーマレード",
+      "call": ""
+    },
+    {
+      "lyrics": "私がんばるよ がんばるからね",
+      "call": ""
+    },
+    {
+      "lyrics": "よっしゃ get up, stand up, run up, grow up",
+      "call": "よっしゃ get up, stand up, run up, grow up"
+    },
+    {
+      "lyrics": "てな感じで歌っていこう",
+      "call": ""
+    },
+    {
+      "lyrics": "オーオー！オーオー！オーオー！オーオー！",
+      "call": "オーオー！オーオー！オーオー！オーオー！"
+    },
+    {
+      "lyrics": "ほんと、ありがとう",
+      "call": ""
+    },
+    {
+      "lyrics": "オーオー！オーオー！オーオー！オーオー！",
+      "call": "オーオー！オーオー！オーオー！オーオー！"
+    },
+    {
+      "lyrics": "ずっとね ピッとして マーマレード",
+      "call": ""
+    },
+    {
+      "lyrics": "オーオー！オーオー！オーオー！オーオー！",
+      "call": "オーオー！オーオー！オーオー！オーオー！"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "こんなにこんなに叶えたいんだ",
+      "romaji": "Konna ni Konna ni Kanaetai n Da",
+      "en": "I want to make it come true so, so much",
+      "zh": "如此如此地想要實現"
+    },
+    {
+      "ja": "強く願って願うだけ夢になった",
+      "romaji": "Tsuyoku Negatte Negau Dake Yume ni Natta",
+      "en": "I wished so hard, and just wishing turned into a dream",
+      "zh": "強烈地許願，光是許願就化作了夢想"
+    },
+    {
+      "ja": "そうだからしっかりピッとして マーマレード",
+      "romaji": "Sou Dakara Shikkari Pittoshite Maamareedo",
+      "en": "So that's why—straighten up properly, marmalade",
+      "zh": "所以啊，好好地打起精神，橘子果醬"
+    },
+    {
+      "ja": "私がんばるよ がんばるからね",
+      "romaji": "Watashi Ganbaru yo Ganbaru kara ne",
+      "en": "I'll do my best—I'll keep trying, okay?",
+      "zh": "我會加油的，我會努力的"
+    },
+    {
+      "ja": "よっしゃ get up, stand up, run up, grow up, up",
+      "romaji": "Yossha Get Up, Stand Up, Run Up, Grow Up, Up",
+      "en": "Alright—get up, stand up, run up, grow up, up",
+      "zh": "好耶 get up, stand up, run up, grow up, up"
+    },
+    {
+      "ja": "時に満面で 時にチャラけて",
+      "romaji": "Toki ni Manmen de Toki ni Charakete",
+      "en": "Sometimes beaming, sometimes playful",
+      "zh": "時而滿面笑容，時而嘻皮笑臉"
+    },
+    {
+      "ja": "時に凛々しく",
+      "romaji": "Toki ni Ririshiku",
+      "en": "Sometimes dignified",
+      "zh": "時而凜然帥氣"
+    },
+    {
+      "ja": "コロコロ変わる空模様みたい",
+      "romaji": "Korokoro Kawaru Sora Moyou Mitai",
+      "en": "Like the ever-changing sky",
+      "zh": "像千變萬化的天氣"
+    },
+    {
+      "ja": "どれもちゃんと空だし",
+      "romaji": "Dore mo Chanto Sora Da shi",
+      "en": "Every version is still the sky",
+      "zh": "不管哪樣，都確確實實是天空"
+    },
+    {
+      "ja": "繋ぐ星と星のフレーズ",
+      "romaji": "Tsunagu Hoshi to Hoshi no Fureezu",
+      "en": "Phrases connecting star to star",
+      "zh": "連繫星星與星星的樂句"
+    },
+    {
+      "ja": "私と君のやりとりが線になる",
+      "romaji": "Watashi to Kimi no Yaritori ga Sen ni Naru",
+      "en": "Our exchanges become a line",
+      "zh": "我與你的互動化成了線"
+    },
+    {
+      "ja": "素敵 ロマンチックでドラマチック",
+      "romaji": "Suteki Romanchikku de Doramachikku",
+      "en": "Wonderful, romantic, and dramatic",
+      "zh": "好美，浪漫又戲劇化"
+    },
+    {
+      "ja": "星座になって そして歌になる",
+      "romaji": "Seiza ni Natte Soshite Uta ni Naru",
+      "en": "Becoming a constellation, and then a song",
+      "zh": "化作星座，然後成為歌曲"
+    },
+    {
+      "ja": "日進月歩って言えるほどたくましく",
+      "romaji": "Nisshin Geppo tte Ieru Hodo Takumashiku",
+      "en": "I may not be strong enough to call it steady progress",
+      "zh": "也許還沒厲害到能說是日新月異"
+    },
+    {
+      "ja": "できてないかもしれない",
+      "romaji": "Dekitenai Kamo Shirenai",
+      "en": "I might not be there yet",
+      "zh": "可能還做不到"
+    },
+    {
+      "ja": "せいぜいトライアンドエラーっていう感じか？",
+      "romaji": "Seizei Torai Ando Eraa tte Iu Kanji ka?",
+      "en": "At best, it's just trial and error, I guess?",
+      "zh": "頂多就是不斷試錯的感覺吧？"
+    },
+    {
+      "ja": "I my me (ススメナヤメ カンガエテ)",
+      "romaji": "I My Me (Susume Nayame Kangaete)",
+      "en": "I, my, me (Move forward, worry, think)",
+      "zh": "I my me（前進、煩惱、思考）"
+    },
+    {
+      "ja": "ねえ、これが私でいいかな？",
+      "romaji": "Nee, Kore ga Watashi de Ii Kana?",
+      "en": "Hey, is it okay for this to be me?",
+      "zh": "吶，這樣的我也可以嗎？"
+    },
+    {
+      "ja": "いいでしょ ちょっとやそっとじゃ揺らがないの",
+      "romaji": "Ii Desho Chotto ya Sotto ja Yuraginai no",
+      "en": "It's fine, right? I won't be shaken by just a little",
+      "zh": "可以吧，才不會因為一點小事動搖"
+    },
+    {
+      "ja": "こんぐらいは la-ta-la, la-ta-la 笑えちゃうの",
+      "romaji": "Kon Gurai ha La-Ta-La, La-Ta-La Waraechau no",
+      "en": "At least this much—la-ta-la, la-ta-la—I can laugh it off",
+      "zh": "這種程度 la-ta-la, la-ta-la 一笑置之"
+    },
+    {
+      "ja": "笑えたら次に行こう",
+      "romaji": "Waraetara Tsugi ni Ikou",
+      "en": "If I can laugh, let's move on to the next",
+      "zh": "能笑出來的話，就繼續下一步吧"
+    },
+    {
+      "ja": "気づいてる？ちょっと成長してるよ",
+      "romaji": "Kizuiteru? Chotto Seichou Shiteru yo",
+      "en": "Have you noticed? I'm growing a little",
+      "zh": "發現了嗎？我有一點點成長了喔"
+    },
+    {
+      "ja": "キュートにキュートに甘いだけじゃなくて",
+      "romaji": "Kyuuto ni Kyuuto ni Amai Dake ja Nakute",
+      "en": "Cute, cute—but not just sweet",
+      "zh": "可愛、可愛，但不只是甜美"
+    },
+    {
+      "ja": "ほんのりほんのりほろ苦いの",
+      "romaji": "Honnori Honnori Horonigai no",
+      "en": "Just slightly, slightly bittersweet",
+      "zh": "還帶著微微、微微的苦澀"
+    },
+    {
+      "ja": "だって合言葉はピッとして マーマレード",
+      "romaji": "Datte Aikotoba ha Pittoshite Maamareedo",
+      "en": "Because the password is \"Straighten up, marmalade\"",
+      "zh": "因為通關密語就是打起精神，橘子果醬"
+    },
+    {
+      "ja": "君に会えるまで次は何しよう？",
+      "romaji": "Kimi ni Aeru made Tsugi ha Nani Shiyou?",
+      "en": "Until I can see you, what should I do next?",
+      "zh": "直到見到你之前，接下來要做什麼呢？"
+    },
+    {
+      "ja": "よっしゃ get up, stand up, run up, grow up",
+      "romaji": "Yossha Get Up, Stand Up, Run Up, Grow Up",
+      "en": "Alright—get up, stand up, run up, grow up",
+      "zh": "好耶 get up, stand up, run up, grow up"
+    },
+    {
+      "ja": "細部に凝って真心込めて",
+      "romaji": "Saibu ni Kotte Magokoro Komete",
+      "en": "Paying attention to detail, putting my heart into it",
+      "zh": "講究細節，注入真心"
+    },
+    {
+      "ja": "届けたいんだもん",
+      "romaji": "Todoketai n Da Mon",
+      "en": "Because I want to deliver it",
+      "zh": "因為我就是想傳達出去"
+    },
+    {
+      "ja": "一期一会かもしれないけど",
+      "romaji": "Ichigo Ichie Kamo Shirenai kedo",
+      "en": "It might be a once-in-a-lifetime encounter",
+      "zh": "也許是一期一會"
+    },
+    {
+      "ja": "繋がれ、空みたく",
+      "romaji": "Tsunagare, Sora Mitaku",
+      "en": "But connect, like the sky",
+      "zh": "但如天空般連繫在一起吧"
+    },
+    {
+      "ja": "どんな服を着て街に出よう",
+      "romaji": "Donna Fuku wo Kite Machi ni Deyou",
+      "en": "What clothes should I wear out into the city?",
+      "zh": "該穿什麼衣服上街呢"
+    },
+    {
+      "ja": "どんな髪型を試そう",
+      "romaji": "Donna Kamigata wo Tamesou",
+      "en": "What hairstyle should I try?",
+      "zh": "該試試什麼髮型呢"
+    },
+    {
+      "ja": "一つ一つ君に見てほしいから",
+      "romaji": "Hitotsu Hitotsu Kimi ni Mite Hoshii kara",
+      "en": "Because I want you to see every single one",
+      "zh": "因為每一樣都想讓你看見"
+    },
+    {
+      "ja": "ほんとだよ？君はどうだろう？",
+      "romaji": "Honto Da yo? Kimi ha Dou Darou?",
+      "en": "Really, I mean it—what about you?",
+      "zh": "是真的喔？你呢？"
+    },
+    {
+      "ja": "もしもが いっぱいいっぱい連なって奇跡が",
+      "romaji": "Moshimo ga Ippai Ippai Tsuranatte Kiseki ga",
+      "en": "If \"what ifs\" pile up one after another, miracles",
+      "zh": "如果許許多多的「如果」串連起來，奇蹟"
+    },
+    {
+      "ja": "いっぱいいっぱい起きちゃって",
+      "romaji": "Ippai Ippai Okichatte",
+      "en": "Will happen again and again",
+      "zh": "會一個接一個發生"
+    },
+    {
+      "ja": "見たことない景色になる",
+      "romaji": "Mita Koto Nai Keshiki ni Naru",
+      "en": "And become a scenery I've never seen",
+      "zh": "變成前所未見的景色"
+    },
+    {
+      "ja": "君と私が作った景色だよ",
+      "romaji": "Kimi to Watashi ga Tsukutta Keshiki Da yo",
+      "en": "A scenery made by you and me",
+      "zh": "是你和我一起打造的景色喔"
+    },
+    {
+      "ja": "とってもとっても嬉しいんだ",
+      "romaji": "Tottemo Tottemo Ureshii n Da",
+      "en": "I'm so, so happy",
+      "zh": "真的真的好開心"
+    },
+    {
+      "ja": "だからね ほんとにほんとにありがとう、だ",
+      "romaji": "Dakara ne Honto ni Honto ni Arigatou, Da",
+      "en": "So, really, really—thank you",
+      "zh": "所以啊，真的真的很謝謝你"
+    },
+    {
+      "ja": "君がくれるその声でマーマレード",
+      "romaji": "Kimi ga Kureru Sono Koe de Maamareedo",
+      "en": "With that voice you give me—marmalade",
+      "zh": "用你給我的那個聲音，橘子果醬"
+    },
+    {
+      "ja": "どんな色にでもなれる",
+      "romaji": "Donna Iro ni demo Nareru",
+      "en": "I can become any color",
+      "zh": "能變成任何顏色"
+    },
+    {
+      "ja": "紅茶に溶かすメロディーや",
+      "romaji": "Koucha ni Tokasu Merodii ya",
+      "en": "A melody that melts into tea",
+      "zh": "溶進紅茶的旋律"
+    },
+    {
+      "ja": "食パンに塗るリズムで",
+      "romaji": "Shokupan ni Nuru Rizumu de",
+      "en": "With a rhythm spread on bread",
+      "zh": "以塗在吐司上的節奏"
+    },
+    {
+      "ja": "楽しさメーターは上がっていく",
+      "romaji": "Tanoshisa Meetaa ha Agatte Iku",
+      "en": "The fun meter keeps rising",
+      "zh": "快樂指數不斷上升"
+    },
+    {
+      "ja": "(ススメ ススメ モットユケ)",
+      "romaji": "(Susume Susume Motto Yuke)",
+      "en": "(Move forward, move forward, go further)",
+      "zh": "（前進、前進、再走遠一點）"
+    },
+    {
+      "ja": "ねえ、だから私は私で",
+      "romaji": "Nee, Dakara Watashi ha Watashi de",
+      "en": "Hey, so I want to be myself",
+      "zh": "吶，所以我要做我自己"
+    },
+    {
+      "ja": "いたいの こんなにこんなに叶えたくて",
+      "romaji": "Itai no Konna ni Konna ni Kanaetakute",
+      "en": "I want to be—I want to make it come true so, so much",
+      "zh": "想保持自我，如此如此地想要實現"
+    },
+    {
+      "ja": "強く願って願うだけ夢になって",
+      "romaji": "Tsuyoku Negatte Negau Dake Yume ni Natte",
+      "en": "I wished so hard, and just wishing turned into a dream",
+      "zh": "強烈地許願，光是許願就化作了夢想"
+    },
+    {
+      "ja": "なったからね 諦めるはずない",
+      "romaji": "Natta kara ne Akirameru Hazu Nai",
+      "en": "Since it became a dream, there's no way I'll give up",
+      "zh": "既然已成夢想，就不可能放棄"
+    },
+    {
+      "ja": "そのステージはきっとそこにある",
+      "romaji": "Sono Suteeji ha Kitto Soko ni Aru",
+      "en": "That stage is surely right there",
+      "zh": "那個舞台一定就在那裡"
+    },
+    {
+      "ja": "一緒に一緒に目指したいの",
+      "romaji": "Issho ni Issho ni Mezashitai no",
+      "en": "I want to aim for it together, together",
+      "zh": "想一起、一起以它為目標"
+    },
+    {
+      "ja": "景色を一緒一緒に作りたいの",
+      "romaji": "Keshiki wo Issho Issho ni Tsukuritai no",
+      "en": "I want to create the scenery together, together",
+      "zh": "想一起、一起打造景色"
+    },
+    {
+      "ja": "そうだからしっかりピッとして マーマレード",
+      "romaji": "Sou Dakara Shikkari Pittoshite Maamareedo",
+      "en": "So that's why—straighten up properly, marmalade",
+      "zh": "所以啊，好好地打起精神，橘子果醬"
+    },
+    {
+      "ja": "私がんばるよ がんばるからね",
+      "romaji": "Watashi Ganbaru yo Ganbaru kara ne",
+      "en": "I'll do my best—I'll keep trying, okay?",
+      "zh": "我會加油的，我會努力的"
+    },
+    {
+      "ja": "よっしゃ get up, stand up, run up, grow up",
+      "romaji": "Yossha Get Up, Stand Up, Run Up, Grow Up",
+      "en": "Alright—get up, stand up, run up, grow up",
+      "zh": "好耶 get up, stand up, run up, grow up"
+    },
+    {
+      "ja": "てな感じで歌っていこう",
+      "romaji": "Te na Kanji de Utatte Ikou",
+      "en": "Let's keep singing like that",
+      "zh": "就以這種感覺唱下去吧"
+    },
+    {
+      "ja": "オーオー！オーオー！オーオー！オーオー！",
+      "romaji": "O-O-!O-O-!O-O-!O-O-!",
+      "en": "Oh-Oh! Oh-Oh! Oh-Oh! Oh-Oh!",
+      "zh": "Oh-Oh! Oh-Oh! Oh-Oh! Oh-Oh!"
+    },
+    {
+      "ja": "ほんと、ありがとう",
+      "romaji": "Honto, Arigatou",
+      "en": "Really, thank you",
+      "zh": "真的，謝謝你"
+    },
+    {
+      "ja": "オーオー！オーオー！オーオー！オーオー！",
+      "romaji": "O-O-!O-O-!O-O-!O-O-!",
+      "en": "Oh-Oh! Oh-Oh! Oh-Oh! Oh-Oh!",
+      "zh": "Oh-Oh! Oh-Oh! Oh-Oh! Oh-Oh!"
+    },
+    {
+      "ja": "ずっとね ピッとして マーマレード",
+      "romaji": "Zutto ne Pittoshite Maamareedo",
+      "en": "Forever, straighten up—marmalade",
+      "zh": "永遠都要打起精神，橘子果醬"
+    },
+    {
+      "ja": "オーオー！オーオー！オーオー！オーオー！",
+      "romaji": "O-O-!O-O-!O-O-!O-O-!",
+      "en": "Oh-Oh! Oh-Oh! Oh-Oh! Oh-Oh!",
+      "zh": "Oh-Oh! Oh-Oh! Oh-Oh! Oh-Oh!"
+    }
+  ]
+}

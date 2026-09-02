@@ -1,0 +1,623 @@
+{
+  "meta": {
+    "title": "エゴナデ・ラビリンス",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "YASUHIRO(康寛)",
+    "lyricist": "YASUHIRO(康寛)",
+    "album": "Sign",
+    "releaseDate": "2022/09/07",
+    "coverUrl": "cover_images/sign",
+    "penlight_color": [
+      "#ffb3ef",
+      "#ff00ff"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/VCsWgOMu4_8?si=6LcEEJ27lZR_-xuC"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    },
+    {
+      "lyrics": "期待 期待 期待しちゃうわ",
+      "call": ""
+    },
+    {
+      "lyrics": "また また くすぐられる",
+      "call": ""
+    },
+    {
+      "lyrics": "ハァズルい ズルいわ そんな",
+      "call": ""
+    },
+    {
+      "lyrics": "顔するんだもん",
+      "call": ""
+    },
+    {
+      "lyrics": "潜む視線 跳ねるシルエット",
+      "call": ""
+    },
+    {
+      "lyrics": "見え隠れしたその本性 (Woah)",
+      "call": ""
+    },
+    {
+      "lyrics": "憑りつかれた悪い悪い",
+      "call": ""
+    },
+    {
+      "lyrics": "子はだぁれ？",
+      "call": ""
+    },
+    {
+      "lyrics": "糸揺れる ユラユラ 開始の合図",
+      "call": "",
+      "extra_row": true,
+      "action": "                                                pp"
+    },
+    {
+      "lyrics": "ぐーるぐると廻れ it's a merry go round",
+      "call": ""
+    },
+    {
+      "lyrics": "アン ドゥ トロワで踊るのさ",
+      "call": ""
+    },
+    {
+      "lyrics": "くすぶるその表情 「もっと頂戴？」",
+      "call": ""
+    },
+    {
+      "lyrics": "キミと悪戯びたい たいだけなの",
+      "call": ""
+    },
+    {
+      "lyrics": "揺れる心 ラビリンス",
+      "call": "",
+      "extra_row": true,
+      "action": "                                pp"
+    },
+    {
+      "lyrics": "キミを鳴かせたい たい だけなの",
+      "call": ""
+    },
+    {
+      "lyrics": "都合なんて気にしないわ",
+      "call": ""
+    },
+    {
+      "lyrics": "(Like? Like? Like? Like?) どっちでしょうか？",
+      "call": "(Like? Like? Like? Like?)"
+    },
+    {
+      "lyrics": "(Dislike? Like? Like?) ドキドキしてる？",
+      "call": "(Dislike? Like? Like?) "
+    },
+    {
+      "lyrics": "素直じゃないから",
+      "call": ""
+    },
+    {
+      "lyrics": "キミには 容赦しないもん アハッ",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    },
+    {
+      "lyrics": "いない いない ばぁ って今日も",
+      "call": ""
+    },
+    {
+      "lyrics": "また また 遊びましょう",
+      "call": ""
+    },
+    {
+      "lyrics": "Ah, 割り切れない感情",
+      "call": ""
+    },
+    {
+      "lyrics": "瞳の奥 見たたたたたたたいのよ",
+      "call": ""
+    },
+    {
+      "lyrics": "覗きたいのよ",
+      "call": ""
+    },
+    {
+      "lyrics": "コッソリコッソリ 潜んだ表情",
+      "call": ""
+    },
+    {
+      "lyrics": "どうしよ だったらどうしよ",
+      "call": ""
+    },
+    {
+      "lyrics": "暗い暗い夜の中で",
+      "call": ""
+    },
+    {
+      "lyrics": "乙女な星が",
+      "call": ""
+    },
+    {
+      "lyrics": "ワタシの世界に落っこちて",
+      "call": ""
+    },
+    {
+      "lyrics": "癖になっちゃいそうなの",
+      "call": ""
+    },
+    {
+      "lyrics": "キミと戯れてたい たい だけなの",
+      "call": ""
+    },
+    {
+      "lyrics": "深い魅惑 ラビリンス",
+      "call": "",
+      "extra_row": true,
+      "action": "                                pp"
+    },
+    {
+      "lyrics": "キミで満たしたい たい だけなの",
+      "call": ""
+    },
+    {
+      "lyrics": "迷いなんて馬鹿らしいわ",
+      "call": ""
+    },
+    {
+      "lyrics": "(Like? Like? Like? Like?) 待ったは無しよ",
+      "call": "(Like? Like? Like? Like?)"
+    },
+    {
+      "lyrics": "(Dislike? Like? Like?) くらくらしてる？",
+      "call": "(Dislike? Like? Like?"
+    },
+    {
+      "lyrics": "ミルキーな渦で",
+      "call": ""
+    },
+    {
+      "lyrics": "手と手合わせ 踊りましょ",
+      "call": ""
+    },
+    {
+      "lyrics": "要らない真実は",
+      "call": ""
+    },
+    {
+      "lyrics": "忘れさせてあげるから",
+      "call": ""
+    },
+    {
+      "lyrics": "情熱の駆け引きに",
+      "call": ""
+    },
+    {
+      "lyrics": "そっぽ向いたら嫌嫌嫌嫌嫌嫌嫌嫌嫌",
+      "call": ""
+    },
+    {
+      "lyrics": "キミと戯れてたい たい だけなの",
+      "call": ""
+    },
+    {
+      "lyrics": "あれもこれも全部全部",
+      "call": ""
+    },
+    {
+      "lyrics": "キミで満たしたい たい だけなの",
+      "call": ""
+    },
+    {
+      "lyrics": "鈴鳴らし 始めましょう さぁ",
+      "call": ""
+    },
+    {
+      "lyrics": "キミと悪戯びたい たい だけなの",
+      "call": ""
+    },
+    {
+      "lyrics": "揺れる心 ラビリンス",
+      "call": ""
+    },
+    {
+      "lyrics": "キミを鳴かせたい たい だけなの",
+      "call": ""
+    },
+    {
+      "lyrics": "都合なんて気にしないわ",
+      "call": ""
+    },
+    {
+      "lyrics": "(Like? Like? Like? Like?) どっちでしょうか？",
+      "call": ""
+    },
+    {
+      "lyrics": "(Dislike? Like? Like?) ドキドキしてる？",
+      "call": ""
+    },
+    {
+      "lyrics": "素直じゃないから",
+      "call": ""
+    },
+    {
+      "lyrics": "キミには 容赦しないもん",
+      "call": ""
+    },
+    {
+      "lyrics": "どうぞ 降参しちゃいなさい アハッ",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "期待 期待 期待しちゃうわ",
+      "romaji": "Kitai Kitai Kitai Shichau wa",
+      "en": "I can't help but anticipate, anticipate, anticipate",
+      "zh": "忍不住滿心期待、期待、期待"
+    },
+    {
+      "ja": "また また くすぐられる",
+      "romaji": "Mata Mata Kusugurareru",
+      "en": "Again, again, I'm being tickled",
+      "zh": "又來了，又來了，被逗得心癢癢"
+    },
+    {
+      "ja": "ハァズルい ズルいわ そんな",
+      "romaji": "Haa Zurui Zurui wa Sonna",
+      "en": "Ah, so unfair, so unfair—making",
+      "zh": "啊，太狡猾了，太狡猾了，竟然"
+    },
+    {
+      "ja": "顔するんだもん",
+      "romaji": "Kao Suru n Da Mon",
+      "en": "That kind of face",
+      "zh": "露出那種表情"
+    },
+    {
+      "ja": "潜む視線 跳ねるシルエット",
+      "romaji": "Hisomu Shisen Haneru Shiruetto",
+      "en": "Lurking gazes, a bouncing silhouette",
+      "zh": "潛藏的視線，躍動的剪影"
+    },
+    {
+      "ja": "見え隠れしたその本性 (Woah)",
+      "romaji": "Mie Kakure Shita Sono Honshou (Woah)",
+      "en": "That true nature peeking in and out (Woah)",
+      "zh": "若隱若現的本性（Woah）"
+    },
+    {
+      "ja": "憑りつかれた悪い悪い",
+      "romaji": "Toritsukareta Warui Warui",
+      "en": "Possessed—who is the bad, bad",
+      "zh": "被附身的壞壞"
+    },
+    {
+      "ja": "子はだぁれ？",
+      "romaji": "Ko ha Daare?",
+      "en": "Child?",
+      "zh": "孩子是誰？"
+    },
+    {
+      "ja": "糸揺れる ユラユラ 開始の合図",
+      "romaji": "Ito Yureru Yurayura Kaishi no Aizu",
+      "en": "Threads sway, swaying—the signal to begin",
+      "zh": "絲線搖曳，晃晃悠悠，是開始的暗號"
+    },
+    {
+      "ja": "ぐーるぐると廻れ it's a merry go round",
+      "romaji": "Guuruguru to Maware It's a Merry Go Round",
+      "en": "Spin round and round—it's a merry go round",
+      "zh": "轉啊轉地旋轉吧，it's a merry go round"
+    },
+    {
+      "ja": "アン ドゥ トロワで踊るのさ",
+      "romaji": "An Du Torowa de Odoru no sa",
+      "en": "Dancing to un, deux, trois",
+      "zh": "跟著一、二、三起舞"
+    },
+    {
+      "ja": "くすぶるその表情 「もっと頂戴？」",
+      "romaji": "Kusuburu Sono Hyoujou 「Motto Choudai?」",
+      "en": "That smoldering expression — \"Give me more?\"",
+      "zh": "那悶燒的神情「再給我多一點？」"
+    },
+    {
+      "ja": "キミと悪戯びたい たいだけなの",
+      "romaji": "Kimi to Itazura Bitai Tai Dake na no",
+      "en": "I just want to play mischief with you, that's all",
+      "zh": "只是想和你調皮搗蛋，僅此而已"
+    },
+    {
+      "ja": "揺れる心 ラビリンス",
+      "romaji": "Yureru Kokoro Rabirinsu",
+      "en": "A swaying heart—a labyrinth",
+      "zh": "搖曳的心，迷宮"
+    },
+    {
+      "ja": "キミを鳴かせたい たい だけなの",
+      "romaji": "Kimi wo Nakasetai Tai Dake na no",
+      "en": "I just want to make you cry out, that's all",
+      "zh": "只是想讓你鳴叫出聲，僅此而已"
+    },
+    {
+      "ja": "都合なんて気にしないわ",
+      "romaji": "Tsugou Nante Ki ni Shinai wa",
+      "en": "I don't care about convenience",
+      "zh": "才不管什麼方不方便"
+    },
+    {
+      "ja": "(Like? Like? Like? Like?) どっちでしょうか？",
+      "romaji": "(Like? Like? Like? Like?) Docchi Deshou ka?",
+      "en": "(Like? Like? Like? Like?) Which could it be?",
+      "zh": "（Like? Like? Like? Like?）是哪一個呢？"
+    },
+    {
+      "ja": "(Dislike? Like? Like?) ドキドキしてる？",
+      "romaji": "(Dislike? Like? Like?) Dokidoki Shiteru?",
+      "en": "(Dislike? Like? Like?) Is your heart pounding?",
+      "zh": "（Dislike? Like? Like?）心跳加速了嗎？"
+    },
+    {
+      "ja": "素直じゃないから",
+      "romaji": "Sunao ja Nai kara",
+      "en": "Because I'm not honest",
+      "zh": "因為我不夠坦率"
+    },
+    {
+      "ja": "キミには 容赦しないもん アハッ",
+      "romaji": "Kimi ni ha Yousha Shinai Mon Ahah",
+      "en": "I won't go easy on you—ahah",
+      "zh": "對你我可不會手下留情，啊哈"
+    },
+    {
+      "ja": "いない いない ばぁ って今日も",
+      "romaji": "Inai Inai Baa tte Kyou mo",
+      "en": "Peek-a-boo—today too",
+      "zh": "躲貓貓，今天也"
+    },
+    {
+      "ja": "また また 遊びましょう",
+      "romaji": "Mata Mata Asobimashou",
+      "en": "Let's play again, again",
+      "zh": "再來，再來一起玩吧"
+    },
+    {
+      "ja": "Ah, 割り切れない感情",
+      "romaji": "Ah, Warikirenai Kanjou",
+      "en": "Ah, these indivisible emotions",
+      "zh": "Ah，無法整除的感情"
+    },
+    {
+      "ja": "瞳の奥 見たたたたたたたいのよ",
+      "romaji": "Hitomi no Oku Mitatatatatatai no yo",
+      "en": "I want to see deep into your eyes",
+      "zh": "好想看看看看看你眼眸深處"
+    },
+    {
+      "ja": "覗きたいのよ",
+      "romaji": "Nozokitai no yo",
+      "en": "I want to peek",
+      "zh": "好想偷窺"
+    },
+    {
+      "ja": "コッソリコッソリ 潜んだ表情",
+      "romaji": "Kossori Kossori Hisonda Hyoujou",
+      "en": "Secretly, secretly hidden expressions",
+      "zh": "悄悄地、悄悄地潛藏的表情"
+    },
+    {
+      "ja": "どうしよ だったらどうしよ",
+      "romaji": "Doushi yo Dattara Doushi yo",
+      "en": "What to do—if so, what to do?",
+      "zh": "怎麼辦，那該怎麼辦"
+    },
+    {
+      "ja": "暗い暗い夜の中で",
+      "romaji": "Kurai Kurai Yoru no Naka de",
+      "en": "In the dark, dark night",
+      "zh": "在漆黑的夜裡"
+    },
+    {
+      "ja": "乙女な星が",
+      "romaji": "Otome na Hoshi ga",
+      "en": "A maidenly star",
+      "zh": "少女般的星星"
+    },
+    {
+      "ja": "ワタシの世界に落っこちて",
+      "romaji": "Watashi no Sekai ni Okkochite",
+      "en": "Fell into my world",
+      "zh": "墜入了我的世界"
+    },
+    {
+      "ja": "癖になっちゃいそうなの",
+      "romaji": "Kuse ni Natchaisou na no",
+      "en": "It seems to be becoming a habit",
+      "zh": "似乎快要上癮了"
+    },
+    {
+      "ja": "キミと戯れてたい たい だけなの",
+      "romaji": "Kimi to Tawamureteta Tai Dake na no",
+      "en": "I just want to frolic with you, that's all",
+      "zh": "只是想和你嬉戲，僅此而已"
+    },
+    {
+      "ja": "深い魅惑 ラビリンス",
+      "romaji": "Fukai Miwaku Rabirinsu",
+      "en": "Deep allure—a labyrinth",
+      "zh": "深沉的魅惑，迷宮"
+    },
+    {
+      "ja": "キミで満たしたい たい だけなの",
+      "romaji": "Kimi de Mitashitai Tai Dake na no",
+      "en": "I just want to be filled with you, that's all",
+      "zh": "只是想被你填滿，僅此而已"
+    },
+    {
+      "ja": "迷いなんて馬鹿らしいわ",
+      "romaji": "Mayoi Nante Bakarashii wa",
+      "en": "Hesitation is ridiculous",
+      "zh": "猶豫什麼的太愚蠢了"
+    },
+    {
+      "ja": "(Like? Like? Like? Like?) 待ったは無しよ",
+      "romaji": "(Like? Like? Like? Like?) Matta ha Nashi yo",
+      "en": "(Like? Like? Like? Like?) No waiting",
+      "zh": "（Like? Like? Like? Like?）沒有暫停喔"
+    },
+    {
+      "ja": "(Dislike? Like? Like?) くらくらしてる？",
+      "romaji": "(Dislike? Like? Like?) Kurakura Shiteru?",
+      "en": "(Dislike? Like? Like?) Are you dizzy?",
+      "zh": "（Dislike? Like? Like?）暈頭轉向了嗎？"
+    },
+    {
+      "ja": "ミルキーな渦で",
+      "romaji": "Mirukii na Uzu de",
+      "en": "In a milky whirlpool",
+      "zh": "在乳白色的漩渦中"
+    },
+    {
+      "ja": "手と手合わせ 踊りましょ",
+      "romaji": "Te to Te Awase Odorimasho",
+      "en": "Let's put our hands together and dance",
+      "zh": "手與手相合，跳舞吧"
+    },
+    {
+      "ja": "要らない真実は",
+      "romaji": "Iranai Shinjitsu ha",
+      "en": "The truths you don't need",
+      "zh": "不需要的真相"
+    },
+    {
+      "ja": "忘れさせてあげるから",
+      "romaji": "Wasuresasete Ageru kara",
+      "en": "I'll make you forget them",
+      "zh": "我會讓你忘掉"
+    },
+    {
+      "ja": "情熱の駆け引きに",
+      "romaji": "Jounetsu no Kakehiki ni",
+      "en": "If you turn away from",
+      "zh": "在熱情的攻防中"
+    },
+    {
+      "ja": "そっぽ向いたら嫌嫌嫌嫌嫌嫌嫌嫌嫌",
+      "romaji": "Soppo Muitara Iya Iya Iya Iya Iya Iya Iya Iya Iya",
+      "en": "This passionate game—no, no, no, no, no, no, no, no, no",
+      "zh": "要是轉過頭去，討厭討厭討厭討厭討厭討厭討厭討厭討厭"
+    },
+    {
+      "ja": "キミと戯れてたい たい だけなの",
+      "romaji": "Kimi to Tawamureteta Tai Dake na no",
+      "en": "I just want to frolic with you, that's all",
+      "zh": "只是想和你嬉戲，僅此而已"
+    },
+    {
+      "ja": "あれもこれも全部全部",
+      "romaji": "Are mo Kore mo Zenbu Zenbu",
+      "en": "This and that, everything, everything",
+      "zh": "那個這個，全部全部"
+    },
+    {
+      "ja": "キミで満たしたい たい だけなの",
+      "romaji": "Kimi de Mitashitai Tai Dake na no",
+      "en": "I just want to be filled with you, that's all",
+      "zh": "只是想被你填滿，僅此而已"
+    },
+    {
+      "ja": "鈴鳴らし 始めましょう さぁ",
+      "romaji": "Suzu Narashi Hajimemashou Saa",
+      "en": "Ringing the bell—let's begin, now",
+      "zh": "搖響鈴鐺，開始吧，來吧"
+    },
+    {
+      "ja": "キミと悪戯びたい たい だけなの",
+      "romaji": "Kimi to Itazura Bitai Tai Dake na no",
+      "en": "I just want to play mischief with you, that's all",
+      "zh": "只是想和你調皮搗蛋，僅此而已"
+    },
+    {
+      "ja": "揺れる心 ラビリンス",
+      "romaji": "Yureru Kokoro Rabirinsu",
+      "en": "A swaying heart—a labyrinth",
+      "zh": "搖曳的心，迷宮"
+    },
+    {
+      "ja": "キミを鳴かせたい たい だけなの",
+      "romaji": "Kimi wo Nakasetai Tai Dake na no",
+      "en": "I just want to make you cry out, that's all",
+      "zh": "只是想讓你鳴叫出聲，僅此而已"
+    },
+    {
+      "ja": "都合なんて気にしないわ",
+      "romaji": "Tsugou Nante Ki ni Shinai wa",
+      "en": "I don't care about convenience",
+      "zh": "才不管什麼方不方便"
+    },
+    {
+      "ja": "(Like? Like? Like? Like?) どっちでしょうか？",
+      "romaji": "(Like? Like? Like? Like?) Docchi Deshou ka?",
+      "en": "(Like? Like? Like? Like?) Which could it be?",
+      "zh": "（Like? Like? Like? Like?）是哪一個呢？"
+    },
+    {
+      "ja": "(Dislike? Like? Like?) ドキドキしてる？",
+      "romaji": "(Dislike? Like? Like?) Dokidoki Shiteru?",
+      "en": "(Dislike? Like? Like?) Is your heart pounding?",
+      "zh": "（Dislike? Like? Like?）心跳加速了嗎？"
+    },
+    {
+      "ja": "素直じゃないから",
+      "romaji": "Sunao ja Nai kara",
+      "en": "Because I'm not honest",
+      "zh": "因為我不夠坦率"
+    },
+    {
+      "ja": "キミには 容赦しないもん",
+      "romaji": "Kimi ni ha Yousha Shinai Mon",
+      "en": "I won't go easy on you",
+      "zh": "對你我可不會手下留情"
+    },
+    {
+      "ja": "どうぞ 降参しちゃいなさい アハッ",
+      "romaji": "Douzo Kousan Shichai Nasai Ahah",
+      "en": "Go on, surrender—ahah",
+      "zh": "來吧，乖乖投降吧，啊哈"
+    }
+  ]
+}

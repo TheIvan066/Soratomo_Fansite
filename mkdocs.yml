@@ -1,5 +1,6 @@
-site_name: Tokino Sora Fan Site
+site_name: Soratomo Fan Site
 theme:
+  logo: assets/logo.png
   name: material
   palette:
 # Standard light/dark modes (we override these hex colors in extra.css)
@@ -74,13 +75,13 @@ nav:
       - 'マイオドレ！舞舞タイム': songs/maimai_time.md
       - '青空のシンフォニー': songs/aozora_symphony.md
     - 'くもはれ':
-        - 'KumoHurray!': songs/kumohare.md
+        - 'KumoHurray!': songs/kumohurray.md
         - '木の芽時の空（花時の空）': songs/konomedoki_no_sora.md
     - 'Re:Play':
       - 'HOT LIMIT': songs/hot_limit.md
       - 'ロマンスの神様': songs/romance_no_kamisama.md
       - 'ファンサ': songs/fansa.md
-      - 'MASAYUME CHASING': songs/masayume.md
+      - 'MASAYUME CHASING': songs/masayume_chasing.md
       - '怪物': songs/kaibutsu.md
       - 'アンドロイドガール': songs/android_girl.md
       - 'God knows...': songs/god_knows.md
@@ -88,7 +89,7 @@ nav:
       - 'まっさらブルージーンズ': songs/massara_blue_jeans.md
       - '嘘': songs/uso.md
       - '赤いスイートピー': songs/akai_sweet_pea.md
-      - 'この世界で': songs/konosekaide.md
+      - 'この世界で': songs/kono_sekaide.md
       - 'KING': songs/king.md
       - 'エイリアンエイリアン': songs/alien_alien.md
       - '太陽系デスコ': songs/taiyoukei_disco.md
@@ -100,7 +101,7 @@ nav:
       - 'ユメゾラ☆ファンファーレ': songs/yumezora_fanfare.md
       - 'ロゴバッジ': songs/logo_badge.md
       - '羽を手にして': songs/hanewo_tenishite.md
-      - '空ノ空': songs/soranosora.md
+      - '空ノ空': songs/karanosora.md
       - 'エゴナデ・ラビリンス': songs/egonade_labrynth.md
       - 'エレクトリカル・サーフィン': songs/electrical_surfing.md
       - 'デジタリックリリック': songs/digitalic_lyric.md
@@ -185,3 +186,4 @@ nav:
       - 'BEEP BEEP':
           - 'BEEP BEEP': songs/beep_beep.md
   - '🛍️ 公式商品 Goods (WIP!!)': goods/goods_index.md
+  - '免責条項 Disclaimer': disclaimer.md
