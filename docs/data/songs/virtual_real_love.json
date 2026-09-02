@@ -1,0 +1,775 @@
+{
+  "meta": {
+    "title": "バチャリアラブ feat.涼海すう&籾山ひめり from 高嶺のなでしこ",
+    "artist": "ときのそら feat.涼海すう&籾山ひめり",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "PandaBoY",
+    "lyricist": "PandaBoY",
+    "album": "Pulse",
+    "releaseDate": "2025/09/24",
+    "coverUrl": "cover_images/pulse",
+    "penlight_color": [
+      "#0000ff",
+      "#ffb3ef"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/TsFMmZcPH70?si=1ARpg6YbFcZJpIXF"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "バーチャル？リアル？どっちかわいい？",
+      "call": ""
+    },
+    {
+      "lyrics": "バーチャル？リアル？どっちカワイイ？",
+      "call": ""
+    },
+    {
+      "lyrics": "バーチャル？リアル？どっち可愛い？",
+      "call": ""
+    },
+    {
+      "lyrics": "バーチャル！リアル！どっちもKawaii♡",
+      "call": "                                  どっちもKawaii♡"
+    },
+    {
+      "lyrics": "Check it　ちゅきちゅき　ちゅるっChu",
+      "call": "Check it　ちゅきちゅき　ちゅるっChu"
+    },
+    {
+      "lyrics": "チェリチェリー　チューインチュイン　ちょ",
+      "call": "チェリチェリー　チューインチュイン　ちょ"
+    },
+    {
+      "lyrics": "Check it　ちゅきちゅき　ちゅるっChu",
+      "call": "Check it　ちゅきちゅき　ちゅるっChu"
+    },
+    {
+      "lyrics": "チェリチェリー　チューインチュイン　ちょ",
+      "call": "チェリチェリー　チューインチュイン　ちょ"
+    },
+    {
+      "lyrics": "サムネタップ　はじめまして",
+      "call": ""
+    },
+    {
+      "lyrics": "きゅんきゅん♡ってしたなら　ハート押して",
+      "call": ""
+    },
+    {
+      "lyrics": "通知はON　いつでもCome on",
+      "call": ""
+    },
+    {
+      "lyrics": "一緒に踊ろうよ　On and on",
+      "call": ""
+    },
+    {
+      "lyrics": "お菓子食べたいけど　ダイエット中",
+      "call": ""
+    },
+    {
+      "lyrics": "キミの好みにアップデート中",
+      "call": ""
+    },
+    {
+      "lyrics": "ポチり更新　キミと交信",
+      "call": ""
+    },
+    {
+      "lyrics": "もっと推してほしいの♡",
+      "call": ""
+    },
+    {
+      "lyrics": "「バーチャル？リアル？どっちが好き？」",
+      "call": ""
+    },
+    {
+      "lyrics": "繋がる1 2 3 次元",
+      "call": ""
+    },
+    {
+      "lyrics": "ワントゥースリーで飛び越えて",
+      "call": ""
+    },
+    {
+      "lyrics": "今やネットもリアルです",
+      "call": ""
+    },
+    {
+      "lyrics": "チクチクしないでラブとピースで",
+      "call": ""
+    },
+    {
+      "lyrics": "（Tick-Tack わ・わ・ワープ）",
+      "call": "（Tick-Tack わ・わ・ワープ）"
+    },
+    {
+      "lyrics": "ときめいちゃう　時かけGIRL",
+      "call": ""
+    },
+    {
+      "lyrics": "（2D + 3D = ）",
+      "call": "（2D + 3D = ）"
+    },
+    {
+      "lyrics": "混ぜれば　最強　",
+      "call": ""
+    },
+    {
+      "lyrics": "バチャリアラブ♡",
+      "call": ""
+    },
+    {
+      "lyrics": "Check it　ちゅきちゅき　ちゅるっChu",
+      "call": "Check it　ちゅきちゅき　ちゅるっChu"
+    },
+    {
+      "lyrics": "チェリチェリー　チューインチュイン　ちょ",
+      "call": "チェリチェリー　チューインチュイン　ちょ"
+    },
+    {
+      "lyrics": "Check it　ちゅきちゅき　ちゅるっChu",
+      "call": "Check it　ちゅきちゅき　ちゅるっChu"
+    },
+    {
+      "lyrics": "チェリチェリー　チューインチュイン　ちょ",
+      "call": "チェリチェリー　チューインチュイン　ちょ"
+    },
+    {
+      "lyrics": "2番にスワイプ　Beat足して",
+      "call": ""
+    },
+    {
+      "lyrics": "きゅんきゅん♡ってしたなら　手叩いて",
+      "call": ""
+    },
+    {
+      "lyrics": "ガチ勢も　エンジョイ勢も",
+      "call": ""
+    },
+    {
+      "lyrics": "一緒に踊ろうよ　On and on",
+      "call": ""
+    },
+    {
+      "lyrics": "界隈ちがうけど　コラボ中",
+      "call": ""
+    },
+    {
+      "lyrics": "New楽しいこと　リサーチ中",
+      "call": ""
+    },
+    {
+      "lyrics": "ぴぴぴテレパシー　今日も配信",
+      "call": ""
+    },
+    {
+      "lyrics": "もっとハート欲しいの♡",
+      "call": ""
+    },
+    {
+      "lyrics": "ねぇ　ねぇ",
+      "call": ""
+    },
+    {
+      "lyrics": "どっちかわいい？",
+      "call": ""
+    },
+    {
+      "lyrics": "どっちカワイイ？",
+      "call": ""
+    },
+    {
+      "lyrics": "どっち可愛い？",
+      "call": ""
+    },
+    {
+      "lyrics": "どっちかわいい？",
+      "call": ""
+    },
+    {
+      "lyrics": "どっちカワイイ？",
+      "call": ""
+    },
+    {
+      "lyrics": "どっち可愛い？",
+      "call": ""
+    },
+    {
+      "lyrics": "ねぇ　ねぇ",
+      "call": ""
+    },
+    {
+      "lyrics": "どっちかわいい？",
+      "call": ""
+    },
+    {
+      "lyrics": "どっちカワイイ？",
+      "call": ""
+    },
+    {
+      "lyrics": "どっち可愛い？",
+      "call": ""
+    },
+    {
+      "lyrics": "どっちかわいい？",
+      "call": ""
+    },
+    {
+      "lyrics": "どっちカワイイ？",
+      "call": ""
+    },
+    {
+      "lyrics": "どっち可愛い？",
+      "call": ""
+    },
+    {
+      "lyrics": "どっちもKawaii♡♡♡",
+      "call": "どっちもKawaii♡♡♡"
+    },
+    {
+      "lyrics": "お菓子食べたいけど　ダイエット中",
+      "call": ""
+    },
+    {
+      "lyrics": "キミの好みにアップデート中",
+      "call": ""
+    },
+    {
+      "lyrics": "ポチり更新　キミと交信",
+      "call": ""
+    },
+    {
+      "lyrics": "もっと推してほしいの♡",
+      "call": ""
+    },
+    {
+      "lyrics": "「バーチャル？リアル？どっちが好き？」",
+      "call": ""
+    },
+    {
+      "lyrics": "「バーチャル？リアル？どっちも好き♡♡♡」",
+      "call": "「バーチャル？リアル？どっちも好き♡♡♡」"
+    },
+    {
+      "lyrics": "繋がる1 2 3 次元",
+      "call": ""
+    },
+    {
+      "lyrics": "ワントゥースリーで飛び越えて",
+      "call": ""
+    },
+    {
+      "lyrics": "今やネットもリアルです",
+      "call": ""
+    },
+    {
+      "lyrics": "チクチクしないでラブとピースで",
+      "call": ""
+    },
+    {
+      "lyrics": "（Tick-Tack わ・わ・ワープ）",
+      "call": "（Tick-Tack わ・わ・ワープ）"
+    },
+    {
+      "lyrics": "ときめいちゃう　時かけGIRL",
+      "call": ""
+    },
+    {
+      "lyrics": "（2D + 3D = ）",
+      "call": "（2D + 3D = "
+    },
+    {
+      "lyrics": "混ぜれば　最強",
+      "call": ""
+    },
+    {
+      "lyrics": "バチャリアラブ♡",
+      "call": ""
+    },
+    {
+      "lyrics": "Check it　ちゅきちゅき　ちゅるっChu",
+      "call": "Check it　ちゅきちゅき　ちゅるっChu"
+    },
+    {
+      "lyrics": "チェリチェリー　チューインチュイン　ちょ",
+      "call": "チェリチェリー　チューインチュイン　ちょ"
+    },
+    {
+      "lyrics": "Check it　ちゅきちゅき　ちゅるっChu",
+      "call": "Check it　ちゅきちゅき　ちゅるっChu"
+    },
+    {
+      "lyrics": "チェリチェリー　チューインチュイン　ちょ",
+      "call": "チェリチェリー　チューインチュイン　ちょ"
+    },
+    {
+      "lyrics": "Yeah !!!",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "バーチャル？リアル？どっちかわいい？",
+      "romaji": "Baacharu? Riaru? Docchi Kawaii?",
+      "en": "Virtual? Real? Which one is cute?",
+      "zh": "虛擬？現實？哪一個可愛？"
+    },
+    {
+      "ja": "バーチャル？リアル？どっちカワイイ？",
+      "romaji": "Baacharu? Riaru? Docchi Kawaii?",
+      "en": "Virtual? Real? Which one's kawaii?",
+      "zh": "虛擬？現實？哪一個卡哇伊？"
+    },
+    {
+      "ja": "バーチャル？リアル？どっち可愛い？",
+      "romaji": "Baacharu? Riaru? Docchi Kawaii?",
+      "en": "Virtual? Real? Which one is adorable?",
+      "zh": "虛擬？現實？哪一個討人喜歡？"
+    },
+    {
+      "ja": "バーチャル！リアル！どっちもKawaii♡",
+      "romaji": "Baacharu! Riaru! Docchi mo Kawaii♡",
+      "en": "Virtual! Real! Both are kawaii♡",
+      "zh": "虛擬！現實！兩個都可愛♡"
+    },
+    {
+      "ja": "Check it　ちゅきちゅき　ちゅるっChu",
+      "romaji": "Check It Chuki Chuki Churutto Chu",
+      "en": "Check it—lovey-lovey, slurp, chu",
+      "zh": "Check it，啾喜啾喜，啾嚕Chu"
+    },
+    {
+      "ja": "チェリチェリー　チューインチュイン　ちょ",
+      "romaji": "Cheri Cherii Chuuin Chuin Cho",
+      "en": "Cherry cherry, chewin' chewin', cho",
+      "zh": "櫻桃櫻桃，啾因啾因，啾"
+    },
+    {
+      "ja": "Check it　ちゅきちゅき　ちゅるっChu",
+      "romaji": "Check It Chuki Chuki Churutto Chu",
+      "en": "Check it—lovey-lovey, slurp, chu",
+      "zh": "Check it，啾喜啾喜，啾嚕Chu"
+    },
+    {
+      "ja": "チェリチェリー　チューインチュイン　ちょ",
+      "romaji": "Cheri Cherii Chuuin Chuin Cho",
+      "en": "Cherry cherry, chewin' chewin', cho",
+      "zh": "櫻桃櫻桃，啾因啾因，啾"
+    },
+    {
+      "ja": "サムネタップ　はじめまして",
+      "romaji": "Samune Tappu Hajimemashite",
+      "en": "Tap the thumbnail—nice to meet you",
+      "zh": "點開縮圖，初次見面"
+    },
+    {
+      "ja": "きゅんきゅん♡ってしたなら　ハート押して",
+      "romaji": "Kyun Kyun♡ tte Shita Nara Haato Oshite",
+      "en": "If your heart goes tight-tight♡, press that heart",
+      "zh": "如果感到心動揪緊♡，請按下愛心"
+    },
+    {
+      "ja": "通知はON　いつでもCome on",
+      "romaji": "Tsuuchi ha ON Itsu demo Come On",
+      "en": "Notifications on—come on anytime",
+      "zh": "通知開啟，隨時都可以來"
+    },
+    {
+      "ja": "一緒に踊ろうよ　On and on",
+      "romaji": "Issho ni Odorou yo On and On",
+      "en": "Let's dance together, on and on",
+      "zh": "一起跳舞吧，永不停歇"
+    },
+    {
+      "ja": "お菓子食べたいけど　ダイエット中",
+      "romaji": "Okashi Tabeta Ikedo Daietto Chuu",
+      "en": "I want to eat sweets, but I'm on a diet",
+      "zh": "雖然想吃點心，但正在減肥中"
+    },
+    {
+      "ja": "キミの好みにアップデート中",
+      "romaji": "Kimi no Konomi ni Appudeeto Chuu",
+      "en": "Updating to match your taste",
+      "zh": "正在更新成你喜歡的樣子"
+    },
+    {
+      "ja": "ポチり更新　キミと交信",
+      "romaji": "Pochiri Koushin Kimi to Koushin",
+      "en": "One-click update—communicating with you",
+      "zh": "按下更新，與你通訊"
+    },
+    {
+      "ja": "もっと推してほしいの♡",
+      "romaji": "Motto Oshite Hoshii no♡",
+      "en": "I want you to support me more♡",
+      "zh": "希望你多推我一點♡"
+    },
+    {
+      "ja": "「バーチャル？リアル？どっちが好き？」",
+      "romaji": "「Baacharu? Riaru? Docchi ga Suki?」",
+      "en": "\"Virtual? Real? Which do you like?\"",
+      "zh": "「虛擬？現實？你喜歡哪一個？」"
+    },
+    {
+      "ja": "繋がる1 2 3 次元",
+      "romaji": "Tsunagaru Wan Tsuu Surii Jigen",
+      "en": "Connecting dimensions—one, two, three",
+      "zh": "連結的1、2、3次元"
+    },
+    {
+      "ja": "ワントゥースリーで飛び越えて",
+      "romaji": "Wan Tuu Surii de Tobikoete",
+      "en": "Leap over them with a one-two-three",
+      "zh": "用一二三飛越過去"
+    },
+    {
+      "ja": "今やネットもリアルです",
+      "romaji": "Ima ya Netto mo Riaru Desu",
+      "en": "Nowadays, the internet is real too",
+      "zh": "如今網路也是現實"
+    },
+    {
+      "ja": "チクチクしないでラブとピースで",
+      "romaji": "Chikuchiku Shinaide Rabu to Piisu de",
+      "en": "Don't be prickly—with love and peace",
+      "zh": "別針鋒相對，用愛與和平"
+    },
+    {
+      "ja": "（Tick-Tack わ・わ・ワープ）",
+      "romaji": "(Tick-Tack Wa Wa Waapu)",
+      "en": "(Tick-tack, wa-wa-warp)",
+      "zh": "（Tick-Tack，哇・哇・曲速）"
+    },
+    {
+      "ja": "ときめいちゃう　時かけGIRL",
+      "romaji": "Tokimeichau Tokikake GIRL",
+      "en": "My heart flutters—a time-leaping girl",
+      "zh": "心跳不已，穿越時空的女孩"
+    },
+    {
+      "ja": "（2D + 3D = ）",
+      "romaji": "(2D + 3D = )",
+      "en": "(2D + 3D = )",
+      "zh": "（2D + 3D = ）"
+    },
+    {
+      "ja": "混ぜれば　最強",
+      "romaji": "Mazereba Saikyou",
+      "en": "Mix them, and it's the strongest",
+      "zh": "混在一起就是最強"
+    },
+    {
+      "ja": "バチャリアラブ♡",
+      "romaji": "Bacharia Rabu♡",
+      "en": "Virtual-real love♡",
+      "zh": "虛實之愛♡"
+    },
+    {
+      "ja": "Check it　ちゅきちゅき　ちゅるっChu",
+      "romaji": "Check It Chuki Chuki Churutto Chu",
+      "en": "Check it—lovey-lovey, slurp, chu",
+      "zh": "Check it，啾喜啾喜，啾嚕Chu"
+    },
+    {
+      "ja": "チェリチェリー　チューインチュイン　ちょ",
+      "romaji": "Cheri Cherii Chuuin Chuin Cho",
+      "en": "Cherry cherry, chewin' chewin', cho",
+      "zh": "櫻桃櫻桃，啾因啾因，啾"
+    },
+    {
+      "ja": "Check it　ちゅきちゅき　ちゅるっChu",
+      "romaji": "Check It Chuki Chuki Churutto Chu",
+      "en": "Check it—lovey-lovey, slurp, chu",
+      "zh": "Check it，啾喜啾喜，啾嚕Chu"
+    },
+    {
+      "ja": "チェリチェリー　チューインチュイン　ちょ",
+      "romaji": "Cheri Cherii Chuuin Chuin Cho",
+      "en": "Cherry cherry, chewin' chewin', cho",
+      "zh": "櫻桃櫻桃，啾因啾因，啾"
+    },
+    {
+      "ja": "2番にスワイプ　Beat足して",
+      "romaji": "Niban ni Suwaipu Biito Tashite",
+      "en": "Swipe to the second verse and add a beat",
+      "zh": "滑到第二段，加上節拍"
+    },
+    {
+      "ja": "きゅんきゅん♡ってしたなら　手叩いて",
+      "romaji": "Kyun Kyun♡ tte Shita Nara Te Tataite",
+      "en": "If your heart goes tight-tight♡, clap your hands",
+      "zh": "如果感到心動揪緊♡，就拍拍手"
+    },
+    {
+      "ja": "ガチ勢も　エンジョイ勢も",
+      "romaji": "Gachi Zei mo Enjoi Zei mo",
+      "en": "Whether you're a hardcore fan or a casual fan",
+      "zh": "無論是認真派還是享受派"
+    },
+    {
+      "ja": "一緒に踊ろうよ　On and on",
+      "romaji": "Issho ni Odorou yo On and On",
+      "en": "Let's dance together, on and on",
+      "zh": "一起跳舞吧，永不停歇"
+    },
+    {
+      "ja": "界隈ちがうけど　コラボ中",
+      "romaji": "Kaiwai Chigau kedo Korabo Chuu",
+      "en": "We're from different circles, but we're collaborating",
+      "zh": "雖然圈子不同，但正在合作中"
+    },
+    {
+      "ja": "New楽しいこと　リサーチ中",
+      "romaji": "New Tanoshii Koto Risaachi Chuu",
+      "en": "Researching new fun things",
+      "zh": "正在研究新奇有趣的事"
+    },
+    {
+      "ja": "ぴぴぴテレパシー　今日も配信",
+      "romaji": "Pipipi Terepashii Kyou mo Haishin",
+      "en": "Beep-beep-beep telepathy—streaming again today",
+      "zh": "嗶嗶嗶心電感應，今天也開播"
+    },
+    {
+      "ja": "もっとハート欲しいの♡",
+      "romaji": "Motto Haato Hoshii no♡",
+      "en": "I want more hearts♡",
+      "zh": "想要更多愛心♡"
+    },
+    {
+      "ja": "ねぇ　ねぇ",
+      "romaji": "Nee Nee",
+      "en": "Hey, hey",
+      "zh": "吶，吶"
+    },
+    {
+      "ja": "どっちかわいい？",
+      "romaji": "Docchi Kawaii?",
+      "en": "Which one is cute?",
+      "zh": "哪一個可愛？"
+    },
+    {
+      "ja": "どっちカワイイ？",
+      "romaji": "Docchi Kawaii?",
+      "en": "Which one's kawaii?",
+      "zh": "哪一個卡哇伊？"
+    },
+    {
+      "ja": "どっち可愛い？",
+      "romaji": "Docchi Kawaii?",
+      "en": "Which one is adorable?",
+      "zh": "哪一個討人喜歡？"
+    },
+    {
+      "ja": "どっちかわいい？",
+      "romaji": "Docchi Kawaii?",
+      "en": "Which one is cute?",
+      "zh": "哪一個可愛？"
+    },
+    {
+      "ja": "どっちカワイイ？",
+      "romaji": "Docchi Kawaii?",
+      "en": "Which one's kawaii?",
+      "zh": "哪一個卡哇伊？"
+    },
+    {
+      "ja": "どっち可愛い？",
+      "romaji": "Docchi Kawaii?",
+      "en": "Which one is adorable?",
+      "zh": "哪一個討人喜歡？"
+    },
+    {
+      "ja": "ねぇ　ねぇ",
+      "romaji": "Nee Nee",
+      "en": "Hey, hey",
+      "zh": "吶，吶"
+    },
+    {
+      "ja": "どっちかわいい？",
+      "romaji": "Docchi Kawaii?",
+      "en": "Which one is cute?",
+      "zh": "哪一個可愛？"
+    },
+    {
+      "ja": "どっちカワイイ？",
+      "romaji": "Docchi Kawaii?",
+      "en": "Which one's kawaii?",
+      "zh": "哪一個卡哇伊？"
+    },
+    {
+      "ja": "どっち可愛い？",
+      "romaji": "Docchi Kawaii?",
+      "en": "Which one is adorable?",
+      "zh": "哪一個討人喜歡？"
+    },
+    {
+      "ja": "どっちかわいい？",
+      "romaji": "Docchi Kawaii?",
+      "en": "Which one is cute?",
+      "zh": "哪一個可愛？"
+    },
+    {
+      "ja": "どっちカワイイ？",
+      "romaji": "Docchi Kawaii?",
+      "en": "Which one's kawaii?",
+      "zh": "哪一個卡哇伊？"
+    },
+    {
+      "ja": "どっち可愛い？",
+      "romaji": "Docchi Kawaii?",
+      "en": "Which one is adorable?",
+      "zh": "哪一個討人喜歡？"
+    },
+    {
+      "ja": "どっちもKawaii♡♡♡",
+      "romaji": "Docchi mo Kawaii♡♡♡",
+      "en": "Both are kawaii♡♡♡",
+      "zh": "兩個都可愛♡♡♡"
+    },
+    {
+      "ja": "お菓子食べたいけど　ダイエット中",
+      "romaji": "Okashi Tabeta Ikedo Daietto Chuu",
+      "en": "I want to eat sweets, but I'm on a diet",
+      "zh": "雖然想吃點心，但正在減肥中"
+    },
+    {
+      "ja": "キミの好みにアップデート中",
+      "romaji": "Kimi no Konomi ni Appudeeto Chuu",
+      "en": "Updating to match your taste",
+      "zh": "正在更新成你喜歡的樣子"
+    },
+    {
+      "ja": "ポチり更新　キミと交信",
+      "romaji": "Pochiri Koushin Kimi to Koushin",
+      "en": "One-click update—communicating with you",
+      "zh": "按下更新，與你通訊"
+    },
+    {
+      "ja": "もっと推してほしいの♡",
+      "romaji": "Motto Oshite Hoshii no♡",
+      "en": "I want you to support me more♡",
+      "zh": "希望你多推我一點♡"
+    },
+    {
+      "ja": "「バーチャル？リアル？どっちが好き？」",
+      "romaji": "「Baacharu? Riaru? Docchi ga Suki?」",
+      "en": "\"Virtual? Real? Which do you like?\"",
+      "zh": "「虛擬？現實？你喜歡哪一個？」"
+    },
+    {
+      "ja": "「バーチャル？リアル？どっちも好き♡♡♡」",
+      "romaji": "「Baacharu? Riaru? Docchi mo Suki♡♡♡」",
+      "en": "\"Virtual? Real? I like both♡♡♡\"",
+      "zh": "「虛擬？現實？兩個都喜歡♡♡♡」"
+    },
+    {
+      "ja": "繋がる1 2 3 次元",
+      "romaji": "Tsunagaru Wan Tsuu Surii Jigen",
+      "en": "Connecting dimensions—one, two, three",
+      "zh": "連結的1、2、3次元"
+    },
+    {
+      "ja": "ワントゥースリーで飛び越えて",
+      "romaji": "Wan Tuu Surii de Tobikoete",
+      "en": "Leap over them with a one-two-three",
+      "zh": "用一二三飛越過去"
+    },
+    {
+      "ja": "今やネットもリアルです",
+      "romaji": "Ima ya Netto mo Riaru Desu",
+      "en": "Nowadays, the internet is real too",
+      "zh": "如今網路也是現實"
+    },
+    {
+      "ja": "チクチクしないでラブとピースで",
+      "romaji": "Chikuchiku Shinaide Rabu to Piisu de",
+      "en": "Don't be prickly—with love and peace",
+      "zh": "別針鋒相對，用愛與和平"
+    },
+    {
+      "ja": "（Tick-Tack わ・わ・ワープ）",
+      "romaji": "(Tick-Tack Wa Wa Waapu)",
+      "en": "(Tick-tack, wa-wa-warp)",
+      "zh": "（Tick-Tack，哇・哇・曲速）"
+    },
+    {
+      "ja": "ときめいちゃう　時かけGIRL",
+      "romaji": "Tokimeichau Tokikake GIRL",
+      "en": "My heart flutters—a time-leaping girl",
+      "zh": "心跳不已，穿越時空的女孩"
+    },
+    {
+      "ja": "（2D + 3D = ）",
+      "romaji": "(2D + 3D = )",
+      "en": "(2D + 3D = )",
+      "zh": "（2D + 3D = ）"
+    },
+    {
+      "ja": "混ぜれば　最強",
+      "romaji": "Mazereba Saikyou",
+      "en": "Mix them, and it's the strongest",
+      "zh": "混在一起就是最強"
+    },
+    {
+      "ja": "バチャリアラブ♡",
+      "romaji": "Bacharia Rabu♡",
+      "en": "Virtual-real love♡",
+      "zh": "虛實之愛♡"
+    },
+    {
+      "ja": "Check it　ちゅきちゅき　ちゅるっChu",
+      "romaji": "Check It Chuki Chuki Churutto Chu",
+      "en": "Check it—lovey-lovey, slurp, chu",
+      "zh": "Check it，啾喜啾喜，啾嚕Chu"
+    },
+    {
+      "ja": "チェリチェリー　チューインチュイン　ちょ",
+      "romaji": "Cheri Cherii Chuuin Chuin Cho",
+      "en": "Cherry cherry, chewin' chewin', cho",
+      "zh": "櫻桃櫻桃，啾因啾因，啾"
+    },
+    {
+      "ja": "Check it　ちゅきちゅき　ちゅるっChu",
+      "romaji": "Check It Chuki Chuki Churutto Chu",
+      "en": "Check it—lovey-lovey, slurp, chu",
+      "zh": "Check it，啾喜啾喜，啾嚕Chu"
+    },
+    {
+      "ja": "チェリチェリー　チューインチュイン　ちょ",
+      "romaji": "Cheri Cherii Chuuin Chuin Cho",
+      "en": "Cherry cherry, chewin' chewin', cho",
+      "zh": "櫻桃櫻桃，啾因啾因，啾"
+    },
+    {
+      "ja": "Yeah !!!",
+      "romaji": "Yeah!!!",
+      "en": "Yeah!!!",
+      "zh": "Yeah！！！"
+    }
+  ]
+}

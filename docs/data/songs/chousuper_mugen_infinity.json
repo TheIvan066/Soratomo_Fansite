@@ -1,0 +1,596 @@
+{
+  "meta": {
+    "title": "∞超スーパー無限インフィニティ∞",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "涼木シンジ",
+    "lyricist": "涼木シンジ",
+    "album": "Pulse",
+    "releaseDate": "2025/06/26",
+    "coverUrl": "cover_images/pulse",
+    "penlight_color": [
+      "#ffff00"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/qWEWwgzMpZY?si=kVQf6XLe7mrEXEAL"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "超電波ピース！巡ってまるごとガブッ！と",
+      "call": ""
+    },
+    {
+      "lyrics": "宇宙(そら)の彼方へ　テストで交信 Chu！",
+      "call": ""
+    },
+    {
+      "lyrics": "ラーラーララーラーラー",
+      "call": "ラーラーララーラーラー"
+    },
+    {
+      "lyrics": "ララーラーララーラーラー",
+      "call": "ララーラーララーラーラー"
+    },
+    {
+      "lyrics": "ラーラーララーラーラー",
+      "call": "ラーラーララーラーラー"
+    },
+    {
+      "lyrics": "サイン波で唸らせてる",
+      "call": ""
+    },
+    {
+      "lyrics": "胸躍る超(スーパー)銀河の音",
+      "call": ""
+    },
+    {
+      "lyrics": "(アバンチューるラリーラリー)",
+      "call": "(アバンチューるラリーラリー)"
+    },
+    {
+      "lyrics": "8光年先の未来誰もが求めるウェルネス",
+      "call": ""
+    },
+    {
+      "lyrics": "(8次元まで)飛んじゃって",
+      "call": "(8次元まで)"
+    },
+    {
+      "lyrics": "地球上そうテクテクテクノロジー",
+      "call": ""
+    },
+    {
+      "lyrics": "満たされちゃってる",
+      "call": ""
+    },
+    {
+      "lyrics": "(アバンチュール PANICPANIC)",
+      "call": "(アバンチュール PANICPANIC)"
+    },
+    {
+      "lyrics": "あっちゅーまに時代はぐるり廻り宇宙は8周目？",
+      "call": ""
+    },
+    {
+      "lyrics": "さぁ時代創造して　さぁ次の波へ",
+      "call": ""
+    },
+    {
+      "lyrics": "さぁ無限大の可能性へ乗って",
+      "call": ""
+    },
+    {
+      "lyrics": "超電波ピース！　ジャックしてまるごとガブッ！と",
+      "call": "          ピース！"
+    },
+    {
+      "lyrics": "宇宙(そら)の彼方踊れ踊れ",
+      "call": ""
+    },
+    {
+      "lyrics": "超電波ピース！　巡ってまるごとガブッ！と",
+      "call": "          ピース"
+    },
+    {
+      "lyrics": "エイトなビートに身をまかせ",
+      "call": ""
+    },
+    {
+      "lyrics": "∞(インフィニティ)の先へ",
+      "call": ""
+    },
+    {
+      "lyrics": "ラーラーララーラーラー",
+      "call": "ラーラーララーラーラー"
+    },
+    {
+      "lyrics": "ララーラーララーラーラー",
+      "call": "ララーラーララーラーラー"
+    },
+    {
+      "lyrics": "パラレル地球◯(まる)のスター性？",
+      "call": ""
+    },
+    {
+      "lyrics": "末広がるダンスダンスダンス",
+      "call": "              ダンスダンスダンス"
+    },
+    {
+      "lyrics": "ラーラーララーラーラー",
+      "call": "ラーラーララーラーラー"
+    },
+    {
+      "lyrics": "ララーラーララーラーラー",
+      "call": "ララーラーララーラーラー"
+    },
+    {
+      "lyrics": "まだ見たことない未来を",
+      "call": ""
+    },
+    {
+      "lyrics": "テストで更新 Chu！",
+      "call": ""
+    },
+    {
+      "lyrics": "ラーラーララーラーラー",
+      "call": "ラーラーララーラーラー"
+    },
+    {
+      "lyrics": "ララーラーララーラーラー",
+      "call": "ララーラーララーラーラー"
+    },
+    {
+      "lyrics": "ラーラーララーラーラー",
+      "call": "ラーラーララーラーラー"
+    },
+    {
+      "lyrics": "共鳴する超科学バリ3電波！",
+      "call": ""
+    },
+    {
+      "lyrics": "(アバンチューるラリーラリー)",
+      "call": "(アバンチューるラリーラリー)"
+    },
+    {
+      "lyrics": "飛び込むヘリカルバイノーラル",
+      "call": ""
+    },
+    {
+      "lyrics": "(アバンチューる大発見！)",
+      "call": "(アバンチューる大発見！)"
+    },
+    {
+      "lyrics": "この世に革命と連鎖を",
+      "call": ""
+    },
+    {
+      "lyrics": "時と宇宙(そら)に打ち放て　魅せる NewWorld",
+      "call": ""
+    },
+    {
+      "lyrics": "(アバンチュール FunnyFunny)",
+      "call": "(アバンチュール FunnyFunny)"
+    },
+    {
+      "lyrics": "1人じゃ行けない所まで",
+      "call": ""
+    },
+    {
+      "lyrics": "ついてきてねルネッサンス Yeah",
+      "call": ""
+    },
+    {
+      "lyrics": "さぁ時代を超えて　さぁ次はどこへ",
+      "call": ""
+    },
+    {
+      "lyrics": "さぁ巡り続ける時を駆けて",
+      "call": ""
+    },
+    {
+      "lyrics": "超電波ピース！　紡いできたキミとのメモリー",
+      "call": ""
+    },
+    {
+      "lyrics": "一緒に見た夢はここに",
+      "call": "",
+      "extra_row": true,
+      "action": "                                   pp"
+    },
+    {
+      "lyrics": "今　幕は上がり始めた　永遠の先へ",
+      "call": ""
+    },
+    {
+      "lyrics": "超電波ピース！　ジャックしてまるごとガブッ！と",
+      "call": "          ピース！"
+    },
+    {
+      "lyrics": "宇宙(そら)の彼方踊れ踊れ",
+      "call": ""
+    },
+    {
+      "lyrics": "超電波ピース！　巡ってまるごとガブッ！と",
+      "call": "          ピース！"
+    },
+    {
+      "lyrics": "エイトなビートに身をまかせ",
+      "call": ""
+    },
+    {
+      "lyrics": "∞(インフィニティ)の先へ",
+      "call": ""
+    },
+    {
+      "lyrics": "ラーラーララーラーラー",
+      "call": "ラーラーララーラーラー"
+    },
+    {
+      "lyrics": "ララーラーララーラーラー",
+      "call": "ララーラーララーラーラー"
+    },
+    {
+      "lyrics": "パラレル地球◯(まる)のスター性？",
+      "call": ""
+    },
+    {
+      "lyrics": "末広がるダンスダンスダンス",
+      "call": "              ダンスダンスダンス"
+    },
+    {
+      "lyrics": "ラーラーララーラーラー",
+      "call": "ラーラーララーラーラー"
+    },
+    {
+      "lyrics": "ララーラーララーラーラー",
+      "call": "ララーラーララーラーラー"
+    },
+    {
+      "lyrics": "まだ見たことない未来を",
+      "call": ""
+    },
+    {
+      "lyrics": "ベスト de　更新 Chu！",
+      "call": ""
+    },
+    {
+      "lyrics": "ラーラーララーラーラー",
+      "call": "ラーラーララーラーラー"
+    },
+    {
+      "lyrics": "ララーラーララーラーラー",
+      "call": "ララーラーララーラーラー"
+    },
+    {
+      "lyrics": "オオオオー",
+      "call": ""
+    },
+    {
+      "lyrics": "ラーラーララーラーラー",
+      "call": "ラーラーララーラーラー"
+    },
+    {
+      "lyrics": "ラーラーララーラーラー",
+      "call": "ラーラーララーラーラー"
+    },
+    {
+      "lyrics": "次元を飛び越えて",
+      "call": ""
+    },
+    {
+      "lyrics": "ララーラーララーラーラー",
+      "call": "ララーラーララーラーラー"
+    },
+    {
+      "lyrics": "未踏の可能性へ絶賛更新 Chu！",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "超電波ピース！巡ってまるごとガブッ！と",
+      "romaji": "Chou Denpa Piisu! Megutte Marugoto Gabu! to",
+      "en": "Super radio wave peace! It circles around and takes a big bite!",
+      "zh": "超電波Peace！環繞著一口全咬下！"
+    },
+    {
+      "ja": "宇宙(そら)の彼方へ　テストで交信 Chu！",
+      "romaji": "Sora no Kanata e Tesuto de Koushin Chu!",
+      "en": "To the far reaches of space—test transmission, chu!",
+      "zh": "向宇宙彼方，測試通訊 Chu！"
+    },
+    {
+      "ja": "サイン波で唸らせてる",
+      "romaji": "Sainha de Unaraseru",
+      "en": "Making it roar with sine waves",
+      "zh": "以正弦波發出低鳴"
+    },
+    {
+      "ja": "胸躍る超(スーパー)銀河の音",
+      "romaji": "Mune Odoru Suupaa Ginga no Oto",
+      "en": "The sound of a super galaxy that makes my heart leap",
+      "zh": "令人心動的超級銀河之聲"
+    },
+    {
+      "ja": "(アバンチューるラリーラリー)",
+      "romaji": "(Abanchuuru Rarii Rarii)",
+      "en": "(Adventure, rally, rally)",
+      "zh": "（冒險，拉力拉力）"
+    },
+    {
+      "ja": "8光年先の未来誰もが求めるウェルネス",
+      "romaji": "Hachi Kounen Saki no Mirai Dare mo ga Motomeru Werunesu",
+      "en": "A wellness everyone seeks in a future eight light-years away",
+      "zh": "八光年外的未來，人人都追求的安康"
+    },
+    {
+      "ja": "(8次元まで)飛んじゃって",
+      "romaji": "(Hachi Jigen made) Tonjatte",
+      "en": "Flying off (to the eighth dimension)",
+      "zh": "（直到八次元）飛了過去"
+    },
+    {
+      "ja": "地球上そうテクテクテクノロジー",
+      "romaji": "Chikyuu Jou Sou Tekuteku Tekunorojii",
+      "en": "On Earth, technology just keeps on stepping along",
+      "zh": "地球上的科技一步步前進"
+    },
+    {
+      "ja": "満たされちゃってる",
+      "romaji": "Mitasarechatteru",
+      "en": "We're already so fulfilled",
+      "zh": "已經被滿足了呢"
+    },
+    {
+      "ja": "(アバンチュール PANICPANIC)",
+      "romaji": "(Abanchuuru PANIC PANIC)",
+      "en": "(Adventure—panic, panic)",
+      "zh": "（冒險，恐慌恐慌）"
+    },
+    {
+      "ja": "あっちゅーまに時代はぐるり廻り宇宙は8周目？",
+      "romaji": "Atchuuma ni Jidai ha Gururi Mawari Uchuu ha Hachi Shuume?",
+      "en": "In the blink of an eye, the era spins around—is the universe on its eighth lap?",
+      "zh": "轉眼間時代轉了一圈，宇宙是第八圈？"
+    },
+    {
+      "ja": "さぁ時代創造して　さぁ次の波へ",
+      "romaji": "Saa Jidai Souzou Shite Saa Tsugi no Nami e",
+      "en": "Now, create the era—now, to the next wave",
+      "zh": "來吧，創造時代，來吧，前往下一波浪潮"
+    },
+    {
+      "ja": "さぁ無限大の可能性へ乗って",
+      "romaji": "Saa Mugendai no Kanousei e Notte",
+      "en": "Now, ride toward infinite possibilities",
+      "zh": "來吧，乘上無限大的可能性"
+    },
+    {
+      "ja": "超電波ピース！　ジャックしてまるごとガブッ！と",
+      "romaji": "Chou Denpa Piisu! Jakku Shite Marugoto Gabu! to",
+      "en": "Super radio wave peace! It jacks in and takes a big bite!",
+      "zh": "超電波Peace！駭入後一口全咬下！"
+    },
+    {
+      "ja": "宇宙(そら)の彼方踊れ踊れ",
+      "romaji": "Sora no Kanata Odore Odore",
+      "en": "Dance, dance beyond space",
+      "zh": "在宇宙彼方起舞吧起舞吧"
+    },
+    {
+      "ja": "超電波ピース！　巡ってまるごとガブッ！と",
+      "romaji": "Chou Denpa Piisu! Megutte Marugoto Gabu! to",
+      "en": "Super radio wave peace! It circles around and takes a big bite!",
+      "zh": "超電波Peace！環繞著一口全咬下！"
+    },
+    {
+      "ja": "エイトなビートに身をまかせ",
+      "romaji": "Eito na Biito ni Mi wo Makase",
+      "en": "Let your body surrender to the eight-beat",
+      "zh": "將身體交給八拍節奏"
+    },
+    {
+      "ja": "∞(インフィニティ)の先へ",
+      "romaji": "Infiniti no Saki e",
+      "en": "Beyond infinity",
+      "zh": "前往無限的彼方"
+    },
+    {
+      "ja": "パラレル地球◯(まる)のスター性？",
+      "romaji": "Parareru Chikyuu Maru no Sutaa Sei?",
+      "en": "The star quality of a parallel round Earth?",
+      "zh": "平行地球上閃耀的明星特質？"
+    },
+    {
+      "ja": "末広がるダンスダンスダンス",
+      "romaji": "Suehirogaru Dansu Dansu Dansu",
+      "en": "A dance, dance, dance that keeps expanding",
+      "zh": "越漸開闊的舞、舞、舞"
+    },
+    {
+      "ja": "まだ見たことない未来を",
+      "romaji": "Mada Mita Koto Nai Mirai wo",
+      "en": "A future no one has ever seen",
+      "zh": "前所未見的未來"
+    },
+    {
+      "ja": "テストで更新 Chu！",
+      "romaji": "Tesuto de Koushin Chu!",
+      "en": "Update it with a test—chu!",
+      "zh": "以測試來更新 Chu！"
+    },
+    {
+      "ja": "共鳴する超科学バリ3電波！",
+      "romaji": "Kyoumei Suru Chou Kagaku Bari San Denpa!",
+      "en": "Resonating super science, full-bar radio waves!",
+      "zh": "共鳴的超科學滿格電波！"
+    },
+    {
+      "ja": "(アバンチューるラリーラリー)",
+      "romaji": "(Abanchuuru Rarii Rarii)",
+      "en": "(Adventure, rally, rally)",
+      "zh": "（冒險，拉力拉力）"
+    },
+    {
+      "ja": "飛び込むヘリカルバイノーラル",
+      "romaji": "Tobikomu Herikaru Bainooraru",
+      "en": "Diving into helical binaural",
+      "zh": "跳入螺旋立體聲"
+    },
+    {
+      "ja": "(アバンチューる大発見！)",
+      "romaji": "(Abanchuuru Daihakken!)",
+      "en": "(Adventure—what a discovery!)",
+      "zh": "（冒險，大發現！）"
+    },
+    {
+      "ja": "この世に革命と連鎖を",
+      "romaji": "Kono Yo ni Kakumei to Rensa wo",
+      "en": "Unleash revolution and chain reactions into this world",
+      "zh": "將革命與連鎖投入這世間"
+    },
+    {
+      "ja": "時と宇宙(そら)に打ち放て　魅せる NewWorld",
+      "romaji": "Toki to Sora ni Uchihanate Miseru New World",
+      "en": "Fire it into time and space—show them a new world",
+      "zh": "向時空擊出，展現全新世界"
+    },
+    {
+      "ja": "(アバンチュール FunnyFunny)",
+      "romaji": "(Abanchuuru Funny Funny)",
+      "en": "(Adventure—funny, funny)",
+      "zh": "（冒險，有趣有趣）"
+    },
+    {
+      "ja": "1人じゃ行けない所まで",
+      "romaji": "Hitori ja Ikenai Tokoro made",
+      "en": "To places you can't reach alone",
+      "zh": "到一個人無法抵達的地方"
+    },
+    {
+      "ja": "ついてきてねルネッサンス Yeah",
+      "romaji": "Tsuite Kite ne Runessansu Yeah",
+      "en": "Follow me, renaissance—yeah",
+      "zh": "跟上來吧，文藝復興 Yeah"
+    },
+    {
+      "ja": "さぁ時代を超えて　さぁ次はどこへ",
+      "romaji": "Saa Jidai wo Koete Saa Tsugi ha Doko e",
+      "en": "Now, transcend the era—now, where to next?",
+      "zh": "來吧，跨越時代，來吧，下一站是何方"
+    },
+    {
+      "ja": "さぁ巡り続ける時を駆けて",
+      "romaji": "Saa Meguritsuzukeru Toki wo Kakete",
+      "en": "Now, race through the ever-circling time",
+      "zh": "來吧，奔馳於不斷循環的時光"
+    },
+    {
+      "ja": "超電波ピース！　紡いできたキミとのメモリー",
+      "romaji": "Chou Denpa Piisu! Tsumuide Kita Kimi to no Memorii",
+      "en": "Super radio wave peace! The memories I've woven with you",
+      "zh": "超電波Peace！與你一同編織的回憶"
+    },
+    {
+      "ja": "一緒に見た夢はここに",
+      "romaji": "Issho ni Mita Yume ha Koko ni",
+      "en": "The dream we saw together is right here",
+      "zh": "一起看過的夢就在這裡"
+    },
+    {
+      "ja": "今　幕は上がり始めた　永遠の先へ",
+      "romaji": "Ima Maku ha Agari Hajimeta Eien no Saki e",
+      "en": "Now the curtain has begun to rise—toward eternity",
+      "zh": "此刻布幕開始升起，前往永恆的彼方"
+    },
+    {
+      "ja": "超電波ピース！　ジャックしてまるごとガブッ！と",
+      "romaji": "Chou Denpa Piisu! Jakku Shite Marugoto Gabu! to",
+      "en": "Super radio wave peace! It jacks in and takes a big bite!",
+      "zh": "超電波Peace！駭入後一口全咬下！"
+    },
+    {
+      "ja": "宇宙(そら)の彼方踊れ踊れ",
+      "romaji": "Sora no Kanata Odore Odore",
+      "en": "Dance, dance beyond space",
+      "zh": "在宇宙彼方起舞吧起舞吧"
+    },
+    {
+      "ja": "超電波ピース！　巡ってまるごとガブッ！と",
+      "romaji": "Chou Denpa Piisu! Megutte Marugoto Gabu! to",
+      "en": "Super radio wave peace! It circles around and takes a big bite!",
+      "zh": "超電波Peace！環繞著一口全咬下！"
+    },
+    {
+      "ja": "エイトなビートに身をまかせ",
+      "romaji": "Eito na Biito ni Mi wo Makase",
+      "en": "Let your body surrender to the eight-beat",
+      "zh": "將身體交給八拍節奏"
+    },
+    {
+      "ja": "∞(インフィニティ)の先へ",
+      "romaji": "Infiniti no Saki e",
+      "en": "Beyond infinity",
+      "zh": "前往無限的彼方"
+    },
+    {
+      "ja": "パラレル地球◯(まる)のスター性？",
+      "romaji": "Parareru Chikyuu Maru no Sutaa Sei?",
+      "en": "The star quality of a parallel round Earth?",
+      "zh": "平行地球上閃耀的明星特質？"
+    },
+    {
+      "ja": "末広がるダンスダンスダンス",
+      "romaji": "Suehirogaru Dansu Dansu Dansu",
+      "en": "A dance, dance, dance that keeps expanding",
+      "zh": "越漸開闊的舞、舞、舞"
+    },
+    {
+      "ja": "まだ見たことない未来を",
+      "romaji": "Mada Mita Koto Nai Mirai wo",
+      "en": "A future no one has ever seen",
+      "zh": "前所未見的未來"
+    },
+    {
+      "ja": "ベスト de　更新 Chu！",
+      "romaji": "Besuto de Koushin Chu!",
+      "en": "Update it at its best—chu!",
+      "zh": "以最佳狀態更新 Chu！"
+    },
+    {
+      "ja": "次元を飛び越えて",
+      "romaji": "Jigen wo Tobikoete",
+      "en": "Leaping across dimensions",
+      "zh": "飛越次元"
+    },
+    {
+      "ja": "未踏の可能性へ絶賛更新 Chu！",
+      "romaji": "Mitou no Kanousei e Zessan Koushin Chu!",
+      "en": "To unexplored possibilities—highly acclaimed update, chu!",
+      "zh": "向未踏的可能性，好評更新 Chu！"
+    }
+  ]
+}
