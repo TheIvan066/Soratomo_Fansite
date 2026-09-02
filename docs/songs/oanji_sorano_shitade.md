@@ -1,1 +1,0 @@
-<div id="song-app-root" data-source="/data/songs/oanji_sorano_shitade.json"></div>
