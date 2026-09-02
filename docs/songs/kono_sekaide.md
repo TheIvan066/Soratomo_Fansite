@@ -1,0 +1,1 @@
+<div id="song-app-root" data-source="/data/songs/kono_sekaide.json"></div>

@@ -1,0 +1,656 @@
+{
+  "meta": {
+    "title": "太陽系ディスコ",
+    "artist": "ときのそら （Orginal: ）",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "ナユタン星人",
+    "lyricist": "ナユタン星人",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "cover_images/re_play",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "links": [
+      {
+        "name": "Tokino Sora Cover",
+        "url": "https://youtu.be/wHw3jSvZxNI?si=rF3sqrdFA4blsfHb"
+      },
+      {
+        "name": "Original Song",
+        "url": "https://youtu.be/Ja9qmYjXk6U?si=IsFLPjdSfAuPLIcl"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "あの一等星のさんざめく光で",
+      "call": ""
+    },
+    {
+      "lyrics": "あなたとダンスを踊ろうか",
+      "call": ""
+    },
+    {
+      "lyrics": "我が太陽系の鼓動に合わせて",
+      "call": ""
+    },
+    {
+      "lyrics": "絡まったステップで綺羅めいて 星ッ!",
+      "call": "                                                 星ッ! "
+    },
+    {
+      "lyrics": "オー オ オー! ×4",
+      "call": "オー オ オー! ×4"
+    },
+    {
+      "lyrics": "ランバダ ルンバ ふたり 宇宙でランデブーな",
+      "call": ""
+    },
+    {
+      "lyrics": "妄 患って 連夜眠れない",
+      "call": "",
+      "extra_row": true,
+      "action": "                                     pp"
+    },
+    {
+      "lyrics": "星座になって 混ざる どんな一等星も",
+      "call": ""
+    },
+    {
+      "lyrics": "あなたに 代わる 光度はないわ",
+      "call": "",
+      "extra_row": true,
+      "action": "                                               pp"
+    },
+    {
+      "lyrics": "校舎の裏 あの日 あなた見つけた",
+      "call": ""
+    },
+    {
+      "lyrics": "奇跡さえ 今も はなれない",
+      "call": ""
+    },
+    {
+      "lyrics": "隣に 繁く 見える 冥王星も",
+      "call": ""
+    },
+    {
+      "lyrics": "生憎 今は 興味がないわ",
+      "call": ""
+    },
+    {
+      "lyrics": "星が舞っちゃって",
+      "call": "",
+      "extra_row": true,
+      "action": "                          pp"
+    },
+    {
+      "lyrics": "胸が鳴っちゃって",
+      "call": "",
+      "extra_row": true,
+      "action": "                          pp"
+    },
+    {
+      "lyrics": "気付けば彼方",
+      "call": ""
+    },
+    {
+      "lyrics": "あの一等星のさんざめく光で",
+      "call": ""
+    },
+    {
+      "lyrics": "あなたとダンスを踊ろうか",
+      "call": ""
+    },
+    {
+      "lyrics": "我が太陽系の法則に誘われ",
+      "call": ""
+    },
+    {
+      "lyrics": "交わった感度で綺羅めいて 星ッ!",
+      "call": "                                          星ッ! "
+    },
+    {
+      "lyrics": "オー オ オー! 星間線を絆いで",
+      "call": "オー オ オー!"
+    },
+    {
+      "lyrics": "オー オ オー! あなたに届け",
+      "call": "オー オ オー!"
+    },
+    {
+      "lyrics": "オー オ オー! 宇宙の果てから",
+      "call": "オー オ オー!"
+    },
+    {
+      "lyrics": "オー オ オー! あなた 侵光系!",
+      "call": "オー オ オー!"
+    },
+    {
+      "lyrics": "ナーナナナーナナナーナナナーナ ×4",
+      "call": "ナーナナナーナナナーナナナーナ ×4"
+    },
+    {
+      "lyrics": "大体のダンスは 星が光り標となるのさ",
+      "call": ""
+    },
+    {
+      "lyrics": "未体験なステッポで ha, ha, ha, ha",
+      "call": "                                ha, ha, ha, ha"
+    },
+    {
+      "lyrics": "大胆なスタンスで 周回軌道上なぞるのさ",
+      "call": ""
+    },
+    {
+      "lyrics": "太陽系のデスコで ha, ha, ha, ha",
+      "call": "                             ha, ha, ha, ha"
+    },
+    {
+      "lyrics": "宙 揺蕩って いつか ふたり忘れる",
+      "call": ""
+    },
+    {
+      "lyrics": "言葉さえ 今は求めたい",
+      "call": "",
+      "extra_row": true,
+      "action": "                                   pp"
+    },
+    {
+      "lyrics": "超新星を願う 暮れた世界も",
+      "call": ""
+    },
+    {
+      "lyrics": "不思議と 今はどうでもいいわ",
+      "call": ""
+    },
+    {
+      "lyrics": "何もなくたって",
+      "call": "",
+      "extra_row": true,
+      "action": "                        pp"
+    },
+    {
+      "lyrics": "何となくだって",
+      "call": "",
+      "extra_row": true,
+      "action": "                        pp"
+    },
+    {
+      "lyrics": "星は巡って",
+      "call": ""
+    },
+    {
+      "lyrics": "あの一等星の届かぬ光は",
+      "call": ""
+    },
+    {
+      "lyrics": "遥かな彼方で綺羅めいた",
+      "call": ""
+    },
+    {
+      "lyrics": "我が太陽系の法則も外れて",
+      "call": ""
+    },
+    {
+      "lyrics": "「それでもいいさ」手をのばして!",
+      "call": ""
+    },
+    {
+      "lyrics": "さあ 幾星霜と宿した想いで",
+      "call": ""
+    },
+    {
+      "lyrics": "あなたの全て求めようか",
+      "call": ""
+    },
+    {
+      "lyrics": "ねえ 何光年の広大な旅路で",
+      "call": ""
+    },
+    {
+      "lyrics": "比翼の恋理を探そうか",
+      "call": ""
+    },
+    {
+      "lyrics": "あの一等星のさんざめく光で",
+      "call": ""
+    },
+    {
+      "lyrics": "あなたとダンスを踊ろうか",
+      "call": ""
+    },
+    {
+      "lyrics": "ほら水金だって地火木土天海も",
+      "call": ""
+    },
+    {
+      "lyrics": "ふたりの銀河で綺羅めいた 星ッ!",
+      "call": "                                          星ッ! "
+    },
+    {
+      "lyrics": "オー オ オー! 星間線を絆いで",
+      "call": "オー オ オー! "
+    },
+    {
+      "lyrics": "オー オ オー! あなたに届け",
+      "call": "オー オ オー! "
+    },
+    {
+      "lyrics": "オー オ オー! 宇宙の果てから",
+      "call": "オー オ オー! "
+    },
+    {
+      "lyrics": "オー オ オー! あなた 侵光系!",
+      "call": "オー オ オー! "
+    },
+    {
+      "lyrics": "ナーナナナーナナナーナナナーナ ×4",
+      "call": "ナーナナナーナナナーナナナーナ ×4"
+    },
+    {
+      "lyrics": "フー！",
+      "call": "フー！"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "あの一等星のさんざめく光で",
+      "romaji": "Ano Ittousei no Sanzameku Hikari de",
+      "en": "In the dazzling light of that first-magnitude star",
+      "zh": "以那顆一等星璀璨喧鬧的光芒"
+    },
+    {
+      "ja": "あなたとダンスを踊ろうか",
+      "romaji": "Anata to Dansu wo Odorou ka",
+      "en": "Shall we dance together?",
+      "zh": "與你共舞一曲如何"
+    },
+    {
+      "ja": "我が太陽系の鼓動に合わせて",
+      "romaji": "Waga Taiyoukei no Kodou ni Awasete",
+      "en": "Matching the heartbeat of our solar system",
+      "zh": "配合我們太陽系的脈動"
+    },
+    {
+      "ja": "絡まったステップで綺羅めいて 星ッ!",
+      "romaji": "Karamatta Suteppu de Kirameite Hoshi!",
+      "en": "With tangled steps, sparkling—star!",
+      "zh": "以交纏的舞步閃耀，星！"
+    },
+    {
+      "ja": "オー オ オー!",
+      "romaji": "Oo O Oo!",
+      "en": "Oh, oh, oh!",
+      "zh": "喔 喔 喔！"
+    },
+    {
+      "ja": "オー オ オー!",
+      "romaji": "Oo O Oo!",
+      "en": "Oh, oh, oh!",
+      "zh": "喔 喔 喔！"
+    },
+    {
+      "ja": "オー オ オー!",
+      "romaji": "Oo O Oo!",
+      "en": "Oh, oh, oh!",
+      "zh": "喔 喔 喔！"
+    },
+    {
+      "ja": "オー オ オー!",
+      "romaji": "Oo O Oo!",
+      "en": "Oh, oh, oh!",
+      "zh": "喔 喔 喔！"
+    },
+    {
+      "ja": "ランバダ ルンバ ふたり 宇宙でランデブーな",
+      "romaji": "Ranbada Runba Futari Uchuu de Randebuu na",
+      "en": "Lambada, rumba—the two of us rendezvous in space",
+      "zh": "蘭巴達、倫巴，兩人在宇宙中相會"
+    },
+    {
+      "ja": "妄 患って 連夜眠れない",
+      "romaji": "Mou Wazuratte Renya Nemurenai",
+      "en": "Sick with delusion, I can't sleep night after night",
+      "zh": "患上妄想，連夜無法入眠"
+    },
+    {
+      "ja": "星座になって 混ざる どんな一等星も",
+      "romaji": "Seiza ni Natte Mazaru Donna Ittousei mo",
+      "en": "Even any first-magnitude star that becomes a constellation and blends in",
+      "zh": "化為星座交融，無論哪顆一等星"
+    },
+    {
+      "ja": "あなたに 代わる 光度はないわ",
+      "romaji": "Anata ni Kawaru Koudou ha Nai wa",
+      "en": "There's no luminosity that can replace you",
+      "zh": "沒有能取代你的光度"
+    },
+    {
+      "ja": "校舎の裏 あの日 あなた見つけた",
+      "romaji": "Kousha no Ura Ano Hi Anata Mitsuketa",
+      "en": "Behind the school building that day, I found you",
+      "zh": "校舍後方，那一天我找到了你"
+    },
+    {
+      "ja": "奇跡さえ 今も はなれない",
+      "romaji": "Kiseki Sae Ima mo Hanarenai",
+      "en": "Even the miracle won't leave me even now",
+      "zh": "連奇蹟至今也離不開"
+    },
+    {
+      "ja": "隣に 繁く 見える 冥王星も",
+      "romaji": "Tonari ni Shigeku Mieru Meiousei mo",
+      "en": "Even Pluto, which I often see nearby",
+      "zh": "連身旁頻頻可見的冥王星"
+    },
+    {
+      "ja": "生憎 今は 興味がないわ",
+      "romaji": "Ainiku Ima ha Kyoumi ga Nai wa",
+      "en": "Unfortunately, I have no interest now",
+      "zh": "不巧的是，如今毫無興趣"
+    },
+    {
+      "ja": "星が舞っちゃって",
+      "romaji": "Hoshi ga Matchatte",
+      "en": "The stars dance about",
+      "zh": "星星飛舞起來"
+    },
+    {
+      "ja": "胸が鳴っちゃって",
+      "romaji": "Mune ga Natchatte",
+      "en": "My heart pounds",
+      "zh": "胸口作響"
+    },
+    {
+      "ja": "気付けば彼方",
+      "romaji": "Kizukeba Kanata",
+      "en": "Before I know it, I'm far away",
+      "zh": "回過神已身在遠方"
+    },
+    {
+      "ja": "あの一等星のさんざめく光で",
+      "romaji": "Ano Ittousei no Sanzameku Hikari de",
+      "en": "In the dazzling light of that first-magnitude star",
+      "zh": "以那顆一等星璀璨喧鬧的光芒"
+    },
+    {
+      "ja": "あなたとダンスを踊ろうか",
+      "romaji": "Anata to Dansu wo Odorou ka",
+      "en": "Shall we dance together?",
+      "zh": "與你共舞一曲如何"
+    },
+    {
+      "ja": "我が太陽系の法則に誘われ",
+      "romaji": "Waga Taiyoukei no Housoku ni Sasoware",
+      "en": "Invited by the laws of our solar system",
+      "zh": "受我們太陽系法則的邀請"
+    },
+    {
+      "ja": "交わった感度で綺羅めいて 星ッ!",
+      "romaji": "Majiwartta Kando de Kirameite Hoshi!",
+      "en": "With crossed sensitivity, sparkling—star!",
+      "zh": "以交會的感度閃耀，星！"
+    },
+    {
+      "ja": "オー オ オー! 星間線を絆いで",
+      "romaji": "Oo O Oo! Seikan Sen wo Tsunaide",
+      "en": "Oh, oh, oh! Binding interstellar lines",
+      "zh": "喔 喔 喔！連繫星際線"
+    },
+    {
+      "ja": "オー オ オー! あなたに届け",
+      "romaji": "Oo O Oo! Anata ni Todoke",
+      "en": "Oh, oh, oh! Reaching you",
+      "zh": "喔 喔 喔！傳達給你"
+    },
+    {
+      "ja": "オー オ オー! 宇宙の果てから",
+      "romaji": "Oo O Oo! Uchuu no Hate kara",
+      "en": "Oh, oh, oh! From the ends of the universe",
+      "zh": "喔 喔 喔！從宇宙盡頭"
+    },
+    {
+      "ja": "オー オ オー! あなた 侵光系!",
+      "romaji": "Oo O Oo! Anata Shinkoukei!",
+      "en": "Oh, oh, oh! You're an invading light system!",
+      "zh": "喔 喔 喔！你是侵光系！"
+    },
+    {
+      "ja": "ナーナナナーナナナーナナナーナ",
+      "romaji": "Naa Nana Naa Nana Naa Nana Naa",
+      "en": "Na-na-na-na, na-na-na-na, na-na-na-na",
+      "zh": "哪哪哪哪 哪哪哪哪 哪哪哪哪"
+    },
+    {
+      "ja": "ナーナナナーナナナーナナナーナ",
+      "romaji": "Naa Nana Naa Nana Naa Nana Naa",
+      "en": "Na-na-na-na, na-na-na-na, na-na-na-na",
+      "zh": "哪哪哪哪 哪哪哪哪 哪哪哪哪"
+    },
+    {
+      "ja": "ナーナナナーナナナーナナナーナ",
+      "romaji": "Naa Nana Naa Nana Naa Nana Naa",
+      "en": "Na-na-na-na, na-na-na-na, na-na-na-na",
+      "zh": "哪哪哪哪 哪哪哪哪 哪哪哪哪"
+    },
+    {
+      "ja": "ナーナナナーナナナーナナナーナ",
+      "romaji": "Naa Nana Naa Nana Naa Nana Naa",
+      "en": "Na-na-na-na, na-na-na-na, na-na-na-na",
+      "zh": "哪哪哪哪 哪哪哪哪 哪哪哪哪"
+    },
+    {
+      "ja": "大体のダンスは 星が光り標となるのさ",
+      "romaji": "Daitai no Dansu ha Hoshi ga Hikari Shirube to Naru no sa",
+      "en": "In most dances, the stars become a guiding light",
+      "zh": "大抵的舞蹈，星星會成為光芒指引"
+    },
+    {
+      "ja": "未体験なステッポで ha, ha, ha, ha",
+      "romaji": "Mitaiken na Suteppo de Ha, Ha, Ha, Ha",
+      "en": "With unexperienced steps—ha, ha, ha, ha",
+      "zh": "用從未體驗過的舞步，ha, ha, ha, ha"
+    },
+    {
+      "ja": "大胆なスタンスで 周回軌道上なぞるのさ",
+      "romaji": "Daitan na Sutansu de Shuukai Kidou jou Nazoru no sa",
+      "en": "With a bold stance, tracing along the orbit",
+      "zh": "以大膽的姿態，沿著軌道描繪"
+    },
+    {
+      "ja": "太陽系のデスコで ha, ha, ha, ha",
+      "romaji": "Taiyoukei no Desuko de Ha, Ha, Ha, Ha",
+      "en": "At the solar system disco—ha, ha, ha, ha",
+      "zh": "在太陽系的迪斯可，ha, ha, ha, ha"
+    },
+    {
+      "ja": "宙 揺蕩って いつか ふたり忘れる",
+      "romaji": "Chuu Tayutatte Itsuka Futari Wasureru",
+      "en": "Drifting in space, someday the two of us will forget",
+      "zh": "在宇宙中漂蕩，總有一天兩人會遺忘"
+    },
+    {
+      "ja": "言葉さえ 今は求めたい",
+      "romaji": "Kotoba Sae Ima ha Motometai",
+      "en": "Even words—I want to seek them now",
+      "zh": "如今甚至渴望著言語"
+    },
+    {
+      "ja": "超新星を願う 暮れた世界も",
+      "romaji": "Choushinsei wo Negau Kureta Sekai mo",
+      "en": "Even a darkened world that wishes for a supernova",
+      "zh": "連祈願超新星的落幕世界"
+    },
+    {
+      "ja": "不思議と 今はどうでもいいわ",
+      "romaji": "Fushigi to Ima ha Dou demo Ii wa",
+      "en": "Strangely, I don't care now",
+      "zh": "不可思議地，如今都無所謂了"
+    },
+    {
+      "ja": "何もなくたって",
+      "romaji": "Nani mo Nakutatte",
+      "en": "Even if there's nothing",
+      "zh": "即使什麼都沒有"
+    },
+    {
+      "ja": "何となくだって",
+      "romaji": "Nantonaku Datte",
+      "en": "Even just somehow",
+      "zh": "即使只是隱約"
+    },
+    {
+      "ja": "星は巡って",
+      "romaji": "Hoshi ha Megutte",
+      "en": "The stars keep orbiting",
+      "zh": "星辰依然循環"
+    },
+    {
+      "ja": "あの一等星の届かぬ光は",
+      "romaji": "Ano Ittousei no Todokanu Hikari ha",
+      "en": "The unreachable light of that first-magnitude star",
+      "zh": "那顆一等星無法觸及的光芒"
+    },
+    {
+      "ja": "遥かな彼方で綺羅めいた",
+      "romaji": "Haruka na Kanata de Kirameita",
+      "en": "Sparkled in the far distance",
+      "zh": "在遙遠的彼方閃耀"
+    },
+    {
+      "ja": "我が太陽系の法則も外れて",
+      "romaji": "Waga Taiyoukei no Housoku mo Hazurete",
+      "en": "Even straying from the laws of our solar system",
+      "zh": "即使偏離我們太陽系的法則"
+    },
+    {
+      "ja": "「それでもいいさ」手をのばして!",
+      "romaji": "「Sore demo Ii sa」 Te wo Nobashite!",
+      "en": "\"Even so, it's fine\" — reach out your hand!",
+      "zh": "「那也無妨」伸出手吧！"
+    },
+    {
+      "ja": "さあ 幾星霜と宿した想いで",
+      "romaji": "Saa Ikuseisou to Yadoshita Omoi de",
+      "en": "Now, with feelings harbored through countless years",
+      "zh": "來吧，懷著歷經無數星霜的思念"
+    },
+    {
+      "ja": "あなたの全て求めようか",
+      "romaji": "Anata no Subete Motomeyou ka",
+      "en": "Shall I seek all of you?",
+      "zh": "追求你的一切如何"
+    },
+    {
+      "ja": "ねえ 何光年の広大な旅路で",
+      "romaji": "Nee Nan Kounen no Koudai na Tabiji de",
+      "en": "Hey, on this vast journey of how many light years",
+      "zh": "吶，在多少光年的浩瀚旅途中"
+    },
+    {
+      "ja": "比翼の恋理を探そうか",
+      "romaji": "Hiyoku no Renri wo Sagasou ka",
+      "en": "Shall we search for the logic of love as wing-to-wing birds?",
+      "zh": "尋找比翼連理的戀愛定理如何"
+    },
+    {
+      "ja": "あの一等星のさんざめく光で",
+      "romaji": "Ano Ittousei no Sanzameku Hikari de",
+      "en": "In the dazzling light of that first-magnitude star",
+      "zh": "以那顆一等星璀璨喧鬧的光芒"
+    },
+    {
+      "ja": "あなたとダンスを踊ろうか",
+      "romaji": "Anata to Dansu wo Odorou ka",
+      "en": "Shall we dance together?",
+      "zh": "與你共舞一曲如何"
+    },
+    {
+      "ja": "ほら水金だって地火木土天海も",
+      "romaji": "Hora Suikin Datte Chikamokudotennkai mo",
+      "en": "Look—Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune too",
+      "zh": "看啊，水金也好，地火木土天海也罷"
+    },
+    {
+      "ja": "ふたりの銀河で綺羅めいた 星ッ!",
+      "romaji": "Futari no Ginga de Kirameita Hoshi!",
+      "en": "All sparkled in our galaxy—star!",
+      "zh": "都在兩人的銀河裡閃耀，星！"
+    },
+    {
+      "ja": "オー オ オー! 星間線を絆いで",
+      "romaji": "Oo O Oo! Seikan Sen wo Tsunaide",
+      "en": "Oh, oh, oh! Binding interstellar lines",
+      "zh": "喔 喔 喔！連繫星際線"
+    },
+    {
+      "ja": "オー オ オー! あなたに届け",
+      "romaji": "Oo O Oo! Anata ni Todoke",
+      "en": "Oh, oh, oh! Reaching you",
+      "zh": "喔 喔 喔！傳達給你"
+    },
+    {
+      "ja": "オー オ オー! 宇宙の果てから",
+      "romaji": "Oo O Oo! Uchuu no Hate kara",
+      "en": "Oh, oh, oh! From the ends of the universe",
+      "zh": "喔 喔 喔！從宇宙盡頭"
+    },
+    {
+      "ja": "オー オ オー! あなた 侵光系!",
+      "romaji": "Oo O Oo! Anata Shinkoukei!",
+      "en": "Oh, oh, oh! You're an invading light system!",
+      "zh": "喔 喔 喔！你是侵光系！"
+    },
+    {
+      "ja": "ナーナナナーナナナーナナナーナ",
+      "romaji": "Naa Nana Naa Nana Naa Nana Naa",
+      "en": "Na-na-na-na, na-na-na-na, na-na-na-na",
+      "zh": "哪哪哪哪 哪哪哪哪 哪哪哪哪"
+    },
+    {
+      "ja": "ナーナナナーナナナーナナナーナ",
+      "romaji": "Naa Nana Naa Nana Naa Nana Naa",
+      "en": "Na-na-na-na, na-na-na-na, na-na-na-na",
+      "zh": "哪哪哪哪 哪哪哪哪 哪哪哪哪"
+    },
+    {
+      "ja": "ナーナナナーナナナーナナナーナ",
+      "romaji": "Naa Nana Naa Nana Naa Nana Naa",
+      "en": "Na-na-na-na, na-na-na-na, na-na-na-na",
+      "zh": "哪哪哪哪 哪哪哪哪 哪哪哪哪"
+    },
+    {
+      "ja": "ナーナナナーナナナーナナナーナ",
+      "romaji": "Naa Nana Naa Nana Naa Nana Naa",
+      "en": "Na-na-na-na, na-na-na-na, na-na-na-na",
+      "zh": "哪哪哪哪 哪哪哪哪 哪哪哪哪"
+    },
+    {
+      "ja": "フー！",
+      "romaji": "Fuu",
+      "en": "Whew",
+      "zh": "呼"
+    }
+  ]
+}

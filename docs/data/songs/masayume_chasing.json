@@ -1,0 +1,688 @@
+{
+  "meta": {
+    "title": "MASAYUME CHASING",
+    "artist": "ときのそら （Orginal: BoA）",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "STEVEN LEE・Caroline Gustavsson",
+    "lyricist": "Junji Ishiwatari人",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "cover_images/re_play",
+    "penlight_color": [
+      "#0000ff","#ff0000"
+    ],
+    "links": [
+      {
+        "name": "Tokino Sora Cover",
+        "url": "https://youtu.be/hFlfVwam9sw?si=RSQ3H5vQNc9ahEFZ"
+      },
+      {
+        "name": "Original Song",
+        "url": "https://youtu.be/G0gD9jzYtEA?si=mL7kO3iaQbNBUPxx"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "夢を追って迷い込んだ",
+      "call": ""
+    },
+    {
+      "lyrics": "心の森の奥",
+      "call": ""
+    },
+    {
+      "lyrics": "鏡より澄んだ泉",
+      "call": ""
+    },
+    {
+      "lyrics": "映るゆがんだsmile",
+      "call": ""
+    },
+    {
+      "lyrics": "こぼれた涙は (don't cry)",
+      "call": ""
+    },
+    {
+      "lyrics": "金でも銀でもなくて",
+      "call": ""
+    },
+    {
+      "lyrics": "ありふれた涙 (fall from my eyes)",
+      "call": ""
+    },
+    {
+      "lyrics": "女神も気づかない",
+      "call": ""
+    },
+    {
+      "lyrics": "まさゆめ chasing, chasing 越えろもっと",
+      "call": ""
+    },
+    {
+      "lyrics": "自分史上最高の",
+      "call": ""
+    },
+    {
+      "lyrics": "今を chasing, chasing そう描いた",
+      "call": ""
+    },
+    {
+      "lyrics": "自分になって燃やせ胸の火を",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na-na-na (oh!)",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na (hey, hey!)",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na-na-na (oh!)",
+      "call": ""
+    },
+    {
+      "lyrics": "駆け抜けろhero",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na-na-na (oh!)",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na (hey, hey!)",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na-na-na (oh!)",
+      "call": ""
+    },
+    {
+      "lyrics": "燃やせ胸の火を",
+      "call": ""
+    },
+    {
+      "lyrics": "My life, yeah",
+      "call": ""
+    },
+    {
+      "lyrics": "目を閉じて耳すませば",
+      "call": ""
+    },
+    {
+      "lyrics": "微かに呼ぶ声",
+      "call": ""
+    },
+    {
+      "lyrics": "誰もいないはずの森で",
+      "call": ""
+    },
+    {
+      "lyrics": "見上げた空の青",
+      "call": ""
+    },
+    {
+      "lyrics": "ここへは戻らない (goodbye)",
+      "call": ""
+    },
+    {
+      "lyrics": "孤独という名の猛毒の",
+      "call": ""
+    },
+    {
+      "lyrics": "甘く香る花",
+      "call": ""
+    },
+    {
+      "lyrics": "(fell from the sky)",
+      "call": ""
+    },
+    {
+      "lyrics": "咲き誇る世界に",
+      "call": ""
+    },
+    {
+      "lyrics": "さよなら changing, changing 越えろもっと",
+      "call": ""
+    },
+    {
+      "lyrics": "自分史上最高の",
+      "call": ""
+    },
+    {
+      "lyrics": "絵画をchanging, changing そう願いは",
+      "call": ""
+    },
+    {
+      "lyrics": "かなうわきっと 照らせ胸の火を",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na-na-na (oh!)",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na (hey, hey!)",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na-na-na (oh!)",
+      "call": ""
+    },
+    {
+      "lyrics": "駆け抜けろhero",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na-na-na (oh!)",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na (hey, hey!)",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na-na-na (oh!)",
+      "call": ""
+    },
+    {
+      "lyrics": "照らせ胸の火を",
+      "call": ""
+    },
+    {
+      "lyrics": "Hey もう",
+      "call": ""
+    },
+    {
+      "lyrics": "滅茶苦茶hardで",
+      "call": ""
+    },
+    {
+      "lyrics": "本との自分が誰だか",
+      "call": ""
+    },
+    {
+      "lyrics": "Wake upして make up",
+      "call": ""
+    },
+    {
+      "lyrics": "永遠毎日繰り返して fade out",
+      "call": ""
+    },
+    {
+      "lyrics": "こんな阿附から",
+      "call": ""
+    },
+    {
+      "lyrics": "No way, baby (no way, baby)",
+      "call": ""
+    },
+    {
+      "lyrics": "抜け出すには (go, gotta go now) 目を覚ますしかない",
+      "call": ""
+    },
+    {
+      "lyrics": "眩しい朝日浴びて目をこらす先に",
+      "call": ""
+    },
+    {
+      "lyrics": "あの日に見た未来が手を広げてる oh",
+      "call": ""
+    },
+    {
+      "lyrics": "まさゆめ chasing, chasing 越えろもっと",
+      "call": ""
+    },
+    {
+      "lyrics": "自分史上最高の",
+      "call": ""
+    },
+    {
+      "lyrics": "時を chasing, chasing そう描いた",
+      "call": ""
+    },
+    {
+      "lyrics": "自分になって燃やせ胸の火を",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na-na-na (oh!)",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na (hey, hey!)",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na-na-na (oh!)",
+      "call": ""
+    },
+    {
+      "lyrics": "駆け抜けろHero",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na-na-na (oh!)",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na (hey, hey!)",
+      "call": ""
+    },
+    {
+      "lyrics": "Na-na-na-na-na-na-na (oh!)",
+      "call": ""
+    },
+    {
+      "lyrics": "燃やせ胸の火を",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "夢を追って迷い込んだ",
+      "romaji": "Yume wo Otte Mayoikonda",
+      "en": "Chasing a dream, I wandered into",
+      "zh": "追尋夢想而迷失闖入"
+    },
+    {
+      "ja": "心の森の奥",
+      "romaji": "Kokoro no Mori no Oku",
+      "en": "The depths of the forest of my heart",
+      "zh": "心靈森林的深處"
+    },
+    {
+      "ja": "鏡より澄んだ泉",
+      "romaji": "Kagami yori Sunda Izumi",
+      "en": "A spring clearer than a mirror",
+      "zh": "比鏡子更清澈的泉水"
+    },
+    {
+      "ja": "映るゆがんだsmile",
+      "romaji": "Utsuru Yuganda Smile",
+      "en": "Reflecting a distorted smile",
+      "zh": "映照出扭曲的笑容"
+    },
+    {
+      "ja": "こぼれた涙は (don't cry)",
+      "romaji": "Koboreta Namida ha (Don't Cry)",
+      "en": "The tears that spilled (don't cry)",
+      "zh": "滑落的淚水（don't cry）"
+    },
+    {
+      "ja": "金でも銀でもなくて",
+      "romaji": "Kin demo Gin demo Nakute",
+      "en": "Are neither gold nor silver",
+      "zh": "既非金也非銀"
+    },
+    {
+      "ja": "ありふれた涙 (fall from my eyes)",
+      "romaji": "Arifureta Namida (Fall from My Eyes)",
+      "en": "Just ordinary tears (fall from my eyes)",
+      "zh": "平凡無奇的淚水（fall from my eyes）"
+    },
+    {
+      "ja": "女神も気づかない",
+      "romaji": "Megami mo Kizukanai",
+      "en": "Even a goddess wouldn't notice",
+      "zh": "連女神也不會察覺"
+    },
+    {
+      "ja": "まさゆめ chasing, chasing 越えろもっと",
+      "romaji": "Masayume Chasing, Chasing Koero Motto",
+      "en": "A true dream—chasing, chasing, surpass it more",
+      "zh": "真夢 chasing, chasing 再超越更多"
+    },
+    {
+      "ja": "自分史上最高の",
+      "romaji": "Jibun Shijou Saikou no",
+      "en": "The best in your own history",
+      "zh": "自己史上最棒的"
+    },
+    {
+      "ja": "今を chasing, chasing そう描いた",
+      "romaji": "Ima wo Chasing, Chasing Sou Egaita",
+      "en": "Chasing, chasing the present—yes, I imagined it",
+      "zh": "追逐當下 chasing, chasing 如此描繪"
+    },
+    {
+      "ja": "自分になって燃やせ胸の火を",
+      "romaji": "Jibun ni Natte Moyase Mune no Hi wo",
+      "en": "Become yourself and burn the fire in your heart",
+      "zh": "成為自己，燃燒胸中之火"
+    },
+    {
+      "ja": "Na-na-na-na-na-na-na (oh!)",
+      "romaji": "Na-na-na-na-na-na-na (Oh!)",
+      "en": "Na-na-na-na-na-na-na (oh!)",
+      "zh": "Na-na-na-na-na-na-na（oh！）"
+    },
+    {
+      "ja": "Na-na-na-na-na (hey, hey!)",
+      "romaji": "Na-na-na-na-na (Hey, Hey!)",
+      "en": "Na-na-na-na-na (hey, hey!)",
+      "zh": "Na-na-na-na-na（hey, hey！）"
+    },
+    {
+      "ja": "Na-na-na-na-na-na-na (oh!)",
+      "romaji": "Na-na-na-na-na-na-na (Oh!)",
+      "en": "Na-na-na-na-na-na-na (oh!)",
+      "zh": "Na-na-na-na-na-na-na（oh！）"
+    },
+    {
+      "ja": "駆け抜けろhero",
+      "romaji": "Kakenukero Hero",
+      "en": "Run through, hero",
+      "zh": "奔跑穿越吧，hero"
+    },
+    {
+      "ja": "Na-na-na-na-na-na-na (oh!)",
+      "romaji": "Na-na-na-na-na-na-na (Oh!)",
+      "en": "Na-na-na-na-na-na-na (oh!)",
+      "zh": "Na-na-na-na-na-na-na（oh！）"
+    },
+    {
+      "ja": "Na-na-na-na-na (hey, hey!)",
+      "romaji": "Na-na-na-na-na (Hey, Hey!)",
+      "en": "Na-na-na-na-na (hey, hey!)",
+      "zh": "Na-na-na-na-na（hey, hey！）"
+    },
+    {
+      "ja": "Na-na-na-na-na-na-na (oh!)",
+      "romaji": "Na-na-na-na-na-na-na (Oh!)",
+      "en": "Na-na-na-na-na-na-na (oh!)",
+      "zh": "Na-na-na-na-na-na-na（oh！）"
+    },
+    {
+      "ja": "燃やせ胸の火を",
+      "romaji": "Moyase Mune no Hi wo",
+      "en": "Burn the fire in your heart",
+      "zh": "燃燒胸中之火"
+    },
+    {
+      "ja": "My life, yeah",
+      "romaji": "My Life, Yeah",
+      "en": "My life, yeah",
+      "zh": "My life, yeah"
+    },
+    {
+      "ja": "目を閉じて耳すませば",
+      "romaji": "Me wo Tojite Mimi Sumaseba",
+      "en": "If I close my eyes and listen closely",
+      "zh": "閉上眼睛，側耳傾聽"
+    },
+    {
+      "ja": "微かに呼ぶ声",
+      "romaji": "Kasuka ni Yobu Koe",
+      "en": "A faint voice calling",
+      "zh": "微弱地呼喚的聲音"
+    },
+    {
+      "ja": "誰もいないはずの森で",
+      "romaji": "Dare mo Inai Hazu no Mori de",
+      "en": "In a forest where no one should be",
+      "zh": "在理應無人的森林中"
+    },
+    {
+      "ja": "見上げた空の青",
+      "romaji": "Miageta Sora no Ao",
+      "en": "The blue of the sky I looked up at",
+      "zh": "仰望的天空之藍"
+    },
+    {
+      "ja": "ここへは戻らない (goodbye)",
+      "romaji": "Koko e ha Modoranai (Goodbye)",
+      "en": "I won't come back here (goodbye)",
+      "zh": "不會再回到這裡（goodbye）"
+    },
+    {
+      "ja": "孤独という名の猛毒の",
+      "romaji": "Kodoku to Iu Na no Moudoku no",
+      "en": "Of the deadly poison called loneliness",
+      "zh": "名為孤獨的劇毒"
+    },
+    {
+      "ja": "甘く香る花",
+      "romaji": "Amaku Kaoru Hana",
+      "en": "A sweetly scented flower",
+      "zh": "散發甜美香氣的花"
+    },
+    {
+      "ja": "(fell from the sky)",
+      "romaji": "(Fell from the Sky)",
+      "en": "(Fell from the sky)",
+      "zh": "（fell from the sky）"
+    },
+    {
+      "ja": "咲き誇る世界に",
+      "romaji": "Sakihokoru Sekai ni",
+      "en": "In a world in full bloom",
+      "zh": "在燦爛盛放的世界裡"
+    },
+    {
+      "ja": "さよなら changing, changing 越えろもっと",
+      "romaji": "Sayonara Changing, Changing Koero Motto",
+      "en": "Goodbye—changing, changing, surpass it more",
+      "zh": "再見了 changing, changing 再超越更多"
+    },
+    {
+      "ja": "自分史上最高の",
+      "romaji": "Jibun Shijou Saikou no",
+      "en": "The best in your own history",
+      "zh": "自己史上最棒的"
+    },
+    {
+      "ja": "絵画をchanging, changing そう願いは",
+      "romaji": "Kaiga wo Changing, Changing Sou Negai ha",
+      "en": "Changing, changing the picture—yes, your wish",
+      "zh": "改變畫作 changing, changing 如此心願"
+    },
+    {
+      "ja": "かなうわきっと 照らせ胸の火を",
+      "romaji": "Kanau wa Kitto Terase Mune no Hi wo",
+      "en": "Will surely come true—light the fire in your heart",
+      "zh": "必定會實現，照亮胸中之火"
+    },
+    {
+      "ja": "Na-na-na-na-na-na-na (oh!)",
+      "romaji": "Na-na-na-na-na-na-na (Oh!)",
+      "en": "Na-na-na-na-na-na-na (oh!)",
+      "zh": "Na-na-na-na-na-na-na（oh！）"
+    },
+    {
+      "ja": "Na-na-na-na-na (hey, hey!)",
+      "romaji": "Na-na-na-na-na (Hey, Hey!)",
+      "en": "Na-na-na-na-na (hey, hey!)",
+      "zh": "Na-na-na-na-na（hey, hey！）"
+    },
+    {
+      "ja": "Na-na-na-na-na-na-na (oh!)",
+      "romaji": "Na-na-na-na-na-na-na (Oh!)",
+      "en": "Na-na-na-na-na-na-na (oh!)",
+      "zh": "Na-na-na-na-na-na-na（oh！）"
+    },
+    {
+      "ja": "駆け抜けろhero",
+      "romaji": "Kakenukero Hero",
+      "en": "Run through, hero",
+      "zh": "奔跑穿越吧，hero"
+    },
+    {
+      "ja": "Na-na-na-na-na-na-na (oh!)",
+      "romaji": "Na-na-na-na-na-na-na (Oh!)",
+      "en": "Na-na-na-na-na-na-na (oh!)",
+      "zh": "Na-na-na-na-na-na-na（oh！）"
+    },
+    {
+      "ja": "Na-na-na-na-na (hey, hey!)",
+      "romaji": "Na-na-na-na-na (Hey, Hey!)",
+      "en": "Na-na-na-na-na (hey, hey!)",
+      "zh": "Na-na-na-na-na（hey, hey！）"
+    },
+    {
+      "ja": "Na-na-na-na-na-na-na (oh!)",
+      "romaji": "Na-na-na-na-na-na-na (Oh!)",
+      "en": "Na-na-na-na-na-na-na (oh!)",
+      "zh": "Na-na-na-na-na-na-na（oh！）"
+    },
+    {
+      "ja": "照らせ胸の火を",
+      "romaji": "Terase Mune no Hi wo",
+      "en": "Light the fire in your heart",
+      "zh": "照亮胸中之火"
+    },
+    {
+      "ja": "Hey もう",
+      "romaji": "Hey Mou",
+      "en": "Hey, already",
+      "zh": "Hey 已經"
+    },
+    {
+      "ja": "滅茶苦茶hardで",
+      "romaji": "Mechakucha Hard de",
+      "en": "It's insanely hard",
+      "zh": "亂糟糟的艱難"
+    },
+    {
+      "ja": "本との自分が誰だか",
+      "romaji": "Hon to no Jibun ga Dare Da ka",
+      "en": "Who the real me is",
+      "zh": "真正的自己究竟是誰"
+    },
+    {
+      "ja": "Wake upして make up",
+      "romaji": "Wake Up Shite Make Up",
+      "en": "Wake up and make up",
+      "zh": "Wake up 然後 make up"
+    },
+    {
+      "ja": "永遠毎日繰り返して fade out",
+      "romaji": "Eien Mainichi Kurikaeshite Fade Out",
+      "en": "Repeating forever every day, fade out",
+      "zh": "永遠每天重複著 fade out"
+    },
+    {
+      "ja": "こんな阿附から",
+      "romaji": "Konna Afu kara",
+      "en": "From such a mess",
+      "zh": "從這樣的困境中"
+    },
+    {
+      "ja": "No way, baby (no way, baby)",
+      "romaji": "No Way, Baby (No Way, Baby)",
+      "en": "No way, baby (no way, baby)",
+      "zh": "No way, baby（no way, baby）"
+    },
+    {
+      "ja": "抜け出すには (go, gotta go now) 目を覚ますしかない",
+      "romaji": "Nukedasu ni ha (Go, Gotta Go Now) Me wo Samasu Shika Nai",
+      "en": "To break free (go, gotta go now), I have no choice but to wake up",
+      "zh": "要逃脫（go, gotta go now）就只能醒過來"
+    },
+    {
+      "ja": "眩しい朝日浴びて目をこらす先に",
+      "romaji": "Mabushii Asahi Abite Me wo Korasu Saki ni",
+      "en": "Bathed in dazzling morning sunlight, where I strain my eyes",
+      "zh": "沐浴在耀眼晨光中，凝視的前方"
+    },
+    {
+      "ja": "あの日に見た未来が手を広げてる oh",
+      "romaji": "Ano Hi ni Mita Mirai ga Te wo Hirogeteru Oh",
+      "en": "The future I saw that day is spreading its arms, oh",
+      "zh": "那天看見的未來正張開雙手 oh"
+    },
+    {
+      "ja": "まさゆめ chasing, chasing 越えろもっと",
+      "romaji": "Masayume Chasing, Chasing Koero Motto",
+      "en": "A true dream—chasing, chasing, surpass it more",
+      "zh": "真夢 chasing, chasing 再超越更多"
+    },
+    {
+      "ja": "自分史上最高の",
+      "romaji": "Jibun Shijou Saikou no",
+      "en": "The best in your own history",
+      "zh": "自己史上最棒的"
+    },
+    {
+      "ja": "時を chasing, chasing そう描いた",
+      "romaji": "Toki wo Chasing, Chasing Sou Egaita",
+      "en": "Chasing, chasing the time—yes, I imagined it",
+      "zh": "追逐時光 chasing, chasing 如此描繪"
+    },
+    {
+      "ja": "自分になって燃やせ胸の火を",
+      "romaji": "Jibun ni Natte Moyase Mune no Hi wo",
+      "en": "Become yourself and burn the fire in your heart",
+      "zh": "成為自己，燃燒胸中之火"
+    },
+    {
+      "ja": "Na-na-na-na-na-na-na (oh!)",
+      "romaji": "Na-na-na-na-na-na-na (Oh!)",
+      "en": "Na-na-na-na-na-na-na (oh!)",
+      "zh": "Na-na-na-na-na-na-na（oh！）"
+    },
+    {
+      "ja": "Na-na-na-na-na (hey, hey!)",
+      "romaji": "Na-na-na-na-na (Hey, Hey!)",
+      "en": "Na-na-na-na-na (hey, hey!)",
+      "zh": "Na-na-na-na-na（hey, hey！）"
+    },
+    {
+      "ja": "Na-na-na-na-na-na-na (oh!)",
+      "romaji": "Na-na-na-na-na-na-na (Oh!)",
+      "en": "Na-na-na-na-na-na-na (oh!)",
+      "zh": "Na-na-na-na-na-na-na（oh！）"
+    },
+    {
+      "ja": "駆け抜けろHero",
+      "romaji": "Kakenukero Hero",
+      "en": "Run through, hero",
+      "zh": "奔跑穿越吧，Hero"
+    },
+    {
+      "ja": "Na-na-na-na-na-na-na (oh!)",
+      "romaji": "Na-na-na-na-na-na-na (Oh!)",
+      "en": "Na-na-na-na-na-na-na (oh!)",
+      "zh": "Na-na-na-na-na-na-na（oh！）"
+    },
+    {
+      "ja": "Na-na-na-na-na (hey, hey!)",
+      "romaji": "Na-na-na-na-na (Hey, Hey!)",
+      "en": "Na-na-na-na-na (hey, hey!)",
+      "zh": "Na-na-na-na-na（hey, hey！）"
+    },
+    {
+      "ja": "Na-na-na-na-na-na-na (oh!)",
+      "romaji": "Na-na-na-na-na-na-na (Oh!)",
+      "en": "Na-na-na-na-na-na-na (oh!)",
+      "zh": "Na-na-na-na-na-na-na（oh！）"
+    },
+    {
+      "ja": "燃やせ胸の火を",
+      "romaji": "Moyase Mune no Hi wo",
+      "en": "Burn the fire in your heart",
+      "zh": "燃燒胸中之火"
+    }
+  ]
+}

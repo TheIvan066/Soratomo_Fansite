@@ -1,0 +1,1 @@
+<div id="song-app-root" data-source="/data/songs/taiyoukei_disco.json"></div>

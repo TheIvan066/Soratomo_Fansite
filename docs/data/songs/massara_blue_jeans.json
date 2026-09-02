@@ -1,0 +1,848 @@
+{
+  "meta": {
+    "title": "まっさらブルージーンズ",
+    "artist": "ときのそら （Orginal: ℃-ute）",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "つんく",
+    "lyricist": "つんく",
+    "album": "Re:Play",
+    "releaseDate": "2021/11/24",
+    "coverUrl": "cover_images/re_play",
+    "penlight_color": [
+      "#0000ff"
+    ],
+    "links": [
+      {
+        "name": "Tokino Sora Cover",
+        "url": "https://youtu.be/6ELw8xouuww?si=ergSE3DnE7LMnbq-"
+      },
+      {
+        "name": "Original Song",
+        "url": "https://youtu.be/L9gDX4mfWtY?si=2ofYWHc-Hxx6OrU2"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "「まっさらブルージーンズ！」",
+      "call": ""
+    },
+    {
+      "lyrics": "NON NON",
+      "call": ""
+    },
+    {
+      "lyrics": "泣いたって わかんない",
+      "call": ""
+    },
+    {
+      "lyrics": "NON NON",
+      "call": ""
+    },
+    {
+      "lyrics": "そんなんじゃ 始まんない",
+      "call": ""
+    },
+    {
+      "lyrics": "NON NON",
+      "call": ""
+    },
+    {
+      "lyrics": "今時なら",
+      "call": ""
+    },
+    {
+      "lyrics": "NON NON",
+      "call": ""
+    },
+    {
+      "lyrics": "笑ってLET'S GO",
+      "call": ""
+    },
+    {
+      "lyrics": "今に見てろと",
+      "call": ""
+    },
+    {
+      "lyrics": "自分に魔法掛けたら",
+      "call": ""
+    },
+    {
+      "lyrics": "イマジネーション",
+      "call": ""
+    },
+    {
+      "lyrics": "さあ 大きく膨らませて",
+      "call": ""
+    },
+    {
+      "lyrics": "まっさらぴんのブルージーンズ",
+      "call": ""
+    },
+    {
+      "lyrics": "何気に着崩して",
+      "call": ""
+    },
+    {
+      "lyrics": "大きな夢を翳したら",
+      "call": ""
+    },
+    {
+      "lyrics": "美人になった",
+      "call": ""
+    },
+    {
+      "lyrics": "まっさらぴんの青春",
+      "call": ""
+    },
+    {
+      "lyrics": "さり気に着こなして",
+      "call": ""
+    },
+    {
+      "lyrics": "甘ずっぱい映画みたいに",
+      "call": ""
+    },
+    {
+      "lyrics": "Take me out!",
+      "call": ""
+    },
+    {
+      "lyrics": "All long time",
+      "call": ""
+    },
+    {
+      "lyrics": "ドタバタしてても",
+      "call": ""
+    },
+    {
+      "lyrics": "LOVE ME!×4",
+      "call": ""
+    },
+    {
+      "lyrics": "めちゃくちゃしたいの",
+      "call": ""
+    },
+    {
+      "lyrics": "LOVE ME DO!",
+      "call": ""
+    },
+    {
+      "lyrics": "ドタバタしてても",
+      "call": ""
+    },
+    {
+      "lyrics": "LOVE ME!×4",
+      "call": ""
+    },
+    {
+      "lyrics": "めちゃくちゃしたいの",
+      "call": ""
+    },
+    {
+      "lyrics": "LOVE ME DO!",
+      "call": ""
+    },
+    {
+      "lyrics": "NON NON",
+      "call": ""
+    },
+    {
+      "lyrics": "純情って わかんない",
+      "call": ""
+    },
+    {
+      "lyrics": "NON NON",
+      "call": ""
+    },
+    {
+      "lyrics": "簡単じゃ つまんない",
+      "call": ""
+    },
+    {
+      "lyrics": "NON NON",
+      "call": ""
+    },
+    {
+      "lyrics": "気持ち次第",
+      "call": ""
+    },
+    {
+      "lyrics": "NON NON",
+      "call": ""
+    },
+    {
+      "lyrics": "DON'T STOP THE MUSIC",
+      "call": ""
+    },
+    {
+      "lyrics": "必要（いる）んじゃないか",
+      "call": ""
+    },
+    {
+      "lyrics": "無駄なモノってなあに?",
+      "call": ""
+    },
+    {
+      "lyrics": "イルミネーション",
+      "call": ""
+    },
+    {
+      "lyrics": "さあ　照らせよ行く手の先",
+      "call": ""
+    },
+    {
+      "lyrics": "まっさらぴんのブルージーンズ",
+      "call": ""
+    },
+    {
+      "lyrics": "おもいっきり汚して",
+      "call": ""
+    },
+    {
+      "lyrics": "そこから始まる神秘は",
+      "call": ""
+    },
+    {
+      "lyrics": "分析不能さ",
+      "call": ""
+    },
+    {
+      "lyrics": "まっさらぴんの青春",
+      "call": ""
+    },
+    {
+      "lyrics": "おもいっきり　はしゃいで",
+      "call": ""
+    },
+    {
+      "lyrics": "週末の夜の気分で",
+      "call": ""
+    },
+    {
+      "lyrics": "Take me out!",
+      "call": ""
+    },
+    {
+      "lyrics": "All long time",
+      "call": ""
+    },
+    {
+      "lyrics": "ドタバタしてても",
+      "call": ""
+    },
+    {
+      "lyrics": "LOVE ME!×4",
+      "call": ""
+    },
+    {
+      "lyrics": "めちゃくちゃしたいの",
+      "call": ""
+    },
+    {
+      "lyrics": "LOVE ME DO!",
+      "call": ""
+    },
+    {
+      "lyrics": "ドタバタしてても",
+      "call": ""
+    },
+    {
+      "lyrics": "LOVE ME!×4",
+      "call": ""
+    },
+    {
+      "lyrics": "めちゃくちゃしたいの",
+      "call": ""
+    },
+    {
+      "lyrics": "LOVE ME DO!",
+      "call": ""
+    },
+    {
+      "lyrics": "まっさらぴんのブルージーンズ",
+      "call": ""
+    },
+    {
+      "lyrics": "何気に着崩して",
+      "call": ""
+    },
+    {
+      "lyrics": "大きな夢を翳したら",
+      "call": ""
+    },
+    {
+      "lyrics": "美人になった",
+      "call": ""
+    },
+    {
+      "lyrics": "まっさらぴんのブルージーンズ",
+      "call": ""
+    },
+    {
+      "lyrics": "おもいっきり汚して",
+      "call": ""
+    },
+    {
+      "lyrics": "そこから始まる神秘は",
+      "call": ""
+    },
+    {
+      "lyrics": "分析不能さ",
+      "call": ""
+    },
+    {
+      "lyrics": "まっさらぴんの青春",
+      "call": ""
+    },
+    {
+      "lyrics": "おもいっきり　はしゃいで",
+      "call": ""
+    },
+    {
+      "lyrics": "週末の夜の気分で",
+      "call": ""
+    },
+    {
+      "lyrics": "Take me out!",
+      "call": ""
+    },
+    {
+      "lyrics": "All long time",
+      "call": ""
+    },
+    {
+      "lyrics": "ドタバタしてても",
+      "call": ""
+    },
+    {
+      "lyrics": "LOVE ME!×4",
+      "call": ""
+    },
+    {
+      "lyrics": "めちゃくちゃしたいの",
+      "call": ""
+    },
+    {
+      "lyrics": "LOVE ME DO!",
+      "call": ""
+    },
+    {
+      "lyrics": "ドタバタしてても",
+      "call": ""
+    },
+    {
+      "lyrics": "LOVE ME!×4",
+      "call": ""
+    },
+    {
+      "lyrics": "めちゃくちゃしたいの",
+      "call": ""
+    },
+    {
+      "lyrics": "LOVE ME DO!",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "「まっさらブルージーンズ！」",
+      "romaji": "「Massara Buruu Jiinzu!」",
+      "en": "\"Brand-new blue jeans!\"",
+      "zh": "「全新的藍色牛仔褲！」"
+    },
+    {
+      "ja": "NON NON",
+      "romaji": "NON NON",
+      "en": "No, no",
+      "zh": "NON NON"
+    },
+    {
+      "ja": "泣いたって わかんない",
+      "romaji": "Naitatte Wakannai",
+      "en": "Even if you cry, I don't get it",
+      "zh": "就算哭也沒用"
+    },
+    {
+      "ja": "NON NON",
+      "romaji": "NON NON",
+      "en": "No, no",
+      "zh": "NON NON"
+    },
+    {
+      "ja": "そんなんじゃ 始まんない",
+      "romaji": "Sonna n ja Hajimannai",
+      "en": "Nothing starts that way",
+      "zh": "那樣根本不會開始"
+    },
+    {
+      "ja": "NON NON",
+      "romaji": "NON NON",
+      "en": "No, no",
+      "zh": "NON NON"
+    },
+    {
+      "ja": "今時なら",
+      "romaji": "Imadoki Nara",
+      "en": "These days",
+      "zh": "都什麼年代了"
+    },
+    {
+      "ja": "NON NON",
+      "romaji": "NON NON",
+      "en": "No, no",
+      "zh": "NON NON"
+    },
+    {
+      "ja": "笑ってLET'S GO",
+      "romaji": "Waratte Let's Go",
+      "en": "Smile and let's go",
+      "zh": "笑著出發吧"
+    },
+    {
+      "ja": "今に見てろと",
+      "romaji": "Ima ni Mitero to",
+      "en": "\"Just you wait,\" I said",
+      "zh": "對自己說「走著瞧」"
+    },
+    {
+      "ja": "自分に魔法掛けたら",
+      "romaji": "Jibun ni Mahou Kaketara",
+      "en": "And cast a spell on myself",
+      "zh": "對自己施了魔法之後"
+    },
+    {
+      "ja": "イマジネーション",
+      "romaji": "Imajineeshon",
+      "en": "Imagination",
+      "zh": "想像力"
+    },
+    {
+      "ja": "さあ 大きく膨らませて",
+      "romaji": "Saa Ookiku Fukuramasete",
+      "en": "Now, let it swell up big",
+      "zh": "來吧，讓它大大膨脹"
+    },
+    {
+      "ja": "まっさらぴんのブルージーンズ",
+      "romaji": "Massara Pin no Buruu Jiinzu",
+      "en": "Brand-new blue jeans",
+      "zh": "全新的藍色牛仔褲"
+    },
+    {
+      "ja": "何気に着崩して",
+      "romaji": "Nanige ni Kikuzushite",
+      "en": "Worn casually, a little loose",
+      "zh": "不經意地穿得隨性"
+    },
+    {
+      "ja": "大きな夢を翳したら",
+      "romaji": "Ookina Yume wo Kazashitara",
+      "en": "When I hold up a big dream",
+      "zh": "高舉大大的夢想"
+    },
+    {
+      "ja": "美人になった",
+      "romaji": "Bijin ni Natta",
+      "en": "I became beautiful",
+      "zh": "就變漂亮了"
+    },
+    {
+      "ja": "まっさらぴんの青春",
+      "romaji": "Massara Pin no Seishun",
+      "en": "Brand-new youth",
+      "zh": "全新的青春"
+    },
+    {
+      "ja": "さり気に着こなして",
+      "romaji": "Sarige ni Kikonashite",
+      "en": "Wearing it with effortless style",
+      "zh": "若無其事地穿搭"
+    },
+    {
+      "ja": "甘ずっぱい映画みたいに",
+      "romaji": "Amazuppai Eiga Mitai ni",
+      "en": "Like a bittersweet movie",
+      "zh": "像酸甜的電影一樣"
+    },
+    {
+      "ja": "Take me out!",
+      "romaji": "Take Me Out!",
+      "en": "Take me out!",
+      "zh": "帶我出去！"
+    },
+    {
+      "ja": "All long time",
+      "romaji": "All Long Time",
+      "en": "All long time",
+      "zh": "一直以來"
+    },
+    {
+      "ja": "ドタバタしてても",
+      "romaji": "Dotabata Shite te mo",
+      "en": "Even if it's chaotic",
+      "zh": "即使忙亂吵鬧"
+    },
+    {
+      "ja": "LOVE ME!×4",
+      "romaji": "LOVE ME! ×4",
+      "en": "Love me! ×4",
+      "zh": "愛我吧！×4"
+    },
+    {
+      "ja": "めちゃくちゃしたいの",
+      "romaji": "Mechakucha Shitai no",
+      "en": "I want to go crazy",
+      "zh": "想盡情瘋狂"
+    },
+    {
+      "ja": "LOVE ME DO!",
+      "romaji": "LOVE ME DO!",
+      "en": "Love me do!",
+      "zh": "愛我吧！"
+    },
+    {
+      "ja": "ドタバタしてても",
+      "romaji": "Dotabata Shite te mo",
+      "en": "Even if it's chaotic",
+      "zh": "即使忙亂吵鬧"
+    },
+    {
+      "ja": "LOVE ME!×4",
+      "romaji": "LOVE ME! ×4",
+      "en": "Love me! ×4",
+      "zh": "愛我吧！×4"
+    },
+    {
+      "ja": "めちゃくちゃしたいの",
+      "romaji": "Mechakucha Shitai no",
+      "en": "I want to go crazy",
+      "zh": "想盡情瘋狂"
+    },
+    {
+      "ja": "LOVE ME DO!",
+      "romaji": "LOVE ME DO!",
+      "en": "Love me do!",
+      "zh": "愛我吧！"
+    },
+    {
+      "ja": "NON NON",
+      "romaji": "NON NON",
+      "en": "No, no",
+      "zh": "NON NON"
+    },
+    {
+      "ja": "純情って わかんない",
+      "romaji": "Junjou tte Wakannai",
+      "en": "I don't get this pure-hearted thing",
+      "zh": "純情什麼的不懂"
+    },
+    {
+      "ja": "NON NON",
+      "romaji": "NON NON",
+      "en": "No, no",
+      "zh": "NON NON"
+    },
+    {
+      "ja": "簡単じゃ つまんない",
+      "romaji": "Kantan ja Tsumannai",
+      "en": "If it's easy, it's boring",
+      "zh": "太簡單就太無聊"
+    },
+    {
+      "ja": "NON NON",
+      "romaji": "NON NON",
+      "en": "No, no",
+      "zh": "NON NON"
+    },
+    {
+      "ja": "気持ち次第",
+      "romaji": "Kimochi Shidai",
+      "en": "It depends on how you feel",
+      "zh": "全看心情"
+    },
+    {
+      "ja": "NON NON",
+      "romaji": "NON NON",
+      "en": "No, no",
+      "zh": "NON NON"
+    },
+    {
+      "ja": "DON'T STOP THE MUSIC",
+      "romaji": "DON'T STOP THE MUSIC",
+      "en": "Don't stop the music",
+      "zh": "音樂不要停"
+    },
+    {
+      "ja": "必要（いる）んじゃないか",
+      "romaji": "Iru n ja Nai ka",
+      "en": "Maybe we need them",
+      "zh": "也許是必要的吧"
+    },
+    {
+      "ja": "無駄なモノってなあに?",
+      "romaji": "Muda na Mono tte Naani?",
+      "en": "What counts as useless things?",
+      "zh": "所謂沒用的東西是什麼？"
+    },
+    {
+      "ja": "イルミネーション",
+      "romaji": "Irumineeshon",
+      "en": "Illumination",
+      "zh": "絢爛燈飾"
+    },
+    {
+      "ja": "さあ　照らせよ行く手の先",
+      "romaji": "Saa Terase yo Yukute no Saki",
+      "en": "Now, light up the path ahead",
+      "zh": "來吧，照亮前方的去路"
+    },
+    {
+      "ja": "まっさらぴんのブルージーンズ",
+      "romaji": "Massara Pin no Buruu Jiinzu",
+      "en": "Brand-new blue jeans",
+      "zh": "全新的藍色牛仔褲"
+    },
+    {
+      "ja": "おもいっきり汚して",
+      "romaji": "Omoikkiri Yogoshite",
+      "en": "Get them completely dirty",
+      "zh": "盡情弄髒"
+    },
+    {
+      "ja": "そこから始まる神秘は",
+      "romaji": "Soko kara Hajimaru Shinpi ha",
+      "en": "The mystery that begins from there",
+      "zh": "從那裡開始的神秘"
+    },
+    {
+      "ja": "分析不能さ",
+      "romaji": "Bunseki Funou sa",
+      "en": "Defies analysis",
+      "zh": "無法分析"
+    },
+    {
+      "ja": "まっさらぴんの青春",
+      "romaji": "Massara Pin no Seishun",
+      "en": "Brand-new youth",
+      "zh": "全新的青春"
+    },
+    {
+      "ja": "おもいっきり　はしゃいで",
+      "romaji": "Omoikkiri Hashaide",
+      "en": "Frolic with all your might",
+      "zh": "盡情嬉鬧"
+    },
+    {
+      "ja": "週末の夜の気分で",
+      "romaji": "Shuumatsu no Yoru no Kibun de",
+      "en": "In a weekend night mood",
+      "zh": "以週末夜晚的心情"
+    },
+    {
+      "ja": "Take me out!",
+      "romaji": "Take Me Out!",
+      "en": "Take me out!",
+      "zh": "帶我出去！"
+    },
+    {
+      "ja": "All long time",
+      "romaji": "All Long Time",
+      "en": "All long time",
+      "zh": "一直以來"
+    },
+    {
+      "ja": "ドタバタしてても",
+      "romaji": "Dotabata Shite te mo",
+      "en": "Even if it's chaotic",
+      "zh": "即使忙亂吵鬧"
+    },
+    {
+      "ja": "LOVE ME!×4",
+      "romaji": "LOVE ME! ×4",
+      "en": "Love me! ×4",
+      "zh": "愛我吧！×4"
+    },
+    {
+      "ja": "めちゃくちゃしたいの",
+      "romaji": "Mechakucha Shitai no",
+      "en": "I want to go crazy",
+      "zh": "想盡情瘋狂"
+    },
+    {
+      "ja": "LOVE ME DO!",
+      "romaji": "LOVE ME DO!",
+      "en": "Love me do!",
+      "zh": "愛我吧！"
+    },
+    {
+      "ja": "ドタバタしてても",
+      "romaji": "Dotabata Shite te mo",
+      "en": "Even if it's chaotic",
+      "zh": "即使忙亂吵鬧"
+    },
+    {
+      "ja": "LOVE ME!×4",
+      "romaji": "LOVE ME! ×4",
+      "en": "Love me! ×4",
+      "zh": "愛我吧！×4"
+    },
+    {
+      "ja": "めちゃくちゃしたいの",
+      "romaji": "Mechakucha Shitai no",
+      "en": "I want to go crazy",
+      "zh": "想盡情瘋狂"
+    },
+    {
+      "ja": "LOVE ME DO!",
+      "romaji": "LOVE ME DO!",
+      "en": "Love me do!",
+      "zh": "愛我吧！"
+    },
+    {
+      "ja": "まっさらぴんのブルージーンズ",
+      "romaji": "Massara Pin no Buruu Jiinzu",
+      "en": "Brand-new blue jeans",
+      "zh": "全新的藍色牛仔褲"
+    },
+    {
+      "ja": "何気に着崩して",
+      "romaji": "Nanige ni Kikuzushite",
+      "en": "Worn casually, a little loose",
+      "zh": "不經意地穿得隨性"
+    },
+    {
+      "ja": "大きな夢を翳したら",
+      "romaji": "Ookina Yume wo Kazashitara",
+      "en": "When I hold up a big dream",
+      "zh": "高舉大大的夢想"
+    },
+    {
+      "ja": "美人になった",
+      "romaji": "Bijin ni Natta",
+      "en": "I became beautiful",
+      "zh": "就變漂亮了"
+    },
+    {
+      "ja": "まっさらぴんのブルージーンズ",
+      "romaji": "Massara Pin no Buruu Jiinzu",
+      "en": "Brand-new blue jeans",
+      "zh": "全新的藍色牛仔褲"
+    },
+    {
+      "ja": "おもいっきり汚して",
+      "romaji": "Omoikkiri Yogoshite",
+      "en": "Get them completely dirty",
+      "zh": "盡情弄髒"
+    },
+    {
+      "ja": "そこから始まる神秘は",
+      "romaji": "Soko kara Hajimaru Shinpi ha",
+      "en": "The mystery that begins from there",
+      "zh": "從那裡開始的神秘"
+    },
+    {
+      "ja": "分析不能さ",
+      "romaji": "Bunseki Funou sa",
+      "en": "Defies analysis",
+      "zh": "無法分析"
+    },
+    {
+      "ja": "まっさらぴんの青春",
+      "romaji": "Massara Pin no Seishun",
+      "en": "Brand-new youth",
+      "zh": "全新的青春"
+    },
+    {
+      "ja": "おもいっきり　はしゃいで",
+      "romaji": "Omoikkiri Hashaide",
+      "en": "Frolic with all your might",
+      "zh": "盡情嬉鬧"
+    },
+    {
+      "ja": "週末の夜の気分で",
+      "romaji": "Shuumatsu no Yoru no Kibun de",
+      "en": "In a weekend night mood",
+      "zh": "以週末夜晚的心情"
+    },
+    {
+      "ja": "Take me out!",
+      "romaji": "Take Me Out!",
+      "en": "Take me out!",
+      "zh": "帶我出去！"
+    },
+    {
+      "ja": "All long time",
+      "romaji": "All Long Time",
+      "en": "All long time",
+      "zh": "一直以來"
+    },
+    {
+      "ja": "ドタバタしてても",
+      "romaji": "Dotabata Shite te mo",
+      "en": "Even if it's chaotic",
+      "zh": "即使忙亂吵鬧"
+    },
+    {
+      "ja": "LOVE ME!×4",
+      "romaji": "LOVE ME! ×4",
+      "en": "Love me! ×4",
+      "zh": "愛我吧！×4"
+    },
+    {
+      "ja": "めちゃくちゃしたいの",
+      "romaji": "Mechakucha Shitai no",
+      "en": "I want to go crazy",
+      "zh": "想盡情瘋狂"
+    },
+    {
+      "ja": "LOVE ME DO!",
+      "romaji": "LOVE ME DO!",
+      "en": "Love me do!",
+      "zh": "愛我吧！"
+    },
+    {
+      "ja": "ドタバタしてても",
+      "romaji": "Dotabata Shite te mo",
+      "en": "Even if it's chaotic",
+      "zh": "即使忙亂吵鬧"
+    },
+    {
+      "ja": "LOVE ME!×4",
+      "romaji": "LOVE ME! ×4",
+      "en": "Love me! ×4",
+      "zh": "愛我吧！×4"
+    },
+    {
+      "ja": "めちゃくちゃしたいの",
+      "romaji": "Mechakucha Shitai no",
+      "en": "I want to go crazy",
+      "zh": "想盡情瘋狂"
+    },
+    {
+      "ja": "LOVE ME DO!",
+      "romaji": "LOVE ME DO!",
+      "en": "Love me do!",
+      "zh": "愛我吧！"
+    }
+  ]
+}
