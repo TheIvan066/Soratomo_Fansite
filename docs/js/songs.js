@@ -43,6 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
             legendAction: "Action",
             btnLabel: "English",
             legendPenlight: "Penlight Colour",
+            guide: "Guide",
             callGuideText: "P : Claps (Crotchet) | p : Claps (Quaver) | ℗ : Claps (Semiquaver) | - : Crotchet | = : Quaver | ≣ : Semiquaver | 🔁 : Penlight Circle",
             linksTitle: "Links"
         },
@@ -60,6 +61,7 @@ document.addEventListener("DOMContentLoaded", () => {
             legendCall: "Call",
             legendAction: "動作",
             btnLabel: "繁中",
+            guide: "符號説明",
             legendPenlight: "Penlight 顔色",
             callGuideText: "P : 拍手 (四分音符) | p : 拍手 (八分音符)| ℗ : 拍手 (十六分音符) | - : 四分音符 | = : 八分音符 | ≣ : 十六分音符 | 🔁 : Penlight 轉圈",
             linksTitle: "連結"
@@ -79,6 +81,7 @@ document.addEventListener("DOMContentLoaded", () => {
             legendAction: "アクション",
             btnLabel: "日本語",
             legendPenlight: "サイリュームカラー",
+            guide: "符号説明",
             callGuideText: "P : 拍手 (四分音符) | p : 拍手 (八分音符) | ℗ : 拍手 (十六分音符) | - : 四分音符 | = : 八分音符 | ≣ : 十六分音符 | 🔁 : ペンライトグルグル",
             linksTitle: "リンク"
         }
@@ -165,27 +168,26 @@ document.addEventListener("DOMContentLoaded", () => {
         renderAppLayout();
     }
 
-function renderAppLayout() {
+    function renderAppLayout() {
         const t = uiTranslations[globalLanguage];
 
-        // Row 1 Metadata (Artist, Composer, Lyricist)
+        // Row 1 Metadata (Artist, Composer, Lyricist)[cite: 1]
         let row1Details = [`<i class="fa-solid fa-microphone-lines text-sky-400 mr-1"></i> ${t.artist}: ${songData.meta.artist}`];
         if (songData.meta.composer) row1Details.push(`${t.composer}: ${songData.meta.composer}`);
         if (songData.meta.lyricist) row1Details.push(`${t.lyricist}: ${songData.meta.lyricist}`);
 
-        // Row 2 Metadata (Album, Release Date, Description)
+        // Row 2 Metadata (Album, Release Date, Description)[cite: 1]
         let row2Details = [];
         if (songData.meta.album) row2Details.push(`${t.album}: ${songData.meta.album}`);
         if (songData.meta.releaseDate) row2Details.push(`${t.releaseDate}: ${songData.meta.releaseDate}`);
 
-        // Logic for Links Dropdown
+        // Logic for Links Dropdown[cite: 1]
         let linksDropdownHtml = '';
         if (songData.meta.links && songData.meta.links.length > 0) {
             let linksItems = songData.meta.links.map(link =>
                 `<a href="${link.url}" target="_blank" rel="noopener noreferrer" class="block text-sky-400 hover:text-sky-300 hover:bg-slate-800 dark:hover:bg-slate-700 px-3 py-1.5 rounded transition-colors whitespace-nowrap text-left">${link.name}</a>`
             ).join("");
 
-            // Note: Added pt-2 (padding-top) to act as a physical bridge for the mouse
             linksDropdownHtml = `
                 <div id="links-wrapper" class="relative inline-block">
                     <span id="links-trigger" class="cursor-pointer text-sky-500 hover:text-sky-400">
@@ -209,11 +211,9 @@ function renderAppLayout() {
                     <h1 class="text-4xl font-black tracking-tight text-center sm:text-left" style="color: #0146ea;">
                         ${songData.meta.title}
                     </h1>
-                    <!-- Changed p to div to allow block-level dropdowns -->
                     <div class="text-xs text-slate-200 font-black tracking-wide text-center sm:text-left">
                         ${row1Details.join(' &nbsp;|&nbsp; ')}
                     </div>
-                    <!-- Changed p to div -->
                     <div class="text-xs text-slate-400 font-black tracking-wide text-center sm:text-left flex flex-wrap justify-center sm:justify-start gap-x-2">
                         ${row2Details.join(' &nbsp;|&nbsp; ')}
                     </div>
@@ -257,16 +257,16 @@ function renderAppLayout() {
                             <div class="text-[10px] uppercase tracking-wider font-black text-slate-400 mr-1">${t.legendTitle}</div>
                             <div class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded bg-sky-500 border border-sky-600"></span> <span class="text-slate-600 dark:text-slate-400">${t.legendLyrics}</span></div>
                             <div class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded bg-rose-500 border border-rose-600"></span> <span class="text-slate-600 dark:text-slate-400">${t.legendCall}</span></div>
-                            <div class="flex items-center gap-1.5">
+                            <div class="flex items-center gap-1.5 relative">
                                 <span class="w-2.5 h-2.5 rounded bg-amber-500 border border-amber-600"></span> 
-                                <span class="text-slate-600 dark:text-slate-400 flex items-center gap-1">
+                                <span class="text-slate-600 dark:text-slate-400 flex items-center gap-1 relative">
                                     ${t.legendAction} 
-                                    <span class="relative group cursor-help text-[10px] font-bold text-slate-400 dark:text-slate-500 hover:text-slate-600 dark:hover:text-slate-300 transition-colors">
-                                        (Guide)
-                                        <span class="absolute left-1/2 -translate-x-1/2 bottom-full mb-2 hidden group-hover:inline-block bg-slate-900 text-white dark:bg-white dark:text-slate-900 text-[10px] font-normal rounded p-2 shadow-xl whitespace-nowrap z-50 pointer-events-none border border-slate-700/30">
-                                            ${t.callGuideText}
-                                        </span>
-                                    </span>
+                                    <button id="call-guide-btn" type="button" class="text-[10px] font-bold text-slate-400 dark:text-slate-500 hover:text-slate-600 dark:hover:text-slate-300 transition-colors underline cursor-pointer ml-1 bg-transparent border-none p-0">
+                                        ${t.guide}
+                                    </button>
+                                    <div id="call-guide-popup" class="absolute left-1/2 -translate-x-1/2 bottom-full mb-2 hidden bg-slate-900 text-white dark:bg-white dark:text-slate-900 text-[10px] font-normal rounded p-2.5 shadow-xl w-64 sm:w-72 text-center z-50 border border-slate-700/30 leading-relaxed">
+                                        ${t.callGuideText}
+                                    </div>
                                 </span>
                             </div>
                             <div class="flex items-center gap-1.5 flex-wrap">
@@ -307,8 +307,8 @@ function renderAppLayout() {
             </div>
         `;
 
-        // Attach event listeners for the dropdown
-       const wrapper = document.getElementById("links-wrapper");
+        // Attach event listeners for the dropdown[cite: 1]
+        const wrapper = document.getElementById("links-wrapper");
         const menu = document.getElementById("links-dropdown-menu");
 
         if (wrapper && menu) {
@@ -320,7 +320,29 @@ function renderAppLayout() {
             });
         }
 
-        // Restore active selection key
+        // Attach event listeners for the Call Guide popup toggle
+        const guideBtn = document.getElementById("call-guide-btn");
+        const guidePopup = document.getElementById("call-guide-popup");
+
+        if (guideBtn && guidePopup) {
+            guideBtn.addEventListener("click", (e) => {
+                e.stopPropagation();
+                const isHidden = guidePopup.classList.contains("hidden");
+                if (isHidden) {
+                    guidePopup.classList.remove("hidden");
+                } else {
+                    guidePopup.classList.add("hidden");
+                }
+            });
+
+            document.addEventListener("click", (e) => {
+                if (!guideBtn.contains(e.target) && !guidePopup.contains(e.target)) {
+                    guidePopup.classList.add("hidden");
+                }
+            });
+        }
+
+        // Restore active selection key[cite: 1]
         const keyTransposer = document.getElementById("key-transposer");
         if (keyTransposer) {
             keyTransposer.value = currentKeyShift;
@@ -330,7 +352,7 @@ function renderAppLayout() {
             });
         }
 
-        // Global Loop Switcher
+        // Global Loop Switcher[cite: 1]
         document.getElementById("toggle-global-lang").onclick = () => {
             if (globalLanguage === "en") globalLanguage = "zh";
             else if (globalLanguage === "zh") globalLanguage = "ja";
@@ -369,7 +391,6 @@ function renderAppLayout() {
 
                 if (line.t) {
                     let textSpan = document.createElement("div");
-                    // Overridden to always render layout text elements as clean blue segments in chords section
                     textSpan.className = "text-base font-medium text-sky-600 dark:text-sky-400";
                     textSpan.textContent = line.t;
                     lineRow.appendChild(textSpan);
@@ -392,7 +413,6 @@ function renderAppLayout() {
         }
 
         if (!songData.calls) return;
-
 
         songData.calls.forEach(item => {
             let block = document.createElement("div");
@@ -454,7 +474,6 @@ function renderAppLayout() {
                 notesHtml = `<div class="grid grid-cols-1 sm:grid-cols-2 gap-1.5 mt-2">${noteItems}</div>`;
             }
 
-            // Forced to clean white configuration styling rules across all screens
             let lyricStyle = "text-white dark:text-white";
 
             let lineBlock = document.createElement("div");
