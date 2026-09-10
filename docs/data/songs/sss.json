@@ -1,0 +1,753 @@
+{
+  "meta": {
+    "title": "Shiny Smily Story",
+    "artist": "hololive IDOL PROJECT",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "中野領太（onetrap）",
+    "lyricist": "金丸佳史（onetrap）",
+    "album": "Shiny Smily Story",
+    "releaseDate": "2019/09/16",
+    "coverUrl": "cover_images/sss",
+    "penlight_color": [
+      "#0000ff"
+    ],
+    "links": [
+      {
+        "name": "Official Ver",
+        "url": "https://youtu.be/Kn066hDKjx4?si=7_zUmSKuvpYc-XDn"
+      },
+      {
+        "name": "Boquet Ver",
+        "url": "https://youtu.be/xHSiqR5rGwo?si=g8chGCREN7jNcABR"
+      },
+      {
+        "name": "2022 Ver",
+        "url": "https://youtu.be/i_Cm8Jbvc-4?si=A5Tiof19Gx5w3N9u"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    },
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "同じ未来を見ていたい",
+      "call": ""
+    },
+    {
+      "lyrics": "あの夢手にしたい",
+      "call": ""
+    },
+    {
+      "lyrics": "それぞれ 違った",
+      "call": ""
+    },
+    {
+      "lyrics": "ココロで 走れ go!",
+      "call": "               走れ go!"
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×3"
+    },
+    {
+      "lyrics": "",
+      "call": "ホロライブ！"
+    },
+    {
+      "lyrics": "どこを見ても真っ暗な",
+      "call": ""
+    },
+    {
+      "lyrics": "場所に芽生えてた",
+      "call": ""
+    },
+    {
+      "lyrics": "ほんの小さな希望に",
+      "call": ""
+    },
+    {
+      "lyrics": "この瞳奪われた",
+      "call": "                        フー！！"
+    },
+    {
+      "lyrics": "不安で揺れる心を",
+      "call": ""
+    },
+    {
+      "lyrics": "上手くチューニングして",
+      "call": ""
+    },
+    {
+      "lyrics": "ほんの小さな勇気を",
+      "call": "                               せーの！"
+    },
+    {
+      "lyrics": "振り絞っていたよ",
+      "call": "ハーイ！ハーイ！ハイハイハイハイ！"
+    },
+    {
+      "lyrics": "諦めの文字",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "デリートして進む",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "苦しいときも",
+      "call": "",
+      "extra_row": true,
+      "action": "                      pp"
+    },
+    {
+      "lyrics": "もう私は - ひとりじゃないから",
+      "call": "                  ひとりじゃないから",
+      "extra_row": true,
+      "action": "              pp"
+    },
+    {
+      "lyrics": "だからもっと夢追いかけたい",
+      "call": "                                            フフー！！"
+    },
+    {
+      "lyrics": "ワクワク止まらない",
+      "call": "                               フフー！！"
+    },
+    {
+      "lyrics": "想像 越えてく",
+      "call": "",
+      "extra_row": true,
+      "action": "       pp         pp"
+    },
+    {
+      "lyrics": "世界見せてあげる",
+      "call": "                         ﾌﾜﾌﾜﾌﾜﾌﾜ!"
+    },
+    {
+      "lyrics": "アクセスしてみたい",
+      "call": "                              フフー！！"
+    },
+    {
+      "lyrics": "後悔なんてそうさせない",
+      "call": "                                      フフー！！"
+    },
+    {
+      "lyrics": "それぞれ 違った",
+      "call": "",
+      "extra_row": true,
+      "action": "              pp        pp"
+    },
+    {
+      "lyrics": "ココロで 走れ go!",
+      "call": "               走れ go!"
+    },
+    {
+      "lyrics": "仮想の空に輝く",
+      "call": ""
+    },
+    {
+      "lyrics": "眩しい想いは",
+      "call": ""
+    },
+    {
+      "lyrics": "見たことのない光を",
+      "call": ""
+    },
+    {
+      "lyrics": "現実に届ける",
+      "call": "                     フー！！"
+    },
+    {
+      "lyrics": "いつも聞こえるエールは",
+      "call": ""
+    },
+    {
+      "lyrics": "ここにキャプチャーして",
+      "call": ""
+    },
+    {
+      "lyrics": "また新しい光を",
+      "call": "                       せーの！"
+    },
+    {
+      "lyrics": "探したくなるよ",
+      "call": "ハーイ！ハーイ！ハイハイハイハイ！"
+    },
+    {
+      "lyrics": "君の笑顔は",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "保存して進む",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "悲しい時に 見返すよ",
+      "call": "",
+      "extra_row": true,
+      "action": "                pp           pp"
+    },
+    {
+      "lyrics": "力が湧くから",
+      "call": "力が湧くから"
+    },
+    {
+      "lyrics": "胸を張って夢追いかけたい",
+      "call": "                                         フフー！！"
+    },
+    {
+      "lyrics": "奇跡の物語",
+      "call": "                 フフー！！"
+    },
+    {
+      "lyrics": "一緒に 作ろう",
+      "call": "",
+      "extra_row": true,
+      "action": "           pp        pp"
+    },
+    {
+      "lyrics": "終わらない夢を",
+      "call": "                      ﾌﾜﾌﾜﾌﾜﾌﾜ!"
+    },
+    {
+      "lyrics": "誰一人欠かせない",
+      "call": "                            フフー！！"
+    },
+    {
+      "lyrics": "愛が舞ったこの世界",
+      "call": "                                フフー！！"
+    },
+    {
+      "lyrics": "それぞれ 違った",
+      "call": "",
+      "extra_row": true,
+      "action": "              pp         pp"
+    },
+    {
+      "lyrics": "ココロで 彩れ",
+      "call": "               彩れ"
+    },
+     {
+      "lyrics": "",
+      "call": "",
+      "extra_row": true,
+      "action": "= p = p = p = ℗℗ ×4"
+    },
+    {
+      "lyrics": "悲しときも 寂しときも",
+      "call": ""
+    },
+    {
+      "lyrics": "信じ合えるものがある",
+      "call": ""
+    },
+    {
+      "lyrics": "忘れずにこの鼓動",
+      "call": ""
+    },
+    {
+      "lyrics": "鳴らし続けたい",
+      "call": ""
+    },
+    {
+      "lyrics": "終わらない世界に",
+      "call": ""
+    },
+    {
+      "lyrics": "溢れ出すよ笑顔達",
+      "call": ""
+    },
+    {
+      "lyrics": "憧れの舞台立ちたい",
+      "call": ""
+    },
+    {
+      "lyrics": "らしく輝きたい",
+      "call": ""
+    },
+    {
+      "lyrics": "時に涙して",
+      "call": ""
+    },
+    {
+      "lyrics": "また笑い合いたい",
+      "call": ""
+    },
+    {
+      "lyrics": "同じ未来を見たい",
+      "call": ""
+    },
+    {
+      "lyrics": "あの夢手にしたい",
+      "call": ""
+    },
+    {
+      "lyrics": "踏み出そう",
+      "call": ""
+    },
+    {
+      "lyrics": "奇跡の一歩を",
+      "call": ""
+    },
+    {
+      "lyrics": "息切らして夢追いかけたい",
+      "call": "                                         フフー！！"
+    },
+    {
+      "lyrics": "ワクワク止まらない",
+      "call": "ハイ！ハイ！ハイ！ハイ！"
+    },
+    {
+      "lyrics": "想像 越えてく",
+      "call": "",
+      "extra_row": true,
+      "action": "       pp         pp"
+    },
+    {
+      "lyrics": "世界見せてあげる",
+      "call": "                         ﾌﾜﾌﾜﾌﾜﾌﾜ!"
+    },
+    {
+      "lyrics": "アクセスしてみない?",
+      "call": "                               フフー！！"
+    },
+    {
+      "lyrics": "後悔なんてここにない",
+      "call": "                                  フフー！！"
+    },
+    {
+      "lyrics": "それぞれ 違った",
+      "call": "",
+      "extra_row": true,
+      "action": "              pp        pp"
+    },
+    {
+      "lyrics": "ココロで 作る world",
+      "call": "               作る world"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "同じ未来を見ていたい",
+      "romaji": "Onaji Mirai wo Mite Itai",
+      "en": "I want to see the same future",
+      "zh": "想看著相同的未來"
+    },
+    {
+      "ja": "あの夢手にしたい",
+      "romaji": "Ano Yume Te ni Shitai",
+      "en": "I want to hold that dream in my hands",
+      "zh": "想將那個夢想握在手中"
+    },
+    {
+      "ja": "それぞれ 違った",
+      "romaji": "Sorezore Chigatta",
+      "en": "Each with different hearts",
+      "zh": "各自懷著不同的心"
+    },
+    {
+      "ja": "ココロで 走れ go!",
+      "romaji": "Kokoro de Hashire Go!",
+      "en": "Run with your heart—go!",
+      "zh": "用心奔跑，go！"
+    },
+    {
+      "ja": "どこを見ても真っ暗な",
+      "romaji": "Doko wo Mite mo Makkura na",
+      "en": "In a place that was pitch-black no matter where I looked",
+      "zh": "無論看向何處都是一片漆黑的地方"
+    },
+    {
+      "ja": "場所に芽生えてた",
+      "romaji": "Basho ni Mebaeteta",
+      "en": "There, a tiny hope had sprouted",
+      "zh": "在那裡萌芽了"
+    },
+    {
+      "ja": "ほんの小さな希望に",
+      "romaji": "Honno Chiisana Kibou ni",
+      "en": "My eyes were stolen away",
+      "zh": "被那微小的希望"
+    },
+    {
+      "ja": "この瞳奪われた",
+      "romaji": "Kono Hitomi Ubawareta",
+      "en": "By that tiny hope",
+      "zh": "奪去了目光"
+    },
+    {
+      "ja": "不安で揺れる心を",
+      "romaji": "Fuan de Yureru Kokoro wo",
+      "en": "I tuned my heart",
+      "zh": "將因不安而搖曳的心"
+    },
+    {
+      "ja": "上手くチューニングして",
+      "romaji": "Umaku Chuuningu Shite",
+      "en": "That wavered with anxiety",
+      "zh": "好好地調整"
+    },
+    {
+      "ja": "ほんの小さな勇気を",
+      "romaji": "Honno Chiisana Yuuki wo",
+      "en": "And squeezed out",
+      "zh": "擠出了"
+    },
+    {
+      "ja": "振り絞っていたよ",
+      "romaji": "Furishibotte Ita yo",
+      "en": "Just a tiny bit of courage",
+      "zh": "微小的勇氣"
+    },
+    {
+      "ja": "諦めの文字",
+      "romaji": "Akirame no Moji",
+      "en": "I delete the word \"giving up\"",
+      "zh": "將放棄二字"
+    },
+    {
+      "ja": "デリートして進む",
+      "romaji": "Deriito Shite Susumu",
+      "en": "And move forward",
+      "zh": "刪除後繼續前進"
+    },
+    {
+      "ja": "苦しいときも",
+      "romaji": "Kurushii Toki mo",
+      "en": "Even in painful times",
+      "zh": "痛苦的時候也好"
+    },
+    {
+      "ja": "もう私は ひとりじゃないから",
+      "romaji": "Mou Watashi ha Hitori ja Nai kara",
+      "en": "Because I'm no longer alone",
+      "zh": "因為我已經不是一個人了"
+    },
+    {
+      "ja": "だからもっと夢追いかけたい",
+      "romaji": "Dakara Motto Yume Oikaketai",
+      "en": "So I want to chase my dream even more",
+      "zh": "所以想更加追逐夢想"
+    },
+    {
+      "ja": "ワクワク止まらない",
+      "romaji": "Wakuwaku Tomaranai",
+      "en": "The excitement won't stop",
+      "zh": "興奮停不下來"
+    },
+    {
+      "ja": "想像 越えてく",
+      "romaji": "Souzou Koeteku",
+      "en": "I'll show you a world beyond imagination",
+      "zh": "帶你去看超越想像的世界"
+    },
+    {
+      "ja": "世界見せてあげる",
+      "romaji": "Sekai Misete Ageru",
+      "en": "I'll show you a world",
+      "zh": "讓你看看"
+    },
+    {
+      "ja": "アクセスしてみたい",
+      "romaji": "Akusesu Shite Mitai",
+      "en": "I want to try accessing it",
+      "zh": "好想試著去連結"
+    },
+    {
+      "ja": "後悔なんてそうさせない",
+      "romaji": "Koukai Nante Sou Sasenai",
+      "en": "I won't let you have regrets",
+      "zh": "不會讓你有任何後悔"
+    },
+    {
+      "ja": "それぞれ 違った",
+      "romaji": "Sorezore Chigatta",
+      "en": "Each with different hearts",
+      "zh": "各自懷著不同的心"
+    },
+    {
+      "ja": "ココロで 走れ go!",
+      "romaji": "Kokoro de Hashire Go!",
+      "en": "Run with your heart—go!",
+      "zh": "用心奔跑，go！"
+    },
+    {
+      "ja": "仮想の空に輝く",
+      "romaji": "Kasou no Sora ni Kagayaku",
+      "en": "These dazzling feelings shining in a virtual sky",
+      "zh": "在虛擬天空中閃耀的"
+    },
+    {
+      "ja": "眩しい想いは",
+      "romaji": "Mabushii Omoi ha",
+      "en": "Deliver a light I've never seen",
+      "zh": "耀眼情感"
+    },
+    {
+      "ja": "見たことのない光を",
+      "romaji": "Mita Koto no Nai Hikari wo",
+      "en": "Into reality",
+      "zh": "將前所未見的光芒"
+    },
+    {
+      "ja": "現実に届ける",
+      "romaji": "Genjitsu ni Todokeru",
+      "en": "Those dazzling feelings",
+      "zh": "傳遞到現實"
+    },
+    {
+      "ja": "いつも聞こえるエールは",
+      "romaji": "Itsumo Kikoeru Eeru ha",
+      "en": "I capture the cheers I always hear",
+      "zh": "將總是傳來的聲援"
+    },
+    {
+      "ja": "ここにキャプチャーして",
+      "romaji": "Koko ni Kyapuchaa Shite",
+      "en": "Right here",
+      "zh": "捕捉於此"
+    },
+    {
+      "ja": "また新しい光を",
+      "romaji": "Mata Atarashii Hikari wo",
+      "en": "And I want to search for a new light again",
+      "zh": "又想再次尋找"
+    },
+    {
+      "ja": "探したくなるよ",
+      "romaji": "Sagashitaku Naru yo",
+      "en": "I feel like searching for it",
+      "zh": "新的光芒"
+    },
+    {
+      "ja": "君の笑顔は",
+      "romaji": "Kimi no Egao ha",
+      "en": "I save your smile",
+      "zh": "將你的笑容"
+    },
+    {
+      "ja": "保存して進む",
+      "romaji": "Hozon Shite Susumu",
+      "en": "And move forward",
+      "zh": "保存後繼續前進"
+    },
+    {
+      "ja": "悲しい時に 見返すよ",
+      "romaji": "Kanashii Toki ni Mikaesu yo",
+      "en": "When I'm sad, I'll look back at it",
+      "zh": "悲傷時會回頭看看"
+    },
+    {
+      "ja": "力が湧くから",
+      "romaji": "Chikara ga Waku kara",
+      "en": "Because it gives me strength",
+      "zh": "因為會湧出力量"
+    },
+    {
+      "ja": "胸を張って夢追いかけたい",
+      "romaji": "Mune wo Hatte Yume Oikaketai",
+      "en": "I want to chase my dream with pride",
+      "zh": "想挺起胸膛追逐夢想"
+    },
+    {
+      "ja": "奇跡の物語",
+      "romaji": "Kiseki no Monogatari",
+      "en": "A story of miracles",
+      "zh": "奇蹟的故事"
+    },
+    {
+      "ja": "一緒に 作ろう",
+      "romaji": "Issho ni Tsukurou",
+      "en": "Let's make it together",
+      "zh": "一起創造吧"
+    },
+    {
+      "ja": "終わらない夢を",
+      "romaji": "Owaranai Yume wo",
+      "en": "An endless dream",
+      "zh": "不會結束的夢"
+    },
+    {
+      "ja": "誰一人欠かせない",
+      "romaji": "Dare Hitori Kakasenai",
+      "en": "Not a single person can be missing",
+      "zh": "誰都不能缺少"
+    },
+    {
+      "ja": "愛が舞ったこの世界",
+      "romaji": "Ai ga Matta Kono Sekai",
+      "en": "In this world where love danced",
+      "zh": "愛飛舞的這個世界"
+    },
+    {
+      "ja": "それぞれ 違った",
+      "romaji": "Sorezore Chigatta",
+      "en": "Each with different hearts",
+      "zh": "各自懷著不同的心"
+    },
+    {
+      "ja": "ココロで 彩れ",
+      "romaji": "Kokoro de Irodore",
+      "en": "Color it with your heart",
+      "zh": "用心為它上色"
+    },
+    {
+      "ja": "悲しときも 寂しときも",
+      "romaji": "Kanashi Toki mo Sabishi Toki mo",
+      "en": "In sad times and lonely times",
+      "zh": "悲傷時也好，寂寞時也好"
+    },
+    {
+      "ja": "信じ合えるものがある",
+      "romaji": "Shinjiaeru Mono ga Aru",
+      "en": "There's something we can believe in together",
+      "zh": "有能互相信任的事物"
+    },
+    {
+      "ja": "忘れずにこの鼓動",
+      "romaji": "Wasurezu ni Kono Kodou",
+      "en": "Without forgetting this heartbeat",
+      "zh": "不忘記這份心跳"
+    },
+    {
+      "ja": "鳴らし続けたい",
+      "romaji": "Narashi Tsuzuketai",
+      "en": "I want to keep it beating",
+      "zh": "想讓它持續鳴響"
+    },
+    {
+      "ja": "終わらない世界に",
+      "romaji": "Owaranai Sekai ni",
+      "en": "In this endless world",
+      "zh": "在不會結束的世界裡"
+    },
+    {
+      "ja": "溢れ出すよ笑顔達",
+      "romaji": "Afuredasu yo Egao Tachi",
+      "en": "Smiles are overflowing",
+      "zh": "笑容滿溢而出"
+    },
+    {
+      "ja": "憧れの舞台立ちたい",
+      "romaji": "Akogare no Butai Tachitai",
+      "en": "I want to stand on the stage I've longed for",
+      "zh": "想站上憧憬的舞台"
+    },
+    {
+      "ja": "らしく輝きたい",
+      "romaji": "Rashiku Kagayakitai",
+      "en": "I want to shine as myself",
+      "zh": "想以自我風格閃耀"
+    },
+    {
+      "ja": "時に涙して",
+      "romaji": "Toki ni Namida Shite",
+      "en": "Sometimes crying",
+      "zh": "有時落淚"
+    },
+    {
+      "ja": "また笑い合いたい",
+      "romaji": "Mata Waraiaitai",
+      "en": "Then wanting to laugh together again",
+      "zh": "又想再次一起歡笑"
+    },
+    {
+      "ja": "同じ未来を見たい",
+      "romaji": "Onaji Mirai wo Mitai",
+      "en": "I want to see the same future",
+      "zh": "想看著相同的未來"
+    },
+    {
+      "ja": "あの夢手にしたい",
+      "romaji": "Ano Yume Te ni Shitai",
+      "en": "I want to hold that dream in my hands",
+      "zh": "想將那個夢想握在手中"
+    },
+    {
+      "ja": "踏み出そう",
+      "romaji": "Fumidasou",
+      "en": "Let's step forward",
+      "zh": "邁出步伐吧"
+    },
+    {
+      "ja": "奇跡の一歩を",
+      "romaji": "Kiseki no Ippo wo",
+      "en": "A miraculous first step",
+      "zh": "奇蹟的一步"
+    },
+    {
+      "ja": "息切らして夢追いかけたい",
+      "romaji": "Iki Kirashite Yume Oikaketai",
+      "en": "Breathless, I want to chase my dream",
+      "zh": "氣喘吁吁也想追逐夢想"
+    },
+    {
+      "ja": "ワクワク止まらない",
+      "romaji": "Wakuwaku Tomaranai",
+      "en": "The excitement won't stop",
+      "zh": "興奮停不下來"
+    },
+    {
+      "ja": "想像 越えてく",
+      "romaji": "Souzou Koeteku",
+      "en": "Beyond imagination",
+      "zh": "超越想像"
+    },
+    {
+      "ja": "世界見せてあげる",
+      "romaji": "Sekai Misete Ageru",
+      "en": "I'll show you a world",
+      "zh": "帶你去看世界"
+    },
+    {
+      "ja": "アクセスしてみない?",
+      "romaji": "Akusesu Shite Minai?",
+      "en": "Won't you try accessing it?",
+      "zh": "要不要試著連結看看？"
+    },
+    {
+      "ja": "後悔なんてここにない",
+      "romaji": "Koukai Nante Koko ni Nai",
+      "en": "There are no regrets here",
+      "zh": "這裡沒有後悔"
+    },
+    {
+      "ja": "それぞれ 違った",
+      "romaji": "Sorezore Chigatta",
+      "en": "Each with different hearts",
+      "zh": "各自懷著不同的心"
+    },
+    {
+      "ja": "ココロで 作る world",
+      "romaji": "Kokoro de Tsukuru World",
+      "en": "A world made with our hearts",
+      "zh": "用心創造的世界"
+    }
+  ]
+}

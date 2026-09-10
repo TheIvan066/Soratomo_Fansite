@@ -2,7 +2,7 @@
   "meta": {
     "title": "青空のシンフォニー",
     "artist": "ときのそら",
-    "originalKey": "Em",
+    "originalKey": "C",
     "capo": "",
     "description": "",
     "composer": "ときのそら",
@@ -26,11 +26,205 @@
   },
   "chords": [
     {
-      "section": "※※※※※",
+      "section": "Intro",
       "lines": [
         {
-          "c": "Coming Soon!",
-          "t": "Coming Soon!"
+          "c": "FM7     G7      Em7     Am7",
+          "t": "----  ----| ----  >>>>|"
+        },
+        {
+          "c": "F       G      Csus4 C    G",
+          "t": "----  ----| --  --  ----|"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "  C         G/B          Am7      G/B",
+          "t": "(が)んばる(こ)とに　(夢)中で()"
+        },
+        {
+          "c": "        F          Gsus4      Em7                A7",
+          "t": "後[う(し)]ろを見(る)余裕(も)　なかったよ(ね)"
+        },
+        {
+          "c": "     F            Gsus4        G             Em7            Am",
+          "t": "ふ(と)深く息[い(き)]吸っ(て)　周りを(見)渡したな(ら)"
+        },
+        {
+          "c": "       F             G",
+          "t": "きっ(と)見つかる(よ)"
+        },
+        {
+          "c": "           C        C7",
+          "t": "キミの居(場)所が()"
+        },
+        {
+          "c": " FM7                Fm7       Em7            A7",
+          "t": "(い)つだってキミ(を)　支(え)ていきた(い)"
+        },
+        {
+          "c": "      FM7         Fm7           Em7         A7",
+          "t": "怖が(ら)ないで(ね)　こっち(を)向いて(よ)"
+        },
+        {
+          "c": " FM7         Fm7         Em7       E7        Am7",
+          "t": "(小)さな一(歩)　踏み(出)した(と)きか(ら)"
+        },
+        {
+          "c": "       F                         G",
+          "t": "未来(は)　変わってくはずだ(よ)"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "         C                 G/B",
+          "t": "どんな(と)きでも　傍に(い)るから"
+        },
+        {
+          "c": "        Am           A#       C7  FM7",
+          "t": "これか(ら)先も　(ず)っと(一)(緒)だよ"
+        },
+        {
+          "c": "       G                  Em7               Am",
+          "t": "いつ(で)も　見守[みま(も)]っているか(ら)ね"
+        },
+        {
+          "c": "       FM7             E7                    Am        G        D/F#",
+          "t": "諦[あ(き)ら]めない(で)　空に向かって(手)を伸(ば)した(ら)"
+        },
+        {
+          "c": "         F           G",
+          "t": "たしか(に)見える(よ)"
+        },
+        {
+          "c": "     Csus4  C",
+          "t": "輝く(星)(が)"
+        },
+        {
+          "c": "FM7     Fm     Csus4   C",
+          "t": "----  ----| >>>>  >>>>|"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "  C       G/B            Am7      G/B",
+          "t": "(夜)空を(見)上げ一人[(ひ)とり()]"
+        },
+        {
+          "c": "     F           Gsus4                 Em7                  A7",
+          "t": "泣(き)だしそう(な)　わたしを包み(込)んでくれたの(が)"
+        },
+        {
+          "c": "    F         Gsus4",
+          "t": "「(大)丈夫だ(よ)」"
+        },
+        {
+          "c": "      G             Em7                Am",
+          "t": "その(何)気ない　(キ)ミの一言[ご(と)]"
+        },
+        {
+          "c": "         F         G           C      C7",
+          "t": "不思議(と)　力(が)溢れて(く)る(の)"
+        },
+        {
+          "c": "   FM7",
+          "t": "「(と)まりたくない」"
+        },
+        {
+          "c": " Fm7             Em7               A7",
+          "t": "(自)分に嘘[う(そ)]は　つけな(い)から"
+        },
+        {
+          "c": "      F                            Gsus4  G",
+          "t": "わた(し)、いまもここに立ってる(の)"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "      C                 G/B",
+          "t": "光り(輝)く　青色[い(ろ)]の海"
+        },
+        {
+          "c": "      Am             A#     C7  FM7",
+          "t": "忘れ(ら)れない　(思)い(出)(を)また"
+        },
+        {
+          "c": "       G                  Em7               Am",
+          "t": "キミ(と)一緒に　作[つ(く)]っていきた(い)の"
+        },
+        {
+          "c": "   FM7            E7                 Am      G     D/F#",
+          "t": "あ(の)ステージ(の)奥に　見える(夢)の(先)ま(で)"
+        },
+        {
+          "c": "     F               G",
+          "t": "必(ず)　連れてく(と)"
+        },
+        {
+          "c": "     Csus4    C",
+          "t": "約束(す)る(よ)"
+        },
+        {
+          "c": "FM7     E7      Am",
+          "t": "----  ----| ----  ----|"
+        },
+        {
+          "c": "FM7             Gsus4   G >  >  G# ",
+          "t": "----  ----| ----  > > > >|"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3 - Key C#",
+      "lines": [
+        {
+          "c": "     F#M7              G#      A",
+          "t": "辛い(時)でも　苦し(い)時(も)"
+        },
+        {
+          "c": "Asus4      F#m         Bm           GM7",
+          "t": "(み)んな(で)手を繋(い)で進[す(す)]もう"
+        },
+        {
+          "c": "  A#dim            Bm         Bm  A#m Am",
+          "t": "曇(っ)ていた　(心)晴れる(よ) > >"
+        },
+        {
+          "c": "          G            F#7                    Bm       A     E7/G",
+          "t": "一人[ひ(と)り]一人(の)言の葉が　虹[に(じ)]の(よ)う(に)空へ"
+        },
+        {
+          "c": "       G           A                 Dsus4    D",
+          "t": "広が(り)　創る(よ)　七色の世界[(せ)か(い)]"
+        },
+        {
+          "c": "         G      A                  D       X",
+          "t": "ここか(ら)新(し)いときが　始(ま)る(よ)"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "GM7     A7      F#m7   Am7",
+          "t": "----  ----| ----  >>>>|"
+        },
+        {
+          "c": "G      rit. A      Cadd9 C",
+          "t": "----     ----| --  --  ----|"
         }
       ]
     }
@@ -167,7 +361,6 @@
       "call": "        プローミースユー",
       "extra_row": true,
       "action": "(at \"す\")                                                   プロ―\uD834\uDD5EF  ミス\uD834\uDD5EF  ユー\uD834\uDD5DE"
-
     },
     {
       "lyrics": "",
@@ -202,7 +395,6 @@
       "call": "          レインボースカーイ",
       "extra_row": true,
       "action": "(at \"せ\")                                                         レイン\uD834\uDD5EG  ボー\uD834\uDD5EG  スカーイ\uD834\uDD5DF#"
-
     },
     {
       "lyrics": "ここから新しいときが始まるよ",
@@ -211,40 +403,52 @@
   ],
   "lyrics": [
     {
-      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
-      "romaji": "",
-      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
-      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
-    },
-    {
       "ja": "がんばることに夢中で",
       "romaji": "Ganbaru Koto ni Muchuu de",
-      "en": "So absorbed in doing your best",
-      "zh": "專注於努力奮鬥"
+      "en": "So lost in the rush to give it all",
+      "zh": "埋首拚命向前",
+      "notes": [
+        {
+          "word": "夢中",
+          "meaning": "to be dedicated in sth 忘我地沈醉"
+        }
+      ]
     },
     {
       "ja": "後ろを見る余裕もなかったよね",
       "romaji": "Ushiro wo Miru Yoyuu mo Nakatta yo ne",
-      "en": "You had no room to look back, did you?",
-      "zh": "連回頭看看的餘裕都沒有呢"
+      "en": "and you left no room to spare a glance behind, did you?",
+      "zh": "連回首的餘暇也沒有留給自己呢"
     },
     {
       "ja": "ふと深く息吸って周りを見渡したなら",
       "romaji": "Futo Fukaku Iki Sutte Mawari wo Miwatashita Nara",
-      "en": "If you suddenly take a deep breath and look around",
-      "zh": "若深深吸一口氣，環顧四周"
+      "en": "If you take a deep breath and look around",
+      "zh": "若你深深吸一口氣，環顧四周，",
+      "notes": [
+        {
+          "word": "ふと",
+          "meaning": "out of the blue 不經意地"
+        }
+      ]
     },
     {
       "ja": "きっと見つかるよ",
       "romaji": "Kitto Mitsukaru yo",
-      "en": "You'll surely find it",
-      "zh": "一定能找到的"
+      "en": "You'll surely find it - ",
+      "zh": "你定能找到的"
     },
     {
       "ja": "キミの居場所が",
       "romaji": "Kimi no Ibasho ga",
-      "en": "Your place to belong",
-      "zh": "屬於你的歸宿"
+      "en": "the place to belong",
+      "zh": "那屬於你的歸宿",
+      "notes": [
+        {
+          "word": "居場所",
+          "meaning": "the place one belong 容身之所"
+        }
+      ]
     },
     {
       "ja": "いつだってキミを支えていきたい",
@@ -255,86 +459,92 @@
     {
       "ja": "怖がらないでね　こっちを向いてよ",
       "romaji": "Kowagaranaide ne Kocchi wo Muite yo",
-      "en": "Don't be afraid—turn this way",
-      "zh": "別害怕，看向這裡吧"
+      "en": "Don't be afraid — look at me",
+      "zh": "別害怕，望向我吧"
     },
     {
       "ja": "小さな一歩　踏み出したときから",
       "romaji": "Chiisana Ippo Fumidashita Toki kara",
       "en": "From the moment you take a small step forward",
-      "zh": "從邁出小小一步的那一刻起"
+      "zh": "從邁出那小小一步的一刻起"
     },
     {
       "ja": "未来は変わってくはずだよ",
       "romaji": "Mirai ha Kawatteku Hazu Da yo",
-      "en": "The future should begin to change",
-      "zh": "未來一定會隨之改變"
+      "en": "The future would begin to change",
+      "zh": "未來一定會隨之改變的",
+      "notes": [
+        {
+          "word": "はず",
+          "meaning": "should, be supposed to 應該"
+        }
+      ]
     },
     {
       "ja": "どんなときでも傍にいるから",
       "romaji": "Donna Toki demo Soba ni Iru kara",
-      "en": "Because I'm by your side no matter what",
-      "zh": "無論何時我都在你身旁"
+      "en": "I will be by your side whenever it is",
+      "zh": "無論何時我都會在你身旁"
     },
     {
       "ja": "これから先もずっと一緒だよ",
       "romaji": "Kore kara Saki mo Zutto Issho Da yo",
       "en": "From now on, we'll always be together",
-      "zh": "從今以後也永遠在一起"
+      "zh": "從今以後也永遠在一起喔"
     },
     {
       "ja": "いつでも見守っているからね",
       "romaji": "Itsu demo Mimamotte Iru kara ne",
-      "en": "I'm always watching over you, okay?",
+      "en": "I'll always be watching over you, okay?",
       "zh": "我會一直守護著你喔"
     },
     {
       "ja": "諦めないで空に向かって手を伸ばしたら",
       "romaji": "Akiramenaide Sora ni Mukatte Te wo Nobashitara",
-      "en": "If you don't give up and reach your hand toward the sky",
-      "zh": "不要放棄，向天空伸出手"
+      "en": "If you don't give up and reach your hand towards the sky",
+      "zh": "只要別放棄，向天空伸出手"
     },
     {
       "ja": "たしかに見えるよ",
       "romaji": "Tashika ni Mieru yo",
-      "en": "You can surely see it",
-      "zh": "一定能清楚看見"
+      "en": "You can definitely see it",
+      "zh": "便能清晰看見"
     },
     {
       "ja": "輝く星が",
       "romaji": "Kagayaku Hoshi ga",
       "en": "The shining stars",
-      "zh": "閃耀的星辰"
+      "zh": "那熠熠生輝的星光"
     },
     {
       "ja": "夜空を見上げ一人",
       "romaji": "Yozora wo Miage Hitori",
       "en": "Looking up at the night sky, alone",
-      "zh": "獨自仰望夜空"
+      "zh": "獨自一人仰望着夜空"
     },
     {
       "ja": "泣きだしそうな私を包み込んでくれたのは",
       "romaji": "Nakidashisou na Watashi wo Tsutsumikonde Kureta no ha",
-      "en": "What wrapped around me when I was about to cry",
-      "zh": "將快要落淚的我溫柔包覆的"
+      "en": "As I was about to cry,",
+      "zh": "快要落淚 - 是你那句不經意的"
     },
     {
       "ja": "「大丈夫だよ」",
       "romaji": "「Daijoubu Da yo」",
-      "en": "\"It's okay\"",
-      "zh": "「沒事的」"
+      "en": "it was your \"It's okay\", that softly held me tight",
+      "zh": "「沒事的」將我溫柔包裹"
     },
     {
       "ja": "その何気ないキミの一言",
       "romaji": "Sono Nanigenai Kimi no Hitokoto",
-      "en": "That casual little word from you",
-      "zh": "你不經意的一句話"
+      "en": "That casual word from you",
+      "zh": "你那不經意的一句話"
     },
     {
       "ja": "不思議と力が溢れてくるの",
       "romaji": "Fushigi to Chikara ga Afurete Kuru no",
-      "en": "Mysteriously fills me with strength",
-      "zh": "不可思議地湧出力量"
+      "en": "Mysteriously fills me with the strength to move forward",
+      "zh": "不可思議地，力氣就這樣湧了上來"
     },
     {
       "ja": "「とまりたくない」",
@@ -351,8 +561,8 @@
     {
       "ja": "わたし、いまもここに立ってるの",
       "romaji": "Watashi, Ima mo Koko ni Tatteru no",
-      "en": "I'm still standing here even now",
-      "zh": "我如今仍站在這裡"
+      "en": "I'm still standing here now",
+      "zh": "我如今仍然站在這裡"
     },
     {
       "ja": "光り輝く　青色の海",
@@ -363,68 +573,74 @@
     {
       "ja": "忘れられない思い出をまた",
       "romaji": "Wasurerarenai Omoide wo Mata",
-      "en": "Unforgettable memories, once again",
-      "zh": "難以忘懷的回憶，再一次"
+      "en": "Again and again, I want to keep building",
+      "zh": "難以忘懷的回憶，"
     },
     {
       "ja": "キミと一緒に作っていきたいの",
       "romaji": "Kimi to Issho ni Tsukutte Ikitai no",
-      "en": "I want to keep making them together with you",
-      "zh": "想和你一同創造下去"
+      "en": "unforgettable memories with you",
+      "zh": "想再一次和你一起創造下去"
     },
     {
       "ja": "あのステージの奥に見える夢の先まで",
       "romaji": "Ano Suteeji no Oku ni Mieru Yume no Saki made",
-      "en": "All the way to the dream visible beyond that stage",
-      "zh": "直到那舞台深處可見的夢想彼端"
+      "en": "All the way beyond the stage where the dream stretches on - ",
+      "zh": "直到那舞台的盡頭，夢想的彼端"
     },
     {
       "ja": "必ず　連れてくと",
       "romaji": "Kanarazu Tsureteku to",
-      "en": "I promise",
-      "zh": "必定會帶你前往"
+      "en": "I'll take you there",
+      "zh": "我一定會帶你到那裏的",
+      "notes": [
+        {
+          "word": "必ず",
+          "meaning": "definitely 一定"
+        }
+      ]
     },
     {
       "ja": "約束するよ",
       "romaji": "Yakusoku Suru yo",
-      "en": "I'll take you there",
+      "en": "I promise",
       "zh": "我向你保證"
     },
     {
       "ja": "辛い時でも　苦しい時も",
       "romaji": "Tsurai Toki demo Kurushii Toki mo",
-      "en": "In hard times, in painful times",
-      "zh": "無論艱辛時刻，還是痛苦時候"
+      "en": "No matter aching days, or in painful nights",
+      "zh": "無論艱辛也好，還是痛苦也好"
     },
     {
       "ja": "みんなで手を繋いで進もう",
       "romaji": "Minna de Te wo Tsunaide Susumou",
       "en": "Let's hold hands and move forward together",
-      "zh": "大家牽起手一同前進吧"
+      "zh": "大家牽着手一起前進吧"
     },
     {
       "ja": "曇っていた心晴れるよ",
       "romaji": "Kumotte Ita Kokoro Hareru yo",
-      "en": "Your cloudy heart will clear up",
-      "zh": "陰霾的心也會放晴"
+      "en": "The cloudy heart will clear up",
+      "zh": "汚雲密佈的心也會放晴"
     },
     {
       "ja": "一人一人の言の葉が虹のように空へ",
       "romaji": "Hitori Hitori no Kotonoha ga Niji no You ni Sora e",
-      "en": "Each person's words rise to the sky like a rainbow",
-      "zh": "每個人的話語如彩虹般升上天空"
+      "en": "Each and every word we speak, spreads across the sky like a rainbow",
+      "zh": "你和我的一字一句如彩虹般鋪向天際"
     },
     {
       "ja": "広がり　創るよ　七色の世界",
       "romaji": "Hirogari Tsukuru yo Nanairo no Sekai",
-      "en": "Spreading out, creating a seven-colored world",
-      "zh": "擴展開來，創造出七彩世界"
+      "en": "and together, we will create a world of seven hues",
+      "zh": "綻放開來，創造出這七彩的世界"
     },
     {
       "ja": "ここから新しいときが始まるよ",
       "romaji": "Koko kara Atarashii Toki ga Hajimaru yo",
-      "en": "From here, a new time begins",
-      "zh": "嶄新的時光從這裡開始"
+      "en": "From here, a new chapter begins",
+      "zh": "全新的時空，將從這裡開始"
     }
   ]
 }

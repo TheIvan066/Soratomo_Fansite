@@ -1,0 +1,756 @@
+{
+  "meta": {
+    "title": "キラメキライダー☆",
+    "artist": "hololive IDOL PROJECT",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "石濱翔",
+    "lyricist": "辻純更",
+    "album": "キラメキライダー☆",
+    "releaseDate": "2020/02/04",
+    "coverUrl": "cover_images/kirameki_rider",
+    "penlight_color": [
+      "#000000"
+    ],
+    "links": [
+      {
+        "name": "Bouquet Ver",
+        "url": "https://youtu.be/Kfo-N4Kqn9w?si=C08l3edb8TmpWNb4"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Coming Soon!"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "生まれたてのドキドキを響かせよう",
+      "call": ""
+    },
+    {
+      "lyrics": "最高の時間　最高の仲間と",
+      "call": ""
+    },
+    {
+      "lyrics": "キラメキに乗って☆",
+      "call": ""
+    },
+    {
+      "lyrics": "(イェーイ)",
+      "call": "(イェーイ)"
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×2"
+    },
+    {
+      "lyrics": "覚えてるかな？",
+      "call": ""
+    },
+    {
+      "lyrics": "最初の",
+      "call": ""
+    },
+    {
+      "lyrics": "(なつかしいね)",
+      "call": ""
+    },
+    {
+      "lyrics": "私　声が震えていた",
+      "call": ""
+    },
+    {
+      "lyrics": "(ほんの少し)",
+      "call": ""
+    },
+    {
+      "lyrics": "あの日から続く未来は",
+      "call": ""
+    },
+    {
+      "lyrics": "みんなと掴んだ今日だよ",
+      "call": ""
+    },
+    {
+      "lyrics": "もっともっともっともっと",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "加速するハート",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "(いっしょに)",
+      "call": ""
+    },
+    {
+      "lyrics": "行くよ　どこまでも",
+      "call": ""
+    },
+    {
+      "lyrics": "(Are You Ready？)",
+      "call": ""
+    },
+    {
+      "lyrics": "準備はOK？",
+      "call": "          OK!"
+    },
+    {
+      "lyrics": "ひらけ！！夢のトビラを",
+      "call": ""
+    },
+    {
+      "lyrics": "(123)(キラメキライダー☆)",
+      "call": "(123)(キラメキライダー☆)"
+    },
+    {
+      "lyrics": "生まれたてのドキドキを響かせよう",
+      "call": ""
+    },
+    {
+      "lyrics": "最高の時間　最高の仲間と",
+      "call": ""
+    },
+    {
+      "lyrics": "ここにいるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "見つけてくれたから",
+      "call": ""
+    },
+    {
+      "lyrics": "きみに会いたくてやって来たんだ",
+      "call": ""
+    },
+    {
+      "lyrics": "みんなで歌おう",
+      "call": ""
+    },
+    {
+      "lyrics": "終わらないメロディ",
+      "call": ""
+    },
+    {
+      "lyrics": "キラメキに乗って☆",
+      "call": ""
+    },
+    {
+      "lyrics": "届いてるかな？　私の声",
+      "call": ""
+    },
+    {
+      "lyrics": "(はっきりと)",
+      "call": ""
+    },
+    {
+      "lyrics": "届けたいのは　きみに笑顔",
+      "call": ""
+    },
+    {
+      "lyrics": "(そのスマイル！)",
+      "call": ""
+    },
+    {
+      "lyrics": "理想の遠さに悔しくて",
+      "call": ""
+    },
+    {
+      "lyrics": "みんなと泣き笑ったね",
+      "call": ""
+    },
+    {
+      "lyrics": "ぎゅっとぎゅっとぎゅっとぎゅっと",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "全て抱きしめて",
+      "call": "お～ハイ！お～ハイ！"
+    },
+    {
+      "lyrics": "(いっしょに)",
+      "call": ""
+    },
+    {
+      "lyrics": "行こう　どこまでも",
+      "call": ""
+    },
+    {
+      "lyrics": "(Are You Ready？)",
+      "call": ""
+    },
+    {
+      "lyrics": "準備はOK！",
+      "call": "          OK！"
+    },
+    {
+      "lyrics": "すすめ！！希望の道を",
+      "call": ""
+    },
+    {
+      "lyrics": "(123)(キラメキライダー☆)",
+      "call": "(123)(キラメキライダー☆)"
+    },
+    {
+      "lyrics": "好きな気持ち",
+      "call": ""
+    },
+    {
+      "lyrics": "カラフルに奏でたいな",
+      "call": ""
+    },
+    {
+      "lyrics": "最高の場所　最高のみんなと",
+      "call": ""
+    },
+    {
+      "lyrics": "ここにいるよ　幻なんかじゃない",
+      "call": ""
+    },
+    {
+      "lyrics": "きみのココロが幸せに染まるように",
+      "call": ""
+    },
+    {
+      "lyrics": "重ねてくハーモニー",
+      "call": ""
+    },
+    {
+      "lyrics": "キラメキまとって☆",
+      "call": ""
+    },
+    {
+      "lyrics": "歌い続けたいな",
+      "call": ""
+    },
+    {
+      "lyrics": "踊り続けたいな",
+      "call": ""
+    },
+    {
+      "lyrics": "そんな願いやワガママもいいでしょ？",
+      "call": ""
+    },
+    {
+      "lyrics": "だって楽しすぎて！",
+      "call": ""
+    },
+    {
+      "lyrics": "もう止まらない！！",
+      "call": ""
+    },
+    {
+      "lyrics": "輝くステージでもっともっと！！",
+      "call": ""
+    },
+    {
+      "lyrics": "(お願い)ずっと！！",
+      "call": "(お願い)"
+    },
+    {
+      "lyrics": "(オー)(イェーイ)",
+      "call": "(オー)(イェーイ)"
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×6"
+    },
+    {
+      "lyrics": "嬉しい楽しい愛しいだけじゃ語れない",
+      "call": ""
+    },
+    {
+      "lyrics": "今も今も　悩みはあるけど",
+      "call": ""
+    },
+    {
+      "lyrics": "ここにいるよ　私ここにいるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "きみと同じ世界を見つめて",
+      "call": ""
+    },
+    {
+      "lyrics": "(いくよ！)(キラメキライダー☆)",
+      "call": "                (キラメキライダー☆)"
+    },
+    {
+      "lyrics": "生まれたてのドキドキを響かせよう",
+      "call": ""
+    },
+    {
+      "lyrics": "最高の時間　最高の仲間と",
+      "call": ""
+    },
+    {
+      "lyrics": "ここにいるよ　見つけてくれたから",
+      "call": ""
+    },
+    {
+      "lyrics": "きみに会いたくてやって来たんだ",
+      "call": ""
+    },
+    {
+      "lyrics": "みんなで歌おう",
+      "call": ""
+    },
+    {
+      "lyrics": "(せーの)",
+      "call": "(せーの)"
+    },
+    {
+      "lyrics": "終わらないメロディ　キラメキに乗って☆",
+      "call": ""
+    },
+    {
+      "lyrics": "キラメキまとって☆",
+      "call": ""
+    },
+    {
+      "lyrics": "(イェーイ)",
+      "call": "(イェーイ)"
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×2"
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "生まれたてのドキドキを響かせよう",
+      "romaji": "Umaretate no Dokidoki wo Hibikaseyou",
+      "en": "Let's make this brand-new excitement resound",
+      "zh": "讓剛誕生的心跳迴響吧"
+    },
+    {
+      "ja": "最高の時間　最高の仲間と",
+      "romaji": "Saikou no Jikan Saikou no Nakama to",
+      "en": "The best time, with the best friends",
+      "zh": "最棒的時光，與最棒的夥伴"
+    },
+    {
+      "ja": "キラメキに乗って☆",
+      "romaji": "Kirameki ni Notte☆",
+      "en": "Riding on the sparkle☆",
+      "zh": "乘著閃耀☆"
+    },
+    {
+      "ja": "(イェーイ)",
+      "romaji": "(Yeei)",
+      "en": "(Yay)",
+      "zh": "（耶）"
+    },
+    {
+      "ja": "覚えてるかな？",
+      "romaji": "Oboeteru Kana?",
+      "en": "Do you remember?",
+      "zh": "還記得嗎？"
+    },
+    {
+      "ja": "最初の",
+      "romaji": "Saisho no",
+      "en": "That very first",
+      "zh": "最初的"
+    },
+    {
+      "ja": "(なつかしいね)",
+      "romaji": "(Natsukashii ne)",
+      "en": "(It's nostalgic, isn't it?)",
+      "zh": "（真令人懷念呢）"
+    },
+    {
+      "ja": "私　声が震えていた",
+      "romaji": "Watashi Koe ga Furuete Ita",
+      "en": "My voice was trembling",
+      "zh": "我的聲音在顫抖"
+    },
+    {
+      "ja": "(ほんの少し)",
+      "romaji": "(Honno Sukoshi)",
+      "en": "(Just a little)",
+      "zh": "（只有一點點）"
+    },
+    {
+      "ja": "あの日から続く未来は",
+      "romaji": "Ano Hi kara Tsuzuku Mirai ha",
+      "en": "The future continuing from that day",
+      "zh": "從那天延續的未來"
+    },
+    {
+      "ja": "みんなと掴んだ今日だよ",
+      "romaji": "Minna to Tsukanda Kyou Da yo",
+      "en": "Is today, grasped together with everyone",
+      "zh": "是與大家一同抓住的今天"
+    },
+    {
+      "ja": "もっともっともっともっと",
+      "romaji": "Motto Motto Motto Motto",
+      "en": "More, more, more, more",
+      "zh": "更加更加更加更加"
+    },
+    {
+      "ja": "加速するハート",
+      "romaji": "Kasoku Suru Haato",
+      "en": "My accelerating heart",
+      "zh": "加速的心"
+    },
+    {
+      "ja": "(いっしょに)",
+      "romaji": "(Issho ni)",
+      "en": "(Together)",
+      "zh": "（一起）"
+    },
+    {
+      "ja": "行くよ　どこまでも",
+      "romaji": "Iku yo Doko made mo",
+      "en": "Let's go—anywhere at all",
+      "zh": "走吧，無論到哪裡"
+    },
+    {
+      "ja": "(Are You Ready？)",
+      "romaji": "(Are You Ready?)",
+      "en": "(Are you ready?)",
+      "zh": "（準備好了嗎？）"
+    },
+    {
+      "ja": "準備はOK？",
+      "romaji": "Junbi ha OK?",
+      "en": "Are you ready?",
+      "zh": "準備OK了嗎？"
+    },
+    {
+      "ja": "ひらけ！！夢のトビラを",
+      "romaji": "Hirake!! Yume no Tobira wo",
+      "en": "Open!! The door of dreams",
+      "zh": "敞開！！夢想之門"
+    },
+    {
+      "ja": "(123)(キラメキライダー☆)",
+      "romaji": "(123)(Kirameki Raidaa☆)",
+      "en": "(1, 2, 3) (Sparkle rider☆)",
+      "zh": "（123）（閃耀騎士☆）"
+    },
+    {
+      "ja": "生まれたてのドキドキを響かせよう",
+      "romaji": "Umaretate no Dokidoki wo Hibikaseyou",
+      "en": "Let's make this brand-new excitement resound",
+      "zh": "讓剛誕生的心跳迴響吧"
+    },
+    {
+      "ja": "最高の時間　最高の仲間と",
+      "romaji": "Saikou no Jikan Saikou no Nakama to",
+      "en": "The best time, with the best friends",
+      "zh": "最棒的時光，與最棒的夥伴"
+    },
+    {
+      "ja": "ここにいるよ",
+      "romaji": "Koko ni Iru yo",
+      "en": "I'm right here",
+      "zh": "我就在這裡"
+    },
+    {
+      "ja": "見つけてくれたから",
+      "romaji": "Mitsukete Kureta kara",
+      "en": "Because you found me",
+      "zh": "因為你找到了我"
+    },
+    {
+      "ja": "きみに会いたくてやって来たんだ",
+      "romaji": "Kimi ni Aitakute Yattekita n Da",
+      "en": "I came here because I wanted to see you",
+      "zh": "因為想見你所以來到了這裡"
+    },
+    {
+      "ja": "みんなで歌おう",
+      "romaji": "Minna de Utaou",
+      "en": "Let's sing together, everyone",
+      "zh": "大家一起歌唱吧"
+    },
+    {
+      "ja": "終わらないメロディ",
+      "romaji": "Owaranai Merodi",
+      "en": "An endless melody",
+      "zh": "不會結束的旋律"
+    },
+    {
+      "ja": "キラメキに乗って☆",
+      "romaji": "Kirameki ni Notte☆",
+      "en": "Riding on the sparkle☆",
+      "zh": "乘著閃耀☆"
+    },
+    {
+      "ja": "届いてるかな？　私の声",
+      "romaji": "Todoiteru Kana? Watashi no Koe",
+      "en": "Is it reaching you? My voice",
+      "zh": "傳達到了嗎？我的聲音"
+    },
+    {
+      "ja": "(はっきりと)",
+      "romaji": "(Hakkiri to)",
+      "en": "(Clearly)",
+      "zh": "（清清楚楚地）"
+    },
+    {
+      "ja": "届けたいのは　きみに笑顔",
+      "romaji": "Todoketai no ha Kimi ni Egao",
+      "en": "What I want to deliver is a smile to you",
+      "zh": "想傳達的，是給你的笑容"
+    },
+    {
+      "ja": "(そのスマイル！)",
+      "romaji": "(Sono Sumairu!)",
+      "en": "(That smile!)",
+      "zh": "（那個笑容！）"
+    },
+    {
+      "ja": "理想の遠さに悔しくて",
+      "romaji": "Risou no Toosa ni Kuyashikute",
+      "en": "Frustrated by how far my ideals are",
+      "zh": "因理想遙遠而不甘心"
+    },
+    {
+      "ja": "みんなと泣き笑ったね",
+      "romaji": "Minna to Nakiwaratta ne",
+      "en": "We cried and laughed together, didn't we?",
+      "zh": "和大家一起又哭又笑呢"
+    },
+    {
+      "ja": "ぎゅっとぎゅっとぎゅっとぎゅっと",
+      "romaji": "Gyutto Gyutto Gyutto Gyutto",
+      "en": "Tightly, tightly, tightly, tightly",
+      "zh": "緊緊地緊緊地緊緊地緊緊地"
+    },
+    {
+      "ja": "全て抱きしめて",
+      "romaji": "Subete Dakishimete",
+      "en": "Embracing everything",
+      "zh": "將一切緊緊擁抱"
+    },
+    {
+      "ja": "(いっしょに)",
+      "romaji": "(Issho ni)",
+      "en": "(Together)",
+      "zh": "（一起）"
+    },
+    {
+      "ja": "行こう　どこまでも",
+      "romaji": "Ikou Doko made mo",
+      "en": "Let's go—anywhere at all",
+      "zh": "走吧，無論到哪裡"
+    },
+    {
+      "ja": "(Are You Ready？)",
+      "romaji": "(Are You Ready?)",
+      "en": "(Are you ready?)",
+      "zh": "（準備好了嗎？）"
+    },
+    {
+      "ja": "準備はOK！",
+      "romaji": "Junbi ha OK!",
+      "en": "Ready is OK!",
+      "zh": "準備OK！"
+    },
+    {
+      "ja": "すすめ！！希望の道を",
+      "romaji": "Susume!! Kibou no Michi wo",
+      "en": "Advance!! On the road of hope",
+      "zh": "前進！！走在希望之道"
+    },
+    {
+      "ja": "(123)(キラメキライダー☆)",
+      "romaji": "(123)(Kirameki Raidaa☆)",
+      "en": "(1, 2, 3) (Sparkle rider☆)",
+      "zh": "（123）（閃耀騎士☆）"
+    },
+    {
+      "ja": "好きな気持ち",
+      "romaji": "Suki na Kimochi",
+      "en": "These feelings of love",
+      "zh": "喜歡的心情"
+    },
+    {
+      "ja": "カラフルに奏でたいな",
+      "romaji": "Karafuru ni Kanadetai na",
+      "en": "I want to play them colorfully",
+      "zh": "想繽紛地奏響"
+    },
+    {
+      "ja": "最高の場所　最高のみんなと",
+      "romaji": "Saikou no Basho Saikou no Minna to",
+      "en": "The best place, with the best everyone",
+      "zh": "最棒的地方，與最棒的大家"
+    },
+    {
+      "ja": "ここにいるよ　幻なんかじゃない",
+      "romaji": "Koko ni Iru yo Maboroshi Nanka ja Nai",
+      "en": "I'm right here—it's not an illusion",
+      "zh": "我就在這裡，才不是幻影"
+    },
+    {
+      "ja": "きみのココロが幸せに染まるように",
+      "romaji": "Kimi no Kokoro ga Shiawase ni Somaru You ni",
+      "en": "So that your heart is dyed with happiness",
+      "zh": "願你的心染上幸福"
+    },
+    {
+      "ja": "重ねてくハーモニー",
+      "romaji": "Kasaneteku Haamonii",
+      "en": "Layering harmonies",
+      "zh": "層層疊加的合聲"
+    },
+    {
+      "ja": "キラメキまとって☆",
+      "romaji": "Kirameki Matotte☆",
+      "en": "Clad in sparkle☆",
+      "zh": "披上閃耀☆"
+    },
+    {
+      "ja": "歌い続けたいな",
+      "romaji": "Utai Tsuzuketai na",
+      "en": "I want to keep singing",
+      "zh": "想繼續歌唱"
+    },
+    {
+      "ja": "踊り続けたいな",
+      "romaji": "Odori Tsuzuketai na",
+      "en": "I want to keep dancing",
+      "zh": "想繼續跳舞"
+    },
+    {
+      "ja": "そんな願いやワガママもいいでしょ？",
+      "romaji": "Sonna Negai ya Wagamama mo Ii Desho?",
+      "en": "Such wishes and selfishness are okay too, right?",
+      "zh": "這樣的願望和任性也可以吧？"
+    },
+    {
+      "ja": "だって楽しすぎて！",
+      "romaji": "Datte Tanoshi Sugite!",
+      "en": "Because it's just too much fun!",
+      "zh": "因為實在太開心了！"
+    },
+    {
+      "ja": "もう止まらない！！",
+      "romaji": "Mou Tomaranai!!",
+      "en": "I can't stop anymore!!",
+      "zh": "已經停不下來了！！"
+    },
+    {
+      "ja": "輝くステージでもっともっと！！",
+      "romaji": "Kagayaku Suteeji de Motto Motto!!",
+      "en": "On this shining stage, more and more!!",
+      "zh": "在閃耀的舞台上更加更加！！"
+    },
+    {
+      "ja": "(お願い)ずっと！！",
+      "romaji": "(Onegai) Zutto!!",
+      "en": "(Please) Forever!!",
+      "zh": "（拜託了）永遠！！"
+    },
+    {
+      "ja": "(オー)(イェーイ)",
+      "romaji": "(Oo)(Yeei)",
+      "en": "(Oh) (Yay)",
+      "zh": "（喔）（耶）"
+    },
+    {
+      "ja": "嬉しい楽しい愛しいだけじゃ語れない",
+      "romaji": "Ureshii Tanoshii Itoshii Dake ja Katarenai",
+      "en": "Can't be told with just happy, fun, and dear",
+      "zh": "不只是開心、快樂、珍愛就能道盡"
+    },
+    {
+      "ja": "今も今も　悩みはあるけど",
+      "romaji": "Ima mo Ima mo Nayami ha Aru kedo",
+      "en": "Even now, even now, I have worries",
+      "zh": "現在也好現在也好，雖然有煩惱"
+    },
+    {
+      "ja": "ここにいるよ　私ここにいるよ",
+      "romaji": "Koko ni Iru yo Watashi Koko ni Iru yo",
+      "en": "I'm right here—I'm right here",
+      "zh": "我就在這裡，我就在這裡"
+    },
+    {
+      "ja": "きみと同じ世界を見つめて",
+      "romaji": "Kimi to Onaji Sekai wo Mitsumete",
+      "en": "Gazing at the same world as you",
+      "zh": "凝視著與你相同的世界"
+    },
+    {
+      "ja": "(いくよ！)(キラメキライダー☆)",
+      "romaji": "(Iku yo!)(Kirameki Raidaa☆)",
+      "en": "(Here we go!) (Sparkle rider☆)",
+      "zh": "（要上囉！）（閃耀騎士☆）"
+    },
+    {
+      "ja": "生まれたてのドキドキを響かせよう",
+      "romaji": "Umaretate no Dokidoki wo Hibikaseyou",
+      "en": "Let's make this brand-new excitement resound",
+      "zh": "讓剛誕生的心跳迴響吧"
+    },
+    {
+      "ja": "最高の時間　最高の仲間と",
+      "romaji": "Saikou no Jikan Saikou no Nakama to",
+      "en": "The best time, with the best friends",
+      "zh": "最棒的時光，與最棒的夥伴"
+    },
+    {
+      "ja": "ここにいるよ　見つけてくれたから",
+      "romaji": "Koko ni Iru yo Mitsukete Kureta kara",
+      "en": "I'm right here—because you found me",
+      "zh": "我就在這裡，因為你找到了我"
+    },
+    {
+      "ja": "きみに会いたくてやって来たんだ",
+      "romaji": "Kimi ni Aitakute Yattekita n Da",
+      "en": "I came here because I wanted to see you",
+      "zh": "因為想見你所以來到了這裡"
+    },
+    {
+      "ja": "みんなで歌おう",
+      "romaji": "Minna de Utaou",
+      "en": "Let's sing together, everyone",
+      "zh": "大家一起歌唱吧"
+    },
+    {
+      "ja": "(せーの)",
+      "romaji": "(Seeno)",
+      "en": "(Ready, set)",
+      "zh": "（預備）"
+    },
+    {
+      "ja": "終わらないメロディ　キラメキに乗って☆",
+      "romaji": "Owaranai Merodi Kirameki ni Notte☆",
+      "en": "An endless melody—riding on the sparkle☆",
+      "zh": "不會結束的旋律，乘著閃耀☆"
+    },
+    {
+      "ja": "キラメキまとって☆",
+      "romaji": "Kirameki Matotte☆",
+      "en": "Clad in sparkle☆",
+      "zh": "披上閃耀☆"
+    },
+    {
+      "ja": "(イェーイ)",
+      "romaji": "(Yeei)",
+      "en": "(Yay)",
+      "zh": "（耶）"
+    }
+  ]
+}
