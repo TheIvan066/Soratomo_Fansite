@@ -1,0 +1,642 @@
+{
+  "meta": {
+    "title": "花が咲いたら",
+    "artist": "四月一日さん家",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "萬福裕貴(Rebrast)",
+    "lyricist": "大山恭子(Rebrast)",
+    "album": "四月一日さん家で歌ってみた",
+    "releaseDate": "2020/06/24",
+    "coverUrl": "cover_images/watanuki",
+    "penlight_color": [
+      "#000000"
+    ],
+    "links": [
+      {
+        "name": "Music Track",
+        "url": "https://youtu.be/m_vH7ZvYcv0?si=miaeGe4JQ6x_fuH6"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "今日が昨日に変わる前に"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もう一度話そう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "言葉にしなきゃ伝わらなくて"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いつももどかしいから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "モノクロームの部屋に"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ちいさな明かりひとつだけ残して"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "繰り返す日々の向こう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ガラス越し映る世界に"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "おんなじ時間が流れていること"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "確かにいま感じたい"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "この場所で響き合って"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "芽吹いた想いは"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "どんな色の花を咲かせるだろう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "眠れない夜"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "窓の外を優しく照らす"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "月に見つけたウサギの数は"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "なんで違うのかな"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ささいなことで笑いあうたび"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "万華鏡みたく変わっていく"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "繰り返す日々の向こう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ガラス越しキミの世界は"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "どんな匂いなの？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "星屑の海の波の音は聞こえるの？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "すこしずつ膨らんでく"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "想いのつぼみが"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "今日も胸の奥を彩ってく"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ほのかに褪せた記憶は"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "何度でも夢を見せてくれた"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ずっと眠ってたいけど"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "変わっていく未来も信じたくて"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "触れられないキミの世界が"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "星屑の波間に揺れて"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "見えなくなっても"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "きっとまた会える"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "信じられる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "だから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "繰り返す日々の向こう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ガラス越し映る世界で"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "おんなじ時間が流れていること"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "確かにいま感じたい"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "この場所で響き合って"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "芽吹いた想いは"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "どんな色の花を咲かせるだろう"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "今日が昨日に変わる前に",
+      "call": ""
+    },
+    {
+      "lyrics": "もう一度話そう",
+      "call": ""
+    },
+    {
+      "lyrics": "言葉にしなきゃ伝わらなくて",
+      "call": ""
+    },
+    {
+      "lyrics": "いつももどかしいから",
+      "call": ""
+    },
+    {
+      "lyrics": "モノクロームの部屋に",
+      "call": ""
+    },
+    {
+      "lyrics": "ちいさな明かりひとつだけ残して",
+      "call": ""
+    },
+    {
+      "lyrics": "繰り返す日々の向こう",
+      "call": ""
+    },
+    {
+      "lyrics": "ガラス越し映る世界に",
+      "call": ""
+    },
+    {
+      "lyrics": "おんなじ時間が流れていること",
+      "call": ""
+    },
+    {
+      "lyrics": "確かにいま感じたい",
+      "call": ""
+    },
+    {
+      "lyrics": "この場所で響き合って",
+      "call": ""
+    },
+    {
+      "lyrics": "芽吹いた想いは",
+      "call": ""
+    },
+    {
+      "lyrics": "どんな色の花を咲かせるだろう",
+      "call": ""
+    },
+    {
+      "lyrics": "眠れない夜",
+      "call": ""
+    },
+    {
+      "lyrics": "窓の外を優しく照らす",
+      "call": ""
+    },
+    {
+      "lyrics": "月に見つけたウサギの数は",
+      "call": ""
+    },
+    {
+      "lyrics": "なんで違うのかな",
+      "call": ""
+    },
+    {
+      "lyrics": "ささいなことで笑いあうたび",
+      "call": ""
+    },
+    {
+      "lyrics": "万華鏡みたく変わっていく",
+      "call": ""
+    },
+    {
+      "lyrics": "繰り返す日々の向こう",
+      "call": ""
+    },
+    {
+      "lyrics": "ガラス越しキミの世界は",
+      "call": ""
+    },
+    {
+      "lyrics": "どんな匂いなの？",
+      "call": ""
+    },
+    {
+      "lyrics": "星屑の海の波の音は聞こえるの？",
+      "call": ""
+    },
+    {
+      "lyrics": "すこしずつ膨らんでく",
+      "call": ""
+    },
+    {
+      "lyrics": "想いのつぼみが",
+      "call": ""
+    },
+    {
+      "lyrics": "今日も胸の奥を彩ってく",
+      "call": ""
+    },
+    {
+      "lyrics": "ほのかに褪せた記憶は",
+      "call": ""
+    },
+    {
+      "lyrics": "何度でも夢を見せてくれた",
+      "call": ""
+    },
+    {
+      "lyrics": "ずっと眠ってたいけど",
+      "call": ""
+    },
+    {
+      "lyrics": "変わっていく未来も信じたくて",
+      "call": ""
+    },
+    {
+      "lyrics": "触れられないキミの世界が",
+      "call": ""
+    },
+    {
+      "lyrics": "星屑の波間に揺れて",
+      "call": ""
+    },
+    {
+      "lyrics": "見えなくなっても",
+      "call": ""
+    },
+    {
+      "lyrics": "きっとまた会える",
+      "call": ""
+    },
+    {
+      "lyrics": "信じられる",
+      "call": ""
+    },
+    {
+      "lyrics": "だから",
+      "call": ""
+    },
+    {
+      "lyrics": "繰り返す日々の向こう",
+      "call": ""
+    },
+    {
+      "lyrics": "ガラス越し映る世界で",
+      "call": ""
+    },
+    {
+      "lyrics": "おんなじ時間が流れていること",
+      "call": ""
+    },
+    {
+      "lyrics": "確かにいま感じたい",
+      "call": ""
+    },
+    {
+      "lyrics": "この場所で響き合って",
+      "call": ""
+    },
+    {
+      "lyrics": "芽吹いた想いは",
+      "call": ""
+    },
+    {
+      "lyrics": "どんな色の花を咲かせるだろう",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "今日が昨日に変わる前に",
+      "romaji": "Kyou ga Kinou ni Kawaru Mae ni",
+      "en": "Before today turns into yesterday",
+      "zh": "在今天就這樣變成昨天之前"
+    },
+    {
+      "ja": "もう一度話そう",
+      "romaji": "Mou Ichido Hanasou",
+      "en": "Let's talk once more",
+      "zh": "再聊一次吧"
+    },
+    {
+      "ja": "言葉にしなきゃ伝わらなくて",
+      "romaji": "Kotoba ni Shinakya Tsutawaranakute",
+      "en": "If I don't put it into words, it won't get through",
+      "zh": "若不說出口就無法傳達"
+    },
+    {
+      "ja": "いつももどかしいから",
+      "romaji": "Itsumo Modokashii kara",
+      "en": "Because it's always so frustrating",
+      "zh": "因為總是令人焦急難耐"
+    },
+    {
+      "ja": "モノクロームの部屋に",
+      "romaji": "Monokuroomu no Heya ni",
+      "en": "In this monochrome room",
+      "zh": "在單色的房間裡"
+    },
+    {
+      "ja": "ちいさな明かりひとつだけ残して",
+      "romaji": "Chiisana Akari Hitotsu Dake Nokoshite",
+      "en": "Leaving just one small light",
+      "zh": "只留下一盞小小的燈光"
+    },
+    {
+      "ja": "繰り返す日々の向こう",
+      "romaji": "Kurikaesu Hibi no Mukou",
+      "en": "Beyond the repeating days",
+      "zh": "在反覆循環的日常彼端"
+    },
+    {
+      "ja": "ガラス越し映る世界に",
+      "romaji": "Garasu Goshi Utsuru Sekai ni",
+      "en": "In the world reflected through the glass",
+      "zh": "在隔著玻璃映照出的世界裡"
+    },
+    {
+      "ja": "おんなじ時間が流れていること",
+      "romaji": "Onnaji Jikan ga Nagarete Iru Koto",
+      "en": "That the same time is flowing",
+      "zh": "同樣的時間正流動著"
+    },
+    {
+      "ja": "確かにいま感じたい",
+      "romaji": "Tashika ni Ima Kanjitai",
+      "en": "I want to truly feel it right now",
+      "zh": "現在就想確切地感受"
+    },
+    {
+      "ja": "この場所で響き合って",
+      "romaji": "Kono Basho de Hibikiatte",
+      "en": "Resonating with each other in this place",
+      "zh": "在這個地方彼此共鳴"
+    },
+    {
+      "ja": "芽吹いた想いは",
+      "romaji": "Mebuita Omoi ha",
+      "en": "The feelings that have sprouted",
+      "zh": "萌芽的思念"
+    },
+    {
+      "ja": "どんな色の花を咲かせるだろう",
+      "romaji": "Donna Iro no Hana wo Sakaseru Darou",
+      "en": "What color flowers will they bloom?",
+      "zh": "會綻放出什麼顏色的花呢"
+    },
+    {
+      "ja": "眠れない夜",
+      "romaji": "Nemurenai Yoru",
+      "en": "On sleepless nights",
+      "zh": "睡不著的夜晚"
+    },
+    {
+      "ja": "窓の外を優しく照らす",
+      "romaji": "Mado no Soto wo Yasashiku Terasu",
+      "en": "Gently illuminating outside the window",
+      "zh": "溫柔地照亮窗外"
+    },
+    {
+      "ja": "月に見つけたウサギの数は",
+      "romaji": "Tsuki ni Mitsuketa Usagi no Kazu ha",
+      "en": "The number of rabbits I find in the moon",
+      "zh": "在月亮上找到的兔子數量"
+    },
+    {
+      "ja": "なんで違うのかな",
+      "romaji": "Nande Chigau no Kana",
+      "en": "Why is it different, I wonder?",
+      "zh": "為什麼會不一樣呢"
+    },
+    {
+      "ja": "ささいなことで笑いあうたび",
+      "romaji": "Sasai na Koto de Waraiau Tabi",
+      "en": "Every time we laugh together over little things",
+      "zh": "每當為了小事一起歡笑"
+    },
+    {
+      "ja": "万華鏡みたく変わっていく",
+      "romaji": "Mangekyou Mitaku Kawatte Iku",
+      "en": "It changes like a kaleidoscope",
+      "zh": "就像萬花筒般不斷變化"
+    },
+    {
+      "ja": "繰り返す日々の向こう",
+      "romaji": "Kurikaesu Hibi no Mukou",
+      "en": "Beyond the repeating days",
+      "zh": "在反覆循環的日常彼端"
+    },
+    {
+      "ja": "ガラス越しキミの世界は",
+      "romaji": "Garasu Goshi Kimi no Sekai ha",
+      "en": "Your world beyond the glass",
+      "zh": "隔著玻璃你的世界"
+    },
+    {
+      "ja": "どんな匂いなの？",
+      "romaji": "Donna Nioi na no?",
+      "en": "What does it smell like?",
+      "zh": "是什麼樣的味道呢？"
+    },
+    {
+      "ja": "星屑の海の波の音は聞こえるの？",
+      "romaji": "Hoshikuzu no Umi no Nami no Oto ha Kikoeru no?",
+      "en": "Can you hear the sound of waves in the sea of stardust?",
+      "zh": "聽得見星屑之海的浪濤聲嗎？"
+    },
+    {
+      "ja": "すこしずつ膨らんでく",
+      "romaji": "Sukoshi Zutsu Fukurandeku",
+      "en": "Gradually swelling",
+      "zh": "一點一點地膨脹"
+    },
+    {
+      "ja": "想いのつぼみが",
+      "romaji": "Omoi no Tsubomi ga",
+      "en": "The bud of these feelings",
+      "zh": "思念的花苞"
+    },
+    {
+      "ja": "今日も胸の奥を彩ってく",
+      "romaji": "Kyou mo Mune no Oku wo Irodotteku",
+      "en": "Colors the depths of my heart again today",
+      "zh": "今天也為心底增添色彩"
+    },
+    {
+      "ja": "ほのかに褪せた記憶は",
+      "romaji": "Honoka ni Aseta Kioku ha",
+      "en": "Faintly faded memories",
+      "zh": "微微褪色的記憶"
+    },
+    {
+      "ja": "何度でも夢を見せてくれた",
+      "romaji": "Nando demo Yume wo Misete Kureta",
+      "en": "Showed me dreams again and again",
+      "zh": "一次又一次讓我看見夢境"
+    },
+    {
+      "ja": "ずっと眠ってたいけど",
+      "romaji": "Zutto Nemuttetai kedo",
+      "en": "I want to sleep forever, but",
+      "zh": "雖然想一直沉睡下去"
+    },
+    {
+      "ja": "変わっていく未来も信じたくて",
+      "romaji": "Kawatte Iku Mirai mo Shinjitakute",
+      "en": "I also want to believe in the changing future",
+      "zh": "也想相信不斷改變的未來"
+    },
+    {
+      "ja": "触れられないキミの世界が",
+      "romaji": "Furerarenai Kimi no Sekai ga",
+      "en": "Your world I can't touch",
+      "zh": "無法觸碰的你的世界"
+    },
+    {
+      "ja": "星屑の波間に揺れて",
+      "romaji": "Hoshikuzu no Hamama ni Yurete",
+      "en": "Swaying among the waves of stardust",
+      "zh": "在星屑的波濤間搖曳"
+    },
+    {
+      "ja": "見えなくなっても",
+      "romaji": "Mienaku Natte mo",
+      "en": "Even if it becomes invisible",
+      "zh": "即使看不見了"
+    },
+    {
+      "ja": "きっとまた会える",
+      "romaji": "Kitto Mata Aeru",
+      "en": "We'll surely meet again",
+      "zh": "一定還能再相見"
+    },
+    {
+      "ja": "信じられる",
+      "romaji": "Shinjirareru",
+      "en": "I can believe it",
+      "zh": "我能夠相信"
+    },
+    {
+      "ja": "だから",
+      "romaji": "Dakara",
+      "en": "So",
+      "zh": "所以"
+    },
+    {
+      "ja": "繰り返す日々の向こう",
+      "romaji": "Kurikaesu Hibi no Mukou",
+      "en": "Beyond the repeating days",
+      "zh": "在反覆循環的日常彼端"
+    },
+    {
+      "ja": "ガラス越し映る世界で",
+      "romaji": "Garasu Goshi Utsuru Sekai de",
+      "en": "In the world reflected through the glass",
+      "zh": "在隔著玻璃映照出的世界裡"
+    },
+    {
+      "ja": "おんなじ時間が流れていること",
+      "romaji": "Onnaji Jikan ga Nagarete Iru Koto",
+      "en": "That the same time is flowing",
+      "zh": "同樣的時間正流動著"
+    },
+    {
+      "ja": "確かにいま感じたい",
+      "romaji": "Tashika ni Ima Kanjitai",
+      "en": "I want to truly feel it right now",
+      "zh": "現在就想確切地感受"
+    },
+    {
+      "ja": "この場所で響き合って",
+      "romaji": "Kono Basho de Hibikiatte",
+      "en": "Resonating with each other in this place",
+      "zh": "在這個地方彼此共鳴"
+    },
+    {
+      "ja": "芽吹いた想いは",
+      "romaji": "Mebuita Omoi ha",
+      "en": "The feelings that have sprouted",
+      "zh": "萌芽的思念"
+    },
+    {
+      "ja": "どんな色の花を咲かせるだろう",
+      "romaji": "Donna Iro no Hana wo Sakaseru Darou",
+      "en": "What color flowers will they bloom?",
+      "zh": "會綻放出什麼顏色的花呢"
+    }
+  ]
+}

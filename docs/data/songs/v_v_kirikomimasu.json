@@ -1,0 +1,1384 @@
+{
+  "meta": {
+    "title": "V・V・斬り込みます！",
+    "artist": "四月一日さん家",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "安藤啓希(Rebrast)",
+    "lyricist": "大山恭子(Rebrast)",
+    "album": "四月一日さん家で歌ってみた",
+    "releaseDate": "2020/06/24",
+    "coverUrl": "cover_images/watanuki",
+    "penlight_color": [
+      "#000000"
+    ],
+    "links": [
+      {
+        "name": "Music",
+        "url": "https://youtu.be/PVfLTyYIkGw?si=ZiMk0rWgyF6nKAa5"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Wi-Wi-Wi-Fiがない！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "アイデンティティが危ない！？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "大変だ！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "有線LAN！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ありますか！？！？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "あく！せく！アク！セス！あっ！＼！！恐竜さん！！／"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "あく！せく！アク！セス！あっ！＼！！Success！！／"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「時代はいま戦国乱世のIoT」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「何のニュースに感化されちゃったんだろ？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「だってわたしたちは！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「バーチャルファミリーでいっ！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「今日はそのへんズバッと斬り込みたいな…」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「センシティブワードはそっとスルー推奨」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「当たり前だけど大事です！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「つまり我々は時代の寵児」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「それゆえにリスキー」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「予期せぬ炎のなかでも」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「たたかわなければならないッ！！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「BAN★BAN★いきますよ～！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「やめてぇえーッ！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「あぇっ…いったんサビです！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ようこそ最先端　(えいぷりる)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "V・V・斬り込みます！　(ふーるず)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "配信枠を飛び出す大躍進！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「まさにコレ！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "常識をアップデート　(わんもあ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "BAN★BAN★BAN★回避してV☆　(ふふふふ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "進め！起こせ！　(えいぷりるふーるず)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "センセーション！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "悪・即・検・索！！えっ！！　＼！1万件？！／"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "あい？まい？愛！？舞！？サッ！＼！！回避！！／"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「みんな一緒に戦国乱世ごっこしよう？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「職業選択の自由行使します」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「そんなこと言わずに～」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「つれないなぁ～」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「なんかすごい時代な気がしてきた」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「これからどう変わっていくんだろうね？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「それはパンドラの箱では…？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「あぁ！『はい』を選ぶと」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「違う違う」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「開けちゃいけないんですよぉ」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「それこそ斬り込まないと！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「このまま取り残されちゃうかもよ～？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「でも、でも…ッ！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「…滅びる原因は、自らの内にある」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「そんなぁ！！わたし取り残されたくないです！！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「ならば奮起せよ！アプデするのだ！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「そうだそうだ！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「アプデじゃアプデじゃ～！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「は、はぃい～」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「よし！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「止まるんじゃねぇぞ…？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「おぉ」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「決まった」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「サビ前ジャストぉ！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "攻めろ最先端　(えいぷりる)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "V・V・斬り込みます！　(ふーるず)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "飛び交う真実　ひとつじゃないって！？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「なんでやねんっ！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "捨ててステレオタイプ　(わんもあ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "NAN？NAN？NANKAI！な迷宮で　(ふふふふ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "見抜け…ますか？！　(えいぷりるふーるず)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "コンフュージョン！！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(ウソもホントもリアルで)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「一瞬普通に騙されかけたぁ！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(ウソもホントのバーチャル)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「あえて乗っかって遊ぶのだっ！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「で、作戦は？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「ここはあえての…奇襲？！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「いやいや、V・V・行くのみ！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「グイグイじゃなくて？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「V・V・です！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「ねぇちょっとだけテレビ見ていい～？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "抱え込んでフリーズしちゃ出来ぬアップデート　(いぇい！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "BAN★はやめてよして荒らさないで『いいね』ありがてぇ　(いぇい！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "やっぱ意外とこういうチルもいいかも？　(うぉう！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "…アンコクビショウ？で釘を刺された模様　(ぅわぉう！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "＞立ち止まるわけにはいかない…！＜"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「いざ～！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「ラスサビじゃぁ～！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Wi-Wi-Wi-Fiがない！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "アイデンティティが危ない！？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "そんなんは！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "どうだって！！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いいんですっ！！！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ようこそ最先端　(えいぷりる)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "V・V・斬り込みます！　(ふーるず)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "アクセス解析ッ　諸刃のソード！！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「やめたげて！？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "L・I・V・EのV？　(えいぷりる)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "L・O・V・EのV？　(ふーるず)"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "Wi-Wi-Wi-Fiがない！",
+      "call": ""
+    },
+    {
+      "lyrics": "アイデンティティが危ない！？",
+      "call": ""
+    },
+    {
+      "lyrics": "大変だ！",
+      "call": ""
+    },
+    {
+      "lyrics": "有線LAN！",
+      "call": ""
+    },
+    {
+      "lyrics": "ありますか！？！？",
+      "call": ""
+    },
+    {
+      "lyrics": "あく！せく！アク！セス！あっ！＼！！恐竜さん！！／",
+      "call": ""
+    },
+    {
+      "lyrics": "あく！せく！アク！セス！あっ！＼！！Success！！／",
+      "call": ""
+    },
+    {
+      "lyrics": "「時代はいま戦国乱世のIoT」",
+      "call": ""
+    },
+    {
+      "lyrics": "「何のニュースに感化されちゃったんだろ？」",
+      "call": ""
+    },
+    {
+      "lyrics": "「だってわたしたちは！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「バーチャルファミリーでいっ！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「今日はそのへんズバッと斬り込みたいな…」",
+      "call": ""
+    },
+    {
+      "lyrics": "「センシティブワードはそっとスルー推奨」",
+      "call": ""
+    },
+    {
+      "lyrics": "「当たり前だけど大事です！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「つまり我々は時代の寵児」",
+      "call": ""
+    },
+    {
+      "lyrics": "「それゆえにリスキー」",
+      "call": ""
+    },
+    {
+      "lyrics": "「予期せぬ炎のなかでも」",
+      "call": ""
+    },
+    {
+      "lyrics": "「たたかわなければならないッ！！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「BAN★BAN★いきますよ～！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「やめてぇえーッ！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「あぇっ…いったんサビです！」",
+      "call": ""
+    },
+    {
+      "lyrics": "ようこそ最先端　(えいぷりる)",
+      "call": ""
+    },
+    {
+      "lyrics": "V・V・斬り込みます！　(ふーるず)",
+      "call": ""
+    },
+    {
+      "lyrics": "配信枠を飛び出す大躍進！",
+      "call": ""
+    },
+    {
+      "lyrics": "「まさにコレ！」",
+      "call": ""
+    },
+    {
+      "lyrics": "常識をアップデート　(わんもあ)",
+      "call": ""
+    },
+    {
+      "lyrics": "BAN★BAN★BAN★回避してV☆　(ふふふふ)",
+      "call": ""
+    },
+    {
+      "lyrics": "進め！起こせ！　(えいぷりるふーるず)",
+      "call": ""
+    },
+    {
+      "lyrics": "センセーション！",
+      "call": ""
+    },
+    {
+      "lyrics": "悪・即・検・索！！えっ！！　＼！1万件？！／",
+      "call": ""
+    },
+    {
+      "lyrics": "あい？まい？愛！？舞！？サッ！＼！！回避！！／",
+      "call": ""
+    },
+    {
+      "lyrics": "「みんな一緒に戦国乱世ごっこしよう？」",
+      "call": ""
+    },
+    {
+      "lyrics": "「職業選択の自由行使します」",
+      "call": ""
+    },
+    {
+      "lyrics": "「そんなこと言わずに～」",
+      "call": ""
+    },
+    {
+      "lyrics": "「つれないなぁ～」",
+      "call": ""
+    },
+    {
+      "lyrics": "「なんかすごい時代な気がしてきた」",
+      "call": ""
+    },
+    {
+      "lyrics": "「これからどう変わっていくんだろうね？」",
+      "call": ""
+    },
+    {
+      "lyrics": "「それはパンドラの箱では…？」",
+      "call": ""
+    },
+    {
+      "lyrics": "「あぁ！『はい』を選ぶと」",
+      "call": ""
+    },
+    {
+      "lyrics": "「違う違う」",
+      "call": ""
+    },
+    {
+      "lyrics": "「開けちゃいけないんですよぉ」",
+      "call": ""
+    },
+    {
+      "lyrics": "「それこそ斬り込まないと！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「このまま取り残されちゃうかもよ～？」",
+      "call": ""
+    },
+    {
+      "lyrics": "「でも、でも…ッ！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「…滅びる原因は、自らの内にある」",
+      "call": ""
+    },
+    {
+      "lyrics": "「そんなぁ！！わたし取り残されたくないです！！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「ならば奮起せよ！アプデするのだ！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「そうだそうだ！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「アプデじゃアプデじゃ～！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「は、はぃい～」",
+      "call": ""
+    },
+    {
+      "lyrics": "「よし！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「止まるんじゃねぇぞ…？」",
+      "call": ""
+    },
+    {
+      "lyrics": "「おぉ」",
+      "call": ""
+    },
+    {
+      "lyrics": "「決まった」",
+      "call": ""
+    },
+    {
+      "lyrics": "「サビ前ジャストぉ！」",
+      "call": ""
+    },
+    {
+      "lyrics": "攻めろ最先端　(えいぷりる)",
+      "call": ""
+    },
+    {
+      "lyrics": "V・V・斬り込みます！　(ふーるず)",
+      "call": ""
+    },
+    {
+      "lyrics": "飛び交う真実　ひとつじゃないって！？",
+      "call": ""
+    },
+    {
+      "lyrics": "「なんでやねんっ！」",
+      "call": ""
+    },
+    {
+      "lyrics": "捨ててステレオタイプ　(わんもあ)",
+      "call": ""
+    },
+    {
+      "lyrics": "NAN？NAN？NANKAI！な迷宮で　(ふふふふ)",
+      "call": ""
+    },
+    {
+      "lyrics": "見抜け…ますか？！　(えいぷりるふーるず)",
+      "call": ""
+    },
+    {
+      "lyrics": "コンフュージョン！！",
+      "call": ""
+    },
+    {
+      "lyrics": "(ウソもホントもリアルで)",
+      "call": ""
+    },
+    {
+      "lyrics": "「一瞬普通に騙されかけたぁ！」",
+      "call": ""
+    },
+    {
+      "lyrics": "(ウソもホントのバーチャル)",
+      "call": ""
+    },
+    {
+      "lyrics": "「あえて乗っかって遊ぶのだっ！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「で、作戦は？」",
+      "call": ""
+    },
+    {
+      "lyrics": "「ここはあえての…奇襲？！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「いやいや、V・V・行くのみ！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「グイグイじゃなくて？」",
+      "call": ""
+    },
+    {
+      "lyrics": "「V・V・です！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「ねぇちょっとだけテレビ見ていい～？」",
+      "call": ""
+    },
+    {
+      "lyrics": "抱え込んでフリーズしちゃ出来ぬアップデート　(いぇい！)",
+      "call": ""
+    },
+    {
+      "lyrics": "BAN★はやめてよして荒らさないで『いいね』ありがてぇ　(いぇい！)",
+      "call": ""
+    },
+    {
+      "lyrics": "やっぱ意外とこういうチルもいいかも？　(うぉう！)",
+      "call": ""
+    },
+    {
+      "lyrics": "…アンコクビショウ？で釘を刺された模様　(ぅわぉう！)",
+      "call": ""
+    },
+    {
+      "lyrics": "＞立ち止まるわけにはいかない…！＜",
+      "call": ""
+    },
+    {
+      "lyrics": "「いざ～！」",
+      "call": ""
+    },
+    {
+      "lyrics": "「ラスサビじゃぁ～！」",
+      "call": ""
+    },
+    {
+      "lyrics": "Wi-Wi-Wi-Fiがない！",
+      "call": ""
+    },
+    {
+      "lyrics": "アイデンティティが危ない！？",
+      "call": ""
+    },
+    {
+      "lyrics": "そんなんは！",
+      "call": ""
+    },
+    {
+      "lyrics": "どうだって！！",
+      "call": ""
+    },
+    {
+      "lyrics": "いいんですっ！！！",
+      "call": ""
+    },
+    {
+      "lyrics": "ようこそ最先端　(えいぷりる)",
+      "call": ""
+    },
+    {
+      "lyrics": "V・V・斬り込みます！　(ふーるず)",
+      "call": ""
+    },
+    {
+      "lyrics": "アクセス解析ッ　諸刃のソード！！",
+      "call": ""
+    },
+    {
+      "lyrics": "「やめたげて！？」",
+      "call": ""
+    },
+    {
+      "lyrics": "L・I・V・EのV？　(えいぷりる)",
+      "call": ""
+    },
+    {
+      "lyrics": "L・O・V・EのV？　(ふーるず)",
+      "call": ""
+    },
+    {
+      "lyrics": "正解知りたい人、手上げて！",
+      "call": ""
+    },
+    {
+      "lyrics": "「なんちゃって♪」",
+      "call": ""
+    },
+    {
+      "lyrics": "さぁ今日もアップデート！　(ふふふふ)",
+      "call": ""
+    },
+    {
+      "lyrics": "BAN★BAN★BAN★回避してV☆　(ふーるず)",
+      "call": ""
+    },
+    {
+      "lyrics": "進め！起こせ！　(えいぷりるふーるず)",
+      "call": ""
+    },
+    {
+      "lyrics": "センセーション！",
+      "call": ""
+    },
+    {
+      "lyrics": "え！い！ぷ！り！る！＼！！ふーるず！！／",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "Wi-Wi-Wi-Fiがない！",
+      "romaji": "Wi-Wi-Wi-Fi ga Nai!",
+      "en": "There's no Wi-Wi-Wi-Fi!",
+      "zh": "Wi-Wi-Wi-Fi 沒有了！"
+    },
+    {
+      "ja": "アイデンティティが危ない！？",
+      "romaji": "Aidentiti ga Abunai!?",
+      "en": "Is my identity in danger!?",
+      "zh": "身分認同有危險！？"
+    },
+    {
+      "ja": "大変だ！",
+      "romaji": "Taihen Da!",
+      "en": "This is serious!",
+      "zh": "不得了了！"
+    },
+    {
+      "ja": "有線LAN！",
+      "romaji": "Yuusen LAN!",
+      "en": "Wired LAN!",
+      "zh": "有線網路！"
+    },
+    {
+      "ja": "ありますか！？！？",
+      "romaji": "Arimasu ka!?!?",
+      "en": "Do you have one!?!?",
+      "zh": "有嗎！？！？"
+    },
+    {
+      "ja": "あく！せく！アク！セス！あっ！＼！！恐竜さん！！／",
+      "romaji": "Aku! Seku! Aku! Sesu! A! ＼!! Kyouryuu San!!／",
+      "en": "Ac-cess! Ac-cess! Ah! ＼!! Mr. Dinosaur!!／",
+      "zh": "存！取！存！取！啊！＼！！恐龍先生！！／"
+    },
+    {
+      "ja": "あく！せく！アク！セス！あっ！＼！！Success！！／",
+      "romaji": "Aku! Seku! Aku! Sesu! A! ＼!! Success!!／",
+      "en": "Ac-cess! Ac-cess! Ah! ＼!! Success!!／",
+      "zh": "存！取！存！取！啊！＼！！Success！！／"
+    },
+    {
+      "ja": "「時代はいま戦国乱世のIoT」",
+      "romaji": "「Jidai ha Ima Sengoku Ransei no IoT」",
+      "en": "\"This era is an IoT warring states period\"",
+      "zh": "「這個時代是戰國亂世的IoT」"
+    },
+    {
+      "ja": "「何のニュースに感化されちゃったんだろ？」",
+      "romaji": "「Nan no Nyuusu ni Kanka Sarechatta n Daro?」",
+      "en": "\"What news influenced them, I wonder?\"",
+      "zh": "「是被什麼新聞影響了吧？」"
+    },
+    {
+      "ja": "「だってわたしたちは！」",
+      "romaji": "「Datte Watashitachi ha!」",
+      "en": "\"Because we are!\"",
+      "zh": "「因為我們是！」"
+    },
+    {
+      "ja": "「バーチャルファミリーでいっ！」",
+      "romaji": "「Baacharu Famirii de I!」",
+      "en": "\"A virtual family!\"",
+      "zh": "「就是虛擬家庭啦！」"
+    },
+    {
+      "ja": "「今日はそのへんズバッと斬り込みたいな…」",
+      "romaji": "「Kyou ha Sono Hen Zubatto Kirikomitai na...」",
+      "en": "\"Today I want to cut right into that...\"",
+      "zh": "「今天想針對那點狠狠切進去…」"
+    },
+    {
+      "ja": "「センシティブワードはそっとスルー推奨」",
+      "romaji": "「Senshitibu Waado ha Sotto Suruu Suishou」",
+      "en": "\"Sensitive words are recommended to be quietly skipped\"",
+      "zh": "「敏感詞建議悄悄略過」"
+    },
+    {
+      "ja": "「当たり前だけど大事です！」",
+      "romaji": "「Atarimae Dakedo Daiji Desu!」",
+      "en": "\"It's obvious, but it's important!\"",
+      "zh": "「雖然是理所當然，但很重要！」"
+    },
+    {
+      "ja": "「つまり我々は時代の寵児」",
+      "romaji": "「Tsumari Wareware ha Jidai no Chouji」",
+      "en": "\"In other words, we are the darlings of the era\"",
+      "zh": "「也就是說我們是時代的寵兒」"
+    },
+    {
+      "ja": "「それゆえにリスキー」",
+      "romaji": "「Sore Yueni Risukii」",
+      "en": "\"And therefore, risky\"",
+      "zh": "「因此也很冒險」"
+    },
+    {
+      "ja": "「予期せぬ炎のなかでも」",
+      "romaji": "「Yokisenu Honoo no Naka demo」",
+      "en": "\"Even amid unexpected flames\"",
+      "zh": "「即使身處意料之外的炎上中」"
+    },
+    {
+      "ja": "「たたかわなければならないッ！！」",
+      "romaji": "「Tatakawanakereba Naranai!!」",
+      "en": "\"We must fight!!\"",
+      "zh": "「我們必須戰鬥！！」"
+    },
+    {
+      "ja": "「BAN★BAN★いきますよ～！」",
+      "romaji": "「BAN★BAN★Ikimasu yo~!」",
+      "en": "\"BAN★BAN★ here we go~!\"",
+      "zh": "「BAN★BAN★要開始囉～！」"
+    },
+    {
+      "ja": "「やめてぇえーッ！」",
+      "romaji": "「Yamete Ee!」",
+      "en": "\"Stop it!!\"",
+      "zh": "「不要啊——！」"
+    },
+    {
+      "ja": "「あぇっ…いったんサビです！」",
+      "romaji": "「Ae... Ittan Sabi Desu!」",
+      "en": "\"Uh... anyway, here's the chorus!\"",
+      "zh": "「呃…總之先進副歌！」"
+    },
+    {
+      "ja": "ようこそ最先端　(えいぷりる)",
+      "romaji": "Youkoso Saisentan (Eipuriru)",
+      "en": "Welcome to the cutting edge (April)",
+      "zh": "歡迎來到最前端（四月）"
+    },
+    {
+      "ja": "V・V・斬り込みます！　(ふーるず)",
+      "romaji": "V V Kirikomimasu! (Fuuruzu)",
+      "en": "V・V・We're cutting in! (Fools)",
+      "zh": "V・V・要切進去囉！（愚者們）"
+    },
+    {
+      "ja": "配信枠を飛び出す大躍進！",
+      "romaji": "Haishin Waku wo Tobidasu Daiyakushin!",
+      "en": "A great leap out of the streaming frame!",
+      "zh": "飛出直播框架的大躍進！"
+    },
+    {
+      "ja": "「まさにコレ！」",
+      "romaji": "「Masa ni Kore!」",
+      "en": "\"This is exactly it!\"",
+      "zh": "「正是這個！」"
+    },
+    {
+      "ja": "常識をアップデート　(わんもあ)",
+      "romaji": "Joushiki wo Appudeeto (Wan Moa)",
+      "en": "Update common sense (one more)",
+      "zh": "更新常識（再來一次）"
+    },
+    {
+      "ja": "BAN★BAN★BAN★回避してV☆　(ふふふふ)",
+      "romaji": "BAN★BAN★BAN★Kaihi Shite V☆ (Fufufufu)",
+      "en": "BAN★BAN★BAN★ dodge and V☆ (fufufufu)",
+      "zh": "BAN★BAN★BAN★閃避然後V☆（呵呵呵呵）"
+    },
+    {
+      "ja": "進め！起こせ！　(えいぷりるふーるず)",
+      "romaji": "Susume! Okose! (Eipuriru Fuuruzu)",
+      "en": "Advance! Make it happen! (April fools)",
+      "zh": "前進！掀起吧！（四月愚者）"
+    },
+    {
+      "ja": "センセーション！",
+      "romaji": "Senseeshon!",
+      "en": "Sensation!",
+      "zh": "轟動！"
+    },
+    {
+      "ja": "悪・即・検・索！！えっ！！　＼！1万件？！／",
+      "romaji": "Aku Soku Ken Saku!! E!! ＼! Ichiman Ken?!／",
+      "en": "Evil・Instant・Search!! Huh!! ＼! Ten thousand results?!／",
+      "zh": "惡・即・搜・索！！欸！！＼！一萬件？！／"
+    },
+    {
+      "ja": "あい？まい？愛！？舞！？サッ！＼！！回避！！／",
+      "romaji": "Ai? Mai? Ai!? Mai!? Sa! ＼!! Kaihi!!／",
+      "en": "I? My? Love!? Dance!? Sa! ＼!! Dodge!!／",
+      "zh": "愛？麥？愛！？舞！？颯！＼！！迴避！！／"
+    },
+    {
+      "ja": "「みんな一緒に戦国乱世ごっこしよう？」",
+      "romaji": "「Minna Issho ni Sengoku Ransei Gokko Shiyou?」",
+      "en": "\"Shall we all play warring states together?\"",
+      "zh": "「大家一起來玩戰國亂世家家酒？」"
+    },
+    {
+      "ja": "「職業選択の自由行使します」",
+      "romaji": "「Shokugyou Sentaku no Jiyuu Koushi Shimasu」",
+      "en": "\"I'll exercise my freedom of career choice\"",
+      "zh": "「我要行使職業選擇的自由」"
+    },
+    {
+      "ja": "「そんなこと言わずに～」",
+      "romaji": "「Sonna Koto Iwazu ni~」",
+      "en": "\"Don't say that~\"",
+      "zh": "「別這麼說嘛～」"
+    },
+    {
+      "ja": "「つれないなぁ～」",
+      "romaji": "「Tsurenai naa~」",
+      "en": "\"So cold~\"",
+      "zh": "「真無情呢～」"
+    },
+    {
+      "ja": "「なんかすごい時代な気がしてきた」",
+      "romaji": "「Nanka Sugoi Jidai na Ki ga Shite Kita」",
+      "en": "\"I'm starting to feel like this is an amazing era\"",
+      "zh": "「總覺得這是個很厲害的時代」"
+    },
+    {
+      "ja": "「これからどう変わっていくんだろうね？」",
+      "romaji": "「Kore kara Dou Kawatte Iku n Darou ne?」",
+      "en": "\"How will it change from now on?\"",
+      "zh": "「接下來會怎麼改變呢？」"
+    },
+    {
+      "ja": "「それはパンドラの箱では…？」",
+      "romaji": "「Sore ha Pandora no Hako de ha...?」",
+      "en": "\"Isn't that Pandora's box...?\"",
+      "zh": "「那不就是潘朵拉的盒子嗎…？」"
+    },
+    {
+      "ja": "「あぁ！『はい』を選ぶと」",
+      "romaji": "「Aa! 『Hai』 wo Erabu to」",
+      "en": "\"Ah! If you choose 'yes'\"",
+      "zh": "「啊啊！選了『是』的話」"
+    },
+    {
+      "ja": "「違う違う」",
+      "romaji": "「Chigau Chigau」",
+      "en": "\"No, no\"",
+      "zh": "「不對不對」"
+    },
+    {
+      "ja": "「開けちゃいけないんですよぉ」",
+      "romaji": "「Akecha Ikenai n Desu yo~」",
+      "en": "\"You mustn't open it~\"",
+      "zh": "「不可以打開的喔～」"
+    },
+    {
+      "ja": "「それこそ斬り込まないと！」",
+      "romaji": "「Sore Koso Kirikomanai to!」",
+      "en": "\"That's exactly what we have to cut into!\"",
+      "zh": "「那才更要切進去啊！」"
+    },
+    {
+      "ja": "「このまま取り残されちゃうかもよ～？」",
+      "romaji": "「Kono Mama Torinokosarechau Kamo yo~?」",
+      "en": "\"You might get left behind like this~?\"",
+      "zh": "「可能會就這樣被拋下喔～？」"
+    },
+    {
+      "ja": "「でも、でも…ッ！」",
+      "romaji": "「Demo, Demo...!」",
+      "en": "\"But, but...!\"",
+      "zh": "「可是、可是…！」"
+    },
+    {
+      "ja": "「…滅びる原因は、自らの内にある」",
+      "romaji": "「...Horobiru Gen'in ha, Mizukara no Uchi ni Aru」",
+      "en": "\"...The cause of destruction lies within oneself\"",
+      "zh": "「…毀滅的原因，就在自身之中」"
+    },
+    {
+      "ja": "「そんなぁ！！わたし取り残されたくないです！！」",
+      "romaji": "「Sonnaa!! Watashi Torinokosaretakunai Desu!!」",
+      "en": "\"No way!! I don't want to be left behind!!\"",
+      "zh": "「怎麼這樣！！我不想被拋下啊！！」"
+    },
+    {
+      "ja": "「ならば奮起せよ！アプデするのだ！」",
+      "romaji": "「Naraba Funki Seyo! Apude Suru no Da!」",
+      "en": "\"Then rise up! Update yourself!\"",
+      "zh": "「那就奮起吧！要更新啊！」"
+    },
+    {
+      "ja": "「そうだそうだ！」",
+      "romaji": "「Sou Da Sou Da!」",
+      "en": "\"That's right, that's right!\"",
+      "zh": "「沒錯沒錯！」"
+    },
+    {
+      "ja": "「アプデじゃアプデじゃ～！」",
+      "romaji": "「Apude ja Apude ja~!」",
+      "en": "\"Update, update~!\"",
+      "zh": "「更新啦更新啦～！」"
+    },
+    {
+      "ja": "「は、はぃい～」",
+      "romaji": "「Ha, Haii~」",
+      "en": "\"O-okay~\"",
+      "zh": "「好、好的～」"
+    },
+    {
+      "ja": "「よし！」",
+      "romaji": "「Yoshi!」",
+      "en": "\"Alright!\"",
+      "zh": "「好！」"
+    },
+    {
+      "ja": "「止まるんじゃねぇぞ…？」",
+      "romaji": "「Tomarun ja Nee zo...?」",
+      "en": "\"Don't you dare stop...?\"",
+      "zh": "「可別停下來啊…？」"
+    },
+    {
+      "ja": "「おぉ」",
+      "romaji": "「Oo」",
+      "en": "\"Oh\"",
+      "zh": "「喔」"
+    },
+    {
+      "ja": "「決まった」",
+      "romaji": "「Kimatta」",
+      "en": "\"That's settled\"",
+      "zh": "「決定了」"
+    },
+    {
+      "ja": "「サビ前ジャストぉ！」",
+      "romaji": "「Sabi Mae Jasuto!」",
+      "en": "\"Just before the chorus!\"",
+      "zh": "「正好在副歌前！」"
+    },
+    {
+      "ja": "攻めろ最先端　(えいぷりる)",
+      "romaji": "Semero Saisentan (Eipuriru)",
+      "en": "Attack, cutting edge (April)",
+      "zh": "進攻吧最前端（四月）"
+    },
+    {
+      "ja": "V・V・斬り込みます！　(ふーるず)",
+      "romaji": "V V Kirikomimasu! (Fuuruzu)",
+      "en": "V・V・We're cutting in! (Fools)",
+      "zh": "V・V・要切進去囉！（愚者們）"
+    },
+    {
+      "ja": "飛び交う真実　ひとつじゃないって！？",
+      "romaji": "Tobikau Shinjitsu Hitotsu ja Nai tte!?",
+      "en": "Truths flying around—there's more than one!?",
+      "zh": "飛來飛去的真相，不只一個！？"
+    },
+    {
+      "ja": "「なんでやねんっ！」",
+      "romaji": "「Nande Yane!」",
+      "en": "\"What the heck!\"",
+      "zh": "「為什麼啊！」"
+    },
+    {
+      "ja": "捨ててステレオタイプ　(わんもあ)",
+      "romaji": "Sutete Sutereotaipu (Wan Moa)",
+      "en": "Throw away stereotypes (one more)",
+      "zh": "丟掉刻板印象（再來一次）"
+    },
+    {
+      "ja": "NAN？NAN？NANKAI！な迷宮で　(ふふふふ)",
+      "romaji": "NAN? NAN? NANKAI! na Meikyuu de (Fufufufu)",
+      "en": "In a NAN? NAN? NANKAI! labyrinth (fufufufu)",
+      "zh": "在NAN？NAN？NANKAI！的迷宮裡（呵呵呵呵）"
+    },
+    {
+      "ja": "見抜け…ますか？！　(えいぷりるふーるず)",
+      "romaji": "Minuke... Masu ka?! (Eipuriru Fuuruzu)",
+      "en": "Can you see through it...?! (April fools)",
+      "zh": "能看穿…嗎？！（四月愚者）"
+    },
+    {
+      "ja": "コンフュージョン！！",
+      "romaji": "Konfyuujon!!",
+      "en": "Confusion!!",
+      "zh": "混亂！！"
+    },
+    {
+      "ja": "(ウソもホントもリアルで)",
+      "romaji": "(Uso mo Honto mo Riaru de)",
+      "en": "(Lies and truths are both real)",
+      "zh": "（謊言與真實都是現實）"
+    },
+    {
+      "ja": "「一瞬普通に騙されかけたぁ！」",
+      "romaji": "「Isshun Futsuu ni Damasarekaketaa!」",
+      "en": "\"For a moment I was almost normally fooled!\"",
+      "zh": "「一瞬間差點就被普通地騙了！」"
+    },
+    {
+      "ja": "(ウソもホントのバーチャル)",
+      "romaji": "(Uso mo Honto no Baacharu)",
+      "en": "(Lies and truths of the virtual)",
+      "zh": "（謊言與真實的虛擬）"
+    },
+    {
+      "ja": "「あえて乗っかって遊ぶのだっ！」",
+      "romaji": "「Aete Nokkatte Asobu no Da!」",
+      "en": "\"Let's dare to ride along and play!\"",
+      "zh": "「乾脆就搭上去玩吧！」"
+    },
+    {
+      "ja": "「で、作戦は？」",
+      "romaji": "「De, Sakusen ha?」",
+      "en": "\"So, what's the plan?\"",
+      "zh": "「那，作戰計畫是？」"
+    },
+    {
+      "ja": "「ここはあえての…奇襲？！」",
+      "romaji": "「Koko ha Aete no... Kishuu?!」",
+      "en": "\"Here, daringly... a surprise attack?!\"",
+      "zh": "「這裡就大膽來個…突襲？！」"
+    },
+    {
+      "ja": "「いやいや、V・V・行くのみ！」",
+      "romaji": "「Iya Iya, V V Iku Nomi!」",
+      "en": "\"No, no, just go V・V・!\"",
+      "zh": "「不不，就是V・V・前進！」"
+    },
+    {
+      "ja": "「グイグイじゃなくて？」",
+      "romaji": "「Guigui ja Nakute?」",
+      "en": "\"Not aggressively?\"",
+      "zh": "「不是猛衝嗎？」"
+    },
+    {
+      "ja": "「V・V・です！」",
+      "romaji": "「V V Desu!」",
+      "en": "\"It's V・V・!\"",
+      "zh": "「是V・V・啦！」"
+    },
+    {
+      "ja": "「ねぇちょっとだけテレビ見ていい～？」",
+      "romaji": "「Nee Chotto Dake Terebi Mite Ii~?」",
+      "en": "\"Hey, can I watch TV for just a bit~?\"",
+      "zh": "「吶，可以看一下電視嗎～？」"
+    },
+    {
+      "ja": "抱え込んでフリーズしちゃ出来ぬアップデート　(いぇい！)",
+      "romaji": "Kakaekonde Furiizu Shicha Dekinu Appudeeto (Yei!)",
+      "en": "You can't update if you hold it all in and freeze (yeah!)",
+      "zh": "全攬在身上當機了就無法更新（耶！）"
+    },
+    {
+      "ja": "BAN★はやめてよして荒らさないで『いいね』ありがてぇ　(いぇい！)",
+      "romaji": "BAN★ ha Yamete Yoshite Arasanai de 『Ii ne』 Arigatee (Yei!)",
+      "en": "Stop with the BAN★, don't raid—'likes' are appreciated (yeah!)",
+      "zh": "別BAN★了住手，不要亂鬧，『讚』感激不盡（耶！）"
+    },
+    {
+      "ja": "やっぱ意外とこういうチルもいいかも？　(うぉう！)",
+      "romaji": "Yappa Igai to Kou Iu Chiru mo Ii Kamo? (Wou!)",
+      "en": "Maybe this kind of chill is surprisingly nice? (Whoa!)",
+      "zh": "果然這種Chill意外地也不錯？（哇喔！）"
+    },
+    {
+      "ja": "…アンコクビショウ？で釘を刺された模様　(ぅわぉう！)",
+      "romaji": "...Ankoku Bishou? de Kugi wo Sareta Moyou (Uwaou!)",
+      "en": "...Seems I got warned with an \"ominous smile\"? (Whoa!)",
+      "zh": "…好像被「暗黑微笑？」警告了一番（哇喔！）"
+    },
+    {
+      "ja": "＞立ち止まるわけにはいかない…！＜",
+      "romaji": ">Tachidomaru Wake ni ha Ikanai...!<",
+      "en": ">I can't afford to stop...!<",
+      "zh": "＞可不能停下腳步…！＜"
+    },
+    {
+      "ja": "「いざ～！」",
+      "romaji": "「Iza~!」",
+      "en": "\"Here we go~!\"",
+      "zh": "「上吧～！」"
+    },
+    {
+      "ja": "「ラスサビじゃぁ～！」",
+      "romaji": "「Rasu Sabi jaa~!」",
+      "en": "\"Last chorus~!\"",
+      "zh": "「最後副歌～！」"
+    },
+    {
+      "ja": "Wi-Wi-Wi-Fiがない！",
+      "romaji": "Wi-Wi-Wi-Fi ga Nai!",
+      "en": "There's no Wi-Wi-Wi-Fi!",
+      "zh": "Wi-Wi-Wi-Fi 沒有了！"
+    },
+    {
+      "ja": "アイデンティティが危ない！？",
+      "romaji": "Aidentiti ga Abunai!?",
+      "en": "Is my identity in danger!?",
+      "zh": "身分認同有危險！？"
+    },
+    {
+      "ja": "そんなんは！",
+      "romaji": "Sonna n ha!",
+      "en": "That kind of thing!",
+      "zh": "那種事！"
+    },
+    {
+      "ja": "どうだって！！",
+      "romaji": "Dou Datte!!",
+      "en": "Doesn't matter!!",
+      "zh": "怎樣都好！！"
+    },
+    {
+      "ja": "いいんですっ！！！",
+      "romaji": "Ii n Desu!!!",
+      "en": "It's fine!!!",
+      "zh": "沒關係啦！！！"
+    },
+    {
+      "ja": "ようこそ最先端　(えいぷりる)",
+      "romaji": "Youkoso Saisentan (Eipuriru)",
+      "en": "Welcome to the cutting edge (April)",
+      "zh": "歡迎來到最前端（四月）"
+    },
+    {
+      "ja": "V・V・斬り込みます！　(ふーるず)",
+      "romaji": "V V Kirikomimasu! (Fuuruzu)",
+      "en": "V・V・We're cutting in! (Fools)",
+      "zh": "V・V・要切進去囉！（愚者們）"
+    },
+    {
+      "ja": "アクセス解析ッ　諸刃のソード！！",
+      "romaji": "Akusesu Kaiseki Mosu no Soodo!!",
+      "en": "Access analysis—a double-edged sword!!",
+      "zh": "存取分析，雙刃之劍！！"
+    },
+    {
+      "ja": "「やめたげて！？」",
+      "romaji": "「Yametagete!?」",
+      "en": "\"Stop it!?\"",
+      "zh": "「別這樣啦！？」"
+    },
+    {
+      "ja": "L・I・V・EのV？　(えいぷりる)",
+      "romaji": "L I V E no V? (Eipuriru)",
+      "en": "The V in L・I・V・E? (April)",
+      "zh": "L・I・V・E的V？（四月）"
+    },
+    {
+      "ja": "L・O・V・EのV？　(ふーるず)",
+      "romaji": "L O V E no V? (Fuuruzu)",
+      "en": "The V in L・O・V・E? (Fools)",
+      "zh": "L・O・V・E的V？（愚者們）"
+    },
+    {
+      "ja": "正解知りたい人、手上げて！",
+      "romaji": "Seikai Shiritai Hito, Te Agete!",
+      "en": "Those who want to know the right answer, raise your hands!",
+      "zh": "想知道正確答案的人，舉手！"
+    },
+    {
+      "ja": "「なんちゃって♪」",
+      "romaji": "「Nanchatter♪」",
+      "en": "\"Just kidding♪\"",
+      "zh": "「開玩笑的♪」"
+    },
+    {
+      "ja": "さぁ今日もアップデート！　(ふふふふ)",
+      "romaji": "Saa Kyou mo Appudeeto! (Fufufufu)",
+      "en": "Now, update again today! (fufufufu)",
+      "zh": "來吧，今天也要更新！（呵呵呵呵）"
+    },
+    {
+      "ja": "BAN★BAN★BAN★回避してV☆　(ふーるず)",
+      "romaji": "BAN★BAN★BAN★Kaihi Shite V☆ (Fuuruzu)",
+      "en": "BAN★BAN★BAN★ dodge and V☆ (fools)",
+      "zh": "BAN★BAN★BAN★閃避然後V☆（愚者們）"
+    },
+    {
+      "ja": "進め！起こせ！　(えいぷりるふーるず)",
+      "romaji": "Susume! Okose! (Eipuriru Fuuruzu)",
+      "en": "Advance! Make it happen! (April fools)",
+      "zh": "前進！掀起吧！（四月愚者）"
+    },
+    {
+      "ja": "センセーション！",
+      "romaji": "Senseeshon!",
+      "en": "Sensation!",
+      "zh": "轟動！"
+    },
+    {
+      "ja": "え！い！ぷ！り！る！＼！！ふーるず！！／",
+      "romaji": "E! I! Pu! Ri! Ru! ＼!! Fuuruzu!!／",
+      "en": "A! P! R! I! L! ＼!! Fools!!／",
+      "zh": "四！月！愚！人！＼！！愚者們！！／"
+    }
+  ]
+}
