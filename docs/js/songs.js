@@ -1,4 +1,3 @@
-// Global Transposition Map
 const scale = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
 
 function transposeLine(chordLine, steps) {
@@ -20,13 +19,11 @@ document.addEventListener("DOMContentLoaded", () => {
     let currentKeyShift = 0;
     let songData = null;
 
-    // Cross-page state retention using localStorage
     let globalLanguage = localStorage.getItem("se_global_lang") || "en";   // App UI Language ("en", "zh", "ja")
     let lyricsLanguage = localStorage.getItem("se_lyrics_lang") || "en";   // Translation track language ("en", "zh")
     let romajiActive = localStorage.getItem("se_romaji_active") !== "false";
     let notesActive = localStorage.getItem("se_notes_active") !== "false";
 
-    // Global App Shell Translations (Now with Japanese Support)
     const uiTranslations = {
         en: {
             artist: "Artist",
@@ -87,7 +84,6 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     };
 
-    // Dynamically mount CDNs safely
     if (!document.getElementById("fa-cdn")) {
         const fa = document.createElement("link");
         fa.id = "fa-cdn";
@@ -171,17 +167,17 @@ document.addEventListener("DOMContentLoaded", () => {
     function renderAppLayout() {
         const t = uiTranslations[globalLanguage];
 
-        // Row 1 Metadata (Artist, Composer, Lyricist)[cite: 1]
+        // Row 1
         let row1Details = [`<i class="fa-solid fa-microphone-lines text-sky-400 mr-1"></i> ${t.artist}: ${songData.meta.artist}`];
         if (songData.meta.composer) row1Details.push(`${t.composer}: ${songData.meta.composer}`);
         if (songData.meta.lyricist) row1Details.push(`${t.lyricist}: ${songData.meta.lyricist}`);
 
-        // Row 2 Metadata (Album, Release Date, Description)[cite: 1]
+        // Row 2
         let row2Details = [];
         if (songData.meta.album) row2Details.push(`${t.album}: ${songData.meta.album}`);
         if (songData.meta.releaseDate) row2Details.push(`${t.releaseDate}: ${songData.meta.releaseDate}`);
 
-        // Logic for Links Dropdown[cite: 1]
+        // Links Dropdown
         let linksDropdownHtml = '';
         if (songData.meta.links && songData.meta.links.length > 0) {
             let linksItems = songData.meta.links.map(link =>
@@ -307,7 +303,6 @@ document.addEventListener("DOMContentLoaded", () => {
             </div>
         `;
 
-        // Attach event listeners for the dropdown[cite: 1]
         const wrapper = document.getElementById("links-wrapper");
         const menu = document.getElementById("links-dropdown-menu");
 
@@ -320,7 +315,6 @@ document.addEventListener("DOMContentLoaded", () => {
             });
         }
 
-        // Attach event listeners for the Call Guide popup toggle
         const guideBtn = document.getElementById("call-guide-btn");
         const guidePopup = document.getElementById("call-guide-popup");
 
@@ -342,7 +336,6 @@ document.addEventListener("DOMContentLoaded", () => {
             });
         }
 
-        // Restore active selection key[cite: 1]
         const keyTransposer = document.getElementById("key-transposer");
         if (keyTransposer) {
             keyTransposer.value = currentKeyShift;
@@ -352,7 +345,6 @@ document.addEventListener("DOMContentLoaded", () => {
             });
         }
 
-        // Global Loop Switcher[cite: 1]
         document.getElementById("toggle-global-lang").onclick = () => {
             if (globalLanguage === "en") globalLanguage = "zh";
             else if (globalLanguage === "zh") globalLanguage = "ja";

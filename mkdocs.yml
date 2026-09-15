@@ -133,13 +133,18 @@ nav:
       - 'Dancing Reed': songs/dancing_reed.md
       - 'ラッキーセブンスホイッスル': songs/lucky_7_whistle.md
       - 'おかえりなさい': songs/okaerinasai.md
+    - 'Check!':
+      - 'マルゴトミライ': songs/marugoto_mirai.md
+      - 'ハイパーチャッチャカチャージ': songs/hyper_chacchaka_charge.md
+      - 'スキ⇄スキ☆うろぼろす': songs/suki_suki_uroborosu.md
+      - 'キラメキMODE！ feat. 響咲リオナ': songs/kirameki_mode.md
+      - '決意のソラへ': songs/ketsuino_sorahe.md
     - 'その他のシングル 其他單曲 Other Singles':
       - 'わたしとあなたと皆さまと！': songs/watashito_anatato_minasamato.md
       - 'あの日見た空': songs/anohimita_sora.md
       - 'そらともどうぶつようちえん': songs/soratomo_doubutsu_youchien.md
       - '青空ステージ': songs/aozora_stage.md
       - '同じ空の下で': songs/onaji_sorano_shitade.md
-      - '決意のソラへ': songs/ketsuino_sorahe.md
     - 'グループ 團體唱片 Group Albums':
       - 'バーチャル開花最前線！/Fragment':
         - 'バーチャル開花最前線！': songs/virtual_kaika_saizensen.md

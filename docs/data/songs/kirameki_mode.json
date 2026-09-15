@@ -1,0 +1,969 @@
+{
+  "meta": {
+    "title": "キラメキMODE！ feat. 響咲リオナ",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "TeddyLoid",
+    "lyricist": "TeddyLoid",
+    "album": "Check!",
+    "releaseDate": "2026/08/05",
+    "coverUrl": "cover_images/check",
+    "penlight_color": [
+      "#0000ff",
+      "#dddddd"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/PxlEm_nUBho?si=6iSCw5DHllgnbDNJ"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Hey！ Hey！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Turn it up tonight"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "風まかせ飛び出して"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "笑うだけで perfect day"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ノープランでもいいじゃん"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "君がいれば OK！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "寄り道ばっかしてても"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "全部思い出になるね"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「まだ帰りたくない！」って"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "同じタイミングで"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Hands up！ 音に Ride on"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "高鳴ってく感情"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "映えとかもうどうでもいい"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "“楽しい”が最優勝"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Clap clap！ 声を頂戴"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "はしゃいじゃえば問題ない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "一瞬だって逃したくない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "このまま朝まで Alright！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もっと騒ごうよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まだ終われない！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "キラキラ止まんない！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "君となら最高じゃん！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "歌って　踊って"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "今日をもっと好きになる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Shake it！ 鳴らして Now！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "この瞬間を連れてこう！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "笑っていこうよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "全部パーフェクト！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Jump up！ 声を頂戴"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まだまだ遊び足りない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "テンション上げて Everybody"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "この景色を更新したい"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Flash light　光る Wave"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "繋がってく Feel so great"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "目が合うたび笑っちゃう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "その感じが最高じゃない？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "イヤなこと忘れちゃって"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "好きなように moving now"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "くだらない一言で"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "また笑い止まらない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ちょっと無茶なノリでも"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "君がいると楽しいね"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "気づけば隣にいる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "それがなんか嬉しい"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もっと行けそうじゃない？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まだ止まれない！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "キラキラ駆け出して！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "君とならどこまででも！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "テンションだって"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "シンクロしてく All day"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Shake it！ 鳴らして Now！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "合図ひとつで Jump around！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "笑い合えば"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "全部パーフェクト！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "何年先の時を越えて"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "この空に響くように"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "笑顔の花を咲かそう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "こんな瞬間を"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "キラキラ止まんない！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "君のこと大好きだ！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "何年先も"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "思い出せるように"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Shake it！ 鳴らして Now！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "声を合わせて Sing aloud！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "君とだから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "こんなに輝ける！"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "Hey！ Hey！",
+      "call": ""
+    },
+    {
+      "lyrics": "Turn it up tonight",
+      "call": ""
+    },
+    {
+      "lyrics": "風まかせ飛び出して",
+      "call": ""
+    },
+    {
+      "lyrics": "笑うだけで perfect day",
+      "call": ""
+    },
+    {
+      "lyrics": "ノープランでもいいじゃん",
+      "call": ""
+    },
+    {
+      "lyrics": "君がいれば OK！",
+      "call": ""
+    },
+    {
+      "lyrics": "寄り道ばっかしてても",
+      "call": ""
+    },
+    {
+      "lyrics": "全部思い出になるね",
+      "call": ""
+    },
+    {
+      "lyrics": "「まだ帰りたくない！」って",
+      "call": ""
+    },
+    {
+      "lyrics": "同じタイミングで",
+      "call": ""
+    },
+    {
+      "lyrics": "Hands up！ 音に Ride on",
+      "call": ""
+    },
+    {
+      "lyrics": "高鳴ってく感情",
+      "call": ""
+    },
+    {
+      "lyrics": "映えとかもうどうでもいい",
+      "call": ""
+    },
+    {
+      "lyrics": "“楽しい”が最優勝",
+      "call": ""
+    },
+    {
+      "lyrics": "Clap clap！ 声を頂戴",
+      "call": ""
+    },
+    {
+      "lyrics": "はしゃいじゃえば問題ない",
+      "call": ""
+    },
+    {
+      "lyrics": "一瞬だって逃したくない",
+      "call": ""
+    },
+    {
+      "lyrics": "このまま朝まで Alright！",
+      "call": ""
+    },
+    {
+      "lyrics": "もっと騒ごうよ",
+      "call": ""
+    },
+    {
+      "lyrics": "まだ終われない！",
+      "call": ""
+    },
+    {
+      "lyrics": "キラキラ止まんない！",
+      "call": ""
+    },
+    {
+      "lyrics": "君となら最高じゃん！",
+      "call": ""
+    },
+    {
+      "lyrics": "歌って　踊って",
+      "call": ""
+    },
+    {
+      "lyrics": "今日をもっと好きになる",
+      "call": ""
+    },
+    {
+      "lyrics": "Shake it！ 鳴らして Now！",
+      "call": ""
+    },
+    {
+      "lyrics": "この瞬間を連れてこう！",
+      "call": ""
+    },
+    {
+      "lyrics": "笑っていこうよ",
+      "call": ""
+    },
+    {
+      "lyrics": "全部パーフェクト！",
+      "call": ""
+    },
+    {
+      "lyrics": "Jump up！ 声を頂戴",
+      "call": ""
+    },
+    {
+      "lyrics": "まだまだ遊び足りない",
+      "call": ""
+    },
+    {
+      "lyrics": "テンション上げて Everybody",
+      "call": ""
+    },
+    {
+      "lyrics": "この景色を更新したい",
+      "call": ""
+    },
+    {
+      "lyrics": "Flash light　光る Wave",
+      "call": ""
+    },
+    {
+      "lyrics": "繋がってく Feel so great",
+      "call": ""
+    },
+    {
+      "lyrics": "目が合うたび笑っちゃう",
+      "call": ""
+    },
+    {
+      "lyrics": "その感じが最高じゃない？",
+      "call": ""
+    },
+    {
+      "lyrics": "イヤなこと忘れちゃって",
+      "call": ""
+    },
+    {
+      "lyrics": "好きなように moving now",
+      "call": ""
+    },
+    {
+      "lyrics": "くだらない一言で",
+      "call": ""
+    },
+    {
+      "lyrics": "また笑い止まらない",
+      "call": ""
+    },
+    {
+      "lyrics": "ちょっと無茶なノリでも",
+      "call": ""
+    },
+    {
+      "lyrics": "君がいると楽しいね",
+      "call": ""
+    },
+    {
+      "lyrics": "気づけば隣にいる",
+      "call": ""
+    },
+    {
+      "lyrics": "それがなんか嬉しい",
+      "call": ""
+    },
+    {
+      "lyrics": "もっと行けそうじゃない？",
+      "call": ""
+    },
+    {
+      "lyrics": "まだ止まれない！",
+      "call": ""
+    },
+    {
+      "lyrics": "キラキラ駆け出して！",
+      "call": ""
+    },
+    {
+      "lyrics": "君とならどこまででも！",
+      "call": ""
+    },
+    {
+      "lyrics": "テンションだって",
+      "call": ""
+    },
+    {
+      "lyrics": "シンクロしてく All day",
+      "call": ""
+    },
+    {
+      "lyrics": "Shake it！ 鳴らして Now！",
+      "call": ""
+    },
+    {
+      "lyrics": "合図ひとつで Jump around！",
+      "call": ""
+    },
+    {
+      "lyrics": "笑い合えば",
+      "call": ""
+    },
+    {
+      "lyrics": "全部パーフェクト！",
+      "call": ""
+    },
+    {
+      "lyrics": "何年先の時を越えて",
+      "call": ""
+    },
+    {
+      "lyrics": "この空に響くように",
+      "call": ""
+    },
+    {
+      "lyrics": "笑顔の花を咲かそう",
+      "call": ""
+    },
+    {
+      "lyrics": "こんな瞬間を",
+      "call": ""
+    },
+    {
+      "lyrics": "キラキラ止まんない！",
+      "call": ""
+    },
+    {
+      "lyrics": "君のこと大好きだ！",
+      "call": ""
+    },
+    {
+      "lyrics": "何年先も",
+      "call": ""
+    },
+    {
+      "lyrics": "思い出せるように",
+      "call": ""
+    },
+    {
+      "lyrics": "Shake it！ 鳴らして Now！",
+      "call": ""
+    },
+    {
+      "lyrics": "声を合わせて Sing aloud！",
+      "call": ""
+    },
+    {
+      "lyrics": "君とだから",
+      "call": ""
+    },
+    {
+      "lyrics": "こんなに輝ける！",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "Hey！ Hey！",
+      "romaji": "Hey! Hey!",
+      "en": "Hey! Hey!",
+      "zh": "Hey！Hey！"
+    },
+    {
+      "ja": "Turn it up tonight",
+      "romaji": "Turn It Up Tonight",
+      "en": "Turn it up tonight",
+      "zh": "今晚把音量調大"
+    },
+    {
+      "ja": "風まかせ飛び出して",
+      "romaji": "Kaze Makase Tobidashite",
+      "en": "Letting the wind guide us, we leap out",
+      "zh": "隨風奔馳而出"
+    },
+    {
+      "ja": "笑うだけで perfect day",
+      "romaji": "Warau Dake de Perfect Day",
+      "en": "Just laughing makes it a perfect day",
+      "zh": "光是笑著就是 perfect day"
+    },
+    {
+      "ja": "ノープランでもいいじゃん",
+      "romaji": "Noo Puran demo Ii jan",
+      "en": "No plan? That's fine, isn't it?",
+      "zh": "沒有計畫也可以吧"
+    },
+    {
+      "ja": "君がいれば OK！",
+      "romaji": "Kimi ga Ireba OK!",
+      "en": "As long as you're here, it's OK!",
+      "zh": "只要有你就 OK！"
+    },
+    {
+      "ja": "寄り道ばっかしてても",
+      "romaji": "Yorimichi Bakka Shite te mo",
+      "en": "Even if we do nothing but take detours",
+      "zh": "即使盡是繞遠路"
+    },
+    {
+      "ja": "全部思い出になるね",
+      "romaji": "Zenbu Omoide ni Naru ne",
+      "en": "It all becomes memories, doesn't it?",
+      "zh": "全都會變成回憶呢"
+    },
+    {
+      "ja": "「まだ帰りたくない！」って",
+      "romaji": "「Mada Kaeritakunai!」 tte",
+      "en": "Saying \"I don't want to go home yet!\"",
+      "zh": "喊著「還不想回家！」"
+    },
+    {
+      "ja": "同じタイミングで",
+      "romaji": "Onaji Taimingu de",
+      "en": "At the exact same timing",
+      "zh": "在同一時刻"
+    },
+    {
+      "ja": "Hands up！ 音に Ride on",
+      "romaji": "Hands Up! Oto ni Ride On",
+      "en": "Hands up! Ride on the sound",
+      "zh": "Hands up！乘著音樂 Ride on"
+    },
+    {
+      "ja": "高鳴ってく感情",
+      "romaji": "Takanatteku Kanjou",
+      "en": "These rising emotions",
+      "zh": "逐漸高漲的情感"
+    },
+    {
+      "ja": "映えとかもうどうでもいい",
+      "romaji": "Bae to ka Mou Dou demo Ii",
+      "en": "I don't care about looking good for photos anymore",
+      "zh": "好不好拍已經無所謂了"
+    },
+    {
+      "ja": "“楽しい”が最優勝",
+      "romaji": "\"Tanoshii\" ga Sai Yuushou",
+      "en": "\"Having fun\" is the grand prize",
+      "zh": "「開心」就是最優勝"
+    },
+    {
+      "ja": "Clap clap！ 声を頂戴",
+      "romaji": "Clap Clap! Koe wo Choudai",
+      "en": "Clap clap! Give me your voice",
+      "zh": "Clap clap！給我你们的聲音"
+    },
+    {
+      "ja": "はしゃいじゃえば問題ない",
+      "romaji": "Hashaijae ba Mondai Nai",
+      "en": "If we just go wild, there's no problem",
+      "zh": "只要盡情玩鬧就沒問題"
+    },
+    {
+      "ja": "一瞬だって逃したくない",
+      "romaji": "Isshun Datte Nogashitakunai",
+      "en": "I don't want to miss even a single moment",
+      "zh": "連一瞬間都不想錯過"
+    },
+    {
+      "ja": "このまま朝まで Alright！",
+      "romaji": "Kono Mama Asa made Alright!",
+      "en": "Just like this until morning—alright!",
+      "zh": "就這樣到早上，Alright！"
+    },
+    {
+      "ja": "もっと騒ごうよ",
+      "romaji": "Motto Sawagou yo",
+      "en": "Let's make more noise",
+      "zh": "再更熱鬧一點吧"
+    },
+    {
+      "ja": "まだ終われない！",
+      "romaji": "Mada Owarenai!",
+      "en": "We can't end yet!",
+      "zh": "還不能結束！"
+    },
+    {
+      "ja": "キラキラ止まんない！",
+      "romaji": "Kira Kira Tomannai!",
+      "en": "The sparkle won't stop!",
+      "zh": "閃耀停不下來！"
+    },
+    {
+      "ja": "君となら最高じゃん！",
+      "romaji": "Kimi to Nara Saikou jan!",
+      "en": "With you, it's the best!",
+      "zh": "只要和你一起就最棒了！"
+    },
+    {
+      "ja": "歌って　踊って",
+      "romaji": "Utatte Odotte",
+      "en": "Singing, dancing",
+      "zh": "唱歌、跳舞"
+    },
+    {
+      "ja": "今日をもっと好きになる",
+      "romaji": "Kyou wo Motto Suki ni Naru",
+      "en": "I come to love today even more",
+      "zh": "更加喜歡今天了"
+    },
+    {
+      "ja": "Shake it！ 鳴らして Now！",
+      "romaji": "Shake It! Narashite Now!",
+      "en": "Shake it! Ring it out now!",
+      "zh": "Shake it！響起來 Now！"
+    },
+    {
+      "ja": "この瞬間を連れてこう！",
+      "romaji": "Kono Shunkan wo Tsuretekou!",
+      "en": "Let's take this moment with us!",
+      "zh": "把這一刻帶走吧！"
+    },
+    {
+      "ja": "笑っていこうよ",
+      "romaji": "Waratte Ikou yo",
+      "en": "Let's keep on laughing",
+      "zh": "繼續笑著走吧"
+    },
+    {
+      "ja": "全部パーフェクト！",
+      "romaji": "Zenbu Paafekuto!",
+      "en": "Everything's perfect!",
+      "zh": "全部都是完美！"
+    },
+    {
+      "ja": "Jump up！ 声を頂戴",
+      "romaji": "Jump Up! Koe wo Choudai",
+      "en": "Jump up! Give me your voice",
+      "zh": "Jump up！給我你们的聲音"
+    },
+    {
+      "ja": "まだまだ遊び足りない",
+      "romaji": "Mada Mada Asobi Tarinai",
+      "en": "I still haven't played enough",
+      "zh": "還遠遠玩不夠"
+    },
+    {
+      "ja": "テンション上げて Everybody",
+      "romaji": "Tenshon Agete Everybody",
+      "en": "Raise the energy, everybody",
+      "zh": "把氣氛炒熱，Everybody"
+    },
+    {
+      "ja": "この景色を更新したい",
+      "romaji": "Kono Keshiki wo Koushin Shitai",
+      "en": "I want to update this scenery",
+      "zh": "想更新這片景色"
+    },
+    {
+      "ja": "Flash light　光る Wave",
+      "romaji": "Flash Light Hikaru Wave",
+      "en": "Flash light, shining wave",
+      "zh": "Flash light，閃耀的 Wave"
+    },
+    {
+      "ja": "繋がってく Feel so great",
+      "romaji": "Tsunagatteku Feel So Great",
+      "en": "We're connecting—feel so great",
+      "zh": "彼此相繫，Feel so great"
+    },
+    {
+      "ja": "目が合うたび笑っちゃう",
+      "romaji": "Me ga Au Tabi Waratchau",
+      "en": "Every time our eyes meet, I can't help laughing",
+      "zh": "每次眼神交會就忍不住笑出來"
+    },
+    {
+      "ja": "その感じが最高じゃない？",
+      "romaji": "Sono Kanji ga Saikou ja Nai?",
+      "en": "Isn't that feeling just the best?",
+      "zh": "那種感覺不是最棒的嗎？"
+    },
+    {
+      "ja": "イヤなこと忘れちゃって",
+      "romaji": "Iya na Koto Wasurechatte",
+      "en": "Forgetting all the unpleasant things",
+      "zh": "把討厭的事都忘掉"
+    },
+    {
+      "ja": "好きなように moving now",
+      "romaji": "Suki na You ni Moving Now",
+      "en": "Moving now just as we like",
+      "zh": "隨心所欲地 moving now"
+    },
+    {
+      "ja": "くだらない一言で",
+      "romaji": "Kudaranai Hitokoto de",
+      "en": "With a single silly word",
+      "zh": "因為一句無聊的話"
+    },
+    {
+      "ja": "また笑い止まらない",
+      "romaji": "Mata Warai Tomaranai",
+      "en": "We can't stop laughing again",
+      "zh": "又笑到停不下來"
+    },
+    {
+      "ja": "ちょっと無茶なノリでも",
+      "romaji": "Chotto Mucha na Nori demo",
+      "en": "Even with a slightly reckless vibe",
+      "zh": "即使有點胡來的氣氛"
+    },
+    {
+      "ja": "君がいると楽しいね",
+      "romaji": "Kimi ga Iru to Tanoshii ne",
+      "en": "It's fun when you're around",
+      "zh": "有你在就很有趣呢"
+    },
+    {
+      "ja": "気づけば隣にいる",
+      "romaji": "Kizukeba Tonari ni Iru",
+      "en": "Before I know it, you're beside me",
+      "zh": "回過神來你就在身旁"
+    },
+    {
+      "ja": "それがなんか嬉しい",
+      "romaji": "Sore ga Nanka Ureshii",
+      "en": "And somehow, that makes me happy",
+      "zh": "不知為何就是很開心"
+    },
+    {
+      "ja": "もっと行けそうじゃない？",
+      "romaji": "Motto Ikesou ja Nai?",
+      "en": "Feels like we can go further, doesn't it?",
+      "zh": "感覺還能再繼續下去不是嗎？"
+    },
+    {
+      "ja": "まだ止まれない！",
+      "romaji": "Mada Tomarenai!",
+      "en": "We can't stop yet!",
+      "zh": "還不能停下來！"
+    },
+    {
+      "ja": "キラキラ駆け出して！",
+      "romaji": "Kira Kira Kakedashite!",
+      "en": "Sparkling, we start running!",
+      "zh": "閃閃發光地奔跑起來！"
+    },
+    {
+      "ja": "君とならどこまででも！",
+      "romaji": "Kimi to Nara Doko made demo!",
+      "en": "With you, anywhere at all!",
+      "zh": "只要和你一起，哪裡都能去！"
+    },
+    {
+      "ja": "テンションだって",
+      "romaji": "Tenshon Datte",
+      "en": "Even our energy",
+      "zh": "連情緒也是"
+    },
+    {
+      "ja": "シンクロしてく All day",
+      "romaji": "Shinkuro Shiteku All Day",
+      "en": "Keeps syncing all day",
+      "zh": "整天都在同步"
+    },
+    {
+      "ja": "Shake it！ 鳴らして Now！",
+      "romaji": "Shake It! Narashite Now!",
+      "en": "Shake it! Ring it out now!",
+      "zh": "Shake it！響起來 Now！"
+    },
+    {
+      "ja": "合図ひとつで Jump around！",
+      "romaji": "Aizu Hitotsu de Jump Around!",
+      "en": "With just one signal, jump around!",
+      "zh": "一個暗號就 Jump around！"
+    },
+    {
+      "ja": "笑い合えば",
+      "romaji": "Waraiae ba",
+      "en": "If we laugh together",
+      "zh": "只要一起歡笑"
+    },
+    {
+      "ja": "全部パーフェクト！",
+      "romaji": "Zenbu Paafekuto!",
+      "en": "Everything's perfect!",
+      "zh": "全部都是完美！"
+    },
+    {
+      "ja": "何年先の時を越えて",
+      "romaji": "Nannen Saki no Toki wo Koete",
+      "en": "Crossing over years into the future",
+      "zh": "跨越多少年後的時光"
+    },
+    {
+      "ja": "この空に響くように",
+      "romaji": "Kono Sora ni Hibiku You ni",
+      "en": "So it echoes into this sky",
+      "zh": "願能迴響在這片天空"
+    },
+    {
+      "ja": "笑顔の花を咲かそう",
+      "romaji": "Egao no Hana wo Sakasou",
+      "en": "Let's make flowers of smiles bloom",
+      "zh": "讓笑容之花綻放吧"
+    },
+    {
+      "ja": "こんな瞬間を",
+      "romaji": "Konna Shunkan wo",
+      "en": "A moment like this",
+      "zh": "這樣的瞬間"
+    },
+    {
+      "ja": "キラキラ止まんない！",
+      "romaji": "Kira Kira Tomannai!",
+      "en": "The sparkle won't stop!",
+      "zh": "閃耀停不下來！"
+    },
+    {
+      "ja": "君のこと大好きだ！",
+      "romaji": "Kimi no Koto Daisuki Da!",
+      "en": "I love you!",
+      "zh": "最喜歡你了！"
+    },
+    {
+      "ja": "何年先も",
+      "romaji": "Nannen Saki mo",
+      "en": "No matter how many years ahead",
+      "zh": "無論多少年後"
+    },
+    {
+      "ja": "思い出せるように",
+      "romaji": "Omoidaseru You ni",
+      "en": "So that we can remember",
+      "zh": "願都能回憶起來"
+    },
+    {
+      "ja": "Shake it！ 鳴らして Now！",
+      "romaji": "Shake It! Narashite Now!",
+      "en": "Shake it! Ring it out now!",
+      "zh": "Shake it！響起來 Now！"
+    },
+    {
+      "ja": "声を合わせて Sing aloud！",
+      "romaji": "Koe wo Awasete Sing Aloud!",
+      "en": "Matching our voices, sing aloud!",
+      "zh": "齊聲高唱 Sing aloud！"
+    },
+    {
+      "ja": "君とだから",
+      "romaji": "Kimi to Dakara",
+      "en": "Because it's with you",
+      "zh": "因為是和你一起"
+    },
+    {
+      "ja": "こんなに輝ける！",
+      "romaji": "Konna ni Kagayakeru!",
+      "en": "We can shine this brightly!",
+      "zh": "才能如此閃耀！"
+    }
+  ]
+}

@@ -34,15 +34,15 @@
   "calls": [
     {
       "lyrics": "",
-      "call": ">>>",
+      "call": "> > >",
       "extra_row": true,
-      "action": "PPP"
+      "action": "P P P"
     },
     {
       "lyrics": "",
       "call": "",
       "extra_row": true,
-      "action": "PPPPPPPP ×4"
+      "action": "P P P P P P P P ×4"
     },
     {
       "lyrics": "陽は沈んで　ネイビー空",
@@ -192,7 +192,7 @@
     },
     {
       "lyrics": "らぶらぶらぶらぶらぶらぶあいうぉんちゅー",
-      "call": "ぶらぶらぶらぶらぶらぶあいうぉんちゅー"
+      "call": "らぶらぶらぶらぶらぶらぶあいうぉんちゅー"
     },
     {
       "lyrics": "死ねない生きたいと足掻けどもがけど",

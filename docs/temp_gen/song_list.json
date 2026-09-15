@@ -1,107 +1,38 @@
 [
   {
-    "title": "Hot limit",
-    "album": "Re:Play",
-    "releaseDate": "2021/11/24",
-    "coverUrl": "/assets/cover_images/re_play.png",
-    "slug": "/songs/hot_limit"
+    "title": "マルゴトミライ",
+    "composer": "Akki、Kijibato",
+    "lyricist": "Kijibato、Akki",
+    "album": "Check!",
+    "releaseDate": "2026/11/04",
+    "coverUrl": "/assets/cover_images/check.png",
+    "slug": "/songs/marugoto_mirai"
   },
   {
-    "title": "ロマンスの神様",
-    "album": "Re:Play",
-    "releaseDate": "2021/11/24",
-    "coverUrl": "/assets/cover_images/re_play.png",
-    "slug": "/songs/romance_no_kamisama"
+    "title": "ハイパーチャッチャカチャージ",
+    "composer": "眞塩楓",
+    "lyricist": "眞塩楓",
+    "album": "Check!",
+    "releaseDate": "2026/11/04",
+    "coverUrl": "/assets/cover_images/check.png",
+    "slug": "/songs/hyper_chacchaka_charge"
   },
   {
-    "title": "ファンサ",
-    "album": "Re:Play",
-    "releaseDate": "2021/11/24",
-    "coverUrl": "/assets/cover_images/re_play.png",
-    "slug": "/songs/fansa"
+    "title": "スキ■スキ☆うろぼろす",
+    "composer": "じん",
+    "lyricist": "じん",
+    "album": "Check!",
+    "releaseDate": "2026/11/04",
+    "coverUrl": "/assets/cover_images/check.png",
+    "slug": "/songs/suki_suki_uroborosu"
   },
   {
-    "title": "MASAYUME CHASING",
-    "album": "Re:Play",
-    "releaseDate": "2021/11/24",
-    "coverUrl": "/assets/cover_images/re_play.png",
-    "slug": "/songs/masayume_chasing"
-  },
-  {
-    "title": "怪物",
-    "album": "Re:Play",
-    "releaseDate": "2021/11/24",
-    "coverUrl": "/assets/cover_images/re_play.png",
-    "slug": "/songs/kaibutsu"
-  },
-  {
-    "title": "アンドロイドガール",
-    "album": "Re:Play",
-    "releaseDate": "2021/11/24",
-    "coverUrl": "/assets/cover_images/re_play.png",
-    "slug": "/songs/android_girl"
-  },
-  {
-    "title": "God Knows...",
-    "album": "Re:Play",
-    "releaseDate": "2021/11/24",
-    "coverUrl": "/assets/cover_images/re_play.png",
-    "slug": "/songs/god_knows"
-  },
-  {
-    "title": "Butterfly",
-    "album": "Re:Play",
-    "releaseDate": "2021/11/24",
-    "coverUrl": "/assets/cover_images/re_play.png",
-    "slug": "/songs/butterfly"
-  },
-  {
-    "title": "まっさらブルージーンズ",
-    "album": "Re:Play",
-    "releaseDate": "2021/11/24",
-    "coverUrl": "/assets/cover_images/re_play.png",
-    "slug": "/songs/romance_no_kamisama"
-  },
-  {
-    "title": "ロマンスの神様",
-    "album": "Re:Play",
-    "releaseDate": "2021/11/24",
-    "coverUrl": "/assets/cover_images/re_play.png",
-    "slug": "/songs/massara_blue_jeans"
-  },
-  {
-    "title": "嘘",
-    "album": "Re:Play",
-    "releaseDate": "2021/11/24",
-    "coverUrl": "/assets/cover_images/re_play.png",
-    "slug": "/songs/uso"
-  },
-  {
-    "title": "赤いスイートピー",
-    "album": "Re:Play",
-    "releaseDate": "2021/11/24",
-    "coverUrl": "/assets/cover_images/re_play.png",
-    "slug": "/songs/akai_sweet_pea"
-  },
-  {
-    "title": "この世界で",
-    "album": "Re:Play",
-    "releaseDate": "2021/11/24",
-    "coverUrl": "/assets/cover_images/re_play.png",
-    "slug": "/songs/kono_sekaide"
-  },
-  {
-    "title": "KING",
-    "album": "Re:Play",
-    "releaseDate": "2021/11/24",
-    "coverUrl": "/assets/cover_images/re_play.png",
-    "slug": "/songs/king"
-  },
-  {
-    "title": "太陽系ディスコ",
-    "album": "Re:Play",
-    "releaseDate": "2021/11/24",
-    "coverUrl": "/assets/cover_images/re_play.png",
-    "slug": "/songs/taiyoukei_disco"
+    "title": "キラメキMODE！ feat. 響咲リオナ",
+    "composer": "TeddyLoid",
+    "lyricist": "TeddyLoid",
+    "album": "Check!",
+    "releaseDate": "2026/08/31",
+    "coverUrl": "/assets/cover_images/check.png",
+    "slug": "/songs/kirameki_mode"
   }
 ]
