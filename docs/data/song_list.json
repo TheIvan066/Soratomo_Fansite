@@ -152,7 +152,7 @@
   },
   {
     "title": "シーソーゲーム",
-    "album": "シーソーゲーム",
+    "album": "Dreaming!",
     "releaseDate": "2019/03/27",
     "coverUrl": "/assets/cover_images/seesaw_game.png",
     "slug": "/songs/seesaw_game"
@@ -610,7 +610,7 @@
   {
     "title": "Capture the Moment",
     "album": "Capture the Moment",
-    "releaseDate": "2014/03/07",
+    "releaseDate": "2024/03/07",
     "coverUrl": "/assets/cover_images/capture_the_moment.png",
     "slug": "/songs/capture_the_moment"
   },
@@ -717,9 +717,37 @@
   },
   {
     "title": "決意のソラへ",
-    "album": "決意のソラへ",
+    "album": "Check!",
     "releaseDate": "2026/05/15",
-    "coverUrl": "/assets/cover_images/ketsuino_sorahe.png",
+    "coverUrl": "/assets/cover_images/check.png",
     "slug": "/songs/ketsuino_sorahe"
+  },
+    {
+    "title": "マルゴトミライ",
+    "album": "Check!",
+    "releaseDate": "2026/11/04",
+    "coverUrl": "/assets/cover_images/check.png",
+    "slug": "/songs/marugoto_mirai"
+  },
+  {
+    "title": "ハイパーチャッチャカチャージ",
+    "album": "Check!",
+    "releaseDate": "2026/11/04",
+    "coverUrl": "/assets/cover_images/check.png",
+    "slug": "/songs/hyper_chacchaka_charge"
+  },
+  {
+    "title": "スキ■スキ☆うろぼろす",
+    "album": "Check!",
+    "releaseDate": "2026/11/04",
+    "coverUrl": "/assets/cover_images/check.png",
+    "slug": "/songs/suki_suki_uroborosu"
+  },
+  {
+    "title": "キラメキMODE！ feat. 響咲リオナ",
+    "album": "Check!",
+    "releaseDate": "2026/08/31",
+    "coverUrl": "/assets/cover_images/check.png",
+    "slug": "/songs/kirameki_mode"
   }
 ]

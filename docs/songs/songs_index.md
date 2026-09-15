@@ -3,12 +3,13 @@
 <div id="dashboard-app-root" class="w-full clear-both block my-6 p-4 rounded-xl border border-slate-200 dark:border-slate-800 shadow-md bg-white dark:bg-slate-900 min-h-[150px]">
 
     <!-- Table -->
-    <table id="songs-dashboard-table" style="display: table !important; width: 100% !important; table-layout: fixed;" ...>      <thead>
+    <table id="songs-dashboard-table" style="display: table !important; width: 100% !important; table-layout: fixed;">
+        <thead>
             <tr class="bg-slate-100 dark:bg-slate-950 text-slate-700 dark:text-slate-300 border-b border-slate-200 dark:border-slate-800 font-bold">
-                <th class="p-4 w-24 text-center">Cover</th>
-                <th onclick="sortSongsTable(1)" class="p-4 cursor-pointer hover:bg-slate-200 dark:hover:bg-slate-800 select-none transition-colors whitespace-nowrap" style="text-align: center !important;">Song Title <i class="fa-solid fa-sort ml-1.5 text-slate-400 text-xs"></i></th>
-                <th onclick="sortSongsTable(2)" class="p-4 cursor-pointer hover:bg-slate-200 dark:hover:bg-slate-800 select-none transition-colors whitespace-nowrap" style="text-align: center !important;">Album <i class="fa-solid fa-sort ml-1.5 text-slate-400 text-xs"></i></th>
-                <th onclick="sortSongsTable(3)" class="p-4 cursor-pointer hover:bg-slate-200 dark:hover:bg-slate-800 select-none transition-colors whitespace-nowrap" style="text-align: center !important;">Release Date <i class="fa-solid fa-sort ml-1.5 text-slate-400 text-xs"></i></th>
+                <th class="p-4 w-24 text-center font-bold" style="text-align: center !important;">Cover</th>
+                <th onclick="sortSongsTable('title')" class="p-4 cursor-pointer hover:bg-slate-200 dark:hover:bg-slate-800 select-none transition-colors whitespace-nowrap font-bold" style="text-align: center !important;">Song Title <i class="fa-solid fa-sort ml-1.5 text-slate-400 text-xs"></i></th>
+                <th onclick="sortSongsTable('album')" class="p-4 cursor-pointer hover:bg-slate-200 dark:hover:bg-slate-800 select-none transition-colors whitespace-nowrap font-bold" style="text-align: center !important;">Album <i class="fa-solid fa-sort ml-1.5 text-slate-400 text-xs"></i></th>
+                <th onclick="sortSongsTable('releaseDate')" class="p-4 cursor-pointer hover:bg-slate-200 dark:hover:bg-slate-800 select-none transition-colors whitespace-nowrap font-bold" style="text-align: center !important;">Release Date <i class="fa-solid fa-sort ml-1.5 text-slate-400 text-xs"></i></th>
             </tr>
         </thead>
         <tbody id="dashboard-table-body" class="divide-y divide-slate-100 dark:divide-slate-800/60 text-slate-800 dark:text-slate-200"></tbody>
@@ -16,7 +17,11 @@
 </div>
 
 <script>
-let allSongs = []; // Store full data here
+let allSongs = [];
+let currentFilteredSongs = [];
+let albumNewestDates = {}; // Cache to store each album's newest release date
+let currentSortKey = 'album'; 
+let sortAscending = true; // Default: oldest to newest
 
 document.addEventListener("DOMContentLoaded", () => {
     const tbody = document.getElementById("dashboard-table-body");
@@ -26,18 +31,37 @@ document.addEventListener("DOMContentLoaded", () => {
         .then(response => response.json())
         .then(data => {
             allSongs = data;
-            renderTable(allSongs);
+            calculateAlbumNewestDates(allSongs);
+            currentFilteredSongs = [...allSongs];
+            
+            // Initial render sorted by album (oldest to newest album based on their newest track)
+            sortData('album', true);
         });
 
+    // Calculate the latest release date for each album across the dataset
+    function calculateAlbumNewestDates(songs) {
+        albumNewestDates = {};
+        songs.forEach(song => {
+            const albumName = song.album || "Unknown Album";
+            const songDate = new Date(song.releaseDate).getTime();
+
+            if (!albumNewestDates[albumName] || songDate > albumNewestDates[albumName]) {
+                albumNewestDates[albumName] = songDate;
+            }
+        });
+    }
+
     // Filtering logic
-    searchInput.addEventListener("input", (e) => {
-        const query = e.target.value.toLowerCase();
-        const filtered = allSongs.filter(song => 
-            song.title.toLowerCase().includes(query) || 
-            song.album.toLowerCase().includes(query)
-        );
-        renderTable(filtered);
-    });
+    if (searchInput) {
+        searchInput.addEventListener("input", (e) => {
+            const query = e.target.value.toLowerCase();
+            currentFilteredSongs = allSongs.filter(song => 
+                song.title.toLowerCase().includes(query) || 
+                song.album.toLowerCase().includes(query)
+            );
+            applyCurrentSortAndRender();
+        });
+    }
 
     function renderTable(songs) {
         tbody.innerHTML = "";
@@ -56,6 +80,54 @@ document.addEventListener("DOMContentLoaded", () => {
             `;
             tbody.appendChild(tr);
         });
+    }
+
+    // Global sorting handler bound to table headers
+    window.sortSongsTable = function(key) {
+        if (currentSortKey === key) {
+            sortAscending = !sortAscending; // Toggle ascending/descending
+        } else {
+            currentSortKey = key;
+            sortAscending = true; // Default to ascending when selecting a new header
+        }
+        sortData(currentSortKey, sortAscending);
+    };
+
+    function sortData(key, asc) {
+        currentFilteredSongs.sort((a, b) => {
+            if (key === 'album') {
+                const dateA = albumNewestDates[a.album] || 0;
+                const dateB = albumNewestDates[b.album] || 0;
+
+                // Sort albums based on their newest track's release date
+                if (dateA !== dateB) {
+                    return asc ? dateA - dateB : dateB - dateA;
+                }
+                // Fallback secondary sort: alphabetical album name
+                return a.album.localeCompare(b.album);
+            }
+
+            let valA = a[key] || '';
+            let valB = b[key] || '';
+
+            if (key === 'releaseDate') {
+                valA = new Date(valA);
+                valB = new Date(valB);
+            } else {
+                valA = valA.toString().toLowerCase();
+                valB = valB.toString().toLowerCase();
+            }
+
+            if (valA < valB) return asc ? -1 : 1;
+            if (valA > valB) return asc ? 1 : -1;
+            return 0;
+        });
+
+        renderTable(currentFilteredSongs);
+    }
+
+    function applyCurrentSortAndRender() {
+        sortData(currentSortKey, sortAscending);
     }
 });
 </script>
