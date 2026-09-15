@@ -28,7 +28,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const tbody = document.getElementById("dashboard-table-body");
     const searchInput = document.getElementById("song-search");
 
-    // Fetch data and store it
     fetch('/docs/songs_manifest.json')
         .then(res => res.json())
         .then(data => {
@@ -36,7 +35,6 @@ document.addEventListener("DOMContentLoaded", () => {
             renderTable(allSongs);
         });
 
-    // Search event listener
     searchInput.addEventListener("input", (e) => {
         const query = e.target.value.toLowerCase();
         const filtered = allSongs.filter(song => {

@@ -60,7 +60,6 @@ const ALL_TAGS = [
     'ankimo', 'nunnun', 'multiple_talents'
 ];
 
-// 🌐 TRANSLATION DICTIONARY
 const goodsDict = {
     'en': {
         title: 'Merch Directory',
@@ -324,10 +323,6 @@ const goodsDict = {
     }
 };
 
-
-// ==========================================
-// ⚙️ STATE & INITIALIZATION
-// ==========================================
 let goodsInventory = [];
 let goodsActiveLanguage = 'en';
 let selectedFilterTags = new Set();
@@ -348,9 +343,6 @@ function startGoodsEngine() {
         });
 }
 
-// ==========================================
-// 🌍 UI UPDATER
-// ==========================================
 function updateUI() {
     const d = goodsDict[goodsActiveLanguage];
     document.getElementById('ui-title').innerHTML = `${d.title}`;

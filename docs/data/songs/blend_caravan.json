@@ -11,7 +11,7 @@
     "releaseDate": "2019/03/27",
     "coverUrl": "cover_images/dreaming",
     "penlight_color": [
-      "0000ff"
+      "#0000ff"
     ],
     "links": [
       {
@@ -34,7 +34,7 @@
   "calls": [
     {
       "lyrics": "",
-      "call": "= ハイ！ = ハイ！ = ハイ！ = ハイ！ ×2"
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×2"
     },
     {
       "lyrics": "楽しさに釣られ",
@@ -118,7 +118,7 @@
     },
     {
       "lyrics": "",
-      "call": "= ハイ！ = ハイ！ = ハイ！ = ハイ！ ×4"
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
     },
     {
       "lyrics": "訪れた先で",
