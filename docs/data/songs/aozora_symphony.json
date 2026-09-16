@@ -292,9 +292,13 @@
     },
     {
       "lyrics": "輝く星が （そら：か♩F が♩G や♩F く♩E  ほ♩D し♩D が♩C）",
-      "call": "       シューティングスター",
+      "call": "       シューティングスター"
+    },
+    {
+      "lyrics": "Note：(♩F♩G♩F♩E)",
+      "call": "そら： (かがやく) ほ♩D し♩D が♩C",
       "extra_row": true,
-      "action": "(at \"ほ\")                                                シュー\uD834\uDD5EF  ティング\uD834\uDD5EF  スター\uD834\uDD5DE"
+      "action": "(at \"ほ\")                シュー♫F  ティング♫F  スター♫♫E"
     },
     {
       "lyrics": "",
@@ -357,10 +361,14 @@
       "call": ""
     },
     {
-      "lyrics": "約束するよ （そら：や♩F く♩G そ♩F く♩E  す♩D る♩D よ♩C）",
-      "call": "        プローミースユー",
+      "lyrics": "約束するよ",
+      "call": "        プローミースユー"
+    },
+    {
+      "lyrics": "Note：(♩F♩G♩F♩E)",
+      "call": "そら： (やくそく) す♩D る♩D よ♩C",
       "extra_row": true,
-      "action": "(at \"す\")                                                   プロ―\uD834\uDD5EF  ミス\uD834\uDD5EF  ユー\uD834\uDD5DE"
+      "action": "(at \"す\")                プロ―♫F  ミス♫F  ユー♫♫E"
     },
     {
       "lyrics": "",
@@ -387,14 +395,18 @@
       "call": ""
     },
     {
-      "lyrics": "広がり　創るよ界",
+      "lyrics": "広がり　創るよ",
       "call": ""
     },
     {
-      "lyrics": "七色の世界 （そら：な♩G な♩A いろ♩G の♩F#  せ♩E か♩E い♩D）",
-      "call": "          レインボースカーイ",
+      "lyrics": "七色の世界",
+      "call": "          レインボースカーイ"
+    },
+    {
+      "lyrics": "Note：(♩G♩A♩G♩F#)",
+      "call": "そら： (なないろの) せ♩E か♩E い♩D",
       "extra_row": true,
-      "action": "(at \"せ\")                                                         レイン\uD834\uDD5EG  ボー\uD834\uDD5EG  スカーイ\uD834\uDD5DF#"
+      "action": "(at \"せ\")                   レイン♫G  ボー♫G  スカーイ♫♫F#"
     },
     {
       "lyrics": "ここから新しいときが始まるよ",
