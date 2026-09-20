@@ -2,11 +2,11 @@
   "meta": {
     "title": "空ノ空",
     "artist": "ときのそら",
-    "originalKey": "Em",
+    "originalKey": "D#m",
     "capo": "",
     "description": "",
-    "composer": "ナユタン星人",
-    "lyricist": "ナユタン星人",
+    "composer": "ユリイ・カノン",
+    "lyricist": "ユリイ・カノン",
     "album": "Sign",
     "releaseDate": "2022/09/07",
     "coverUrl": "cover_images/sign",
@@ -15,18 +15,289 @@
     ],
     "links": [
       {
-        "name": "Official MV",
-        "url": "https://youtu.be/VCsWgOMu4_8?si=6LcEEJ27lZR_-xuC"
+        "nA#me": "Official MV",
+        "url": "https://youtu.be/45rMSD842VY?si=MOHhvOyn4HkBPU4w"
       }
     ]
   },
   "chords": [
     {
-      "section": "※※※※※",
+      "section": "Intro",
       "lines": [
         {
-          "c": "Coming Soon!",
-          "t": "Coming Soon!"
+          "c": "F#   F7 D#m",
+          "t": ">- -- ---- |"
+        },
+        {
+          "c": "F#    F7 D#m F7",
+          "t": ">--- > > >- | "
+        },
+        {
+          "c": "F#   G#   A#m  F7",
+          "t": "-- -- -- -- |"
+        },
+        {
+          "c": "F#   G#   A#m  F7",
+          "t": "-- -- -- -- |"
+        },
+        {
+          "c": "F#   G#   A#m  F7",
+          "t": "-- -- -- -- |"
+        },
+        {
+          "c": "F#   G#   A#m  F7",
+          "t": "-- -- -- -- |"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": " F#               G#",
+          "t": "(粧)した言の葉(で)"
+        },
+        {
+          "c": "             F7                     A#m",
+          "t": "誤魔化せる(傷)ならもう癒えてい(る)"
+        },
+        {
+          "c": " F#               G#",
+          "t": "(有)り体に心ま(で)"
+        },
+        {
+          "c": "           F7                A#m",
+          "t": "響かせる(何)かを探してい(る)"
+        },
+        {
+          "c": " F#        F7          A#m     C#     F#     F7          A#m F7",
+          "t": "(酸)素を(奪)い合う(群)衆(と)　(洋)灰(の)地を這(う)"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "        F#        G#",
+          "t": "空[か(ら)]の空(に)落ちて"
+        },
+        {
+          "c": " A#m          Fm       F#      G#  A#m            Fm",
+          "t": "(処)世の才(に)餓え(た)僕(を)(咲)ってくれ(よ)"
+        },
+        {
+          "c": "  F#       G#",
+          "t": "(闇)い闇(に)落ちて"
+        },
+        {
+          "c": " A#m         Fm           F#   G#  A#m       Fm",
+          "t": "(無)い未来(に)嘆いた(君)(に)(何)を贈(ろ)う？"
+        },
+        {
+          "c": "      F#            G#                   F7             A#m",
+          "t": "この(心)臓だって(僕)の意思で動[う(ご)]いちゃい(な)い"
+        },
+        {
+          "c": "      F#                 G#         Adim       A#m",
+          "t": "変え(ら)れるだなんて(大)層な期(待)しな(い)"
+        },
+        {
+          "c": "      F#                 G#         Adim       A#m",
+          "t": "「答(え)はない」のが(答)えなの(は)わか(る)"
+        },
+        {
+          "c": "               F#      G#               A#m",
+          "t": "だのに今[い(ま)]も(求)めるのは何(故)？"
+        },
+        {
+          "c": "F#  G#  A#m F7",
+          "t": "-- -- -- -- |"
+        },
+        {
+          "c": "F#  G#  A#m F7",
+          "t": "-- -- -- -- |"
+        },
+        {
+          "c": "F#  G#  A#m F7",
+          "t": "-- -- -- -- |"
+        },
+        {
+          "c": "F#  G#  A#m F7",
+          "t": "-- -- -- -- |"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": " F#",
+          "t": "(高)層ビル　排気ガス　渋滞"
+        },
+        {
+          "c": " F7                  F#",
+          "t": "(交)差する人と欲(望)"
+        },
+        {
+          "c": "F7  F#",
+          "t": "  (貧)相なストーリー　淘汰"
+        },
+        {
+          "c": " F7                      F#",
+          "t": "(も)ういっそ梃入れし(よ)う"
+        },
+        {
+          "c": "F7  F#",
+          "t": "  (構)想とは違うが"
+        },
+        {
+          "c": "           F7                           F#",
+          "t": "下んない(ハ)ッピーエンドよりマシ(か)"
+        },
+        {
+          "c": "F7  F#",
+          "t": "  (あ)あでもなくてこうでもなくて"
+        },
+        {
+          "c": "    F7",
+          "t": "っ(て)段々狂ってきている"
+        },
+        {
+          "c": " A#m                          F7",
+          "t": "(あ)ー、少しだけ黙ってい(て)"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "        F#        G#",
+          "t": "空[か(ら)]の空(に)落ちて"
+        },
+        {
+          "c": " A#m      F#m             F#          G#",
+          "t": "(本)当の(解)に気付け(な)いまま(に)"
+        },
+        {
+          "c": "      A#m            Fm",
+          "t": "生き(て)やしない(か)？"
+        },
+        {
+          "c": " F#        G#",
+          "t": "(夢)の夢(に)落ちて"
+        },
+        {
+          "c": " A#m       Fm      F#       G#",
+          "t": "(劣)等故(に)抗(う)無象(だ)"
+        },
+        {
+          "c": "      A#m              Fm  A#m",
+          "t": "もが(く)程溺れるの(に)"
+        },
+        {
+          "c": "X",
+          "t": "-- -- -- -- |"
+        },
+        {
+          "c": "A#m F# F7  D#m",
+          "t": "-- -- -- -- |"
+        },
+        {
+          "c": "F7 F# F7 D#m F7",
+          "t": "-  - -- -- -- |"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+         {
+          "c": " F#             G#          F7         A#m",
+          "t": "(本)心じゃ希(望)は捨て(ち)ゃいな(い)"
+        },
+        {
+          "c": "      F#          G#      F7      A#m",
+          "t": "でも(現)実って(怪)物(が)視て(る)"
+        },
+        {
+          "c": "      F#             G#       F7        A#m",
+          "t": "見せ(て)しまえば(一)斉に(囲)まれ(て)"
+        },
+        {
+          "c": "           F#        G#      A#m  F7",
+          "t": "気付きゃ(も)う胃(袋)の(中)"
+        }
+      ]
+    },
+    {
+      "section": "Verse 3",
+      "lines": [
+        {
+          "c": "        F#        G#",
+          "t": "空[か(ら)]の空(に)落ちて"
+        },
+        {
+          "c": " C#           F#      Cm7-5   F7   A#m      F/A     G#m C#7",
+          "t": "(処)世の才(に)餓え(た)僕(を)(咲)って(く)れ(よ)"
+        },
+        {
+          "c": "      F#     F7",
+          "t": "歌を(歌)っ(て) take me down"
+        },
+        {
+          "c": " A#m          Fm",
+          "t": "(解)を疑っ(て)"
+        },
+        {
+          "c": "     Cm7b5        F7         A#m               G#",
+          "t": "迷い(な)がらで(い)い　転(が)って行こう(か)"
+        },
+        {
+          "c": " G#",
+          "t": "(も)ういい"
+        },
+        {
+          "c": " F#               G#               F        A#m",
+          "t": "(全)部ウソって(ネ)タばらしの(札)を出(せ)"
+        },
+        {
+          "c": "      F#                 G#          F/A     A#m",
+          "t": "これ(す)らもうきっと(誰)かの手(の)上(だ)"
+        },
+        {
+          "c": "    F#                   G#          F/A      A#m",
+          "t": "嘘(じ)ゃないだなんて(嘘)を吐い(た)こと(も)"
+        },
+        {
+          "c": "    F#       G#          A#m",
+          "t": "美(し)いと(思)えるん(だ)"
+        },
+        {
+          "c": "     Cm7-5    F7          A#m",
+          "t": "空の(空)を(埋)めるな(ら)"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "F#  G#  A#m F7",
+          "t": "-- -- -- -- |"
+        },
+        {
+          "c": "F#  G#  A#m F7",
+          "t": "-- -- -- -- |"
+        },
+        {
+          "c": "F#  G#  A#m F7",
+          "t": "-- -- -- -- |"
+        },
+        {
+          "c": "F#  G#  A#m F7",
+          "t": "-- -- -- -- |"
         }
       ]
     }
@@ -209,7 +480,7 @@
     {
       "ja": "誤魔化せる傷ならもう癒えている",
       "romaji": "Gomakaseru Kizu Nara Mou Iete Iru",
-      "en": "If a wound can be covered up, it's already healed",
+      "en": "IF# G# wound can be covered up, it's already healed",
       "zh": "若能敷衍的傷，早已癒合"
     },
     {
@@ -239,7 +510,7 @@
     {
       "ja": "空の空に落ちて 処世の才に",
       "romaji": "Sora no Sora ni Ochite Shosei no Sai ni",
-      "en": "Falling into the void of voids, starving",
+      "en": "Falling into the void oF# voids, starvinG#",
       "zh": "墜入空之又空，渴望"
     },
     {
@@ -250,8 +521,8 @@
     },
     {
       "ja": "闇い闇に落ちて 無い未来に",
-      "romaji": "Kurai Yami ni Ochite Nai Mirai ni",
-      "en": "Falling into dark darkness, to a future that doesn't exist",
+      "romaji": "Kurai YA#mi ni Ochite Nai Mirai ni",
+      "en": "Falling into dark darkness, to G# future that doesn't exist",
       "zh": "墜入深沉的黑暗，對著不存在的未來"
     },
     {
@@ -287,7 +558,7 @@
     {
       "ja": "高層ビル 排気ガス 渋滞 交差する人と欲望",
       "romaji": "Kousou Biru Haikigasu Juutai Kousa Suru Hito to Yokubou",
-      "en": "High-rises, exhaust fumes, traffic jams, people and desires intersecting",
+      "en": "High-rises, exhaust fumes, traffic jA#ms, people and desires intersectinG#",
       "zh": "高樓大廈、廢氣、塞車，交錯的人與慾望"
     },
     {
@@ -299,43 +570,43 @@
     {
       "ja": "構想とは違うが 下んないハッピーエンドよりマシか",
       "romaji": "Kousou to ha Chigau ga Kudannai Happii Endo yori Mashi ka",
-      "en": "It's different from the plan, but better than a dumb happy ending",
+      "en": "It's different from the plan, but better than G# dumb happy endinG#",
       "zh": "雖與構想不同，但總比無聊的快樂結局好吧"
     },
     {
       "ja": "ああでもなくてこうでもなくて って段々狂ってきている",
-      "romaji": "Aa demo Nakute Kou demo Nakute tte Dandan Kurutte Kite Iru",
+      "romaji": "Aa dD#mo Nakute Kou dD#mo Nakute tte Dandan Kurutte Kite Iru",
       "en": "Not this way, not that way—I'm gradually going mad",
       "zh": "不是那樣也不是這樣，逐漸發狂"
     },
     {
       "ja": "あー 少しだけ黙っていて",
-      "romaji": "Aa Sukoshi Dake Damatte Ite",
-      "en": "Ah—just be quiet for a little while",
+      "romaji": "Aa Sukoshi Dake DA#matte Ite",
+      "en": "Ah—just be quiet for G# little while",
       "zh": "啊，稍微安靜一下"
     },
     {
       "ja": "空の空に落ちて 本当の解に",
       "romaji": "Sora no Sora ni Ochite Hontou no Kai ni",
-      "en": "Falling into the void of voids—aren't I living",
+      "en": "Falling into the void oF# voids—aren't I livinG#",
       "zh": "墜入空之又空，是否"
     },
     {
       "ja": "気付けないままに 生きてやしないか?",
-      "romaji": "Kizukenai Mama ni Ikite ya Shinai ka?",
+      "romaji": "Kizukenai MA#ma ni Ikite ya Shinai ka?",
       "en": "Without ever noticing the real answer?",
       "zh": "就這樣未曾察覺真正的解答地活著？"
     },
     {
       "ja": "夢の夢に落ちて 劣等故に",
       "romaji": "Yume no Yume ni Ochite Rettou Yue ni",
-      "en": "Falling into the dream of dreams, because of inferiority",
+      "en": "Falling into the dreA#m oF# dreA#ms, because oF# inferiority",
       "zh": "墜入夢中之夢，因自卑"
     },
     {
       "ja": "抗う無象だ もがく程溺れるのに",
       "romaji": "Aragau Muzou Da Mogaku Hodo Oboreru no ni",
-      "en": "I'm a formless resister—the more I struggle, the more I drown",
+      "en": "I'm G# formless resister—the more I struggle, the more I drown",
       "zh": "是抵抗的無形之物，越是掙扎越沉溺"
     },
     {
@@ -346,14 +617,14 @@
     },
     {
       "ja": "でも現実って怪物が視てる",
-      "romaji": "Demo Genjitsu tte Kaibutsu ga Miteru",
-      "en": "But the monster called reality is watching",
+      "romaji": "DD#mo Genjitsu tte Kaibutsu ga Miteru",
+      "en": "But the monster called reality is watchinG#",
       "zh": "但名為現實的怪物正注視著"
     },
     {
       "ja": "見せてしまえば一斉に囲まれて",
       "romaji": "Misete Shimaeba Issei ni Kakomarete",
-      "en": "If I show it, I'll be surrounded all at once",
+      "en": "IF# I show it, I'll be surrounded all at once",
       "zh": "一旦暴露，就會被一擁而上包圍"
     },
     {
@@ -365,7 +636,7 @@
     {
       "ja": "空の空に落ちて 処世の才に",
       "romaji": "Sora no Sora ni Ochite Shosei no Sai ni",
-      "en": "Falling into the void of voids, starving",
+      "en": "Falling into the void oF# voids, starvinG#",
       "zh": "墜入空之又空，渴望"
     },
     {
@@ -377,7 +648,7 @@
     {
       "ja": "歌を歌って take me down 解を疑って",
       "romaji": "Uta wo Utatte Take Me Down Kai wo Utagatte",
-      "en": "Sing a song, take me down, doubt the answer",
+      "en": "Sing G# song, take me down, doubt the answer",
       "zh": "唱著歌，take me down，質疑解答"
     },
     {
@@ -389,7 +660,7 @@
     {
       "ja": "もういい 全部ウソってネタばらしの札を出せ",
       "romaji": "Mou Ii Zenbu Uso tte Netabarashi no Fuda wo Dase",
-      "en": "Enough—reveal the card that says it was all a lie",
+      "en": "Enough—reveal the card that says it was all G# lie",
       "zh": "夠了，攤牌說全都是謊言吧"
     },
     {
@@ -401,7 +672,7 @@
     {
       "ja": "嘘じゃないだなんて嘘をついたことも",
       "romaji": "Uso ja Nai Da Nante Uso wo Tsuita Koto mo",
-      "en": "Even having told the lie that \"it's not a lie\"",
+      "en": "Even having told the lie that \"it's not G# lie\"",
       "zh": "連說出「這不是謊言」這般謊言"
     },
     {
@@ -413,7 +684,7 @@
     {
       "ja": "空の空を埋めるなら",
       "romaji": "Sora no Sora wo Umeru Nara",
-      "en": "If I were to fill the void of voids",
+      "en": "IF# I were to fill the void oF# voids",
       "zh": "若要填滿空之又空"
     }
   ]
