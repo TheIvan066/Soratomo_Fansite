@@ -12,7 +12,7 @@
   * Some songs' pages shows nothing - most group songs are indeed WIP
   * Some songs are missing from the main page
 * Currently WIP features:
-  * Song chord charts
+  * Song chord charts (Will take some time as this is manual)
   * Manual translation
   * A more functional song overview page
   * The goods page (at a later priority)
