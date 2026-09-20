@@ -4,6 +4,7 @@
 * Updated some chord charts and manual translations
 * Fixed a lot of penlight colour and call chart errors
 * Fixed the bugged enquiry form link
+* Fixed the wrong song links
 * Added the new album "Check!"
 * Updated some visuals and looks
 * Current know bugs:
