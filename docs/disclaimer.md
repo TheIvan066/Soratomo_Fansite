@@ -10,7 +10,7 @@
 
 <br>
 
-&emsp;&emsp;なお、当サイトで掲載している独自コンテンツは、すべて公表されている情報および運営者の体験・検証に基づき作成されたものです。掲載内容の正確性・安全性には細心の注意を払っておりますが、情報の完全性を保証するものではございません。権利所有者様からの削除依頼や訂正のご連絡がございましたら、<a href="https://docs.google.com/forms/d/e/1FAIpQLSf7hjTPWfLoBbCjUxF6S7_h3V8PavfAQuRiJMPiJye9CPnmGg/viewform?usp=header" style="color: #2563EB; text-decoration: underline;">問題修正フォーム</a> や <strong>@Ivan_Soratomo</strong> にで承り、迅速に対応いたします。
+&emsp;&emsp;なお、当サイトで掲載している独自コンテンツは、すべて公表されている情報および運営者の体験・検証に基づき作成されたものです。掲載内容の正確性・安全性には細心の注意を払っておりますが、情報の完全性を保証するものではございません。なお、数少なく部分的の画像は適性のためAIにより拡張されております。権利所有者様からの削除依頼や訂正のご連絡がございましたら、<a href="https://docs.google.com/forms/d/e/1FAIpQLSf7hjTPWfLoBbCjUxF6S7_h3V8PavfAQuRiJMPiJye9CPnmGg/viewform?usp=header" style="color: #2563EB; text-decoration: underline;">問題修正フォーム</a> や <strong>@Ivan_Soratomo</strong> にで承り、迅速に対応いたします。
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-&emsp;&emsp;此外，本網站所刊載之內容，全數基於公開資訊及營運者之親身體驗與驗證所製作。本人已對刊載內容之正確與安全性盡力審慎處理，但仍無法確保完全無誤。若權利人或使用者有任何刪除要求或修正意見，歡迎透過 <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7hjTPWfLoBbCjUxF6S7_h3V8PavfAQuRiJMPiJye9CPnmGg/viewform?usp=header" style="color: #10B981; text-decoration: underline;">問題修正表單</a> 或聯絡 <strong>@Ivan_Soratomo</strong>，本人將儘快處理。
+&emsp;&emsp;此外，本網站所刊載之內容，全數基於公開資訊及營運者之親身體驗與驗證所製作。本人已對刊載內容之正確與安全性盡力審慎處理，但仍無法確保完全無誤。而為了遷就畫面，一小部分的圖經AI放大。若權利人或使用者有任何刪除要求或修正意見，歡迎透過 <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7hjTPWfLoBbCjUxF6S7_h3V8PavfAQuRiJMPiJye9CPnmGg/viewform?usp=header" style="color: #10B981; text-decoration: underline;">問題修正表單</a> 或聯絡 <strong>@Ivan_Soratomo</strong>，本人將儘快處理。
 
 </div>
 
@@ -38,7 +38,7 @@
 
 <br>
 
-&emsp;&emsp;Furthermore, all original content published on this site is created based on publicly available information as well as the administrator's own personal experiences and verifications. While utmost care is exercised regarding accuracy and safety, content accuracy cannot be absolutely guaranteed. Should rightsholders or users have any requests for removal or correction, please contact via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7hjTPWfLoBbCjUxF6S7_h3V8PavfAQuRiJMPiJye9CPnmGg/viewform?usp=header" style="color: #8B5CF6; text-decoration: underline;">Enquiry form</a> or reach out to <strong>@Ivan_Soratomo</strong> for prompt assistance.
+&emsp;&emsp;Furthermore, all original content published on this site is created based on publicly available information as well as the administrator's own personal experiences and verifications. While utmost care is exercised regarding accuracy and safety, content accuracy cannot be absolutely guaranteed. In addition, a very small amount of the image used is expanded using AI to fit the site properly. Should rightsholders or users have any requests for removal or correction, please contact via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7hjTPWfLoBbCjUxF6S7_h3V8PavfAQuRiJMPiJye9CPnmGg/viewform?usp=header" style="color: #8B5CF6; text-decoration: underline;">Enquiry form</a> or reach out to <strong>@Ivan_Soratomo</strong> for prompt assistance.
 
 </div>
 
