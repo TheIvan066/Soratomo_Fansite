@@ -5,7 +5,7 @@ theme:
   palette:
 # Standard light/dark modes (we override these hex colors in extra.css)
   - media: "(prefers-color-scheme: light)"
-    scheme: default
+    scheme: slate
     primary: light blue
     accent: pink
     toggle:

@@ -10,7 +10,7 @@
 
 <br>
 
-&emsp;&emsp;なお、当サイトで掲載している独自コンテンツは、すべて公表されている情報および運営者の体験・検証に基づき作成されたものです。掲載内容の正確性・安全性には細心の注意を払っておりますが、情報の完全性を保証するものではございません。権利所有者様からの削除依頼や訂正のご連絡がございましたら、<a href="https://docs.google.com/forms/d/e/1FAIpQLSf7hjTPWfLoBbCjUxF6S7_h3V8PavfAQuRiJMPiJye9CPnmGg/viewform?usp=header" style="color: #2563EB; text-decoration: underline;">問題修正フォーム</a> や <strong>@Ivan_Soratomo</strong> にて承り、迅速に対応いたします。
+&emsp;&emsp;なお、当サイトで掲載している独自コンテンツは、すべて公表されている情報および運営者の体験・検証に基づき作成されたものです。掲載内容の正確性・安全性には細心の注意を払っておりますが、情報の完全性を保証するものではございません。権利所有者様からの削除依頼や訂正のご連絡がございましたら、<a href="https://docs.google.com/forms/d/e/1FAIpQLSf7hjTPWfLoBbCjUxF6S7_h3V8PavfAQuRiJMPiJye9CPnmGg/viewform?usp=header" style="color: #2563EB; text-decoration: underline;">問題修正フォーム</a> や <strong>@Ivan_Soratomo</strong> にで承り、迅速に対応いたします。
 
 </div>
 

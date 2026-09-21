@@ -18,6 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const dataSource = appRoot.getAttribute("data-source");
     let currentKeyShift = 0;
     let songData = null;
+    let albumNavigation = { prev: null, next: null, totalInAlbum: 0 };
 
     let globalLanguage = localStorage.getItem("se_global_lang") || "en";   // App UI Language ("en", "zh", "ja")
     let lyricsLanguage = localStorage.getItem("se_lyrics_lang") || "en";   // Translation track language ("en", "zh")
@@ -42,7 +43,9 @@ document.addEventListener("DOMContentLoaded", () => {
             legendPenlight: "Penlight Colour",
             guide: "Guide",
             callGuideText: "P : Claps | p : Claps (Fast) | ℗ : Claps | - : Rest | = : Rest (half) | ≣ : Rest (Quarter) | 🔁 : Penlight Circle",
-            linksTitle: "Links"
+            linksTitle: "Links",
+            prevSong: "Prev",
+            nextSong: "Next"
         },
         zh: {
             artist: "歌手",
@@ -58,11 +61,13 @@ document.addEventListener("DOMContentLoaded", () => {
             legendCall: "Call",
             legendAction: "動作",
             btnLabel: "繁中",
-            guide: "符號説明",
-            legendPenlight: "Penlight 顔色",
+            guide: "符號說明",
+            legendPenlight: "Penlight 顏色",
             callGuideText: "P : 拍手 | p : 拍手 (快) | ℗ : 拍手 | - : 停頓 | = : 停頓 (半拍) | ≣ : 停頓 (¼拍) | 🔁 : Penlight 轉圈",
-            linksTitle: "連結"
-       },
+            linksTitle: "連結",
+            prevSong: "上一首",
+            nextSong: "下一首"
+        },
         ja: {
             artist: "アーティスト",
             composer: "作曲",
@@ -80,7 +85,9 @@ document.addEventListener("DOMContentLoaded", () => {
             legendPenlight: "サイリュームカラー",
             guide: "符号説明",
             callGuideText: "P : 拍手 | p : 拍手 (速い) | ℗ : 拍手 | - : 休み | = : 休み (半拍) | ≣ : 休み (¼拍) | 🔁 : ペンライトグルグル",
-            linksTitle: "リンク"
+            linksTitle: "リンク",
+            prevSong: "前へ",
+            nextSong: "次へ"
         }
     };
 
@@ -98,13 +105,39 @@ document.addEventListener("DOMContentLoaded", () => {
         document.head.appendChild(tw);
     }
 
-    fetch(dataSource)
-        .then(res => res.json())
-        .then(data => {
-            songData = data;
-            initLayout();
-        })
-        .catch(err => console.error("Error loading song data:", err));
+    // Fetch current song and song list for album navigation concurrently
+    Promise.all([
+        fetch(dataSource).then(res => res.json()),
+        fetch('/data/song_list.json').then(res => res.json()).catch(() => [])
+    ])
+    .then(([song, songList]) => {
+        songData = song;
+        computeAlbumNavigation(songList);
+        initLayout();
+    })
+    .catch(err => console.error("Error loading song data:", err));
+
+    function computeAlbumNavigation(songList) {
+        if (!songData || !songData.meta || !songData.meta.album || !Array.isArray(songList)) return;
+
+        // Filter all songs belonging to the exact same album
+        const albumSongs = songList.filter(item => item.album === songData.meta.album);
+        albumNavigation.totalInAlbum = albumSongs.length;
+
+        // Find index of the current song within the album
+        const currentIndex = albumSongs.findIndex(item =>
+            item.title === songData.meta.title || item.slug === songData.meta.slug
+        );
+
+        if (currentIndex !== -1 && albumSongs.length > 1) {
+            // Loop navigation: wrapping around using modulo logic
+            const prevIndex = (currentIndex - 1 + albumSongs.length) % albumSongs.length;
+            const nextIndex = (currentIndex + 1) % albumSongs.length;
+
+            albumNavigation.prev = albumSongs[prevIndex];
+            albumNavigation.next = albumSongs[nextIndex];
+        }
+    }
 
     function initLayout() {
         appRoot.className = "w-full max-w-none p-0 text-slate-800 dark:text-slate-100 font-sans antialiased";
@@ -114,12 +147,9 @@ document.addEventListener("DOMContentLoaded", () => {
             styleOverride = document.createElement("style");
             styleOverride.id = "song-engine-widescreen-css";
             styleOverride.innerHTML = `
-                /* Hides ONLY the document title that is a direct child of md-typeset */
                 :has(#song-app-root) .md-typeset > h1 {
                     display: none !important;
                 }
-            
-                /* Standard layout overrides */
                 :has(#song-app-root) .md-content,
                 :has(#song-app-root) .md-content__inner,
                 :has(#song-app-root) .md-main__inner {
@@ -201,6 +231,29 @@ document.addEventListener("DOMContentLoaded", () => {
 
         if (songData.meta.description) row2Details.push(songData.meta.description);
 
+        // Render previous and next buttons only if the album has more than 1 song
+        let navButtonsHtml = '';
+        if (albumNavigation.totalInAlbum > 1) {
+            const prevBtnHtml = albumNavigation.prev
+                ? `<a href="${albumNavigation.prev.slug}" class="flex-1 py-2 px-3 text-xs font-black rounded-lg transition-all bg-black hover:bg-slate-900 text-white border border-slate-700 hover:border-slate-500 flex items-center justify-center gap-1.5 no-underline shadow-sm" title="${albumNavigation.prev.title}">
+                    <i class="fa-solid fa-chevron-left text-[10px]"></i> ${t.prevSong}
+                   </a>`
+                : '';
+
+            const nextBtnHtml = albumNavigation.next
+                ? `<a href="${albumNavigation.next.slug}" class="flex-1 py-2 px-3 text-xs font-black rounded-lg transition-all bg-black hover:bg-slate-900 text-white border border-slate-700 hover:border-slate-500 flex items-center justify-center gap-1.5 no-underline shadow-sm" title="${albumNavigation.next.title}">
+                    ${t.nextSong} <i class="fa-solid fa-chevron-right text-[10px]"></i>
+                   </a>`
+                : '';
+
+            navButtonsHtml = `
+                <div class="flex items-center gap-2 w-full">
+                    ${prevBtnHtml}
+                    ${nextBtnHtml}
+                </div>
+            `;
+        }
+
         appRoot.innerHTML = `
             <div class="bg-slate-950 dark:bg-black rounded-xl p-6 shadow-md border border-slate-800 mb-5 flex flex-col sm:flex-row justify-between items-center min-h-[90px] gap-4">
                 <div class="flex flex-col justify-center w-full sm:w-auto space-y-1">
@@ -215,9 +268,14 @@ document.addEventListener("DOMContentLoaded", () => {
                     </div>
                 </div>
                 
-                <button id="toggle-global-lang" class="w-36 py-2 text-xs font-black rounded-lg transition-all border shadow-sm cursor-pointer bg-sky-600 hover:bg-sky-500 text-white border-sky-700 shrink-0">
-                    <i class="fa-solid fa-earth-americas mr-1.5"></i> ${t.btnLabel}
-                </button>
+                <div class="flex flex-col gap-2 min-w-[200px] shrink-0">
+                    <div class="bg-black border border-slate-700 rounded-lg p-1 flex items-center shadow-sm w-full">
+                        <button id="toggle-global-lang" class="w-full py-1.5 px-3 text-xs font-black rounded-md transition-all cursor-pointer bg-black hover:bg-slate-900 text-white border-none flex items-center justify-center">
+                            <i class="fa-solid fa-earth-americas mr-1.5"></i> ${t.btnLabel}
+                        </button>
+                    </div>
+                    ${navButtonsHtml}
+                </div>
             </div>
 
             <div class="se-full-grid">

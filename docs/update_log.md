@@ -1,5 +1,16 @@
 # <span style="color: blue;">**Update log**</span>
 
+## <span style="color: grey">Beta 1.0.3 - 21/9/2026</span>
+* Updated some chord charts and manual translations
+* Added a "next" and "previous" song button
+* Removed light mode because why would you do that
+* Fixed the bug of some songs not directed from the main directory
+* Fixed most bugged links
+* Currently WIP features:
+  * Song chord charts (Will take some time as this is manual)
+  * Manual translation
+  * The goods page (at a later priority)
+
 ## <span style="color: grey">Beta 1.0.2 - 12/9/2026</span>
 * Updated some chord charts and manual translations
 * Fixed a lot of penlight colour and call chart errors
