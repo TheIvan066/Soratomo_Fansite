@@ -1,0 +1,59 @@
+License & Usage
+
+  This project is open-source under the MIT License. Feel free to copy, steal, or adapt this code for your own fan projects!
+  Just don't be evil, and if you meet me someday in a Sorapa or something, tell me the first 10 digits of π, and your story with Sora.
+  Remember to spread the Sora love  (๑╹ᆺ╹)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  そらちゃん大好き
