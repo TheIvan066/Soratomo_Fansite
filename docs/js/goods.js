@@ -324,7 +324,7 @@ const goodsDict = {
 };
 
 let goodsInventory = [];
-let goodsActiveLanguage = 'en';
+let goodsActiveLanguage = localStorage.getItem('soratomo_lang') || 'en';
 let selectedFilterTags = new Set();
 let goodsSearchMode = 'ANY';
 let goodsSortingDirection = [true, true, true, false];
@@ -337,9 +337,10 @@ function startGoodsEngine() {
         .then(res => res.json())
         .then(data => {
             goodsInventory = data;
-            updateUI();
-            renderTagSearchCloud();
-            renderGoodsLedgerTable();
+            // updateUI();
+            // renderTagSearchCloud();
+            // renderGoodsLedgerTable();
+            selectGoodsLanguage(goodsActiveLanguage);
         });
 }
 
@@ -362,6 +363,7 @@ function updateUI() {
 
 function selectGoodsLanguage(lang) {
     goodsActiveLanguage = lang;
+    localStorage.setItem('soratomo_lang', lang); // Add this line
     ['en', 'ja', 'zh'].forEach(l => {
         const btn = document.getElementById(`lang-btn-${l}`);
         if (!btn) return;

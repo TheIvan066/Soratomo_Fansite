@@ -18,10 +18,10 @@ document.addEventListener("DOMContentLoaded", () => {
     const dataSource = appRoot.getAttribute("data-source");
     let currentKeyShift = 0;
     let songData = null;
-    let albumNavigation = { prev: null, next: null, totalInAlbum: 0 };
+    let albumNavigation = {prev: null, next: null, totalInAlbum: 0};
 
-    let globalLanguage = localStorage.getItem("se_global_lang") || "en";   // App UI Language ("en", "zh", "ja")
-    let lyricsLanguage = localStorage.getItem("se_lyrics_lang") || "en";   // Translation track language ("en", "zh")
+    let globalLanguage = localStorage.getItem("soratomo_lang") || "en";
+    let lyricsLanguage = localStorage.getItem("se_lyrics_lang") || "en";
     let romajiActive = localStorage.getItem("se_romaji_active") !== "false";
     let notesActive = localStorage.getItem("se_notes_active") !== "false";
 
@@ -110,12 +110,12 @@ document.addEventListener("DOMContentLoaded", () => {
         fetch(dataSource).then(res => res.json()),
         fetch('/data/song_list.json').then(res => res.json()).catch(() => [])
     ])
-    .then(([song, songList]) => {
-        songData = song;
-        computeAlbumNavigation(songList);
-        initLayout();
-    })
-    .catch(err => console.error("Error loading song data:", err));
+        .then(([song, songList]) => {
+            songData = song;
+            computeAlbumNavigation(songList);
+            initLayout();
+        })
+        .catch(err => console.error("Error loading song data:", err));
 
     function computeAlbumNavigation(songList) {
         if (!songData || !songData.meta || !songData.meta.album || !Array.isArray(songList)) return;
@@ -407,7 +407,7 @@ document.addEventListener("DOMContentLoaded", () => {
             if (globalLanguage === "en") globalLanguage = "zh";
             else if (globalLanguage === "zh") globalLanguage = "ja";
             else globalLanguage = "en";
-            localStorage.setItem("se_global_lang", globalLanguage);
+            localStorage.setItem("soratomo_lang", globalLanguage);
             renderAppLayout();
         };
 
@@ -548,9 +548,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
         let rOn = "Romaji On", rOff = "Romaji Off", nOn = "Notes On", nOff = "Notes Off";
         if (globalLanguage === "zh") {
-            rOn = "羅馬字 開"; rOff = "羅馬字 關"; nOn = "註解 開"; nOff = "註解 關";
+            rOn = "羅馬字 開";
+            rOff = "羅馬字 關";
+            nOn = "註解 開";
+            nOff = "註解 關";
         } else if (globalLanguage === "ja") {
-            rOn = "ローマ字 表示"; rOff = "ローマ字 非表示"; nOn = "解説 表示"; nOff = "解説 非表示";
+            rOn = "ローマ字 表示";
+            rOff = "ローマ字 非表示";
+            nOn = "解説 表示";
+            nOff = "解説 非表示";
         }
 
         btnRomaji.innerText = romajiActive ? rOn : rOff;

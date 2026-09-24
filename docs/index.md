@@ -1,4 +1,4 @@
-# **<span style="color: #2563EB;">Welcome!</span> / <span style="color: #059669;">歡迎!</span> / <span style="color: #7C3AED;">ようこそ!</span>**
+# **<span style="color: #2563EB;">Welcome!</span> <span style="color: #059669;">歡迎!</span> <span style="color: #7C3AED;">ようこそ!</span>**
 
 ---
 

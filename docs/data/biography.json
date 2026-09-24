@@ -1,0 +1,137 @@
+{
+  "events": [
+    {
+      "date": "2026-07-15",
+      "tags": [
+        "Release",
+        "Database"
+      ],
+      "title": {
+        "en": "Database Fan Site Launch",
+        "zh": "資料庫粉絲網站上線",
+        "ja": "データベースファンサイト開設"
+      },
+      "description": {
+        "en": "Released a comprehensive digital archive and community database featuring song metadata and timelines.",
+        "zh": "發布了一個包含歌曲元數據與時間軸的全面數位檔案與社群資料庫。",
+        "ja": "楽曲のメタデータやタイムラインを網羅した総合的なデジタルアーカイブとコミュニティデータベースを公開しました。"
+      },
+      "image": "",
+      "video": "",
+      "sources": [
+        {
+          "label": "GitHub Repository",
+          "url": "https://github.com"
+        }
+      ]
+    },
+    {
+      "date": "2025-11-01",
+      "tags": [
+        "project",
+        "development"
+      ],
+      "title": {
+        "en": "Project Milestone",
+        "ja": "プロジェクトのマイルストーン",
+        "zh": "專案里程碑"
+      },
+      "content": [
+        {
+          "type": "text",
+          "en": "<p>Here is an introduction paragraph.</p><ul><li>First key achievement</li><li>Second key achievement</li></ul>",
+          "ja": "<p>ここに紹介文が入ります。</p><ul><li>主要な成果 1</li><li>主要な成果 2</li></ul>",
+          "zh": "<p>這裡是介紹段落。</p><ul><li>第一項重要成果</li><li>第二項重要成果</li></ul>"
+        },
+        {
+          "type": "image",
+          "url": "../assets/cover_images/my_loving.png",
+          "size": "small",
+          "align": "center"
+        },
+        {
+          "type": "text",
+          "en": "Concluding remarks after the image.",
+          "ja": "画像後のまとめの言葉。",
+          "zh": "圖片後的結語。"
+        },
+        {
+          "type": "video",
+          "url": "../videos/demo-clip.mp4"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/TheIvan066/Soratomo_Fansite",
+          "label": {
+            "en": "GitHub Repository",
+            "ja": "GitHubリポジトリ",
+            "zh": "GitHub 專案庫"
+          }
+        },
+        {
+          "url": "https://soratomo-fansite.com",
+          "label": {
+            "en": "Live Website",
+            "ja": "公開サイト",
+            "zh": "正式網站"
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "tags": [
+        "project",
+        "development"
+      ],
+      "title": {
+        "en": "Project Milestone",
+        "ja": "プロジェクトのマイルストーン",
+        "zh": "專案里程碑"
+      },
+      "content": [
+        {
+          "type": "text",
+          "en": "AAAA",
+          "ja": "ああああ",
+          "zh": "啊啊啊啊"
+        },
+        {
+          "type": "image",
+          "url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
+          "size": "small",
+          "align": "left"
+        },
+        {
+          "type": "text",
+          "en": "Concluding remarks after the image.",
+          "ja": "画像後のまとめの言葉。",
+          "zh": "圖片後的結語。"
+        },
+        {
+          "type": "video",
+          "url": "../videos/demo-clip.mp4"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/TheIvan066/Soratomo_Fansite",
+          "label": {
+            "en": "GitHub Repository",
+            "ja": "GitHubリポジトリ",
+            "zh": "GitHub 專案庫"
+          }
+        },
+        {
+          "url": "https://soratomo-fansite.com",
+          "label": {
+            "en": "Live Website",
+            "ja": "公開サイト",
+            "zh": "正式網站"
+          }
+        }
+      ]
+    }
+  ]
+}
