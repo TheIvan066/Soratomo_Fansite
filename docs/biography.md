@@ -3,9 +3,9 @@ hide:
   - toc
 ---
 
-# Biography Test
+# You are not supposed to be here ww
 
-Explore the historical events, milestones, and timeline records. You can switch languages instantly, filter by tags, search keywords, and toggle between timeline and grid views.
+This is just a test page
 
 <div id="biography-app"></div>
 

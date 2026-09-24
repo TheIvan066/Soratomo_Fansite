@@ -1,5 +1,14 @@
 # <span style="color: blue;">**Update log**</span>
 
+## <span style="color: grey">Beta 1.0.4 - 21/9/2026</span>
+* Updated some chord charts and manual translations
+* The page should now remember your language choice and keep it across pages 
+* Fixed some accessibility issues
+* Currently WIP features:
+  * Song chord charts (Will take some time as this is manual)
+  * Manual translation 
+  * The goods page (at a later priority)
+
 ## <span style="color: grey">Beta 1.0.3 - 21/9/2026</span>
 * Updated some chord charts and manual translations
 * Added a "next" and "previous" song button
