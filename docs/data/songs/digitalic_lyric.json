@@ -23,12 +23,29 @@
     ]
   },
   "chords": [
+     {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
     {
       "section": "※※※※※",
       "lines": [
         {
           "c": "Coming Soon!",
-          "t": "Coming Soon!"
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
         }
       ]
     }

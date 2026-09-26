@@ -15,7 +15,7 @@
     ],
     "links": [
       {
-        "name": "Release Video",
+        "name": "Official MV",
         "url": "https://youtu.be/Pgmleabc1nQ?si=KhiFRiU0ZUNQfjJq"
       },
       {
@@ -26,11 +26,127 @@
   },
   "chords": [
     {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "CM7 Bm7 Am7 D/A",
+          "t": "-- -- | -- -- | "
+        },
+        {
+          "c": "CM7 D Gsus4/D G/D",
+          "t": "-- -- | -- -- |"
+        }
+      ]
+    },
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "CM9 G Bm/F#",
+          "t": "あの日(見)た空(は) 遠く(に)見えたよ"
+        },
+        {
+          "c": "Am9  GM9",
+          "t": "果て(し)ないほどに遠(く)"
+        },
+        {
+          "c": "CM9 G Bm/F#",
+          "t": "無理だ(と)思っ(た) だけど(違)ってたよ"
+        },
+        {
+          "c": "Am9 GM9 FM11(omit5) B7",
+          "t": "いつ(の)間にか (変)わって(た)"
+        }
+      ]
+    },
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "C6 Em/B Bm/D Ebdim/A Em/B",
+          "t": "背中(に) 気がついた(ら) 羽が生え(て)い(た)ん(だ)"
+        },
+        {
+          "c": "GaugM7 C GM7 Am7 F/G G5 ",
+          "t": "()勇気(を) 出して足(を) 地面から(離)してみた(よ)"
+        }
+      ]
+    },
+    {
       "section": "※※※※※",
       "lines": [
         {
           "c": "Coming Soon!",
-          "t": "Coming Soon!"
+          "t": "XXX"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "XXX"
+        }
+      ]
+    },
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "XXX"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "XXX"
+        }
+      ]
+    },
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "XXX"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "XXX"
+        }
+      ]
+    },
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "XXX"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "XXX"
+        }
+      ]
+    },
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "XXX"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "XXX"
+        }
+      ]
+    },
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "XXX"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "XXX"
         }
       ]
     }

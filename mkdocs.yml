@@ -41,7 +41,7 @@ extra_javascript:
 
 nav:
   - ' (๑╹ᆺ╹) Home': index.md
-  - '': biography.md
+
   - '🎵 歌 Songs':
     - '📄 総覧 概覧 Overview': songs/songs_index.md
     - 'Dreaming!':
@@ -194,3 +194,4 @@ nav:
   - '🛍️ 公式商品 Goods (WIP!!)': goods/goods_index.md
   - '⚖️ 免責条項 Disclaimer': disclaimer.md
   - 'Update Log (English Only)': update_log.md
+  - '': biography.md
