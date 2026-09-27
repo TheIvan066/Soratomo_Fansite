@@ -1,6 +1,7 @@
 site_name: Soratomo Fan Site
 theme:
   logo: assets/logo.png
+  favicon: assets/favicon.png
   name: material
   palette:
 # Standard light/dark modes (we override these hex colors in extra.css)
@@ -76,10 +77,10 @@ nav:
       - '空祭り': songs/soramatsuri.md
       - 'ぐるぐる・ラブストーリー': songs/guruguru_love_story.md
       - 'マイオドレ！舞舞タイム': songs/maimai_time.md
-      - '青空のシンフォニー': songs/aozora_symphony.md
+      - '青空のシンフォニー（七色のメロディー）': songs/aozora_symphony.md
     - 'くもはれ':
         - 'KumoHurray!': songs/kumohurray.md
-        - '木の芽時の空（花時の空）': songs/konomedoki_no_sora.md
+        - '花時の空（木の芽時の空）': songs/konomedoki_no_sora.md
     - 'Re:Play':
       - 'HOT LIMIT': songs/hot_limit.md
       - 'ロマンスの神様': songs/romance_no_kamisama.md
@@ -142,6 +143,7 @@ nav:
       - 'キラメキMODE！ feat. 響咲リオナ': songs/kirameki_mode.md
       - '決意のソラへ': songs/ketsuino_sorahe.md
     - 'その他のシングル 其他單曲 Other Singles':
+      - 'ももはすのうたwithまらしぃさん': songs/momohasu_no_uta.md
       - 'わたしとあなたと皆さまと！': songs/watashito_anatato_minasamato.md
       - 'あの日見た空': songs/anohimita_sora.md
       - 'そらともどうぶつようちえん': songs/soratomo_doubutsu_youchien.md

@@ -1,10 +1,14 @@
 {
   "meta": {
-    "title": "青空のシンフォニー",
+    "title": "青空のシンフォニー（七色のメロディー）",
     "artist": "ときのそら",
     "originalKey": "C",
     "capo": "",
-    "description": "",
+    "description": {
+      "en": "<p>The song was originally created by Sora-chan on a livestream on 2018/03/27. The original stream is unavailable, but the link to the clip is in the link section.",
+      "zh": "<p>そら本人在2018/03/27配信作的歌曲。但是原配信已經無法觀看，因此下方放了烤肉的鏈結。",
+      "ja": "<p>そらちゃんが2018/03/27の配信で作曲したもの。元の配信はアクセスできなくなったが、切り抜くのリンクはおいてあります。"
+    },
     "composer": "ときのそら",
     "lyricist": "ときのそら",
     "album": "ON STAGE!",
@@ -21,6 +25,14 @@
       {
         "name": "Full Ver",
         "url": "https://youtu.be/JC_FYkbUbAE?si=i4xxJoMgEOGoyBWy"
+      },
+      {
+        "name": "路地裏ロジック 七色のメロディー",
+        "url": "https://youtu.be/gxdy09A35uo?si=caC1wtDUqPR1vZdD"
+      },
+      {
+        "name": "Original Stream Clip",
+        "url": "https://www.nicovideo.jp/watch/sm32959228"
       }
     ]
   },

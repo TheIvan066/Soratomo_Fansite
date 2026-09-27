@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "title": "ももはすのうたwithまらしぃさん",
+    "artist": "ときのそら",
+    "originalKey": "D",
+    "capo": "",
+    "description": "",
+    "composer": "ときのそら",
+    "lyricist": "ときのそら",
+    "album": "N/A",
+    "releaseDate": "2018/03/22",
+    "coverUrl": "cover_images/beep_beep",
+    "penlight_color": [
+      "#ffb3ef","#F47983"
+    ],
+    "links": [
+      {
+        "name": "Original Video",
+        "url": "https://x.com/tokino_sora/status/1197717333084532741"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "※※※※※",
+      "lines": [
+        {
+          "c": "         G         A            Bm          A",
+          "t": "ふわり(君)の頬(に)キスをし(て)みると()"
+        },
+        {
+          "c": "       G             A             D             F# >",
+          "t": "なん(だ)かピンク(な)気持ちに(な)るんだよ()"
+        },
+        {
+          "c": "  G         A           F#7         Bm",
+          "t": "(桃)の香(り)に癒[い(や)]され(て) "
+        },
+        {
+          "c": "    G        A           D",
+          "t": "あ(あ) 春(が)来たん(だ)よ"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "ふわり君の頬にキスをしてみると",
+      "call": ""
+    },
+    {
+      "lyrics": "なんだかピンクな気持ちになるんだよ",
+      "call": ""
+    },
+    {
+      "lyrics": "桃の香りに癒されて（包まれて）",
+      "call": ""
+    },
+    {
+      "lyrics": "ああ 春が来たんだよ（な）",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+     {
+      "ja": "ふわり君の頬にキスをしてみると",
+      "romaji": "Fuwari to Kimi no Hoho ni Kisu wo Shitemiru to",
+      "en": "When I gently kissed your cheeks,",
+      "zh": "當我輕輕親你的臉龐，"
+    },
+    {
+      "ja": "なんだかピンクな気持ちになるんだよ",
+      "romaji": "Nandaka Pinku na Kimochi ni Narun dayo",
+      "en": "I feel the mood of pink somehow.",
+      "zh": "我的心便充滿了粉紅色的泡泡。"
+    },
+    {
+      "ja": "桃の香りに癒されて（包まれて）",
+      "romaji": "Momo no Kaori ni Iyasarete (Tsutsumarete)",
+      "en": "Getting soothed (wrapped around) by the fragrance of peach,",
+      "zh": "被桃的香氣治癒（包裹）着，"
+    },
+    {
+      "ja": "ああ 春が来たんだよ（な）",
+      "romaji": "Aa haru ga Kitan dayo (na)",
+      "en": "oh, spring has come.",
+      "zh": "啊，春天已經到來了呢。"
+    }
+  ]
+}

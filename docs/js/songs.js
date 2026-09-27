@@ -197,15 +197,30 @@ document.addEventListener("DOMContentLoaded", () => {
     function renderAppLayout() {
         const t = uiTranslations[globalLanguage];
 
-        // Row 1
-        let row1Details = [`<i class="fa-solid fa-microphone-lines text-sky-400 mr-1"></i> ${t.artist}: ${songData.meta.artist}`];
-        if (songData.meta.composer) row1Details.push(`${t.composer}: ${songData.meta.composer}`);
-        if (songData.meta.lyricist) row1Details.push(`${t.lyricist}: ${songData.meta.lyricist}`);
+        // 1. 後方互換性を持つ description の取得処理
+        let descriptionText = "";
+        if (songData.meta.description) {
+            if (typeof songData.meta.description === "object") {
+                // 多言語オブジェクトの場合：現在の言語(ja/zh/en)を取得。無ければ英語または最初の文字をフォールバック
+                descriptionText = songData.meta.description[globalLanguage]
+                    || songData.meta.description["en"]
+                    || Object.values(songData.meta.description)[0]
+                    || "";
+            } else if (typeof songData.meta.description === "string") {
+                // 従来の単一文字列データの場合
+                descriptionText = songData.meta.description;
+            }
+        }
 
-        // Row 2
+        // 2. メタデータ上段（アーティスト、作曲、作詞）
+        let row1Details = [`<i class="fa-solid fa-microphone-lines text-sky-400 mr-1"></i> ${t.artist}:${songData.meta.artist}`];
+        if (songData.meta.composer) row1Details.push(`${t.composer}:${songData.meta.composer}`);
+        if (songData.meta.lyricist) row1Details.push(`${t.lyricist}:${songData.meta.lyricist}`);
+
+        // 3. メタデータ下段（アルバム、発売日、リンク）
         let row2Details = [];
-        if (songData.meta.album) row2Details.push(`${t.album}: ${songData.meta.album}`);
-        if (songData.meta.releaseDate) row2Details.push(`${t.releaseDate}: ${songData.meta.releaseDate}`);
+        if (songData.meta.album) row2Details.push(`${t.album}:${songData.meta.album}`);
+        if (songData.meta.releaseDate) row2Details.push(`${t.releaseDate}:${songData.meta.releaseDate}`);
 
         // Links Dropdown
         let linksDropdownHtml = '';
@@ -229,9 +244,18 @@ document.addEventListener("DOMContentLoaded", () => {
             row2Details.push(linksDropdownHtml);
         }
 
-        if (songData.meta.description) row2Details.push(songData.meta.description);
+        // 説明文セクション（区切り線 + 新しい段落）の組み立て
+        let descriptionHtml = '';
+        if (descriptionText) {
+            descriptionHtml = `
+                <hr class="border-slate-800 my-2 w-full" />
+                <p class="text-xs text-slate-300 font-normal leading-relaxed text-center sm:text-left m-0">
+                    ${descriptionText}
+                </p>
+            `;
+        }
 
-        // Render previous and next buttons only if the album has more than 1 song
+        // 前後曲ナビゲーションボタンの生成
         let navButtonsHtml = '';
         if (albumNavigation.totalInAlbum > 1) {
             const prevBtnHtml = albumNavigation.prev
@@ -248,15 +272,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
             navButtonsHtml = `
                 <div class="flex items-center gap-2 w-full">
-                    ${prevBtnHtml}
-                    ${nextBtnHtml}
+                    ${prevBtnHtml}${nextBtnHtml}
                 </div>
             `;
         }
 
+        // html renderin
         appRoot.innerHTML = `
             <div class="bg-slate-950 dark:bg-black rounded-xl p-6 shadow-md border border-slate-800 mb-5 flex flex-col sm:flex-row justify-between items-center min-h-[90px] gap-4">
-                <div class="flex flex-col justify-center w-full sm:w-auto space-y-1">
+                <div class="flex flex-col justify-center w-full sm:w-auto space-y-1.5">
                     <h1 class="text-4xl font-black tracking-tight text-center sm:text-left" style="color: #0146ea;">
                         ${songData.meta.title}
                     </h1>
@@ -266,6 +290,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     <div class="text-xs text-slate-400 font-black tracking-wide text-center sm:text-left flex flex-wrap justify-center sm:justify-start gap-x-2">
                         ${row2Details.join(' &nbsp;|&nbsp; ')}
                     </div>
+                    ${descriptionHtml}
                 </div>
                 
                 <div class="flex flex-col gap-2 min-w-[200px] shrink-0">
@@ -277,7 +302,6 @@ document.addEventListener("DOMContentLoaded", () => {
                     ${navButtonsHtml}
                 </div>
             </div>
-
             <div class="se-full-grid">
                 <div class="space-y-5">
                     <div class="bg-white dark:bg-slate-900 rounded-xl shadow-md border border-slate-200 dark:border-slate-800 overflow-hidden">
