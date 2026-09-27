@@ -15,14 +15,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
-          python-version: 3.x
+          python-version: '3.x'
+
       - run: pip install mkdocs-material mkdocs
-      - run: mkdocs build
+
+      - name: Build site
+        run: mkdocs build
+
+      # Ensures your custom domain CNAME is copied to the artifact root
+      - name: Ensure CNAME exists in site folder
+        run: echo "soratomo-fansite.com" > site/CNAME
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
+
   deploy:
     environment:
       name: github-pages
