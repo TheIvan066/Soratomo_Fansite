@@ -1,6 +1,6 @@
 ---
 title: "Soratomo Fan Site そらともファンサイト"
-description: "ときのそら (Tokino Sora / 時乃空) 資訊總覽：收錄 Hololive (ホロライブ) ときのそら 的歌單 歌詞 (Songs/Lyrics/Chords コード)、專輯 Discography、周邊商品 (Goods グッズ) 目錄與活動年表 (Biography)。"
+description: "ときのそら (Tokino Sora / 時乃空) 資訊總覽 (ファンサイト)：收錄 Hololive (ホロライブ) ときのそら 的歌單 歌詞 (Songs/Lyrics/Chords コード)、專輯 Discography、周邊商品 (Goods グッズ) 目錄與活動年表 (Biography)。"
 ---
 
 # <span style="color: #8B5CF6;">🐻 ようこそ!</span> <span style="color: #10B981;">歡迎!</span> <span style="color: #3B82F6;">Welcome!</span>
