@@ -4,7 +4,12 @@
     "artist": "ときのそら",
     "originalKey": "D",
     "capo": "",
-    "description": "",
+    "description": {
+      "en": "<p>The song was originally created by Sora-chan on a livestream on 2018/03/27. This song was then posted on Twitter after the collaboration livestream \"【まらしぃ×ときのそら】バーチャルセッション＆トークコラボ生放送～\" with Marashii-san. The original stream is unavailable, but the link to the clip is in the link section.",
+      "zh": "<p>そら本人在2018/03/27配信作的歌曲。這首歌後來在「【まらしぃ×ときのそら】バーチャルセッション＆トークコラボ生放送～」此和まらしぃ的配信後被上載到Twitter。但是原配信已經無法觀看，因此下方放了烤肉的鏈結。",
+      "ja": "<p>そらちゃんが2018/03/27の配信で作曲したもの。その後は「【まらしぃ×ときのそら】バーチャルセッション＆トークコラボ生放送～」というまらしぃさんとのコラボ配信をきっかけにツイッターにポストされる。元の配信はアクセスできなくなったが、切り抜くのリンクはおいてあります。"
+
+    },
     "composer": "ときのそら",
     "lyricist": "ときのそら",
     "album": "N/A",
@@ -17,6 +22,10 @@
       {
         "name": "Original Video",
         "url": "https://x.com/tokino_sora/status/1197717333084532741"
+      },
+      {
+        "name": "Original Stream Clip",
+        "url": "https://www.nicovideo.jp/watch/sm32959228"
       }
     ]
   },

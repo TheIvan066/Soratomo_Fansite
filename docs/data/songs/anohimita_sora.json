@@ -2,7 +2,7 @@
   "meta": {
     "title": "あの日見た空",
     "artist": "ときのそら",
-    "originalKey": "Em",
+    "originalKey": "G",
     "capo": "",
     "description": "",
     "composer": "山田アルテミス",
@@ -29,124 +29,198 @@
       "section": "Intro",
       "lines": [
         {
-          "c": "CM7 Bm7 Am7 D/A",
+          "c": "CM7 Bm7    Am7 D/A",
           "t": "-- -- | -- -- | "
         },
         {
-          "c": "CM7 D Gsus4/D G/D",
-          "t": "-- -- | -- -- |"
+          "c": "CM7 D      Gsus4/D G/D",
+          "t": "-- -- | --    -- |"
         }
       ]
     },
     {
-      "section": "※※※※※",
+      "section": "Verse 1",
       "lines": [
         {
-          "c": "CM9 G Bm/F#",
+          "c": "        CM9        G        Bm/F#",
           "t": "あの日(見)た空(は) 遠く(に)見えたよ"
         },
         {
-          "c": "Am9  GM9",
+          "c": "      Am9                GM9",
           "t": "果て(し)ないほどに遠(く)"
         },
         {
-          "c": "CM9 G Bm/F#",
+          "c": "        CM9        G          Bm/F#",
           "t": "無理だ(と)思っ(た) だけど(違)ってたよ"
         },
         {
-          "c": "Am9 GM9 FM11(omit5) B7",
+          "c": "      Am9          GM9      FM11(omit5)  B7",
           "t": "いつ(の)間にか (変)わって(た)"
         }
       ]
     },
     {
-      "section": "※※※※※",
+      "section": "Pre-chorus 1",
       "lines": [
         {
-          "c": "C6 Em/B Bm/D Ebdim/A Em/B",
+          "c": "       C6              Em/B            Bm/D  Ebdim/A  Em/B",
           "t": "背中(に) 気がついた(ら) 羽が生え(て)い(た)ん(だ)"
         },
         {
-          "c": "GaugM7 C GM7 Am7 F/G G5 ",
-          "t": "()勇気(を) 出して足(を) 地面から(離)してみた(よ)"
+          "c": "GaugM7     C             GM7             Am7           F/G  G5  D/A",
+          "t": " ()勇気(を) 出して足(を) 地面から(離)してみた(よ)"
         }
       ]
     },
     {
-      "section": "※※※※※",
+      "section": "Chorus 1",
       "lines": [
         {
-          "c": "Coming Soon!",
-          "t": "XXX"
+          "c": "        Em7/B           CM7/B      D7/A       A7sus4",
+          "t": "ふわり (こ)の翼[つば(さ)] は(た)めかせ(て)"
         },
         {
-          "c": "Coming Soon!",
-          "t": "XXX"
+          "c": "    Em7/B       CM7/B        D         B7/A",
+          "t": "私 (こ)れから(は) 飛ん(で)行ける(よ)"
+        },
+        {
+          "c": "    C         Dsus4        B7/D#      Em ",
+          "t": "思(い) 絵描(い)ていた (あ)の空(へ)"
+        },
+        {
+          "c": "      Am7         F#m7/B    CM7      D      Cadd9 ≫ ",
+          "t": "お願(い) このま(ま) 私(を) 飛(ば)させ(て)"
+        },
+        {
+          "c": "Cadd9 Bm7   Am7 D/A B",
+          "t": "--  -- | -- - - |"
+        },
+        {
+          "c": "CM7 D      Gsus4/D G/D",
+          "t": "-- -- | --     -- |"
         }
       ]
     },
     {
-      "section": "※※※※※",
+      "section": "Verse 2",
       "lines": [
         {
-          "c": "Coming Soon!",
-          "t": "XXX"
+          "c": "        CM9        G      Bm/F#  Bmadd11/D D",
+          "t": "変わり(始)めて(る) 私(の)世界(に)"
         },
         {
-          "c": "Coming Soon!",
-          "t": "XXX"
+          "c": "      CM7                G/D Bm7",
+          "t": "まだ(戸)惑いもあるけ(ど)"
+        },
+        {
+          "c": "        CM9      G          Bm/F#        Bmadd11/D D",
+          "t": "いつか(は)必(ず) たどり(着)くはずだ(と)"
+        },
+        {
+          "c": "   CM7       Bm/D        Em/B B7",
+          "t": "今(は)信じ(ら)れるん(だ)"
         }
       ]
     },
     {
-      "section": "※※※※※",
+      "section": "Pre-chorus 2",
       "lines": [
         {
-          "c": "Coming Soon!",
-          "t": "XXX"
+          "c": "       Csus2         C            G/B     C#7     Cm6     B    Cdim7   Em7/B",
+          "t": "羽ばた(き) 続[つ(づ)]けない(と) 落(ち)て(し)ま(い)そ(う)だ(よ)"
         },
         {
-          "c": "Coming Soon!",
-          "t": "XXX"
+          "c": "C#m7b5 CM7      Bm7         Am7         E/B           Bm7     D7sus4      D6",
+          "t": " ()私(は) 止(ま)らない(よ) 羽[は(ね)]が消え(て)なく(な)るま(で)"
         }
       ]
     },
     {
-      "section": "※※※※※",
+      "section": "Chorus 2",
       "lines": [
         {
-          "c": "Coming Soon!",
-          "t": "XXX"
+          "c": "        Em7/B        CM7/B    D7/A          A7sus4",
+          "t": "ふわり (み)んなか(ら) も(ら)った気持(ち)"
         },
         {
-          "c": "Coming Soon!",
-          "t": "XXX"
+          "c": "   Em7/B       CM7/B        D         B7/A",
+          "t": "翼(に)変わっ(て) 飛ん(で)いるん(だ)"
+        },
+        {
+          "c": "       C        Dsus4        B7/D#      Em",
+          "t": "いつ(か) 絵描(い)ていた (あ)の空(へ)"
+        },
+        {
+          "c": "    Am7           C         CM7     CM9        G",
+          "t": "翼(を) 羽ばた(き) 続け(て) 行(く)から(ね)"
         }
       ]
     },
     {
-      "section": "※※※※※",
+      "section": "Bridge",
       "lines": [
         {
-          "c": "Coming Soon!",
-          "t": "XXX"
+          "c": "         D                 Em           B7sus4         Em        FM9",
+          "t": "まだ私(は) あまりうま(く) 飛ぶこと(が)できな(い) けれ(ど)"
         },
         {
-          "c": "Coming Soon!",
-          "t": "XXX"
+          "c": "        GM9             Am9           Bm9          E7/D",
+          "t": "約束だ(よ) その時ま(で) 見守[み(ま)も]って(ね)"
         }
       ]
     },
     {
-      "section": "※※※※※",
+      "section": "Interlude",
       "lines": [
         {
-          "c": "Coming Soon!",
-          "t": "XXX"
+          "c": "CM7      G/B",
+          "t": "---- | ---- |"
         },
         {
-          "c": "Coming Soon!",
-          "t": "XXX"
+          "c": "D        Am6 D/A",
+          "t": "---- | -- -- |"
+        },
+        {
+          "c": "CM7      G/B",
+          "t": "---- | ---- |"
+        },
+        {
+          "c": "Am7      Dsus4/A D/A",
+          "t": "---- | --    -- |"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "    Em     CM7     D/A          G",
+          "t": "私(の)姿(が) 見(え)てます(か)"
+        },
+        {
+          "c": "    Em               CM7         D/F#        B7/F#",
+          "t": "私(の)歌声[うたご(え)] 聞こ(え)てます(か)"
+        },
+        {
+          "c": "     CM7          D          B7/D#      Em",
+          "t": "今日(も) みん(な)の 気持(ち)集め(て)"
+        },
+        {
+          "c": "    Am7             Bm7        CM7       D",
+          "t": "私(は) あの時[と(き)]の空(へ) 飛(び)立つよ"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "Bm7",
+          "t": "---- | ---- |"
+        },
+        {
+          "c": "CM7      GM7 ≫",
+          "t": "---- | ---- |"
         }
       ]
     }
