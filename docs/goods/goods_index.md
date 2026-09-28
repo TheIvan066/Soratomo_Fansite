@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+title: "グッズ 公式商品 Goods Directory - ときのそら 時乃空 Tokino Sora"
+description: "ときのそら (Tokino Sora) 周邊商品 (グッズ Merchandise) 總列表 (総覧 リスト List)，包含 Hololive 官方周邊、紀念 Goods 與發售紀錄。"
 ---
 <div id="goods-app-root" style="width: 100%; background-color: #111827; border: 1px solid #1f2937; border-radius: 0.75rem; padding: 1.5rem; color: #e5e7eb; font-family: ui-sans-serif, system-ui, sans-serif; box-sizing: border-box; display: block; margin: 1rem 0;">
   <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #374151; padding-bottom: 1rem; margin-bottom: 1.5rem; flex-wrap: wrap; gap: 1rem;">

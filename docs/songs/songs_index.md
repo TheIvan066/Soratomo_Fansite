@@ -1,3 +1,8 @@
+---
+title: "歌 Songs Overview - ときのそら 時乃空 Tokino Sora"
+description: "ときのそら (Tokino Sora) 官方專輯 (Albums アルバム) 與單曲 (Singles シングル) 總覽，收錄完整 Discography、樂曲與歌詞資訊。"
+---
+
 # 🎵 Songs Database
 
 <div id="dashboard-app-root" class="w-full clear-both block my-6 p-4 rounded-xl border border-slate-200 dark:border-slate-800 shadow-md bg-white dark:bg-slate-900 min-h-[150px]">

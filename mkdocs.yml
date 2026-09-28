@@ -26,9 +26,13 @@ plugins:
   - tags
 
 markdown_extensions:
-  - pymdownx.superfences # Allows advanced blocks
-  - pymdownx.tabbed:     # Enables the multi-language tabs
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - attr_list
   - md_in_html
 
@@ -173,16 +177,16 @@ nav:
       - '青春アーカイブ':
           - '青春アーカイブ': songs/seishun_archive.md
       - 'Futurity Step':
-          - Scale the walls': songs/scale_the_walls.md
-          - 君と僕はアルビレオ 惹かれ合う彗星テイル': songs/kimito_bokuha_albireo.md
-          - テレパシー': songs/telepathy.md
-          - せーので！': songs/senode.md
-          - ハジメノイッポ': songs/hajimeno_ipp.md
-          - 恋愛コスモロジー': songs/rennai_cosmology.md
-          - 惑わす星': songs/madowasuhoshi.md
-          - いけないんだ': songs/ikenainda.md
-          - ふたりDestiny': songs/futari_destiny.md
-          - MAG-NET': songs/mag_net.md
+          - 'Scale the walls': songs/scale_the_walls.md
+          - '君と僕はアルビレオ 惹かれ合う彗星テイル': songs/kimito_bokuha_albireo.md
+          - 'テレパシー': songs/telepathy.md
+          - 'せーので！': songs/senode.md
+          - 'ハジメノイッポ': songs/hajimeno_ipp.md
+          - '恋愛コスモロジー': songs/rennai_cosmology.md
+          - '惑わす星': songs/madowasuhoshi.md
+          - 'いけないんだ': songs/ikenainda.md
+          - 'ふたりDestiny': songs/futari_destiny.md
+          - 'MAG-NET': songs/mag_net.md
           - '紅藍クロニクル': songs/kurenai_chronicle.md
       - 'Capture the Moment':
           - 'Capture the Moment': songs/capture_the_moment.md
@@ -197,4 +201,3 @@ nav:
   - '🛍️ 公式商品 Goods (WIP!!)': goods/goods_index.md
   - '⚖️ 免責条項 Disclaimer': disclaimer.md
   - 'Update Log (English Only)': update_log.md
-  - '': biography.md
