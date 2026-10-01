@@ -2,11 +2,13 @@
 
 ## <span style="color: grey">Beta 1.0.6 - 29/9/2026</span>
 * Updated the main page look
+* Trying to fix the mobile phone rendering problem
 * Updated some chord charts and manual translations (Current Progress: 25%)
 * Search and QoL patches
 * Currently WIP features:
   * Song chord charts (Will take some time as this is manual)
   * Manual translation 
+  * Fixing the weird rendering on small devices
   * The goods page (at a later priority)
 
 ## <span style="color: grey">Beta 1.0.5 - 28/9/2026</span>
