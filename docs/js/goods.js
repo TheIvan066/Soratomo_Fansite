@@ -334,7 +334,6 @@ document.addEventListener("DOMContentLoaded", startGoodsEngine);
 function injectGoodsMobileStyles() {
     if (document.getElementById("goods-mobile-responsive-css")) return;
 
-    // Inject rotate prompt overlay element if missing
     if (!document.getElementById("goods-rotate-overlay")) {
         const overlay = document.createElement("div");
         overlay.id = "goods-rotate-overlay";

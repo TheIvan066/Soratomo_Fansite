@@ -3,6 +3,7 @@ site_url: https://soratomo-fansite.com/
 theme:
   logo: assets/logo.png
   favicon: assets/favicon.png
+  apple: assets/favicon.png
   name: material
   palette:
 # Standard light/dark modes (we override these hex colors in extra.css)
