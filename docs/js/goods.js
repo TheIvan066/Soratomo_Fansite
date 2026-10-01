@@ -331,15 +331,125 @@ let goodsSortingDirection = [true, true, true, false];
 
 document.addEventListener("DOMContentLoaded", startGoodsEngine);
 
+function injectGoodsMobileStyles() {
+    if (document.getElementById("goods-mobile-responsive-css")) return;
+
+    // Inject rotate prompt overlay element if missing
+    if (!document.getElementById("goods-rotate-overlay")) {
+        const overlay = document.createElement("div");
+        overlay.id = "goods-rotate-overlay";
+        overlay.innerHTML = `
+            <div class="rotate-content">
+                <div class="rotate-icon">📱🔄</div>
+                <p>画面を横にしてご覧ください~</p>
+                <p>Please Rotate Your Phone For A Better Experience~</p>
+                <p>請將螢幕旋轉至橫向以最佳體驗~</p>
+            </div>
+        `;
+        document.body.appendChild(overlay);
+    }
+
+    const style = document.createElement("style");
+    style.id = "goods-mobile-responsive-css";
+    style.innerHTML = `
+        /* Overlay setup */
+        #goods-rotate-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background-color: rgba(15, 23, 42, 0.95);
+            color: #ffffff;
+            z-index: 99999;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 2rem;
+            backdrop-filter: blur(8px);
+        }
+
+        #goods-rotate-overlay .rotate-content {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+            align-items: center;
+            font-weight: 600;
+            line-height: 1.5;
+        }
+
+        #goods-rotate-overlay .rotate-icon {
+            font-size: 3rem;
+            animation: rotate-anim 2s infinite ease-in-out;
+            margin-bottom: 0.5rem;
+        }
+
+        @keyframes rotate-anim {
+            0% { transform: rotate(0deg); }
+            50% { transform: rotate(90deg); }
+            100% { transform: rotate(0deg); }
+        }
+
+        /* Show rotate warning overlay on portrait mobile screens */
+        @media screen and (max-width: 768px) and (orientation: portrait) {
+            #goods-rotate-overlay {
+                display: flex !important;
+            }
+        }
+
+        /* Responsive UI adjustments for mobile */
+        @media (max-width: 640px) {
+            #goods-app-root {
+                font-size: 0.8rem !important;
+                padding: 0.25rem !important;
+            }
+
+            #ui-title {
+                font-size: 1.25rem !important;
+                margin-bottom: 0.5rem !important;
+            }
+
+            #ui-mode-label, #ui-label-events, #ui-label-items, #ui-label-chars {
+                font-size: 0.75rem !important;
+            }
+
+            #goods-app-root button {
+                font-size: 0.68rem !important;
+                padding: 0.2rem 0.4rem !important;
+            }
+
+            #goods-tags-event button,
+            #goods-tags-character button,
+            #goods-tags-item button {
+                font-size: 0.65rem !important;
+                padding: 0.15rem 0.35rem !important;
+            }
+
+            #goods-app-root table {
+                font-size: 0.75rem !important;
+            }
+
+            #goods-app-root td, #goods-app-root th {
+                padding: 0.4rem 0.3rem !important;
+            }
+
+            #goods-table-body img {
+                max-width: 64px !important;
+                max-height: 80px !important;
+            }
+        }
+    `;
+    document.head.appendChild(style);
+}
+
 function startGoodsEngine() {
     if (!document.getElementById("goods-app-root")) return;
+    injectGoodsMobileStyles();
     fetch('/data/goods.json')
         .then(res => res.json())
         .then(data => {
             goodsInventory = data;
-            // updateUI();
-            // renderTagSearchCloud();
-            // renderGoodsLedgerTable();
             selectGoodsLanguage(goodsActiveLanguage);
         });
 }
@@ -363,7 +473,7 @@ function updateUI() {
 
 function selectGoodsLanguage(lang) {
     goodsActiveLanguage = lang;
-    localStorage.setItem('soratomo_lang', lang); // Add this line
+    localStorage.setItem('soratomo_lang', lang);
     ['en', 'ja', 'zh'].forEach(l => {
         const btn = document.getElementById(`lang-btn-${l}`);
         if (!btn) return;
@@ -397,13 +507,12 @@ function getLocalizedName(item) {
     return (item.name && (item.name[goodsActiveLanguage] || item.name['en'])) || 'Unknown Item';
 }
 
-// 🏷️ RENDER ENGINE
 function getLocalizedTag(tag) {
     return goodsDict[goodsActiveLanguage].tags?.[tag.toLowerCase()] || tag;
 }
 
 function renderTagSearchCloud() {
-  const containers = {
+    const containers = {
         event: document.getElementById("goods-tags-event"),
         character: document.getElementById("goods-tags-character"),
         item: document.getElementById("goods-tags-item")
@@ -428,7 +537,7 @@ function renderTagSearchCloud() {
 }
 
 function renderGoodsLedgerTable() {
-   const tbody = document.getElementById("goods-table-body");
+    const tbody = document.getElementById("goods-table-body");
     if (!tbody) return;
     tbody.innerHTML = "";
 
