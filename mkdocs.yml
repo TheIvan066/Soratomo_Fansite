@@ -44,6 +44,7 @@ extra_javascript:
   - js/songs_sort.js
   - js/goods.js
   - js/biography.js
+  - js/header_fix_temp.js
 
 nav:
   - ' (๑╹ᆺ╹) Home': index.md

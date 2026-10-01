@@ -105,7 +105,6 @@ document.addEventListener("DOMContentLoaded", () => {
         document.head.appendChild(tw);
     }
 
-    // Fetch current song and song list for album navigation concurrently
     Promise.all([
         fetch(dataSource).then(res => res.json()),
         fetch('/data/song_list.json').then(res => res.json()).catch(() => [])
@@ -120,17 +119,14 @@ document.addEventListener("DOMContentLoaded", () => {
     function computeAlbumNavigation(songList) {
         if (!songData || !songData.meta || !songData.meta.album || !Array.isArray(songList)) return;
 
-        // Filter all songs belonging to the exact same album
         const albumSongs = songList.filter(item => item.album === songData.meta.album);
         albumNavigation.totalInAlbum = albumSongs.length;
 
-        // Find index of the current song within the album
         const currentIndex = albumSongs.findIndex(item =>
             item.title === songData.meta.title || item.slug === songData.meta.slug
         );
 
         if (currentIndex !== -1 && albumSongs.length > 1) {
-            // Loop navigation: wrapping around using modulo logic
             const prevIndex = (currentIndex - 1 + albumSongs.length) % albumSongs.length;
             const nextIndex = (currentIndex + 1) % albumSongs.length;
 
@@ -140,7 +136,14 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function initLayout() {
-        appRoot.className = "w-full max-w-none p-0 text-slate-800 dark:text-slate-100 font-sans antialiased";
+        if (!document.querySelector('meta[name="viewport"]')) {
+            const metaViewport = document.createElement("meta");
+            metaViewport.name = "viewport";
+            metaViewport.content = "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no";
+            document.head.appendChild(metaViewport);
+        }
+
+        appRoot.className = "w-full max-w-none p-0 text-slate-800 dark:text-slate-100 font-sans antialiased text-sm sm:text-base";
 
         let styleOverride = document.getElementById("song-engine-widescreen-css");
         if (!styleOverride) {
@@ -155,16 +158,17 @@ document.addEventListener("DOMContentLoaded", () => {
                 :has(#song-app-root) .md-main__inner {
                     max-width: 100% !important;
                     width: 100% !important;
-                    padding-left: 10px !important;
-                    padding-right: 10px !important;
+                    padding-left: 6px !important;
+                    padding-right: 6px !important;
                 }
                 :has(#song-app-root) .md-sidebar--secondary {
                     display: none !important;
                 }
+
                 .se-full-grid {
                     display: grid;
-                    grid-template-columns: 1fr;
-                    gap: 20px;
+                    grid-template-columns: minmax(0, 1fr);
+                    gap: 16px;
                     width: 100%;
                 }
                 @media (min-width: 1024px) {
@@ -173,6 +177,59 @@ document.addEventListener("DOMContentLoaded", () => {
                         align-items: start;
                     }
                 }
+                
+              
+                .chord-line-row {
+                    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
+                    white-space: pre !important;
+                    letter-spacing: 0px !important;
+                    word-spacing: normal !important;
+                }
+                .chord-line-row .chord-val,
+                .chord-line-row .text-val {
+                    font-family: inherit !important;
+                    letter-spacing: inherit !important;
+                    line-height: 1.4 !important;
+                }                
+                
+
+                @media (max-width: 640px) {
+                    html {
+                        font-size: 13px !important;
+                    }
+                    #song-app-root {
+                        font-size: 0.8rem !important;
+                    }
+                    #song-app-root h1 {
+                        font-size: 1.25rem !important;
+                        line-height: 1.3 !important;
+                    }
+                    #song-app-root h2 {
+                        font-size: 0.9rem !important;
+                    }
+                    #song-app-root .p-6, #song-app-root .p-4, #song-app-root .p-3.5 {
+                        padding: 0.6rem !important;
+                    }
+                    #song-app-root .text-base {
+                        font-size: 0.82rem !important;
+                    }
+                    #song-app-root .text-sm {
+                        font-size: 0.75rem !important;
+                    }
+                    #song-app-root .text-xs {
+                        font-size: 0.68rem !important;
+                    }
+                    #song-app-root button, #song-app-root select, #song-app-root a {
+                        font-size: 0.72rem !important;
+                        padding-top: 0.25rem !important;
+                        padding-bottom: 0.25rem !important;
+                    }
+                    .chord-line-row .chord-val,
+                    .chord-line-row .text-val {
+                        font-size: 0.82rem !important;
+                    }
+                }
+
                 .custom-scrollbar::-webkit-scrollbar {
                     width: 6px;
                     height: 6px;
@@ -197,32 +254,26 @@ document.addEventListener("DOMContentLoaded", () => {
     function renderAppLayout() {
         const t = uiTranslations[globalLanguage];
 
-        // 1. 後方互換性を持つ description の取得処理
         let descriptionText = "";
         if (songData.meta.description) {
             if (typeof songData.meta.description === "object") {
-                // 多言語オブジェクトの場合：現在の言語(ja/zh/en)を取得。無ければ英語または最初の文字をフォールバック
                 descriptionText = songData.meta.description[globalLanguage]
                     || songData.meta.description["en"]
                     || Object.values(songData.meta.description)[0]
                     || "";
             } else if (typeof songData.meta.description === "string") {
-                // 従来の単一文字列データの場合
                 descriptionText = songData.meta.description;
             }
         }
 
-        // 2. メタデータ上段（アーティスト、作曲、作詞）
         let row1Details = [`<i class="fa-solid fa-microphone-lines text-sky-400 mr-1"></i> ${t.artist}:${songData.meta.artist}`];
         if (songData.meta.composer) row1Details.push(`${t.composer}:${songData.meta.composer}`);
         if (songData.meta.lyricist) row1Details.push(`${t.lyricist}:${songData.meta.lyricist}`);
 
-        // 3. メタデータ下段（アルバム、発売日、リンク）
         let row2Details = [];
         if (songData.meta.album) row2Details.push(`${t.album}:${songData.meta.album}`);
         if (songData.meta.releaseDate) row2Details.push(`${t.releaseDate}:${songData.meta.releaseDate}`);
 
-        // Links Dropdown
         let linksDropdownHtml = '';
         if (songData.meta.links && songData.meta.links.length > 0) {
             let linksItems = songData.meta.links.map(link =>
@@ -244,7 +295,6 @@ document.addEventListener("DOMContentLoaded", () => {
             row2Details.push(linksDropdownHtml);
         }
 
-        // 説明文セクション（区切り線 + 新しい段落）の組み立て
         let descriptionHtml = '';
         if (descriptionText) {
             descriptionHtml = `
@@ -255,7 +305,6 @@ document.addEventListener("DOMContentLoaded", () => {
             `;
         }
 
-        // 前後曲ナビゲーションボタンの生成
         let navButtonsHtml = '';
         if (albumNavigation.totalInAlbum > 1) {
             const prevBtnHtml = albumNavigation.prev
@@ -277,7 +326,6 @@ document.addEventListener("DOMContentLoaded", () => {
             `;
         }
 
-        // html renderin
         appRoot.innerHTML = `
             <div class="bg-slate-950 dark:bg-black rounded-xl p-6 shadow-md border border-slate-800 mb-5 flex flex-col sm:flex-row justify-between items-center min-h-[90px] gap-4">
                 <div class="flex flex-col justify-center w-full sm:w-auto space-y-1.5">
@@ -293,7 +341,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     ${descriptionHtml}
                 </div>
                 
-                <div class="flex flex-col gap-2 min-w-[200px] shrink-0">
+                <div class="flex flex-col gap-2 w-full sm:w-auto sm:min-w-[200px] shrink-0">
                     <div class="bg-black border border-slate-700 rounded-lg p-1 flex items-center shadow-sm w-full">
                         <button id="toggle-global-lang" class="w-full py-1.5 px-3 text-xs font-black rounded-md transition-all cursor-pointer bg-black hover:bg-slate-900 text-white border-none flex items-center justify-center">
                             <i class="fa-solid fa-earth-americas mr-1.5"></i> ${t.btnLabel}
@@ -359,12 +407,12 @@ document.addEventListener("DOMContentLoaded", () => {
                 </div>
 
                 <div class="bg-white dark:bg-slate-900 rounded-xl shadow-md border border-slate-200 dark:border-slate-800 overflow-hidden lg:sticky lg:top-4">
-                    <div class="bg-slate-50 dark:bg-slate-950 px-4 py-3 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between gap-4 min-h-[96px]">
+                    <div class="bg-slate-50 dark:bg-slate-950 px-4 py-3 border-b border-slate-200 dark:border-slate-800 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 min-h-[96px]">
                         <h2 class="text-base font-black uppercase tracking-wider text-emerald-600 dark:text-emerald-400 flex items-center gap-2 m-0 min-w-0 self-center">
                             <i class="fa-solid fa-language shrink-0"></i> 
                             <span class="truncate">${t.lyricsTitle}</span>
                         </h2>
-                        <div class="flex flex-col items-center gap-1.5 shrink-0 self-center min-w-[325px]">
+                        <div class="flex flex-col items-center gap-1.5 shrink-0 self-center w-full sm:w-auto sm:min-w-[280px]">
                             <div class="flex items-center gap-1.5 w-full justify-center">
                                 <div class="bg-black border border-slate-700 rounded-lg p-1.5 flex items-center justify-center shadow-sm flex-1">
                                     <button id="toggle-romaji" class="w-full text-center whitespace-nowrap"></button>
@@ -453,19 +501,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
             sec.lines.forEach(line => {
                 let lineRow = document.createElement("div");
-                lineRow.className = "flex flex-col tracking-wide leading-relaxed py-0.5 overflow-x-auto whitespace-pre";
+                lineRow.className = "chord-line-row flex flex-col py-0.5 overflow-x-auto";
 
                 if (line.c) {
                     let transposedChords = transposeLine(line.c, currentKeyShift);
                     let chordSpan = document.createElement("div");
-                    chordSpan.className = "text-xs font-black text-pink-500 select-none min-h-[1.25rem]";
+                    chordSpan.className = "chord-val text-xs font-black text-pink-500 select-none min-h-[1.25rem]";
                     chordSpan.textContent = transposedChords;
                     lineRow.appendChild(chordSpan);
                 }
 
                 if (line.t) {
                     let textSpan = document.createElement("div");
-                    textSpan.className = "text-base font-medium text-sky-600 dark:text-sky-400";
+                    textSpan.className = "text-val text-base font-medium text-sky-600 dark:text-sky-400";
                     textSpan.textContent = line.t;
                     lineRow.appendChild(textSpan);
                 }
