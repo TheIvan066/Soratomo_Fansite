@@ -209,6 +209,48 @@ document.addEventListener("DOMContentLoaded", () => {
                 .dark .custom-scrollbar::-webkit-scrollbar-thumb {
                     background: #475569;
                 }
+
+                /* Mobile Font Scale Overrides (Ultra Small) */
+                @media (max-width: 639px) {
+                    #song-app-root {
+                        font-size: 0.725rem !important; /* ~11.5px base */
+                    }
+                    #song-app-root h1 {
+                        font-size: 1.35rem !important; /* Main title */
+                    }
+                    #song-app-root h2 {
+                        font-size: 0.75rem !important; /* Section headings */
+                    }
+                    #song-app-root .text-xs,
+                    #song-app-root .text-\[10px\],
+                    #song-app-root .text-\[11px\] {
+                        font-size: 0.65rem !important; /* Sub-labels & metadata */
+                    }
+                    /* Lyrics scaling */
+                    #lyrics-viewport p.text-base {
+                        font-size: 0.75rem !important; /* Main lyrics (JA) */
+                    }
+                    #lyrics-viewport p.text-\[13px\] {
+                        font-size: 0.65rem !important; /* Translations */
+                    }
+                    #lyrics-viewport p.text-xs {
+                        font-size: 0.6rem !important; /* Romaji */
+                    }
+                    /* Chords and Call guide scaling */
+                    .chord-line-row .text-val {
+                        font-size: 0.75rem !important;
+                    }
+                    .chord-line-row .chord-val {
+                        font-size: 0.625rem !important;
+                    }
+                    #calls-viewport .text-sm {
+                        font-size: 0.675rem !important;
+                    }
+                    /* Button label scaling */
+                    button, select {
+                        font-size: 0.65rem !important;
+                    }
+                }
             `;
             document.head.appendChild(styleOverride);
         }
