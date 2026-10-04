@@ -1,6 +1,6 @@
 const scale = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
 
-function transposeLine(chordLine, steps) {
+function chordTranspose(chordLine, steps) {
     if (!chordLine || chordLine === "") return "";
     return chordLine.replace(/[A-G]#?/g, (match) => {
         let index = scale.indexOf(match);
@@ -150,6 +150,10 @@ document.addEventListener("DOMContentLoaded", () => {
             styleOverride = document.createElement("style");
             styleOverride.id = "song-engine-widescreen-css";
             styleOverride.innerHTML = `
+                #song-app-root {
+                    -webkit-text-size-adjust: 100%;
+                    text-size-adjust: 100%;
+                }
                 :has(#song-app-root) .md-typeset > h1 {
                     display: none !important;
                 }
@@ -178,7 +182,6 @@ document.addEventListener("DOMContentLoaded", () => {
                     }
                 }
                 
-              
                 .chord-line-row {
                     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
                     white-space: pre !important;
@@ -191,44 +194,6 @@ document.addEventListener("DOMContentLoaded", () => {
                     letter-spacing: inherit !important;
                     line-height: 1.4 !important;
                 }                
-                
-
-                @media (max-width: 640px) {
-                    html {
-                        font-size: 13px !important;
-                    }
-                    #song-app-root {
-                        font-size: 0.8rem !important;
-                    }
-                    #song-app-root h1 {
-                        font-size: 1.25rem !important;
-                        line-height: 1.3 !important;
-                    }
-                    #song-app-root h2 {
-                        font-size: 0.9rem !important;
-                    }
-                    #song-app-root .p-6, #song-app-root .p-4, #song-app-root .p-3.5 {
-                        padding: 0.6rem !important;
-                    }
-                    #song-app-root .text-base {
-                        font-size: 0.82rem !important;
-                    }
-                    #song-app-root .text-sm {
-                        font-size: 0.75rem !important;
-                    }
-                    #song-app-root .text-xs {
-                        font-size: 0.68rem !important;
-                    }
-                    #song-app-root button, #song-app-root select, #song-app-root a {
-                        font-size: 0.72rem !important;
-                        padding-top: 0.25rem !important;
-                        padding-bottom: 0.25rem !important;
-                    }
-                    .chord-line-row .chord-val,
-                    .chord-line-row .text-val {
-                        font-size: 0.82rem !important;
-                    }
-                }
 
                 .custom-scrollbar::-webkit-scrollbar {
                     width: 6px;
@@ -483,10 +448,10 @@ document.addEventListener("DOMContentLoaded", () => {
             renderAppLayout();
         };
 
-        setupWorkspaceToggles();
+        buttons();
         renderChords();
         renderCalls();
-        renderLyricsWorkspace();
+        renderLyrics();
     }
 
     function renderChords() {
@@ -504,7 +469,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 lineRow.className = "chord-line-row flex flex-col py-0.5 overflow-x-auto";
 
                 if (line.c) {
-                    let transposedChords = transposeLine(line.c, currentKeyShift);
+                    let transposedChords = chordTranspose(line.c, currentKeyShift);
                     let chordSpan = document.createElement("div");
                     chordSpan.className = "chord-val text-xs font-black text-pink-500 select-none min-h-[1.25rem]";
                     chordSpan.textContent = transposedChords;
@@ -576,7 +541,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    function renderLyricsWorkspace() {
+    function renderLyrics() {
         const container = document.getElementById("lyrics-viewport");
         container.innerHTML = "";
         if (!songData.lyrics) return;
@@ -610,7 +575,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    function setupWorkspaceToggles() {
+    function buttons() {
         const btnRomaji = document.getElementById("toggle-romaji");
         const btnNotes = document.getElementById("toggle-notes");
         const btnLang = document.getElementById("toggle-language");

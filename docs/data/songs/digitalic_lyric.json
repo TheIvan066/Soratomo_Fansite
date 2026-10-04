@@ -24,7 +24,7 @@
   },
   "chords": [
      {
-      "section": "※※※※※",
+      "section": "Intro",
       "lines": [
         {
           "c": "Coming Soon!",
@@ -37,7 +37,111 @@
       ]
     },
     {
-      "section": "※※※※※",
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
       "lines": [
         {
           "c": "Coming Soon!",
@@ -61,11 +165,11 @@
     },
     {
       "lyrics": "機械仕掛けのときめきは でゅん",
-      "call": "                                       ハイ！"
+      "call": "                                       でゅん"
     },
     {
       "lyrics": "(101, 101, error) ×4",
-      "call": "ハイ！ハイ！ハイ！ハイ！ ×4"
+      "call": "(101, 101, error) ×4"
     },
     {
       "lyrics": "16ビットの歓声",
@@ -125,19 +229,19 @@
     },
     {
       "lyrics": "(101, 101) 共鳴完了",
-      "call": ""
+      "call": "(101, 101)"
     },
     {
       "lyrics": "(101, 101) この波形を辿ってよ",
-      "call": ""
+      "call": "(101, 101)"
     },
     {
       "lyrics": "(101, 101) 救命信号",
-      "call": ""
+      "call": "(101, 101)"
     },
     {
       "lyrics": "(101, 101) ときめく音は でゅん",
-      "call": "                                     ハイ！"
+      "call": "(101, 101)                     でゅん"
     },
     {
       "lyrics": "デジタルなこの感情",
@@ -221,19 +325,19 @@
     },
     {
       "lyrics": "(101, 101) 共鳴完了",
-      "call": ""
+      "call": "(101, 101)"
     },
     {
       "lyrics": "(101, 101) この波形を辿ってよ",
-      "call": ""
+      "call": "(101, 101)"
     },
     {
       "lyrics": "(101, 101) 救命信号",
-      "call": ""
+      "call": "(101, 101)"
     },
     {
       "lyrics": "(101, 101) ときめく音は でゅん",
-      "call": ""
+      "call": "(101, 101)                     でゅん"
     }
   ],
   "lyrics": [

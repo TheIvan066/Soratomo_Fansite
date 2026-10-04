@@ -2,7 +2,7 @@
   "meta": {
     "title": "Equation of Love",
     "artist": "ときのそら",
-    "originalKey": "Em",
+    "originalKey": "E♭",
     "capo": "",
     "description": "",
     "composer": "戸嶋友祐",
@@ -23,28 +23,184 @@
   },
   "chords": [
      {
-      "section": "※※※※※",
+      "section": "Intro",
       "lines": [
         {
-          "c": "Coming Soon!",
-          "t": "xxx"
+          "c": "AbM7 Bb Gm7 Cm7    AbM7 Bb Fm7 A7",
+          "t": "-- -- -- -- | -- -- -- -- |"
         },
         {
-          "c": "Coming Soon!",
-          "t": "xxx"
+          "c": "AbM7 Bb G7/B Cm7   Fm7 Eb/G   Bb7sus4",
+          "t": "-- -- -- -- | -- -- X >>> |"
         }
       ]
     },
     {
-      "section": "※※※※※",
+      "section": "Verse 1",
       "lines": [
         {
-          "c": "Coming Soon!",
-          "t": "xxx"
+          "c": "      Eb              Eb/Db              Eb                     Cm7   Eb/Db",
+          "t": "今日(も)あなたをリ(サ)ーチ　答え(求)め　視線が彷徨[(さ)ま(よ)]う"
         },
         {
-          "c": "Coming Soon!",
-          "t": "xxx"
+          "c": " Eb            Eb/Db           Cm7          Bb7sus4     Eb",
+          "t": "(恋)の成分　(愛)の検分　(分)からない(事)だら(け)"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "AbM7       Abm       Gm7           Cm7",
+          "t": "(間)違い(探)しに(明)け暮れる(日)々が"
+        },
+        {
+          "c": " Fm7              Eb/G             AbM7       Bb7sus4 Bb7",
+          "t": "(終)わらない　(終)われない　(さ)あ始め(よ)う()"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1 - Key F",
+      "lines": [
+        {
+          "c": " Bb    C              Am7          Dm7      Bb        C      Am7        F",
+          "t": "(恋)(の)方程式[ほ(う)ていし(き)]　(今)日こ(そ)解(き)明か(す)から"
+        },
+        {
+          "c": " Bb    C         A7/Db  Dm7       Gm7   C7sus4        F        B7",
+          "t": "(測)(定)不能　(高)(ま)る心(拍)　(解)けない(難)題を()"
+        },
+        {
+          "c": " Bb    C           Am7    Dm7     Bb           C   Am7          F",
+          "t": "(恋)(は)いつも(未)解(決)　(今)日こそ(追)(い)詰める(か)ら"
+        },
+        {
+          "c": " Bb       C      A7/Db    Dm7  Gm7 A7 C7sus4     Bb",
+          "t": "(あ)な(た)より(も)先(に)　()()(証)明す(る)から"
+        },
+        {
+          "c": "Bb  C   Am7 Dm7    Bb  C  F  A7",
+          "t": "-- -- -- -- | -- -- -- -- |"
+        },
+        {
+          "c": "Bb  C A7/Db Dm7    Gm7 Am7   C7sus4",
+          "t": "-- -- -- -- | -- -- X >>> |"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2 - Key E♭",
+      "lines": [
+        {
+          "c": "      Eb              Eb/Db                   Eb                    Cm7    Eb/Db",
+          "t": "今日(も)あなたにア(タ)ック　誤魔化し(て)る　視線が彷徨[(さ)ま(よ)]う"
+        },
+        {
+          "c": " Eb                 Eb/Db             Cm7          Bb7sus4     Eb",
+          "t": "(恋)の駆け引き　(愛)の線引き　(分)からない(事)だら(け)"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "AbM7         Abm          Gm7           Cm7",
+          "t": "(足)りない(ピ)ースを(当)てはめる(日)々が"
+        },
+        {
+          "c": " Fm7              Eb/G             AbM7      Bb7sus4  Bb7",
+          "t": "(終)わらない　(終)われない　(さ)あ始め()よう()"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2 - Key F",
+      "lines": [
+        {
+          "c": " Bb    C               Am7           Dm7      Bb         C     Am7        F",
+          "t": "(恋)(す)る途中式[(と)ちゅうし(き)]　(今)日こ(そ)書(き)上げ(る)から"
+        },
+        {
+          "c": " Bb    C           A7   Dm7         Gm7        C7sus4         F ",
+          "t": "(確)(認)不要　(赤)(ら)むほっ(ぺ)は　あ(な)たのせ(い)だからね"
+        },
+        {
+          "c": " Bb    C           Am7    Dm7     Bb           C      Dm    Dbaug  C7sus4 B7",
+          "t": "(恋)(は)いつも(未)完(成)　(今)日こそ(振)り(向)か(せ)る(か)(ら)"
+        },
+        {
+          "c": " Bb       C      A7/Db    Dm7  Gm7 Am7 C7sus4    Bb",
+          "t": "(あ)な(た)より(も)先(に)　()()(証)明す(る)から"
+        },
+        {
+          "c": "Bb  C   Am7 Dm7   Bb   C   F   F7",
+          "t": "-- -- -- -- | -- -- -- -- |"
+        },
+        {
+          "c": "Bb  C   A7  Dm7   Gm7 C7sus4 F Cm7   B7",
+          "t": "-- -- -- -- | -- --   -- -- |"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": " Bb                     C      Am7              Dm7",
+          "t": "(ち)ょっと聞いて！(私)　(気)づいちゃっ(た)かも"
+        },
+        {
+          "c": " Bb         Cm                Dm Dbaug C7sus4   F7",
+          "t": "(恋)は=((イ)コール)じゃ(括)(れ)(な)い(わ)"
+        },
+        {
+          "c": " Bb         C           A7          Dm7      Gm7 C7sus4    F",
+          "t": "(あ)なた(は)もう気(づ)いてた(の)？　(本)(当)に(イ)ジワルねっ"
+        },
+        {
+          "c": " Ab       Abm7              Eb/G    Cm7     C7",
+          "t": "(答)えは(も)うすぐに　(こ)の(瞬)間(を)"
+        },
+        {
+          "c": " Fm7           Eb/G           Abm7       Bbsus4  Bsus4",
+          "t": "(逃)せない　(逃)さない　(さ)あ始め(よ)う()"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": " Bb    C              Am7          Dm7      Bb        C      Am7        F",
+          "t": "(恋)(の)方程式[ほ(う)ていし(き)]　(今)日こ(そ)解(き)明か(す)から"
+        },
+        {
+          "c": " Bb    C         A7/Db  Dm7       Gm7  C7sus4         F       B7",
+          "t": "(測)(定)不能　(高)(ま)る心(拍)　(解)けない(難)題を()"
+        },
+        {
+          "c": " Bb    C        Am7     Dm7    Bb           C    Dm    Dbaug C7sus4  F7",
+          "t": "(恋)(は)未だ(未)解(決)　(今)日こそ(追)(い)詰(め)る(か)(ら)"
+        },
+        {
+          "c": " Bb       C       A7/Db      Dm7  Gm7 Am7 C7sus4    F",
+          "t": "(あ)な(た)から(も)う先(に)　()()(証)明し(て)よね"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "F/Eb   Dm7      DbM7   Eb ",
+          "t": "---- ---- | ---- ---- |"
+        },
+        {
+          "c": "F   F/Eb  Dm7 DbM7 Eb F",
+          "t": "-- --   >  >  >  > "
         }
       ]
     }
