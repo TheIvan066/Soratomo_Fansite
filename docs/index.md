@@ -17,21 +17,21 @@ description: "ときのそら (Tokino Sora / 時乃空) 資訊總覽 (ファン�
 <div style="background-color: rgba(59, 130, 246, 0.1); border-left: 5px solid #3B82F6; padding: 14px 18px; border-radius: 6px; margin-bottom: 16px;">
   <strong style="color: #3B82F6; font-size: 1.1em;">🇯🇵 日本語</strong>
   <p style="margin: 6px 0 0 0; line-height: 1.5;">
-    ホロライブ所属 <strong>ときのそら</strong> さんの非公式ファンサイトです。楽曲情報（歌詞・コール・コード）、アルバム、グッズなどの情報をまとめています。
+    ホロライブ所属 <strong>ときのそら</strong> さんの非公式ファンサイトです。楽曲情報（歌詞・コール・コード）、アルバム、グッズなどの情報をまとめています。画面を横にするのが推奨です~
   </p>
 </div>
 
 <div style="background-color: rgba(16, 185, 129, 0.1); border-left: 5px solid #10B981; padding: 14px 18px; border-radius: 6px; margin-bottom: 16px;">
   <strong style="color: #10B981; font-size: 1.1em;">🇭🇰 繁體中文</strong>
   <p style="margin: 6px 0 0 0; line-height: 1.5;">
-    本站為 <strong>ときのそら（時乃空）</strong> 的非公式資料庫，收錄了歌單歌詞、Call 表、和弦、專輯及周邊商品等相關資訊。
+    本站為 <strong>ときのそら（時乃空）</strong> 的非公式資料庫，收錄了歌單歌詞、Call 表、和弦、專輯及周邊商品等相關資訊。推薦使用横向瀏覧~
   </p>
 </div>
 
 <div style="background-color: rgba(139, 92, 246, 0.1); border-left: 5px solid #8B5CF6; padding: 14px 18px; border-radius: 6px; margin-bottom: 24px;">
   <strong style="color: #8B5CF6; font-size: 1.1em;">🌐 English</strong>
   <p style="margin: 6px 0 0 0; line-height: 1.5;">
-    Welcome to <strong>Soratomo Fan Site</strong>! This is an unofficial database dedicated to <strong>Tokino Sora</strong>, featuring discography, song lyrics, calls, chords, merchandise, and more.
+    Welcome to <strong>Soratomo Fan Site</strong>! This is an unofficial database dedicated to <strong>Tokino Sora</strong>, featuring discography, song lyrics, calls, chords, merchandise, and more. Turning your mobile device sideways is recommended~
   </p>
 </div>
 
