@@ -1,0 +1,1011 @@
+{
+  "meta": {
+    "title": "ふたりDestiny",
+    "artist": "ときのそら、AZki",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "青木康平",
+    "lyricist": "青木康平",
+    "album": "Futurity Step",
+    "releaseDate": "2023/12/20",
+    "coverUrl": "cover_images/futurity_step",
+    "penlight_color": [
+      "#000000"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/TULJoO2uuMg?si=YpBdEyvdrxuK43E2"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "はじめから僕らは"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "繋がっていたんだ引力で"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "出会えたのは必然"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "君も気づいてるのかな"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "遥か宇宙から見たぼくらは"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まるでちっぽけな星屑"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "君と出会えた瞬間に"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "僕ら星座になれたの"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "時間を超えて Don't stop　未来へ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "二つ重ねて超絶ミラクル"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "誰も止められない魔法"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "レベチな僕らの銀河へ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Party night"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "wow oh"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ふたりは Destiny"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "引力に引かれ光る Clarity"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ドキドキして愛してねぇ、ワクワクして"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "2人の GRAVITY"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "感情のままに"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "so dance music"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "すれ違いもまた groovy"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "始めようぜ僕らの GRAVITY"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "見つめてて朝が来るまで"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Yeah！！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "これが完全無欠な illusion"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まさに完璧な Fusion"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "歌い踊れば Solution"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ここは僕たちの Region"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "みんなの力が重なり広がる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "たった1つの Universe"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ねぇちょっと泣いたって"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "明日は晴れる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Take it easy"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "1人でいないで Hold on"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "繋がるいつでも未来で"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Let's meet up"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "wow oh"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "二人のシンパシー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "求め合う鼓動が今 Best ever"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "見逃さないで感じてさあ虜になって"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "これぞインフィニティ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "考える前に Let's try doing"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ドジ踏んでもご愛嬌で"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "これからが僕らの GRAVITY"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ついてきて辿り着くまで"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Yeah！！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Ah　何回でも星座を作るよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "2人で"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "時空のそらへ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "世界へ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "待ってて未来へ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "wow oh"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "2人は Destiny"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "強くなる絆はまだ so Growing"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ドキドキして愛してねぇ、ワクワクして"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "2人の GRAVITY"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "勘違いだらけでも Alright"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "つまずいてもまだ Groovy"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "始めようぜ僕らの GRAVITY"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "見つめてて朝が来るまで"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Yeah！！"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "はじめから僕らは",
+      "call": ""
+    },
+    {
+      "lyrics": "繋がっていたんだ引力で",
+      "call": ""
+    },
+    {
+      "lyrics": "出会えたのは必然",
+      "call": ""
+    },
+    {
+      "lyrics": "君も気づいてるのかな",
+      "call": ""
+    },
+    {
+      "lyrics": "遥か宇宙から見たぼくらは",
+      "call": ""
+    },
+    {
+      "lyrics": "まるでちっぽけな星屑",
+      "call": ""
+    },
+    {
+      "lyrics": "君と出会えた瞬間に",
+      "call": ""
+    },
+    {
+      "lyrics": "僕ら星座になれたの",
+      "call": ""
+    },
+    {
+      "lyrics": "時間を超えて Don't stop　未来へ",
+      "call": ""
+    },
+    {
+      "lyrics": "二つ重ねて超絶ミラクル",
+      "call": ""
+    },
+    {
+      "lyrics": "誰も止められない魔法",
+      "call": ""
+    },
+    {
+      "lyrics": "レベチな僕らの銀河へ",
+      "call": ""
+    },
+    {
+      "lyrics": "Party night",
+      "call": ""
+    },
+    {
+      "lyrics": "wow oh",
+      "call": ""
+    },
+    {
+      "lyrics": "ふたりは Destiny",
+      "call": ""
+    },
+    {
+      "lyrics": "引力に引かれ光る Clarity",
+      "call": ""
+    },
+    {
+      "lyrics": "ドキドキして愛してねぇ、ワクワクして",
+      "call": ""
+    },
+    {
+      "lyrics": "2人の GRAVITY",
+      "call": ""
+    },
+    {
+      "lyrics": "感情のままに",
+      "call": ""
+    },
+    {
+      "lyrics": "so dance music",
+      "call": ""
+    },
+    {
+      "lyrics": "すれ違いもまた groovy",
+      "call": ""
+    },
+    {
+      "lyrics": "始めようぜ僕らの GRAVITY",
+      "call": ""
+    },
+    {
+      "lyrics": "見つめてて朝が来るまで",
+      "call": ""
+    },
+    {
+      "lyrics": "Yeah！！",
+      "call": ""
+    },
+    {
+      "lyrics": "これが完全無欠な illusion",
+      "call": ""
+    },
+    {
+      "lyrics": "まさに完璧な Fusion",
+      "call": ""
+    },
+    {
+      "lyrics": "歌い踊れば Solution",
+      "call": ""
+    },
+    {
+      "lyrics": "ここは僕たちの Region",
+      "call": ""
+    },
+    {
+      "lyrics": "みんなの力が重なり広がる",
+      "call": ""
+    },
+    {
+      "lyrics": "たった1つの Universe",
+      "call": ""
+    },
+    {
+      "lyrics": "ねぇちょっと泣いたって",
+      "call": ""
+    },
+    {
+      "lyrics": "明日は晴れる",
+      "call": ""
+    },
+    {
+      "lyrics": "Take it easy",
+      "call": ""
+    },
+    {
+      "lyrics": "1人でいないで Hold on",
+      "call": ""
+    },
+    {
+      "lyrics": "繋がるいつでも未来で",
+      "call": ""
+    },
+    {
+      "lyrics": "Let's meet up",
+      "call": ""
+    },
+    {
+      "lyrics": "wow oh",
+      "call": ""
+    },
+    {
+      "lyrics": "二人のシンパシー",
+      "call": ""
+    },
+    {
+      "lyrics": "求め合う鼓動が今 Best ever",
+      "call": ""
+    },
+    {
+      "lyrics": "見逃さないで感じてさあ虜になって",
+      "call": ""
+    },
+    {
+      "lyrics": "これぞインフィニティ",
+      "call": ""
+    },
+    {
+      "lyrics": "考える前に Let's try doing",
+      "call": ""
+    },
+    {
+      "lyrics": "ドジ踏んでもご愛嬌で",
+      "call": ""
+    },
+    {
+      "lyrics": "これからが僕らの GRAVITY",
+      "call": ""
+    },
+    {
+      "lyrics": "ついてきて辿り着くまで",
+      "call": ""
+    },
+    {
+      "lyrics": "Yeah！！",
+      "call": ""
+    },
+    {
+      "lyrics": "Ah　何回でも星座を作るよ",
+      "call": ""
+    },
+    {
+      "lyrics": "2人で",
+      "call": ""
+    },
+    {
+      "lyrics": "時空のそらへ",
+      "call": ""
+    },
+    {
+      "lyrics": "世界へ",
+      "call": ""
+    },
+    {
+      "lyrics": "待ってて未来へ",
+      "call": ""
+    },
+    {
+      "lyrics": "wow oh",
+      "call": ""
+    },
+    {
+      "lyrics": "2人は Destiny",
+      "call": ""
+    },
+    {
+      "lyrics": "強くなる絆はまだ so Growing",
+      "call": ""
+    },
+    {
+      "lyrics": "ドキドキして愛してねぇ、ワクワクして",
+      "call": ""
+    },
+    {
+      "lyrics": "2人の GRAVITY",
+      "call": ""
+    },
+    {
+      "lyrics": "勘違いだらけでも Alright",
+      "call": ""
+    },
+    {
+      "lyrics": "つまずいてもまだ Groovy",
+      "call": ""
+    },
+    {
+      "lyrics": "始めようぜ僕らの GRAVITY",
+      "call": ""
+    },
+    {
+      "lyrics": "見つめてて朝が来るまで",
+      "call": ""
+    },
+    {
+      "lyrics": "Yeah！！",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "はじめから僕らは",
+      "romaji": "Hajime kara Bokura ha",
+      "en": "From the very beginning, we",
+      "zh": "從一開始我們就是"
+    },
+    {
+      "ja": "繋がっていたんだ引力で",
+      "romaji": "Tsunagatte Ita n Da Inryoku de",
+      "en": "Were connected by gravity",
+      "zh": "被引力連繫在一起"
+    },
+    {
+      "ja": "出会えたのは必然",
+      "romaji": "Deaeta no ha Hitsuzen",
+      "en": "Our meeting was inevitable",
+      "zh": "相遇是必然的"
+    },
+    {
+      "ja": "君も気づいてるのかな",
+      "romaji": "Kimi mo Kizuite Iru no Kana",
+      "en": "I wonder if you've noticed too",
+      "zh": "你是否也察覺到了呢"
+    },
+    {
+      "ja": "遥か宇宙から見たぼくらは",
+      "romaji": "Haruka Uchuu kara Mita Bokura ha",
+      "en": "Seen from far out in space, we",
+      "zh": "從遙遠宇宙看過來的我們"
+    },
+    {
+      "ja": "まるでちっぽけな星屑",
+      "romaji": "Marude Chippoke na Hoshikuzu",
+      "en": "Are like tiny specks of stardust",
+      "zh": "簡直就像微小的星屑"
+    },
+    {
+      "ja": "君と出会えた瞬間に",
+      "romaji": "Kimi to Deaeta Shunkan ni",
+      "en": "The moment I met you",
+      "zh": "在與你相遇的瞬間"
+    },
+    {
+      "ja": "僕ら星座になれたの",
+      "romaji": "Bokura Seiza ni Nareta no",
+      "en": "We became a constellation",
+      "zh": "我們成為了星座"
+    },
+    {
+      "ja": "時間を超えて Don't stop　未来へ",
+      "romaji": "Jikan wo Koete Don't Stop Mirai e",
+      "en": "Transcending time—don't stop—toward the future",
+      "zh": "超越時間，Don't stop，前往未來"
+    },
+    {
+      "ja": "二つ重ねて超絶ミラクル",
+      "romaji": "Futatsu Kasanete Chouzetsu Mirakuru",
+      "en": "Two overlapping—a transcendental miracle",
+      "zh": "兩者交疊，超絕奇蹟"
+    },
+    {
+      "ja": "誰も止められない魔法",
+      "romaji": "Dare mo Tomerarenai Mahou",
+      "en": "A magic no one can stop",
+      "zh": "誰也阻止不了的魔法"
+    },
+    {
+      "ja": "レベチな僕らの銀河へ",
+      "romaji": "Rebechi na Bokura no Ginga e",
+      "en": "To our galaxy that's on another level",
+      "zh": "前往規格不同的我們的銀河"
+    },
+    {
+      "ja": "Party night",
+      "romaji": "Party Night",
+      "en": "Party night",
+      "zh": "Party night"
+    },
+    {
+      "ja": "wow oh",
+      "romaji": "Wow Oh",
+      "en": "Wow oh",
+      "zh": "Wow oh"
+    },
+    {
+      "ja": "ふたりは Destiny",
+      "romaji": "Futari ha Destiny",
+      "en": "The two of us are destiny",
+      "zh": "兩人是 Destiny"
+    },
+    {
+      "ja": "引力に引かれ光る Clarity",
+      "romaji": "Inryoku ni Hikare Hikaru Clarity",
+      "en": "Drawn by gravity, shining clarity",
+      "zh": "被引力吸引而閃耀的 Clarity"
+    },
+    {
+      "ja": "ドキドキして愛してねぇ、ワクワクして",
+      "romaji": "Dokidoki Shite Aishite Nee, Wakuwaku Shite",
+      "en": "Get excited and love me, hey—get thrilled",
+      "zh": "心跳加速地愛我吧，興奮不已"
+    },
+    {
+      "ja": "2人の GRAVITY",
+      "romaji": "Futari no GRAVITY",
+      "en": "Our gravity",
+      "zh": "兩人的 GRAVITY"
+    },
+    {
+      "ja": "感情のままに",
+      "romaji": "Kanjou no Mama ni",
+      "en": "Just as our feelings guide us",
+      "zh": "隨著感情而行"
+    },
+    {
+      "ja": "so dance music",
+      "romaji": "So Dance Music",
+      "en": "So dance music",
+      "zh": "So dance music"
+    },
+    {
+      "ja": "すれ違いもまた groovy",
+      "romaji": "Surechigai mo Mata Groovy",
+      "en": "Even our near-misses are groovy",
+      "zh": "擦身而過也同樣 Groovy"
+    },
+    {
+      "ja": "始めようぜ僕らの GRAVITY",
+      "romaji": "Hajimeyou ze Bokura no GRAVITY",
+      "en": "Let's begin our gravity",
+      "zh": "開始吧，我們的 GRAVITY"
+    },
+    {
+      "ja": "見つめてて朝が来るまで",
+      "romaji": "Mitsumetete Asa ga Kuru made",
+      "en": "Keep watching me until morning comes",
+      "zh": "注視著我直到早晨來臨"
+    },
+    {
+      "ja": "Yeah！！",
+      "romaji": "Yeah!!",
+      "en": "Yeah!!",
+      "zh": "Yeah！！"
+    },
+    {
+      "ja": "これが完全無欠な illusion",
+      "romaji": "Kore ga Kanzen Muketsu na Illusion",
+      "en": "This is a flawless illusion",
+      "zh": "這是完美無缺的 illusion"
+    },
+    {
+      "ja": "まさに完璧な Fusion",
+      "romaji": "Masa ni Kanpeki na Fusion",
+      "en": "Truly a perfect fusion",
+      "zh": "正是完美的 Fusion"
+    },
+    {
+      "ja": "歌い踊れば Solution",
+      "romaji": "Utai Odoreba Solution",
+      "en": "If we sing and dance, it's a solution",
+      "zh": "又唱又跳就是 Solution"
+    },
+    {
+      "ja": "ここは僕たちの Region",
+      "romaji": "Koko ha Bokutachi no Region",
+      "en": "This is our region",
+      "zh": "這裡是我們的 Region"
+    },
+    {
+      "ja": "みんなの力が重なり広がる",
+      "romaji": "Minna no Chikara ga Kasanari Hirogaru",
+      "en": "Everyone's power overlaps and expands",
+      "zh": "大家的力量交疊並擴展"
+    },
+    {
+      "ja": "たった1つの Universe",
+      "romaji": "Tatta Hitotsu no Universe",
+      "en": "Just one universe",
+      "zh": "僅只一個的 Universe"
+    },
+    {
+      "ja": "ねぇちょっと泣いたって",
+      "romaji": "Nee Chotto Naita tte",
+      "en": "Hey, even if you cry a little",
+      "zh": "吶，就算稍微哭了一下"
+    },
+    {
+      "ja": "明日は晴れる",
+      "romaji": "Ashita ha Hareru",
+      "en": "Tomorrow will be sunny",
+      "zh": "明天也會放晴"
+    },
+    {
+      "ja": "Take it easy",
+      "romaji": "Take It Easy",
+      "en": "Take it easy",
+      "zh": "Take it easy"
+    },
+    {
+      "ja": "1人でいないで Hold on",
+      "romaji": "Hitori de Inai de Hold On",
+      "en": "Don't be alone—hold on",
+      "zh": "不要一個人，Hold on"
+    },
+    {
+      "ja": "繋がるいつでも未来で",
+      "romaji": "Tsunagaru Itsu demo Mirai de",
+      "en": "We're connected, always, in the future",
+      "zh": "隨時都在未來相繫"
+    },
+    {
+      "ja": "Let's meet up",
+      "romaji": "Let's Meet Up",
+      "en": "Let's meet up",
+      "zh": "Let's meet up"
+    },
+    {
+      "ja": "wow oh",
+      "romaji": "Wow Oh",
+      "en": "Wow oh",
+      "zh": "Wow oh"
+    },
+    {
+      "ja": "二人のシンパシー",
+      "romaji": "Futari no Shinpashii",
+      "en": "Our sympathy",
+      "zh": "兩人的共鳴"
+    },
+    {
+      "ja": "求め合う鼓動が今 Best ever",
+      "romaji": "Motomeau Kodou ga Ima Best Ever",
+      "en": "Our mutually seeking heartbeats are now the best ever",
+      "zh": "彼此渴求的心跳此刻 Best ever"
+    },
+    {
+      "ja": "見逃さないで感じてさあ虜になって",
+      "romaji": "Minogasanai de Kanjite Saa Toriko ni Natte",
+      "en": "Don't miss it—feel it, now become captivated",
+      "zh": "別錯過，感受它，來吧，成為俘虜"
+    },
+    {
+      "ja": "これぞインフィニティ",
+      "romaji": "Kore zo Infiniti",
+      "en": "This is infinity",
+      "zh": "這正是 Infinity"
+    },
+    {
+      "ja": "考える前に Let's try doing",
+      "romaji": "Kangaeru Mae ni Let's Try Doing",
+      "en": "Before thinking, let's try doing",
+      "zh": "在想之前，Let's try doing"
+    },
+    {
+      "ja": "ドジ踏んでもご愛嬌で",
+      "romaji": "Doji Funde mo Goaikyou de",
+      "en": "Even if we blunder, it's part of the charm",
+      "zh": "就算出糗也是可愛之處"
+    },
+    {
+      "ja": "これからが僕らの GRAVITY",
+      "romaji": "Kore kara ga Bokura no GRAVITY",
+      "en": "From here on is our gravity",
+      "zh": "接下來才是我們的 GRAVITY"
+    },
+    {
+      "ja": "ついてきて辿り着くまで",
+      "romaji": "Tsuite Kite Tadoritsuku made",
+      "en": "Follow me until we arrive",
+      "zh": "跟上來，直到抵達為止"
+    },
+    {
+      "ja": "Yeah！！",
+      "romaji": "Yeah!!",
+      "en": "Yeah!!",
+      "zh": "Yeah！！"
+    },
+    {
+      "ja": "Ah　何回でも星座を作るよ",
+      "romaji": "Ah Nankai demo Seiza wo Tsukuru yo",
+      "en": "Ah, I'll make constellations again and again",
+      "zh": "Ah，無論多少次都會創造星座"
+    },
+    {
+      "ja": "2人で",
+      "romaji": "Futari de",
+      "en": "The two of us",
+      "zh": "兩個人一起"
+    },
+    {
+      "ja": "時空のそらへ",
+      "romaji": "Jikuu no Sora e",
+      "en": "To the sky of space-time",
+      "zh": "前往時空的天空"
+    },
+    {
+      "ja": "世界へ",
+      "romaji": "Sekai e",
+      "en": "To the world",
+      "zh": "前往世界"
+    },
+    {
+      "ja": "待ってて未来へ",
+      "romaji": "Mattete Mirai e",
+      "en": "Wait for me—toward the future",
+      "zh": "等著我，前往未來"
+    },
+    {
+      "ja": "wow oh",
+      "romaji": "Wow Oh",
+      "en": "Wow oh",
+      "zh": "Wow oh"
+    },
+    {
+      "ja": "2人は Destiny",
+      "romaji": "Futari ha Destiny",
+      "en": "The two of us are destiny",
+      "zh": "兩人是 Destiny"
+    },
+    {
+      "ja": "強くなる絆はまだ so Growing",
+      "romaji": "Tsuyoku Naru Kizuna ha Mada So Growing",
+      "en": "Our bond grows stronger—still so growing",
+      "zh": "變得更強的羈絆還在 so Growing"
+    },
+    {
+      "ja": "ドキドキして愛してねぇ、ワクワクして",
+      "romaji": "Dokidoki Shite Aishite Nee, Wakuwaku Shite",
+      "en": "Get excited and love me, hey—get thrilled",
+      "zh": "心跳加速地愛我吧，興奮不已"
+    },
+    {
+      "ja": "2人の GRAVITY",
+      "romaji": "Futari no GRAVITY",
+      "en": "Our gravity",
+      "zh": "兩人的 GRAVITY"
+    },
+    {
+      "ja": "勘違いだらけでも Alright",
+      "romaji": "Kanchigai Darake demo Alright",
+      "en": "Even if it's full of misunderstandings, alright",
+      "zh": "即使滿是誤會也 Alright"
+    },
+    {
+      "ja": "つまずいてもまだ Groovy",
+      "romaji": "Tsumazuite mo Mada Groovy",
+      "en": "Even if we stumble, still groovy",
+      "zh": "即使跌倒了也還是 Groovy"
+    },
+    {
+      "ja": "始めようぜ僕らの GRAVITY",
+      "romaji": "Hajimeyou ze Bokura no GRAVITY",
+      "en": "Let's begin our gravity",
+      "zh": "開始吧，我們的 GRAVITY"
+    },
+    {
+      "ja": "見つめてて朝が来るまで",
+      "romaji": "Mitsumetete Asa ga Kuru made",
+      "en": "Keep watching me until morning comes",
+      "zh": "注視著我直到早晨來臨"
+    },
+    {
+      "ja": "Yeah！！",
+      "romaji": "Yeah!!",
+      "en": "Yeah!!",
+      "zh": "Yeah！！"
+    }
+  ]
+}

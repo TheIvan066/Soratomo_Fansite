@@ -1,0 +1,1291 @@
+{
+  "meta": {
+    "title": "BEEP BEEP",
+    "artist": "Hoshimatic Project",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "Anna Kusakawa・KISSY",
+    "lyricist": "Anna Kusakawa",
+    "album": "BEEP BEEP",
+    "releaseDate": "2026/04/17",
+    "coverUrl": "cover_images/beep_beep",
+    "penlight_color": [
+      "#000000"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/kPqmld3_lSs?si=MaidQda0M1puyQhJ"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "Hey wait a minute！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "BEEP BEEP"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "何度でもI say"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "答えてよGimme one more chance"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "1秒だけで良い"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "私にちょうだい"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(Are you the one？)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いつからFeeling (Feeling)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "止まらないYou&Me"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Nobody else in my vision"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "上がる温度、脈のスピードはFast (So fast)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "このレースいつもLast (Oh last)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "クタクタでも"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "受けて立とう I'm ready now"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "目が回る暗いMaze"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "出口どこ？探してるDays"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "パズルを完成させる最後のPiece"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "戸が閉まりそう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "なのにずっと"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "気づいてくれない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "全力ダッシュで"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "駆け込んでセーフ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "息を切らす"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "I'm not okay"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "言ってよWord for word"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "聞きたいのSpeak your mind"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "待ち続けてるEveryday"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "こんなに近くにいるのに"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Oh no 心が"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "満たされない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "チックチクRomantic"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(トゲだらけのHeart)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "No！ 何てDramatic"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(Hey wait a minute！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Stop！ 君はToxic"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "BEEP BEEP"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "めくるカレンダー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "秒針はタイマー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Tell me what you need"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もしもこのまま"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "遊び続けるならHide&Seekを"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "私から仕掛けちゃうGame Over"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(だってもう待てないかも)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "涙ぽつり"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "こぼれちゃいそう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "諦めたくない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "全力アタックで"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "バリア外して"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "みせる、だから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "No more silence"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "言ってよWord for word"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "聞きたいのSpeak your mind"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "待ち続けてるEveryday"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "こんなに近くにいるのに"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Oh no 心が"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "満たされない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "あいだの距離"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "あと数センチ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "I'm crumbling down"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(I'm going down now)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "疲れちゃう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "始まる前に"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Ha～ha～"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "言ってよWord for word"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "聞きたいのSpeak your mind"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "待ち続けてるEveryday"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "こんなに近くにいるのに"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Oh no 心が"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "満たされない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "チックチクRomantic"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(トゲだらけのHeart)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "No！ 何てDramatic"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(Hey wait a minute！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Stop！ 君はToxic"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "BEEP BEEP"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Stop！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Oh wow wow…"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Say my name 今すぐI'm losing it today(Losing it today)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "掴むevery chance だってまだdon't go away (Away)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "So listen to what I just gotta say"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "I gotta say I gotta say…"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "Hey wait a minute！",
+      "call": ""
+    },
+    {
+      "lyrics": "BEEP BEEP",
+      "call": ""
+    },
+    {
+      "lyrics": "何度でもI say",
+      "call": ""
+    },
+    {
+      "lyrics": "答えてよGimme one more chance",
+      "call": ""
+    },
+    {
+      "lyrics": "1秒だけで良い",
+      "call": ""
+    },
+    {
+      "lyrics": "私にちょうだい",
+      "call": ""
+    },
+    {
+      "lyrics": "(Are you the one？)",
+      "call": ""
+    },
+    {
+      "lyrics": "いつからFeeling (Feeling)",
+      "call": ""
+    },
+    {
+      "lyrics": "止まらないYou&Me",
+      "call": ""
+    },
+    {
+      "lyrics": "Nobody else in my vision",
+      "call": ""
+    },
+    {
+      "lyrics": "上がる温度、脈のスピードはFast (So fast)",
+      "call": ""
+    },
+    {
+      "lyrics": "このレースいつもLast (Oh last)",
+      "call": ""
+    },
+    {
+      "lyrics": "クタクタでも",
+      "call": ""
+    },
+    {
+      "lyrics": "受けて立とう I'm ready now",
+      "call": ""
+    },
+    {
+      "lyrics": "目が回る暗いMaze",
+      "call": ""
+    },
+    {
+      "lyrics": "出口どこ？探してるDays",
+      "call": ""
+    },
+    {
+      "lyrics": "パズルを完成させる最後のPiece",
+      "call": ""
+    },
+    {
+      "lyrics": "戸が閉まりそう",
+      "call": ""
+    },
+    {
+      "lyrics": "なのにずっと",
+      "call": ""
+    },
+    {
+      "lyrics": "気づいてくれない",
+      "call": ""
+    },
+    {
+      "lyrics": "全力ダッシュで",
+      "call": ""
+    },
+    {
+      "lyrics": "駆け込んでセーフ",
+      "call": ""
+    },
+    {
+      "lyrics": "息を切らす",
+      "call": ""
+    },
+    {
+      "lyrics": "I'm not okay",
+      "call": ""
+    },
+    {
+      "lyrics": "言ってよWord for word",
+      "call": ""
+    },
+    {
+      "lyrics": "聞きたいのSpeak your mind",
+      "call": ""
+    },
+    {
+      "lyrics": "待ち続けてるEveryday",
+      "call": ""
+    },
+    {
+      "lyrics": "こんなに近くにいるのに",
+      "call": ""
+    },
+    {
+      "lyrics": "Oh no 心が",
+      "call": ""
+    },
+    {
+      "lyrics": "満たされない",
+      "call": ""
+    },
+    {
+      "lyrics": "チックチクRomantic",
+      "call": ""
+    },
+    {
+      "lyrics": "(トゲだらけのHeart)",
+      "call": ""
+    },
+    {
+      "lyrics": "No！ 何てDramatic",
+      "call": ""
+    },
+    {
+      "lyrics": "(Hey wait a minute！)",
+      "call": ""
+    },
+    {
+      "lyrics": "Stop！ 君はToxic",
+      "call": ""
+    },
+    {
+      "lyrics": "BEEP BEEP",
+      "call": ""
+    },
+    {
+      "lyrics": "めくるカレンダー",
+      "call": ""
+    },
+    {
+      "lyrics": "秒針はタイマー",
+      "call": ""
+    },
+    {
+      "lyrics": "Tell me what you need",
+      "call": ""
+    },
+    {
+      "lyrics": "もしもこのまま",
+      "call": ""
+    },
+    {
+      "lyrics": "遊び続けるならHide&Seekを",
+      "call": ""
+    },
+    {
+      "lyrics": "私から仕掛けちゃうGame Over",
+      "call": ""
+    },
+    {
+      "lyrics": "(だってもう待てないかも)",
+      "call": ""
+    },
+    {
+      "lyrics": "涙ぽつり",
+      "call": ""
+    },
+    {
+      "lyrics": "こぼれちゃいそう",
+      "call": ""
+    },
+    {
+      "lyrics": "諦めたくない",
+      "call": ""
+    },
+    {
+      "lyrics": "全力アタックで",
+      "call": ""
+    },
+    {
+      "lyrics": "バリア外して",
+      "call": ""
+    },
+    {
+      "lyrics": "みせる、だから",
+      "call": ""
+    },
+    {
+      "lyrics": "No more silence",
+      "call": ""
+    },
+    {
+      "lyrics": "言ってよWord for word",
+      "call": ""
+    },
+    {
+      "lyrics": "聞きたいのSpeak your mind",
+      "call": ""
+    },
+    {
+      "lyrics": "待ち続けてるEveryday",
+      "call": ""
+    },
+    {
+      "lyrics": "こんなに近くにいるのに",
+      "call": ""
+    },
+    {
+      "lyrics": "Oh no 心が",
+      "call": ""
+    },
+    {
+      "lyrics": "満たされない",
+      "call": ""
+    },
+    {
+      "lyrics": "あいだの距離",
+      "call": ""
+    },
+    {
+      "lyrics": "あと数センチ",
+      "call": ""
+    },
+    {
+      "lyrics": "I'm crumbling down",
+      "call": ""
+    },
+    {
+      "lyrics": "(I'm going down now)",
+      "call": ""
+    },
+    {
+      "lyrics": "疲れちゃう",
+      "call": ""
+    },
+    {
+      "lyrics": "始まる前に",
+      "call": ""
+    },
+    {
+      "lyrics": "Ha～ha～",
+      "call": ""
+    },
+    {
+      "lyrics": "言ってよWord for word",
+      "call": ""
+    },
+    {
+      "lyrics": "聞きたいのSpeak your mind",
+      "call": ""
+    },
+    {
+      "lyrics": "待ち続けてるEveryday",
+      "call": ""
+    },
+    {
+      "lyrics": "こんなに近くにいるのに",
+      "call": ""
+    },
+    {
+      "lyrics": "Oh no 心が",
+      "call": ""
+    },
+    {
+      "lyrics": "満たされない",
+      "call": ""
+    },
+    {
+      "lyrics": "チックチクRomantic",
+      "call": ""
+    },
+    {
+      "lyrics": "(トゲだらけのHeart)",
+      "call": ""
+    },
+    {
+      "lyrics": "No！ 何てDramatic",
+      "call": ""
+    },
+    {
+      "lyrics": "(Hey wait a minute！)",
+      "call": ""
+    },
+    {
+      "lyrics": "Stop！ 君はToxic",
+      "call": ""
+    },
+    {
+      "lyrics": "BEEP BEEP",
+      "call": ""
+    },
+    {
+      "lyrics": "Stop！",
+      "call": ""
+    },
+    {
+      "lyrics": "Oh wow wow…",
+      "call": ""
+    },
+    {
+      "lyrics": "Say my name 今すぐI'm losing it today(Losing it today)",
+      "call": ""
+    },
+    {
+      "lyrics": "掴むevery chance だってまだdon't go away (Away)",
+      "call": ""
+    },
+    {
+      "lyrics": "So listen to what I just gotta say",
+      "call": ""
+    },
+    {
+      "lyrics": "I gotta say I gotta say…",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "Hey wait a minute！",
+      "romaji": "Hey Wait a Minute!",
+      "en": "Hey wait a minute!",
+      "zh": "Hey wait a minute！"
+    },
+    {
+      "ja": "BEEP BEEP",
+      "romaji": "BEEP BEEP",
+      "en": "Beep beep",
+      "zh": "BEEP BEEP"
+    },
+    {
+      "ja": "何度でもI say",
+      "romaji": "Nando demo I Say",
+      "en": "No matter how many times, I say",
+      "zh": "無論多少次 I say"
+    },
+    {
+      "ja": "答えてよGimme one more chance",
+      "romaji": "Kotaete yo Gimme One More Chance",
+      "en": "Answer me—gimme one more chance",
+      "zh": "回答我啊，Gimme one more chance"
+    },
+    {
+      "ja": "1秒だけで良い",
+      "romaji": "Ichibyou Dake de Ii",
+      "en": "Just one second is enough",
+      "zh": "只要一秒就好"
+    },
+    {
+      "ja": "私にちょうだい",
+      "romaji": "Watashi ni Choudai",
+      "en": "Give it to me",
+      "zh": "給我吧"
+    },
+    {
+      "ja": "(Are you the one？)",
+      "romaji": "(Are You the One?)",
+      "en": "(Are you the one?)",
+      "zh": "（Are you the one？）"
+    },
+    {
+      "ja": "いつからFeeling (Feeling)",
+      "romaji": "Itsu kara Feeling (Feeling)",
+      "en": "Since when has this feeling (feeling)",
+      "zh": "從何時開始的 Feeling（Feeling）"
+    },
+    {
+      "ja": "止まらないYou&Me",
+      "romaji": "Tomaranai You & Me",
+      "en": "Won't stop—you and me",
+      "zh": "停不下來 You&Me"
+    },
+    {
+      "ja": "Nobody else in my vision",
+      "romaji": "Nobody Else in My Vision",
+      "en": "Nobody else in my vision",
+      "zh": "Nobody else in my vision"
+    },
+    {
+      "ja": "上がる温度、脈のスピードはFast (So fast)",
+      "romaji": "Agari Onndo, Myaku no Supiido ha Fast (So Fast)",
+      "en": "Rising temperature, my pulse speed is fast (so fast)",
+      "zh": "上升的溫度，脈搏的速度是 Fast（So fast）"
+    },
+    {
+      "ja": "このレースいつもLast (Oh last)",
+      "romaji": "Kono Reesu Itsumo Last (Oh Last)",
+      "en": "This race is always last (oh last)",
+      "zh": "這場比賽總是 Last（Oh last）"
+    },
+    {
+      "ja": "クタクタでも",
+      "romaji": "Kutakuta demo",
+      "en": "Even if I'm exhausted",
+      "zh": "即使筋疲力盡"
+    },
+    {
+      "ja": "受けて立とう I'm ready now",
+      "romaji": "Uketetatou I'm Ready Now",
+      "en": "I'll take you on—I'm ready now",
+      "zh": "接受挑戰吧，I'm ready now"
+    },
+    {
+      "ja": "目が回る暗いMaze",
+      "romaji": "Me ga Mawaru Kurai Maze",
+      "en": "A dizzying, dark maze",
+      "zh": "令人眼花撩亂的暗黑 Maze"
+    },
+    {
+      "ja": "出口どこ？探してるDays",
+      "romaji": "Deguchi Doko? Sagashiteru Days",
+      "en": "Where's the exit? Days spent searching",
+      "zh": "出口在哪？尋找著的日子 Days"
+    },
+    {
+      "ja": "パズルを完成させる最後のPiece",
+      "romaji": "Pazuru wo Kansei Saseru Saigo no Piece",
+      "en": "The final piece to complete the puzzle",
+      "zh": "完成拼圖的最後一塊 Piece"
+    },
+    {
+      "ja": "戸が閉まりそう",
+      "romaji": "To ga Shimarisou",
+      "en": "The door is about to close",
+      "zh": "門就要關上了"
+    },
+    {
+      "ja": "なのにずっと",
+      "romaji": "Na no ni Zutto",
+      "en": "And yet, all this time",
+      "zh": "然而卻一直"
+    },
+    {
+      "ja": "気づいてくれない",
+      "romaji": "Kizuite Kurenai",
+      "en": "You won't notice me",
+      "zh": "你都不察覺"
+    },
+    {
+      "ja": "全力ダッシュで",
+      "romaji": "Zenryoku Dasshu de",
+      "en": "With a full-power dash",
+      "zh": "全力衝刺"
+    },
+    {
+      "ja": "駆け込んでセーフ",
+      "romaji": "Kakekonde Seefu",
+      "en": "I rush in—safe",
+      "zh": "衝進去，Safe"
+    },
+    {
+      "ja": "息を切らす",
+      "romaji": "Iki wo Kirasu",
+      "en": "Out of breath",
+      "zh": "喘不過氣"
+    },
+    {
+      "ja": "I'm not okay",
+      "romaji": "I'm Not Okay",
+      "en": "I'm not okay",
+      "zh": "I'm not okay"
+    },
+    {
+      "ja": "言ってよWord for word",
+      "romaji": "Itte yo Word for Word",
+      "en": "Say it—word for word",
+      "zh": "說出來吧，Word for word"
+    },
+    {
+      "ja": "聞きたいのSpeak your mind",
+      "romaji": "Kikitai no Speak Your Mind",
+      "en": "I want to hear it—speak your mind",
+      "zh": "我想聽，Speak your mind"
+    },
+    {
+      "ja": "待ち続けてるEveryday",
+      "romaji": "Machi Tsuzuketeru Everyday",
+      "en": "I keep waiting every day",
+      "zh": "持續等待的 Everyday"
+    },
+    {
+      "ja": "こんなに近くにいるのに",
+      "romaji": "Konna ni Chikaku ni Iru no ni",
+      "en": "Even though I'm this close to you",
+      "zh": "明明就在這麼近的地方"
+    },
+    {
+      "ja": "Oh no 心が",
+      "romaji": "Oh No Kokoro ga",
+      "en": "Oh no, my heart",
+      "zh": "Oh no，心"
+    },
+    {
+      "ja": "満たされない",
+      "romaji": "Mitasarenai",
+      "en": "Isn't fulfilled",
+      "zh": "無法被滿足"
+    },
+    {
+      "ja": "チックチクRomantic",
+      "romaji": "Chiku Chiku Romantic",
+      "en": "Tick-tick romantic",
+      "zh": "刺刺痛痛的 Romantic"
+    },
+    {
+      "ja": "(トゲだらけのHeart)",
+      "romaji": "(Toge Darake no Heart)",
+      "en": "(A heart full of thorns)",
+      "zh": "（滿是尖刺的 Heart）"
+    },
+    {
+      "ja": "No！ 何てDramatic",
+      "romaji": "No! Nante Dramatic",
+      "en": "No! How dramatic",
+      "zh": "No！多麼 Dramatic"
+    },
+    {
+      "ja": "(Hey wait a minute！)",
+      "romaji": "(Hey Wait a Minute!)",
+      "en": "(Hey wait a minute!)",
+      "zh": "（Hey wait a minute！）"
+    },
+    {
+      "ja": "Stop！ 君はToxic",
+      "romaji": "Stop! Kimi ha Toxic",
+      "en": "Stop! You're toxic",
+      "zh": "Stop！你是 Toxic"
+    },
+    {
+      "ja": "BEEP BEEP",
+      "romaji": "BEEP BEEP",
+      "en": "Beep beep",
+      "zh": "BEEP BEEP"
+    },
+    {
+      "ja": "めくるカレンダー",
+      "romaji": "Mekuru Karendaa",
+      "en": "Turning the calendar",
+      "zh": "翻著月曆"
+    },
+    {
+      "ja": "秒針はタイマー",
+      "romaji": "Byoushin ha Taimaa",
+      "en": "The second hand is a timer",
+      "zh": "秒針是計時器"
+    },
+    {
+      "ja": "Tell me what you need",
+      "romaji": "Tell Me What You Need",
+      "en": "Tell me what you need",
+      "zh": "Tell me what you need"
+    },
+    {
+      "ja": "もしもこのまま",
+      "romaji": "Moshimo Kono Mama",
+      "en": "If things stay like this",
+      "zh": "如果就這樣下去"
+    },
+    {
+      "ja": "遊び続けるならHide&Seekを",
+      "romaji": "Asobi Tsuzukeru Nara Hide & Seek wo",
+      "en": "If you're going to keep playing, then hide-and-seek",
+      "zh": "若你要繼續玩下去，那 Hide&Seek"
+    },
+    {
+      "ja": "私から仕掛けちゃうGame Over",
+      "romaji": "Watashi kara Shikakechau Game Over",
+      "en": "I'll be the one to set it up—game over",
+      "zh": "就由我來發動，Game Over"
+    },
+    {
+      "ja": "(だってもう待てないかも)",
+      "romaji": "(Datte Mou Matenai Kamo)",
+      "en": "(Because I might not be able to wait anymore)",
+      "zh": "（因為我可能已經等不下去了）"
+    },
+    {
+      "ja": "涙ぽつり",
+      "romaji": "Namida Potsuri",
+      "en": "A tear falls",
+      "zh": "淚水滴落"
+    },
+    {
+      "ja": "こぼれちゃいそう",
+      "romaji": "Koborechaisou",
+      "en": "It's about to spill over",
+      "zh": "快要溢出來了"
+    },
+    {
+      "ja": "諦めたくない",
+      "romaji": "Akirametakunai",
+      "en": "I don't want to give up",
+      "zh": "不想放棄"
+    },
+    {
+      "ja": "全力アタックで",
+      "romaji": "Zenryoku Atakku de",
+      "en": "With a full-power attack",
+      "zh": "以全力攻擊"
+    },
+    {
+      "ja": "バリア外して",
+      "romaji": "Baria Hazushite",
+      "en": "Remove the barrier",
+      "zh": "卸下防護罩"
+    },
+    {
+      "ja": "みせる、だから",
+      "romaji": "Miseru, Dakara",
+      "en": "I'll show you, so",
+      "zh": "做給你看，所以"
+    },
+    {
+      "ja": "No more silence",
+      "romaji": "No More Silence",
+      "en": "No more silence",
+      "zh": "No more silence"
+    },
+    {
+      "ja": "言ってよWord for word",
+      "romaji": "Itte yo Word for Word",
+      "en": "Say it—word for word",
+      "zh": "說出來吧，Word for word"
+    },
+    {
+      "ja": "聞きたいのSpeak your mind",
+      "romaji": "Kikitai no Speak Your Mind",
+      "en": "I want to hear it—speak your mind",
+      "zh": "我想聽，Speak your mind"
+    },
+    {
+      "ja": "待ち続けてるEveryday",
+      "romaji": "Machi Tsuzuketeru Everyday",
+      "en": "I keep waiting every day",
+      "zh": "持續等待的 Everyday"
+    },
+    {
+      "ja": "こんなに近くにいるのに",
+      "romaji": "Konna ni Chikaku ni Iru no ni",
+      "en": "Even though I'm this close to you",
+      "zh": "明明就在這麼近的地方"
+    },
+    {
+      "ja": "Oh no 心が",
+      "romaji": "Oh No Kokoro ga",
+      "en": "Oh no, my heart",
+      "zh": "Oh no，心"
+    },
+    {
+      "ja": "満たされない",
+      "romaji": "Mitasarenai",
+      "en": "Isn't fulfilled",
+      "zh": "無法被滿足"
+    },
+    {
+      "ja": "あいだの距離",
+      "romaji": "Aida no Kyori",
+      "en": "The distance between us",
+      "zh": "之間的距離"
+    },
+    {
+      "ja": "あと数センチ",
+      "romaji": "Ato Suu Senchi",
+      "en": "Just a few more centimeters",
+      "zh": "還剩幾公分"
+    },
+    {
+      "ja": "I'm crumbling down",
+      "romaji": "I'm Crumbling Down",
+      "en": "I'm crumbling down",
+      "zh": "I'm crumbling down"
+    },
+    {
+      "ja": "(I'm going down now)",
+      "romaji": "(I'm Going Down Now)",
+      "en": "(I'm going down now)",
+      "zh": "（I'm going down now）"
+    },
+    {
+      "ja": "疲れちゃう",
+      "romaji": "Tsukarechau",
+      "en": "I get tired",
+      "zh": "累了"
+    },
+    {
+      "ja": "始まる前に",
+      "romaji": "Hajimaru Mae ni",
+      "en": "Before it even begins",
+      "zh": "在開始之前"
+    },
+    {
+      "ja": "Ha～ha～",
+      "romaji": "Ha~ Ha~",
+      "en": "Ha~ ha~",
+      "zh": "Ha～ha～"
+    },
+    {
+      "ja": "言ってよWord for word",
+      "romaji": "Itte yo Word for Word",
+      "en": "Say it—word for word",
+      "zh": "說出來吧，Word for word"
+    },
+    {
+      "ja": "聞きたいのSpeak your mind",
+      "romaji": "Kikitai no Speak Your Mind",
+      "en": "I want to hear it—speak your mind",
+      "zh": "我想聽，Speak your mind"
+    },
+    {
+      "ja": "待ち続けてるEveryday",
+      "romaji": "Machi Tsuzuketeru Everyday",
+      "en": "I keep waiting every day",
+      "zh": "持續等待的 Everyday"
+    },
+    {
+      "ja": "こんなに近くにいるのに",
+      "romaji": "Konna ni Chikaku ni Iru no ni",
+      "en": "Even though I'm this close to you",
+      "zh": "明明就在這麼近的地方"
+    },
+    {
+      "ja": "Oh no 心が",
+      "romaji": "Oh No Kokoro ga",
+      "en": "Oh no, my heart",
+      "zh": "Oh no，心"
+    },
+    {
+      "ja": "満たされない",
+      "romaji": "Mitasarenai",
+      "en": "Isn't fulfilled",
+      "zh": "無法被滿足"
+    },
+    {
+      "ja": "チックチクRomantic",
+      "romaji": "Chiku Chiku Romantic",
+      "en": "Tick-tick romantic",
+      "zh": "刺刺痛痛的 Romantic"
+    },
+    {
+      "ja": "(トゲだらけのHeart)",
+      "romaji": "(Toge Darake no Heart)",
+      "en": "(A heart full of thorns)",
+      "zh": "（滿是尖刺的 Heart）"
+    },
+    {
+      "ja": "No！ 何てDramatic",
+      "romaji": "No! Nante Dramatic",
+      "en": "No! How dramatic",
+      "zh": "No！多麼 Dramatic"
+    },
+    {
+      "ja": "(Hey wait a minute！)",
+      "romaji": "(Hey Wait a Minute!)",
+      "en": "(Hey wait a minute!)",
+      "zh": "（Hey wait a minute！）"
+    },
+    {
+      "ja": "Stop！ 君はToxic",
+      "romaji": "Stop! Kimi ha Toxic",
+      "en": "Stop! You're toxic",
+      "zh": "Stop！你是 Toxic"
+    },
+    {
+      "ja": "BEEP BEEP",
+      "romaji": "BEEP BEEP",
+      "en": "Beep beep",
+      "zh": "BEEP BEEP"
+    },
+    {
+      "ja": "Stop！",
+      "romaji": "Stop!",
+      "en": "Stop!",
+      "zh": "Stop！"
+    },
+    {
+      "ja": "Oh wow wow…",
+      "romaji": "Oh Wow Wow...",
+      "en": "Oh wow wow...",
+      "zh": "Oh wow wow…"
+    },
+    {
+      "ja": "Say my name 今すぐI'm losing it today(Losing it today)",
+      "romaji": "Say My Name Ima Sugu I'm Losing It Today (Losing It Today)",
+      "en": "Say my name, right now—I'm losing it today (losing it today)",
+      "zh": "Say my name，現在立刻，I'm losing it today（Losing it today）"
+    },
+    {
+      "ja": "掴むevery chance だってまだdon't go away (Away)",
+      "romaji": "Tsukamu Every Chance Datte Mada Don't Go Away (Away)",
+      "en": "I'll grab every chance, because don't go away yet (away)",
+      "zh": "抓住 every chance，因為還沒 don't go away（Away）"
+    },
+    {
+      "ja": "So listen to what I just gotta say",
+      "romaji": "So Listen to What I Just Gotta Say",
+      "en": "So listen to what I just gotta say",
+      "zh": "So listen to what I just gotta say"
+    },
+    {
+      "ja": "I gotta say I gotta say…",
+      "romaji": "I Gotta Say I Gotta Say...",
+      "en": "I gotta say, I gotta say...",
+      "zh": "I gotta say I gotta say…"
+    }
+  ]
+}

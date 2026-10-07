@@ -22,11 +22,132 @@
   },
   "chords": [
     {
-      "section": "※※※※※",
+      "section": "Intro",
       "lines": [
         {
           "c": "Coming Soon!",
-          "t": "Coming Soon!"
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
         }
       ]
     }

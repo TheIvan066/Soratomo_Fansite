@@ -1,0 +1,913 @@
+{
+  "meta": {
+    "title": "夢色ワンダー",
+    "artist": "hololive IDOL PROJECT",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "高尾奏之介(F.M.F)",
+    "lyricist": "やしきん(F.M.F)",
+    "album": "N/A",
+    "releaseDate": "2026/04/15",
+    "coverUrl": "cover_images/yumeiro_wonder",
+    "penlight_color": [
+      "#000000"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/y0yJ6HjBrOA?si=YPbHNvCyMBrHT5Gz"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "明日へ　もっと歌おう　もっと踊ろう　笑顔のDays"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "集ったね　夢色ワンダー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "期待に満ちた目で　足取りはラッタッタッタン"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "好きなことを好きなだけ　全力だけどマイペース"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "手探りだっていいじゃん"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "トキメキの行方は　刺激的"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "色とりどりの光が"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "集ったね　夢色ワンダー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "その顔　声　思い出全て　抱きしめながら生きている"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "にぎやかな　笑い声いつまでも　どこまでも続いてく"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "それぞれのやり方で　それぞれの生き様で"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "会えないとき(いつか)　寂しいとき(いつか)　乗り越え強さになる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "胸の奥問いかけて　鼓動導く方へ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "心からつながるあたたかさ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "叶える力　輪になって　どんどん広がる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "大きなエナジー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "世界を覆ってくこのカオス"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "楽しさ　探す　探す　夢祭り"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "昨日のあなたも(It's you)　今日の私も(It's me)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "絆のマーチ　進め　さあ行こう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "明日へ　もっと歌おう　もっと踊ろう　笑顔のDays"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "そうだ　かけがえないこのときを　遊び尽くそう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "未来へ　もっと描こう　もっと作ろう　幸せSunrise"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "想像を超えた景色を　みんなで迎えてたいよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "近くて　遠くて　そばにある"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "魔法みたいなワクワク　奇跡みたいなドキドキ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まるっとね　詰め込んで"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "山を越え　海を越え　空を越え　星を越え　時を越えて　遥か"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "のぞいてみて　寄ってみて"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "集ったね　夢色ワンダー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "キラメキ残る軌跡　神秘的"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "色鮮やかな願いが"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "紡いでく　夢色ワンダー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "病めるとき　健やかなとき"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "隣にいるから　力になるから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "愛の鳴る方へ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "耳すます　耳すます　何聴こえる？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "目をこらす　目をこらす　何見える？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "触れてみる　触れてみる　感じてる(ふわふわして)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "声に出す　声に出す　心のシークレット(ぐるぐるして)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(もじもじなシークレット)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "喜びも　悲しみも　全部全部"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "持ってきなよ　一緒に開けよう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "広がって　いつまでも　いつまでも　笑顔のDays"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "そうだ　かけがえないこのときを　遊び尽くそう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "信じて　描くのは特大の　幸せSunrise"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "想像を超えた景色を　みんなで迎えてたいよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "近くて　遠くて　そばにある"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "魔法みたいなワクワク　奇跡みたいなドキドキ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まるっとね　詰め込んで"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "山を越え　海を越え　空を越え　星を越え　時を越えて　遥か"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "のぞいてみて　寄ってみて"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "明日のその先　生きてくその姿　その想いが"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "紡いでく　夢色ワンダー"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": ""
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "明日へ　もっと歌おう　もっと踊ろう　笑顔のDays",
+      "call": ""
+    },
+    {
+      "lyrics": "集ったね　夢色ワンダー",
+      "call": ""
+    },
+    {
+      "lyrics": "期待に満ちた目で　足取りはラッタッタッタン",
+      "call": ""
+    },
+    {
+      "lyrics": "好きなことを好きなだけ　全力だけどマイペース",
+      "call": ""
+    },
+    {
+      "lyrics": "手探りだっていいじゃん",
+      "call": ""
+    },
+    {
+      "lyrics": "トキメキの行方は　刺激的",
+      "call": ""
+    },
+    {
+      "lyrics": "色とりどりの光が",
+      "call": ""
+    },
+    {
+      "lyrics": "集ったね　夢色ワンダー",
+      "call": ""
+    },
+    {
+      "lyrics": "その顔　声　思い出全て　抱きしめながら生きている",
+      "call": ""
+    },
+    {
+      "lyrics": "にぎやかな　笑い声いつまでも　どこまでも続いてく",
+      "call": ""
+    },
+    {
+      "lyrics": "それぞれのやり方で　それぞれの生き様で",
+      "call": ""
+    },
+    {
+      "lyrics": "会えないとき(いつか)　寂しいとき(いつか)　乗り越え強さになる",
+      "call": ""
+    },
+    {
+      "lyrics": "胸の奥問いかけて　鼓動導く方へ",
+      "call": ""
+    },
+    {
+      "lyrics": "心からつながるあたたかさ",
+      "call": ""
+    },
+    {
+      "lyrics": "叶える力　輪になって　どんどん広がる",
+      "call": ""
+    },
+    {
+      "lyrics": "大きなエナジー",
+      "call": ""
+    },
+    {
+      "lyrics": "世界を覆ってくこのカオス",
+      "call": ""
+    },
+    {
+      "lyrics": "楽しさ　探す　探す　夢祭り",
+      "call": ""
+    },
+    {
+      "lyrics": "昨日のあなたも(It's you)　今日の私も(It's me)",
+      "call": ""
+    },
+    {
+      "lyrics": "絆のマーチ　進め　さあ行こう",
+      "call": ""
+    },
+    {
+      "lyrics": "明日へ　もっと歌おう　もっと踊ろう　笑顔のDays",
+      "call": ""
+    },
+    {
+      "lyrics": "そうだ　かけがえないこのときを　遊び尽くそう",
+      "call": ""
+    },
+    {
+      "lyrics": "未来へ　もっと描こう　もっと作ろう　幸せSunrise",
+      "call": ""
+    },
+    {
+      "lyrics": "想像を超えた景色を　みんなで迎えてたいよ",
+      "call": ""
+    },
+    {
+      "lyrics": "近くて　遠くて　そばにある",
+      "call": ""
+    },
+    {
+      "lyrics": "魔法みたいなワクワク　奇跡みたいなドキドキ",
+      "call": ""
+    },
+    {
+      "lyrics": "まるっとね　詰め込んで",
+      "call": ""
+    },
+    {
+      "lyrics": "山を越え　海を越え　空を越え　星を越え　時を越えて　遥か",
+      "call": ""
+    },
+    {
+      "lyrics": "のぞいてみて　寄ってみて",
+      "call": ""
+    },
+    {
+      "lyrics": "集ったね　夢色ワンダー",
+      "call": ""
+    },
+    {
+      "lyrics": "キラメキ残る軌跡　神秘的",
+      "call": ""
+    },
+    {
+      "lyrics": "色鮮やかな願いが",
+      "call": ""
+    },
+    {
+      "lyrics": "紡いでく　夢色ワンダー",
+      "call": ""
+    },
+    {
+      "lyrics": "病めるとき　健やかなとき",
+      "call": ""
+    },
+    {
+      "lyrics": "隣にいるから　力になるから",
+      "call": ""
+    },
+    {
+      "lyrics": "愛の鳴る方へ",
+      "call": ""
+    },
+    {
+      "lyrics": "耳すます　耳すます　何聴こえる？",
+      "call": ""
+    },
+    {
+      "lyrics": "目をこらす　目をこらす　何見える？",
+      "call": ""
+    },
+    {
+      "lyrics": "触れてみる　触れてみる　感じてる(ふわふわして)",
+      "call": ""
+    },
+    {
+      "lyrics": "声に出す　声に出す　心のシークレット(ぐるぐるして)",
+      "call": ""
+    },
+    {
+      "lyrics": "(もじもじなシークレット)",
+      "call": ""
+    },
+    {
+      "lyrics": "喜びも　悲しみも　全部全部",
+      "call": ""
+    },
+    {
+      "lyrics": "持ってきなよ　一緒に開けよう",
+      "call": ""
+    },
+    {
+      "lyrics": "広がって　いつまでも　いつまでも　笑顔のDays",
+      "call": ""
+    },
+    {
+      "lyrics": "そうだ　かけがえないこのときを　遊び尽くそう",
+      "call": ""
+    },
+    {
+      "lyrics": "信じて　描くのは特大の　幸せSunrise",
+      "call": ""
+    },
+    {
+      "lyrics": "想像を超えた景色を　みんなで迎えてたいよ",
+      "call": ""
+    },
+    {
+      "lyrics": "近くて　遠くて　そばにある",
+      "call": ""
+    },
+    {
+      "lyrics": "魔法みたいなワクワク　奇跡みたいなドキドキ",
+      "call": ""
+    },
+    {
+      "lyrics": "まるっとね　詰め込んで",
+      "call": ""
+    },
+    {
+      "lyrics": "山を越え　海を越え　空を越え　星を越え　時を越えて　遥か",
+      "call": ""
+    },
+    {
+      "lyrics": "のぞいてみて　寄ってみて",
+      "call": ""
+    },
+    {
+      "lyrics": "明日のその先　生きてくその姿　その想いが",
+      "call": ""
+    },
+    {
+      "lyrics": "紡いでく　夢色ワンダー",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "明日へ　もっと歌おう　もっと踊ろう　笑顔のDays",
+      "romaji": "Ashita e Motto Utaou Motto Odorou Egao no Days",
+      "en": "Toward tomorrow—let's sing more, dance more—days of smiles",
+      "zh": "走向明天，唱得更多、跳得更多，笑容的 Days"
+    },
+    {
+      "ja": "集ったね　夢色ワンダー",
+      "romaji": "Tsudotta ne Yumeiro Wandaa",
+      "en": "We've gathered, haven't we? Dream-colored wonder",
+      "zh": "聚集起來了呢，夢色 wonder"
+    },
+    {
+      "ja": "期待に満ちた目で　足取りはラッタッタッタン",
+      "romaji": "Kitai ni Michita Me de Ashidori ha Rattatta Ttan",
+      "en": "With eyes full of expectation, our steps go rat-tat-tat-tan",
+      "zh": "以充滿期待的眼神，步伐啦啦噠噠噠"
+    },
+    {
+      "ja": "好きなことを好きなだけ　全力だけどマイペース",
+      "romaji": "Suki na Koto wo Suki na Dake Zenryoku Dakedo Mai Peesu",
+      "en": "Doing what I love as much as I love it—full power but at my own pace",
+      "zh": "喜歡的事就盡情喜歡，全力以赴但照自己的步調"
+    },
+    {
+      "ja": "手探りだっていいじゃん",
+      "romaji": "Tesaguri Datte Ii jan",
+      "en": "It's okay to feel your way along, isn't it?",
+      "zh": "摸索前進也沒關係吧"
+    },
+    {
+      "ja": "トキメキの行方は　刺激的",
+      "romaji": "Tokimeki no Yukue ha Shigekiteki",
+      "en": "Where the excitement leads is thrilling",
+      "zh": "心動的去向，刺激無比"
+    },
+    {
+      "ja": "色とりどりの光が",
+      "romaji": "Irotoridori no Hikari ga",
+      "en": "Lights of every color",
+      "zh": "五顏六色的光芒"
+    },
+    {
+      "ja": "集ったね　夢色ワンダー",
+      "romaji": "Tsudotta ne Yumeiro Wandaa",
+      "en": "We've gathered, haven't we? Dream-colored wonder",
+      "zh": "聚集起來了呢，夢色 wonder"
+    },
+    {
+      "ja": "その顔　声　思い出全て　抱きしめながら生きている",
+      "romaji": "Sono Kao Koe Omoide Subete Dakishime Nagara Ikite Iru",
+      "en": "That face, that voice, all the memories—I live while holding them close",
+      "zh": "那張臉、那個聲音、所有回憶，我都緊抱著活下去"
+    },
+    {
+      "ja": "にぎやかな　笑い声いつまでも　どこまでも続いてく",
+      "romaji": "Nigiyaka na Waraigoe Itsu made mo Doko made mo Tsuzuiteku",
+      "en": "The lively laughter goes on forever, anywhere at all",
+      "zh": "熱鬧的笑聲永遠、無論何處都會延續下去"
+    },
+    {
+      "ja": "それぞれのやり方で　それぞれの生き様で",
+      "romaji": "Sorezore no Yarikata de Sorezore no Ikizama de",
+      "en": "In each of our own ways, in each of our own lives",
+      "zh": "以各自的方式，以各自的生存姿態"
+    },
+    {
+      "ja": "会えないとき(いつか)　寂しいとき(いつか)　乗り越え強さになる",
+      "romaji": "Aenai Toki (Itsuka) Sabishii Toki (Itsuka) Norikoe Tsuyosa ni Naru",
+      "en": "Times we can't meet (someday), times we're lonely (someday)—we overcome them and become stronger",
+      "zh": "見不到的時候（總有一天）寂寞的時候（總有一天），跨越過去就會化為堅強"
+    },
+    {
+      "ja": "胸の奥問いかけて　鼓動導く方へ",
+      "romaji": "Mune no Oku Toikakete Kodou Michibiku Hou e",
+      "en": "Questioning deep in my chest, toward where my heartbeat leads",
+      "zh": "詢問胸口深處，朝心跳引導的方向"
+    },
+    {
+      "ja": "心からつながるあたたかさ",
+      "romaji": "Kokoro kara Tsunagaru Atatakasa",
+      "en": "The warmth of being connected from the heart",
+      "zh": "從心相繫的溫暖"
+    },
+    {
+      "ja": "叶える力　輪になって　どんどん広がる",
+      "romaji": "Kanaeru Chikara Wa ni Natte Dondon Hirogaru",
+      "en": "The power to make things come true forms a circle and keeps spreading",
+      "zh": "實現的力量圍成圈，不斷擴散"
+    },
+    {
+      "ja": "大きなエナジー",
+      "romaji": "Ookina Enajii",
+      "en": "A great energy",
+      "zh": "巨大的能量"
+    },
+    {
+      "ja": "世界を覆ってくこのカオス",
+      "romaji": "Sekai wo Ootteku Kono Kaosu",
+      "en": "This chaos that covers the world",
+      "zh": "覆蓋世界的這份混沌"
+    },
+    {
+      "ja": "楽しさ　探す　探す　夢祭り",
+      "romaji": "Tanoshisa Sagasu Sagasu Yume Matsuri",
+      "en": "Searching, searching for fun—a dream festival",
+      "zh": "尋找、尋找樂趣，夢想祭典"
+    },
+    {
+      "ja": "昨日のあなたも(It's you)　今日の私も(It's me)",
+      "romaji": "Kinou no Anata mo (It's You) Kyou no Watashi mo (It's Me)",
+      "en": "Yesterday's you too (it's you), today's me too (it's me)",
+      "zh": "昨天的你也是（It's you），今天的我也是（It's me）"
+    },
+    {
+      "ja": "絆のマーチ　進め　さあ行こう",
+      "romaji": "Kizuna no Maachi Susume Saa Ikou",
+      "en": "The march of bonds—advance, now let's go",
+      "zh": "羈絆的進行曲，前進吧，來吧出發"
+    },
+    {
+      "ja": "明日へ　もっと歌おう　もっと踊ろう　笑顔のDays",
+      "romaji": "Ashita e Motto Utaou Motto Odorou Egao no Days",
+      "en": "Toward tomorrow—let's sing more, dance more—days of smiles",
+      "zh": "走向明天，唱得更多、跳得更多，笑容的 Days"
+    },
+    {
+      "ja": "そうだ　かけがえないこのときを　遊び尽くそう",
+      "romaji": "Sou Da Kakegae Nai Kono Toki wo Asobitsukusou",
+      "en": "That's right—let's play this irreplaceable moment to the fullest",
+      "zh": "沒錯，把這無可取代的時刻玩到淋漓盡致吧"
+    },
+    {
+      "ja": "未来へ　もっと描こう　もっと作ろう　幸せSunrise",
+      "romaji": "Mirai e Motto Egakou Motto Tsukurou Shiawase Sunrise",
+      "en": "Toward the future—let's draw more, create more—a happy sunrise",
+      "zh": "走向未來，描繪更多、創造更多，幸福的 Sunrise"
+    },
+    {
+      "ja": "想像を超えた景色を　みんなで迎えてたいよ",
+      "romaji": "Souzou wo Koeta Keshiki wo Minna de Mukaete Tai yo",
+      "en": "I want us all to welcome a scenery beyond imagination",
+      "zh": "想和大家一起迎接超越想像的景色"
+    },
+    {
+      "ja": "近くて　遠くて　そばにある",
+      "romaji": "Chikakute Tookute Soba ni Aru",
+      "en": "Close yet far, yet right beside us",
+      "zh": "既近又遠，卻就在身邊"
+    },
+    {
+      "ja": "魔法みたいなワクワク　奇跡みたいなドキドキ",
+      "romaji": "Mahou Mitai na Wakuwaku Kiseki Mitai na Dokidoki",
+      "en": "Excitement like magic, heart-pounding like miracles",
+      "zh": "像魔法般的興奮，像奇蹟般的心跳"
+    },
+    {
+      "ja": "まるっとね　詰め込んで",
+      "romaji": "Marutto ne Tsumekonde",
+      "en": "Packing it all in, completely",
+      "zh": "整個通通裝進去"
+    },
+    {
+      "ja": "山を越え　海を越え　空を越え　星を越え　時を越えて　遥か",
+      "romaji": "Yama wo Koe Umi wo Koe Sora wo Koe Hoshi wo Koe Toki wo Koete Haruka",
+      "en": "Over mountains, over seas, over skies, over stars, over time—far beyond",
+      "zh": "越過山、越過海、越過天、越過星、越過時間，遙遠地"
+    },
+    {
+      "ja": "のぞいてみて　寄ってみて",
+      "romaji": "Nozoite Mite Yotte Mite",
+      "en": "Try peeking in, try coming closer",
+      "zh": "試著窺探看看，試著靠近看看"
+    },
+    {
+      "ja": "集ったね　夢色ワンダー",
+      "romaji": "Tsudotta ne Yumeiro Wandaa",
+      "en": "We've gathered, haven't we? Dream-colored wonder",
+      "zh": "聚集起來了呢，夢色 wonder"
+    },
+    {
+      "ja": "キラメキ残る軌跡　神秘的",
+      "romaji": "Kirameki Nokoru Kiseki Shinpiteki",
+      "en": "A轨迹 where sparkles remain—mysterious",
+      "zh": "留下閃耀的軌跡，神秘無比"
+    },
+    {
+      "ja": "色鮮やかな願いが",
+      "romaji": "Iro Azayaka na Negai ga",
+      "en": "Vividly colored wishes",
+      "zh": "色彩鮮豔的願望"
+    },
+    {
+      "ja": "紡いでく　夢色ワンダー",
+      "romaji": "Tsumuideku Yumeiro Wandaa",
+      "en": "Spin onward—dream-colored wonder",
+      "zh": "持續編織，夢色 wonder"
+    },
+    {
+      "ja": "病めるとき　健やかなとき",
+      "romaji": "Yameru Toki Sukoyaka na Toki",
+      "en": "In sickness and in health",
+      "zh": "無論病痛之時，還是健康之時"
+    },
+    {
+      "ja": "隣にいるから　力になるから",
+      "romaji": "Tonari ni Iru kara Chikara ni Naru kara",
+      "en": "Because I'm by your side, because I'll become your strength",
+      "zh": "因為我在你身旁，因為會成為你的力量"
+    },
+    {
+      "ja": "愛の鳴る方へ",
+      "romaji": "Ai no Naru Hou e",
+      "en": "Toward where love rings",
+      "zh": "朝愛鳴響的方向"
+    },
+    {
+      "ja": "耳すます　耳すます　何聴こえる？",
+      "romaji": "Mimi Sumasu Mimi Sumasu Nani Kikoeru?",
+      "en": "Listening closely, listening closely—what do you hear?",
+      "zh": "側耳傾聽、側耳傾聽，聽見什麼？"
+    },
+    {
+      "ja": "目をこらす　目をこらす　何見える？",
+      "romaji": "Me wo Korasu Me wo Korasu Nani Mieru?",
+      "en": "Straining my eyes, straining my eyes—what do you see?",
+      "zh": "凝神細看、凝神細看，看見什麼？"
+    },
+    {
+      "ja": "触れてみる　触れてみる　感じてる(ふわふわして)",
+      "romaji": "Furete Miru Furete Miru Kanjiteru (Fuwafuwa Shite)",
+      "en": "Trying to touch, trying to touch—I'm feeling it (fluffy and soft)",
+      "zh": "試著觸碰、試著觸碰，正在感受（輕飄飄的）"
+    },
+    {
+      "ja": "声に出す　声に出す　心のシークレット(ぐるぐるして)",
+      "romaji": "Koe ni Dasu Koe ni Dasu Kokoro no Shiikuretto (Guruguru Shite)",
+      "en": "Voicing it, voicing it—the heart's secret (spinning round and round)",
+      "zh": "說出口、說出口，心中的秘密（團團轉）"
+    },
+    {
+      "ja": "(もじもじなシークレット)",
+      "romaji": "(Mojimoji na Shiikuretto)",
+      "en": "(A fidgety secret)",
+      "zh": "（扭扭捏捏的秘密）"
+    },
+    {
+      "ja": "喜びも　悲しみも　全部全部",
+      "romaji": "Yorokobi mo Kanashimi mo Zenbu Zenbu",
+      "en": "Joy and sorrow—all of it, all of it",
+      "zh": "喜悅也好，悲傷也好，全部全部"
+    },
+    {
+      "ja": "持ってきなよ　一緒に開けよう",
+      "romaji": "Motte Kina yo Issho ni Akeyou",
+      "en": "Bring it all—let's open it together",
+      "zh": "全都帶來吧，一起打開吧"
+    },
+    {
+      "ja": "広がって　いつまでも　いつまでも　笑顔のDays",
+      "romaji": "Hirogatte Itsu made mo Itsu made mo Egao no Days",
+      "en": "Spreading out—forever and ever—days of smiles",
+      "zh": "擴散開來，永遠永遠，笑容的 Days"
+    },
+    {
+      "ja": "そうだ　かけがえないこのときを　遊び尽くそう",
+      "romaji": "Sou Da Kakegae Nai Kono Toki wo Asobitsukusou",
+      "en": "That's right—let's play this irreplaceable moment to the fullest",
+      "zh": "沒錯，把這無可取代的時刻玩到淋漓盡致吧"
+    },
+    {
+      "ja": "信じて　描くのは特大の　幸せSunrise",
+      "romaji": "Shinjite Egaku no ha Tokudai no Shiawase Sunrise",
+      "en": "Believing and drawing is an extra-large happy sunrise",
+      "zh": "相信並描繪的是特大號的，幸福 Sunrise"
+    },
+    {
+      "ja": "想像を超えた景色を　みんなで迎えてたいよ",
+      "romaji": "Souzou wo Koeta Keshiki wo Minna de Mukaete Tai yo",
+      "en": "I want us all to welcome a scenery beyond imagination",
+      "zh": "想和大家一起迎接超越想像的景色"
+    },
+    {
+      "ja": "近くて　遠くて　そばにある",
+      "romaji": "Chikakute Tookute Soba ni Aru",
+      "en": "Close yet far, yet right beside us",
+      "zh": "既近又遠，卻就在身邊"
+    },
+    {
+      "ja": "魔法みたいなワクワク　奇跡みたいなドキドキ",
+      "romaji": "Mahou Mitai na Wakuwaku Kiseki Mitai na Dokidoki",
+      "en": "Excitement like magic, heart-pounding like miracles",
+      "zh": "像魔法般的興奮，像奇蹟般的心跳"
+    },
+    {
+      "ja": "まるっとね　詰め込んで",
+      "romaji": "Marutto ne Tsumekonde",
+      "en": "Packing it all in, completely",
+      "zh": "整個通通裝進去"
+    },
+    {
+      "ja": "山を越え　海を越え　空を越え　星を越え　時を越えて　遥か",
+      "romaji": "Yama wo Koe Umi wo Koe Sora wo Koe Hoshi wo Koe Toki wo Koete Haruka",
+      "en": "Over mountains, over seas, over skies, over stars, over time—far beyond",
+      "zh": "越過山、越過海、越過天、越過星、越過時間，遙遠地"
+    },
+    {
+      "ja": "のぞいてみて　寄ってみて",
+      "romaji": "Nozoite Mite Yotte Mite",
+      "en": "Try peeking in, try coming closer",
+      "zh": "試著窺探看看，試著靠近看看"
+    },
+    {
+      "ja": "明日のその先　生きてくその姿　その想いが",
+      "romaji": "Ashita no Sono Saki Ikiteku Sono Sugata Sono Omoi ga",
+      "en": "Beyond tomorrow—that way of living, those feelings",
+      "zh": "明天的更前方，活下去的那身影、那份思念"
+    },
+    {
+      "ja": "紡いでく　夢色ワンダー",
+      "romaji": "Tsumuideku Yumeiro Wandaa",
+      "en": "Spin onward—dream-colored wonder",
+      "zh": "持續編織，夢色 wonder"
+    }
+  ]
+}

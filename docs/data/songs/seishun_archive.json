@@ -1,0 +1,927 @@
+{
+  "meta": {
+    "title": "青春アーカイブ",
+    "artist": "hololive IDOL PROJECT",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "HoneyWorks",
+    "lyricist": "HoneyWorks",
+    "album": "青春アーカイブ",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "cover_images/seishun_archive",
+    "penlight_color": [
+      "#000000"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/YzQCNmk3YYA?si=pmO1ZBtWJ0nDEQNv"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "信じ合う仲間と一緒に"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "挑戦の狼煙をあげよう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "終わらない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "青春に"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Wow"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Boy's & Girls"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "羞恥心は捨てて Hey Jump！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "みんなで揃えばCool Jump！Jump！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "光る水滴こぼれ落ちて"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "青春感じている猛暑日"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "あっちゅ～！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "成長した姿を見せたい"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "リハは完璧"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "本番はもっと全力でHigh！High！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(High！High！Foo！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "大切な思い出"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "沢山あるけどねまだ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "感傷に浸ってる暇はない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "今世紀最大の"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "夏が始まる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Wow"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "想像の果てにある高み"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Wow"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "勝ち取った景色は尊い"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Wow"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "逃げるな限界の壁超えて"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Wow"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "僕らはまだ挑戦者"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Yeah！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Wow"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "冷たい声に溺れたって"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "微かな望みを手繰り寄せるように"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "期待外れだと誰かが嘆く"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "痛いと居たいがいつも戦う"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "プライドだけを頼りに抗う自分を信じたい"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "努力は報われる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "笑いたいやつは笑ってろ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "感傷に浸ってる暇はない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "今世紀最大の"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "夏が始まる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Wow"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "反響が足りないもっともっと"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Wow"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "後悔はさせない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Ah"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Wow"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "想像の果てにある高み"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Wow"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "勝ち取った景色は尊い"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Wow"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "逃げるな限界の壁超えて"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Wow"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "僕らはまだ挑戦者"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Yeah！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Wow"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "信じ合う仲間と一緒に",
+      "call": ""
+    },
+    {
+      "lyrics": "挑戦の狼煙をあげよう",
+      "call": ""
+    },
+    {
+      "lyrics": "終わらない",
+      "call": ""
+    },
+    {
+      "lyrics": "青春に",
+      "call": ""
+    },
+    {
+      "lyrics": "Wow",
+      "call": ""
+    },
+    {
+      "lyrics": "Boy's & Girls",
+      "call": ""
+    },
+    {
+      "lyrics": "羞恥心は捨てて Hey Jump！",
+      "call": ""
+    },
+    {
+      "lyrics": "みんなで揃えばCool Jump！Jump！",
+      "call": ""
+    },
+    {
+      "lyrics": "光る水滴こぼれ落ちて",
+      "call": ""
+    },
+    {
+      "lyrics": "青春感じている猛暑日",
+      "call": ""
+    },
+    {
+      "lyrics": "あっちゅ～！",
+      "call": ""
+    },
+    {
+      "lyrics": "成長した姿を見せたい",
+      "call": ""
+    },
+    {
+      "lyrics": "リハは完璧",
+      "call": ""
+    },
+    {
+      "lyrics": "本番はもっと全力でHigh！High！",
+      "call": ""
+    },
+    {
+      "lyrics": "(High！High！Foo！)",
+      "call": ""
+    },
+    {
+      "lyrics": "大切な思い出",
+      "call": ""
+    },
+    {
+      "lyrics": "沢山あるけどねまだ",
+      "call": ""
+    },
+    {
+      "lyrics": "感傷に浸ってる暇はない",
+      "call": ""
+    },
+    {
+      "lyrics": "今世紀最大の",
+      "call": ""
+    },
+    {
+      "lyrics": "夏が始まる",
+      "call": ""
+    },
+    {
+      "lyrics": "Wow",
+      "call": ""
+    },
+    {
+      "lyrics": "想像の果てにある高み",
+      "call": ""
+    },
+    {
+      "lyrics": "Wow",
+      "call": ""
+    },
+    {
+      "lyrics": "勝ち取った景色は尊い",
+      "call": ""
+    },
+    {
+      "lyrics": "Wow",
+      "call": ""
+    },
+    {
+      "lyrics": "逃げるな限界の壁超えて",
+      "call": ""
+    },
+    {
+      "lyrics": "Wow",
+      "call": ""
+    },
+    {
+      "lyrics": "僕らはまだ挑戦者",
+      "call": ""
+    },
+    {
+      "lyrics": "Yeah！",
+      "call": ""
+    },
+    {
+      "lyrics": "Wow",
+      "call": ""
+    },
+    {
+      "lyrics": "冷たい声に溺れたって",
+      "call": ""
+    },
+    {
+      "lyrics": "微かな望みを手繰り寄せるように",
+      "call": ""
+    },
+    {
+      "lyrics": "期待外れだと誰かが嘆く",
+      "call": ""
+    },
+    {
+      "lyrics": "痛いと居たいがいつも戦う",
+      "call": ""
+    },
+    {
+      "lyrics": "プライドだけを頼りに抗う自分を信じたい",
+      "call": ""
+    },
+    {
+      "lyrics": "努力は報われる",
+      "call": ""
+    },
+    {
+      "lyrics": "笑いたいやつは笑ってろ",
+      "call": ""
+    },
+    {
+      "lyrics": "感傷に浸ってる暇はない",
+      "call": ""
+    },
+    {
+      "lyrics": "今世紀最大の",
+      "call": ""
+    },
+    {
+      "lyrics": "夏が始まる",
+      "call": ""
+    },
+    {
+      "lyrics": "Wow",
+      "call": ""
+    },
+    {
+      "lyrics": "反響が足りないもっともっと",
+      "call": ""
+    },
+    {
+      "lyrics": "Wow",
+      "call": ""
+    },
+    {
+      "lyrics": "後悔はさせない",
+      "call": ""
+    },
+    {
+      "lyrics": "Ah",
+      "call": ""
+    },
+    {
+      "lyrics": "Wow",
+      "call": ""
+    },
+    {
+      "lyrics": "想像の果てにある高み",
+      "call": ""
+    },
+    {
+      "lyrics": "Wow",
+      "call": ""
+    },
+    {
+      "lyrics": "勝ち取った景色は尊い",
+      "call": ""
+    },
+    {
+      "lyrics": "Wow",
+      "call": ""
+    },
+    {
+      "lyrics": "逃げるな限界の壁超えて",
+      "call": ""
+    },
+    {
+      "lyrics": "Wow",
+      "call": ""
+    },
+    {
+      "lyrics": "僕らはまだ挑戦者",
+      "call": ""
+    },
+    {
+      "lyrics": "Yeah！",
+      "call": ""
+    },
+    {
+      "lyrics": "Wow",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "信じ合う仲間と一緒に",
+      "romaji": "Shinjiau Nakama to Issho ni",
+      "en": "Together with friends who trust each other",
+      "zh": "與互相信任的夥伴一起"
+    },
+    {
+      "ja": "挑戦の狼煙をあげよう",
+      "romaji": "Chousen no Noroshi wo Ageyou",
+      "en": "Let's raise the signal fire of challenge",
+      "zh": "升起挑戰的狼煙吧"
+    },
+    {
+      "ja": "終わらない",
+      "romaji": "Owaranai",
+      "en": "Never-ending",
+      "zh": "不會結束的"
+    },
+    {
+      "ja": "青春に",
+      "romaji": "Seishun ni",
+      "en": "To youth",
+      "zh": "青春"
+    },
+    {
+      "ja": "Wow",
+      "romaji": "Wow",
+      "en": "Wow",
+      "zh": "Wow"
+    },
+    {
+      "ja": "Boy's & Girls",
+      "romaji": "Boy's & Girls",
+      "en": "Boys & girls",
+      "zh": "Boy's & Girls"
+    },
+    {
+      "ja": "羞恥心は捨てて Hey Jump！",
+      "romaji": "Shuchishin ha Sutete Hey Jump!",
+      "en": "Throw away your shame—hey, jump!",
+      "zh": "拋開羞恥心，Hey Jump！"
+    },
+    {
+      "ja": "みんなで揃えばCool Jump！Jump！",
+      "romaji": "Minna de Soroeba Cool Jump! Jump!",
+      "en": "When everyone's together, cool jump! Jump!",
+      "zh": "大家齊聚就 Cool Jump！Jump！"
+    },
+    {
+      "ja": "光る水滴こぼれ落ちて",
+      "romaji": "Hikaru Suiteki Koboreochite",
+      "en": "Shining water droplets spill and fall",
+      "zh": "閃亮的水滴灑落而下"
+    },
+    {
+      "ja": "青春感じている猛暑日",
+      "romaji": "Seishun Kanjite Iru Mousho Bi",
+      "en": "Feeling youth on this scorching hot day",
+      "zh": "感受著青春的酷暑日"
+    },
+    {
+      "ja": "あっちゅ～！",
+      "romaji": "Acchuu!",
+      "en": "Hot~!",
+      "zh": "好燙～！"
+    },
+    {
+      "ja": "成長した姿を見せたい",
+      "romaji": "Seichou Shita Sugata wo Misetai",
+      "en": "I want to show how much I've grown",
+      "zh": "想讓大家看見成長後的模樣"
+    },
+    {
+      "ja": "リハは完璧",
+      "romaji": "Riha ha Kanpeki",
+      "en": "Rehearsal was perfect",
+      "zh": "彩排完美無缺"
+    },
+    {
+      "ja": "本番はもっと全力でHigh！High！",
+      "romaji": "Honban ha Motto Zenryoku de High! High!",
+      "en": "The real thing will be even more full-power—high! High!",
+      "zh": "正式上場要更加全力 High！High！"
+    },
+    {
+      "ja": "(High！High！Foo！)",
+      "romaji": "(High! High! Foo!)",
+      "en": "(High! High! Foo!)",
+      "zh": "（High！High！Foo！）"
+    },
+    {
+      "ja": "大切な思い出",
+      "romaji": "Taisetsu na Omoide",
+      "en": "Precious memories",
+      "zh": "重要的回憶"
+    },
+    {
+      "ja": "沢山あるけどねまだ",
+      "romaji": "Takusan Aru kedo ne Mada",
+      "en": "There are so many, but still",
+      "zh": "雖然有很多很多，但是"
+    },
+    {
+      "ja": "感傷に浸ってる暇はない",
+      "romaji": "Kanshou ni Hitatteru Hima ha Nai",
+      "en": "There's no time to soak in sentimentality",
+      "zh": "沒有時間沉浸在感傷裡"
+    },
+    {
+      "ja": "今世紀最大の",
+      "romaji": "Konseiki Saidai no",
+      "en": "The greatest of this century",
+      "zh": "本世紀最大的"
+    },
+    {
+      "ja": "夏が始まる",
+      "romaji": "Natsu ga Hajimaru",
+      "en": "Summer begins",
+      "zh": "夏天開始了"
+    },
+    {
+      "ja": "Wow",
+      "romaji": "Wow",
+      "en": "Wow",
+      "zh": "Wow"
+    },
+    {
+      "ja": "想像の果てにある高み",
+      "romaji": "Souzou no Hate ni Aru Takami",
+      "en": "The heights at the end of imagination",
+      "zh": "存在於想像盡頭的高峰"
+    },
+    {
+      "ja": "Wow",
+      "romaji": "Wow",
+      "en": "Wow",
+      "zh": "Wow"
+    },
+    {
+      "ja": "勝ち取った景色は尊い",
+      "romaji": "Kachitotta Keshiki ha Toutoi",
+      "en": "The scenery we won is precious",
+      "zh": "贏來的景色如此珍貴"
+    },
+    {
+      "ja": "Wow",
+      "romaji": "Wow",
+      "en": "Wow",
+      "zh": "Wow"
+    },
+    {
+      "ja": "逃げるな限界の壁超えて",
+      "romaji": "Nigeruna Genkai no Kabe Koete",
+      "en": "Don't run—surpass the wall of limits",
+      "zh": "別逃跑，超越極限之牆"
+    },
+    {
+      "ja": "Wow",
+      "romaji": "Wow",
+      "en": "Wow",
+      "zh": "Wow"
+    },
+    {
+      "ja": "僕らはまだ挑戦者",
+      "romaji": "Bokura ha Mada Chousensha",
+      "en": "We're still challengers",
+      "zh": "我們仍是挑戰者"
+    },
+    {
+      "ja": "Yeah！",
+      "romaji": "Yeah!",
+      "en": "Yeah!",
+      "zh": "Yeah！"
+    },
+    {
+      "ja": "Wow",
+      "romaji": "Wow",
+      "en": "Wow",
+      "zh": "Wow"
+    },
+    {
+      "ja": "冷たい声に溺れたって",
+      "romaji": "Tsumetai Koe ni Oboreta tte",
+      "en": "Even if I drown in cold voices",
+      "zh": "即使溺於冰冷的聲音中"
+    },
+    {
+      "ja": "微かな望みを手繰り寄せるように",
+      "romaji": "Kasuka na Nozomi wo Taguriyoseru You ni",
+      "en": "As if pulling a faint hope closer",
+      "zh": "像是要將微弱的希望拉近身邊"
+    },
+    {
+      "ja": "期待外れだと誰かが嘆く",
+      "romaji": "Kitai Hazure Da to Dareka ga Nageku",
+      "en": "Someone laments that it was a letdown",
+      "zh": "有人感嘆期望落空"
+    },
+    {
+      "ja": "痛いと居たいがいつも戦う",
+      "romaji": "Itai to Itai ga Itsumo Tatakau",
+      "en": "\"It hurt\" and \"I want to be\" always fight",
+      "zh": "「好痛」與「想存在」總在戰鬥"
+    },
+    {
+      "ja": "プライドだけを頼りに抗う自分を信じたい",
+      "romaji": "Puraido Dake wo Tayori ni Aragau Jibun wo Shinjitai",
+      "en": "Relying only on pride, I want to believe in the me who resists",
+      "zh": "僅憑驕傲，想相信那個抵抗的自己"
+    },
+    {
+      "ja": "努力は報われる",
+      "romaji": "Doryoku ha Mukuwareru",
+      "en": "Effort is rewarded",
+      "zh": "努力會有回報"
+    },
+    {
+      "ja": "笑いたいやつは笑ってろ",
+      "romaji": "Waraitai Yatsu ha Warattero",
+      "en": "Those who want to laugh can laugh",
+      "zh": "想笑的人就笑吧"
+    },
+    {
+      "ja": "感傷に浸ってる暇はない",
+      "romaji": "Kanshou ni Hitatteru Hima ha Nai",
+      "en": "There's no time to soak in sentimentality",
+      "zh": "沒有時間沉浸在感傷裡"
+    },
+    {
+      "ja": "今世紀最大の",
+      "romaji": "Konseiki Saidai no",
+      "en": "The greatest of this century",
+      "zh": "本世紀最大的"
+    },
+    {
+      "ja": "夏が始まる",
+      "romaji": "Natsu ga Hajimaru",
+      "en": "Summer begins",
+      "zh": "夏天開始了"
+    },
+    {
+      "ja": "Wow",
+      "romaji": "Wow",
+      "en": "Wow",
+      "zh": "Wow"
+    },
+    {
+      "ja": "反響が足りないもっともっと",
+      "romaji": "Hankyou ga Tarinai Motto Motto",
+      "en": "The echo isn't enough—more, more",
+      "zh": "迴響還不夠，更多更多"
+    },
+    {
+      "ja": "Wow",
+      "romaji": "Wow",
+      "en": "Wow",
+      "zh": "Wow"
+    },
+    {
+      "ja": "後悔はさせない",
+      "romaji": "Koukai ha Sasenai",
+      "en": "I won't let you regret it",
+      "zh": "不會讓你後悔"
+    },
+    {
+      "ja": "Ah",
+      "romaji": "Ah",
+      "en": "Ah",
+      "zh": "Ah"
+    },
+    {
+      "ja": "Wow",
+      "romaji": "Wow",
+      "en": "Wow",
+      "zh": "Wow"
+    },
+    {
+      "ja": "想像の果てにある高み",
+      "romaji": "Souzou no Hate ni Aru Takami",
+      "en": "The heights at the end of imagination",
+      "zh": "存在於想像盡頭的高峰"
+    },
+    {
+      "ja": "Wow",
+      "romaji": "Wow",
+      "en": "Wow",
+      "zh": "Wow"
+    },
+    {
+      "ja": "勝ち取った景色は尊い",
+      "romaji": "Kachitotta Keshiki ha Toutoi",
+      "en": "The scenery we won is precious",
+      "zh": "贏來的景色如此珍貴"
+    },
+    {
+      "ja": "Wow",
+      "romaji": "Wow",
+      "en": "Wow",
+      "zh": "Wow"
+    },
+    {
+      "ja": "逃げるな限界の壁超えて",
+      "romaji": "Nigeruna Genkai no Kabe Koete",
+      "en": "Don't run—surpass the wall of limits",
+      "zh": "別逃跑，超越極限之牆"
+    },
+    {
+      "ja": "Wow",
+      "romaji": "Wow",
+      "en": "Wow",
+      "zh": "Wow"
+    },
+    {
+      "ja": "僕らはまだ挑戦者",
+      "romaji": "Bokura ha Mada Chousensha",
+      "en": "We're still challengers",
+      "zh": "我們仍是挑戰者"
+    },
+    {
+      "ja": "Yeah！",
+      "romaji": "Yeah!",
+      "en": "Yeah!",
+      "zh": "Yeah！"
+    },
+    {
+      "ja": "Wow",
+      "romaji": "Wow",
+      "en": "Wow",
+      "zh": "Wow"
+    }
+  ]
+}

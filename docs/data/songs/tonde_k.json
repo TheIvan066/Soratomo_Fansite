@@ -1,0 +1,1393 @@
+{
+  "meta": {
+    "title": "飛んでK！ホロライブサマー",
+    "artist": "hololive IDOL PROJECT",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "ARM(IOSYS)",
+    "lyricist": "七条レタス(IOSYS)・まろん(IOSYS)",
+    "album": "hololive Summer 2022",
+    "releaseDate": "2022/08/18",
+    "coverUrl": "cover_images/holo_summer_2022",
+    "penlight_color": [
+      "#000000"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/fOr-o8OORy0?si=H0sFwMfcSRfIwpxA"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "この夏は　何度も　夢見た渚の宝物"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Shiny Smile"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Smile Your Heart"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Heart To Heart"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Oh Yeah"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(せーのっ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ぴえん　ぱおん　はにゃん　お待たせっ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "さーまさまさまさま　あっちっちーのさまー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "さーまさまさまさま　ぴっちぴちさまー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いーけいけさまー　いーちゃいちゃさまー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "女神さま　Fooo～～～～～～～！！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(A！) ええ塩梅の空に白い雲　そして"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(B！) ビーチ砂浜これこのムード(素晴らC！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(C！) 史上最強の私がヴィーナス"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "一番なんて決めらんない(それな？)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(D！) どこで買ったのその水着？　めっちゃE！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「いいですね～」「いいですね～」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "煩悩　お空へ飛んでっK！ (飛んでっK！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "経験豊富な私たちでも　至らない境地それが(ホロライブサマー！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "パラソルにチェア　この時間フォーエバー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "キミも隣くる？(キタキタキタキタ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ビーチの1級建築士(Uh！)　波打ち際にキャッスル新築(Ha！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もっと　はしゃぎ過ぎたくって"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「その目に焼き付けろぉぉぉい！！！！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(イェ～～～～～イ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "この夏は(ハイ！)　何度も(ハイ！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "夢見た渚の宝物　Shiny Smile(う～Shiny Smile)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "飛沫あげて(ハイ！)　弾けて(ハイ！)　また笑って(ヤー！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "裸足で描いてる　Story"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "泳いで(FuFu)　泳いで(FuFu)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "その先へ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(せーのっ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ぴえん　ぱおん　はにゃん　はぴはぴっ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "さーまさまさまさま　あっちっちーのさまー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "さーまさまさまさま　ぴっちぴちさまー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いーけいけさまー　いーちゃいちゃさまー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "女神さま　Fooo～～～～～～～！！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(ワン！)水着の柄を褒めるべし～"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(ツー！)海の魔物から守るべし～"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(スリー！)他の娘は見ちゃヤダヤダヤダ～(ヤダヤダヤダ～)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "一番だって言ってよね(よっしゃー)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "汗ばむ肌と(肌と)　ギラギラサンセット(サンセット)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "お待ちかねボンファイアー！(キタキタキタキタ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "パーティー開催午後六時(午後六時)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ドレスコードは日焼けのアート(日焼けのアート)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "空に　花火打ち上がって"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「パーティーの始まりだぁぁぁぁぁ！！！！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(カンパァ～～～～～イ！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "この夏も(ハイ！)　いつかは(ハイ！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "キラめく思い出になるよね　Shooting Star(う～Shooting Star)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "声をあげて(ハイ！)　願えば(ハイ！)　ほら叶うよ(ヤー)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "神様だって　見惚[と]れちゃう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "たわわで(FuFu)　はわわな(FuFu)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "パラダイス"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(せーのっ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ぴえん　ぱおん　はにゃん　どきどきっ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "これこそが！YES！ホロライブサマー！！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "最高の景色そして　きゃわわなヴィーナス"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "骨の髄まで遊び尽くせーーーー！！　そぉれ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ビーチバレー！いくわよ～！オルルァァ！チェストォォ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(Wow Wow Wow Wow)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "浜メシ　爆メシ　限りなし　おいしー！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(Wow Wow Wow Wow)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ジェットスキーでバナナボートにキック！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(Wow Wow Wow Wow)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "負けたらチョメチョメ　王様ゲーム！？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(Wow Wow Wow Wow)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "のぞいちゃダメ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "岩場の陰で　お着替え(あんっ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "乙女の　秘密は"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ハラドキ×4"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いやぁぁぁ～～～～～ん"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "黄昏の　浜辺で"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "背中合わせた合言葉は　I Need You"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "波の音が　痺れさせる　火照った身体"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ドキドキ　もう止まんないね"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "真夏の奇跡"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ちゅわちゅわちゅわちゅわちゅわちゅわちゅ～"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "この声も(ハイ！)　想いも(ハイ！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "夢見た渚の宝物　Shiny Smile(う～Shiny Smile)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "時を止めて(ハイ！)　みんなで(ハイ！)　また笑って(ヤー！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "裸足で描いた　ハートマーク"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "歌って(FuFu)　遊んで(FuFu)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "その先へ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(せーのっ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ぴえん　ぱおん　はにゃん　さまさまっ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「最高の夏にしようねっ♪」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "この海で"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "この夏は　何度も　夢見た渚の宝物",
+      "call": ""
+    },
+    {
+      "lyrics": "Shiny Smile",
+      "call": ""
+    },
+    {
+      "lyrics": "Smile Your Heart",
+      "call": ""
+    },
+    {
+      "lyrics": "Heart To Heart",
+      "call": ""
+    },
+    {
+      "lyrics": "Oh Yeah",
+      "call": ""
+    },
+    {
+      "lyrics": "(せーのっ)",
+      "call": ""
+    },
+    {
+      "lyrics": "ぴえん　ぱおん　はにゃん　お待たせっ",
+      "call": ""
+    },
+    {
+      "lyrics": "さーまさまさまさま　あっちっちーのさまー",
+      "call": ""
+    },
+    {
+      "lyrics": "さーまさまさまさま　ぴっちぴちさまー",
+      "call": ""
+    },
+    {
+      "lyrics": "いーけいけさまー　いーちゃいちゃさまー",
+      "call": ""
+    },
+    {
+      "lyrics": "女神さま　Fooo～～～～～～～！！",
+      "call": ""
+    },
+    {
+      "lyrics": "(A！) ええ塩梅の空に白い雲　そして",
+      "call": ""
+    },
+    {
+      "lyrics": "(B！) ビーチ砂浜これこのムード(素晴らC！)",
+      "call": ""
+    },
+    {
+      "lyrics": "(C！) 史上最強の私がヴィーナス",
+      "call": ""
+    },
+    {
+      "lyrics": "一番なんて決めらんない(それな？)",
+      "call": ""
+    },
+    {
+      "lyrics": "(D！) どこで買ったのその水着？　めっちゃE！",
+      "call": ""
+    },
+    {
+      "lyrics": "「いいですね～」「いいですね～」",
+      "call": ""
+    },
+    {
+      "lyrics": "煩悩　お空へ飛んでっK！ (飛んでっK！)",
+      "call": ""
+    },
+    {
+      "lyrics": "経験豊富な私たちでも　至らない境地それが(ホロライブサマー！)",
+      "call": ""
+    },
+    {
+      "lyrics": "パラソルにチェア　この時間フォーエバー",
+      "call": ""
+    },
+    {
+      "lyrics": "キミも隣くる？(キタキタキタキタ)",
+      "call": ""
+    },
+    {
+      "lyrics": "ビーチの1級建築士(Uh！)　波打ち際にキャッスル新築(Ha！)",
+      "call": ""
+    },
+    {
+      "lyrics": "もっと　はしゃぎ過ぎたくって",
+      "call": ""
+    },
+    {
+      "lyrics": "「その目に焼き付けろぉぉぉい！！！！」",
+      "call": ""
+    },
+    {
+      "lyrics": "(イェ～～～～～イ)",
+      "call": ""
+    },
+    {
+      "lyrics": "この夏は(ハイ！)　何度も(ハイ！)",
+      "call": ""
+    },
+    {
+      "lyrics": "夢見た渚の宝物　Shiny Smile(う～Shiny Smile)",
+      "call": ""
+    },
+    {
+      "lyrics": "飛沫あげて(ハイ！)　弾けて(ハイ！)　また笑って(ヤー！)",
+      "call": ""
+    },
+    {
+      "lyrics": "裸足で描いてる　Story",
+      "call": ""
+    },
+    {
+      "lyrics": "泳いで(FuFu)　泳いで(FuFu)",
+      "call": ""
+    },
+    {
+      "lyrics": "その先へ",
+      "call": ""
+    },
+    {
+      "lyrics": "(せーのっ)",
+      "call": ""
+    },
+    {
+      "lyrics": "ぴえん　ぱおん　はにゃん　はぴはぴっ",
+      "call": ""
+    },
+    {
+      "lyrics": "さーまさまさまさま　あっちっちーのさまー",
+      "call": ""
+    },
+    {
+      "lyrics": "さーまさまさまさま　ぴっちぴちさまー",
+      "call": ""
+    },
+    {
+      "lyrics": "いーけいけさまー　いーちゃいちゃさまー",
+      "call": ""
+    },
+    {
+      "lyrics": "女神さま　Fooo～～～～～～～！！",
+      "call": ""
+    },
+    {
+      "lyrics": "(ワン！)水着の柄を褒めるべし～",
+      "call": ""
+    },
+    {
+      "lyrics": "(ツー！)海の魔物から守るべし～",
+      "call": ""
+    },
+    {
+      "lyrics": "(スリー！)他の娘は見ちゃヤダヤダヤダ～(ヤダヤダヤダ～)",
+      "call": ""
+    },
+    {
+      "lyrics": "一番だって言ってよね(よっしゃー)",
+      "call": ""
+    },
+    {
+      "lyrics": "汗ばむ肌と(肌と)　ギラギラサンセット(サンセット)",
+      "call": ""
+    },
+    {
+      "lyrics": "お待ちかねボンファイアー！(キタキタキタキタ)",
+      "call": ""
+    },
+    {
+      "lyrics": "パーティー開催午後六時(午後六時)",
+      "call": ""
+    },
+    {
+      "lyrics": "ドレスコードは日焼けのアート(日焼けのアート)",
+      "call": ""
+    },
+    {
+      "lyrics": "空に　花火打ち上がって",
+      "call": ""
+    },
+    {
+      "lyrics": "「パーティーの始まりだぁぁぁぁぁ！！！！」",
+      "call": ""
+    },
+    {
+      "lyrics": "(カンパァ～～～～～イ！)",
+      "call": ""
+    },
+    {
+      "lyrics": "この夏も(ハイ！)　いつかは(ハイ！)",
+      "call": ""
+    },
+    {
+      "lyrics": "キラめく思い出になるよね　Shooting Star(う～Shooting Star)",
+      "call": ""
+    },
+    {
+      "lyrics": "声をあげて(ハイ！)　願えば(ハイ！)　ほら叶うよ(ヤー)",
+      "call": ""
+    },
+    {
+      "lyrics": "神様だって　見惚[と]れちゃう",
+      "call": ""
+    },
+    {
+      "lyrics": "たわわで(FuFu)　はわわな(FuFu)",
+      "call": ""
+    },
+    {
+      "lyrics": "パラダイス",
+      "call": ""
+    },
+    {
+      "lyrics": "(せーのっ)",
+      "call": ""
+    },
+    {
+      "lyrics": "ぴえん　ぱおん　はにゃん　どきどきっ",
+      "call": ""
+    },
+    {
+      "lyrics": "これこそが！YES！ホロライブサマー！！",
+      "call": ""
+    },
+    {
+      "lyrics": "最高の景色そして　きゃわわなヴィーナス",
+      "call": ""
+    },
+    {
+      "lyrics": "骨の髄まで遊び尽くせーーーー！！　そぉれ",
+      "call": ""
+    },
+    {
+      "lyrics": "ビーチバレー！いくわよ～！オルルァァ！チェストォォ",
+      "call": ""
+    },
+    {
+      "lyrics": "(Wow Wow Wow Wow)",
+      "call": ""
+    },
+    {
+      "lyrics": "浜メシ　爆メシ　限りなし　おいしー！",
+      "call": ""
+    },
+    {
+      "lyrics": "(Wow Wow Wow Wow)",
+      "call": ""
+    },
+    {
+      "lyrics": "ジェットスキーでバナナボートにキック！",
+      "call": ""
+    },
+    {
+      "lyrics": "(Wow Wow Wow Wow)",
+      "call": ""
+    },
+    {
+      "lyrics": "負けたらチョメチョメ　王様ゲーム！？",
+      "call": ""
+    },
+    {
+      "lyrics": "(Wow Wow Wow Wow)",
+      "call": ""
+    },
+    {
+      "lyrics": "のぞいちゃダメ",
+      "call": ""
+    },
+    {
+      "lyrics": "岩場の陰で　お着替え(あんっ)",
+      "call": ""
+    },
+    {
+      "lyrics": "乙女の　秘密は",
+      "call": ""
+    },
+    {
+      "lyrics": "ハラドキ×4",
+      "call": ""
+    },
+    {
+      "lyrics": "いやぁぁぁ～～～～～ん",
+      "call": ""
+    },
+    {
+      "lyrics": "黄昏の　浜辺で",
+      "call": ""
+    },
+    {
+      "lyrics": "背中合わせた合言葉は　I Need You",
+      "call": ""
+    },
+    {
+      "lyrics": "波の音が　痺れさせる　火照った身体",
+      "call": ""
+    },
+    {
+      "lyrics": "ドキドキ　もう止まんないね",
+      "call": ""
+    },
+    {
+      "lyrics": "真夏の奇跡",
+      "call": ""
+    },
+    {
+      "lyrics": "ちゅわちゅわちゅわちゅわちゅわちゅわちゅ～",
+      "call": ""
+    },
+    {
+      "lyrics": "この声も(ハイ！)　想いも(ハイ！)",
+      "call": ""
+    },
+    {
+      "lyrics": "夢見た渚の宝物　Shiny Smile(う～Shiny Smile)",
+      "call": ""
+    },
+    {
+      "lyrics": "時を止めて(ハイ！)　みんなで(ハイ！)　また笑って(ヤー！)",
+      "call": ""
+    },
+    {
+      "lyrics": "裸足で描いた　ハートマーク",
+      "call": ""
+    },
+    {
+      "lyrics": "歌って(FuFu)　遊んで(FuFu)",
+      "call": ""
+    },
+    {
+      "lyrics": "その先へ",
+      "call": ""
+    },
+    {
+      "lyrics": "(せーのっ)",
+      "call": ""
+    },
+    {
+      "lyrics": "ぴえん　ぱおん　はにゃん　さまさまっ",
+      "call": ""
+    },
+    {
+      "lyrics": "「最高の夏にしようねっ♪」",
+      "call": ""
+    },
+    {
+      "lyrics": "この海で",
+      "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "この夏は　何度も　夢見た渚の宝物",
+      "romaji": "Kono Natsu ha Nando mo Yumemita Nagisa no Takaramono",
+      "en": "This summer is the treasure of the shore I've dreamed of many times",
+      "zh": "這個夏天，是無數次夢見的海濱寶物"
+    },
+    {
+      "ja": "Shiny Smile",
+      "romaji": "Shiny Smile",
+      "en": "Shiny smile",
+      "zh": "Shiny Smile"
+    },
+    {
+      "ja": "Smile Your Heart",
+      "romaji": "Smile Your Heart",
+      "en": "Smile your heart",
+      "zh": "Smile Your Heart"
+    },
+    {
+      "ja": "Heart To Heart",
+      "romaji": "Heart to Heart",
+      "en": "Heart to heart",
+      "zh": "Heart To Heart"
+    },
+    {
+      "ja": "Oh Yeah",
+      "romaji": "Oh Yeah",
+      "en": "Oh yeah",
+      "zh": "Oh Yeah"
+    },
+    {
+      "ja": "(せーのっ)",
+      "romaji": "(Seeno)",
+      "en": "(Ready, set)",
+      "zh": "（預備起）"
+    },
+    {
+      "ja": "ぴえん　ぱおん　はにゃん　お待たせっ",
+      "romaji": "Pien Paon Hanyan Omatase",
+      "en": "Pien, paon, hanyan—sorry to keep you waiting!",
+      "zh": "ぴえん　ぱおん　はにゃん，久等了"
+    },
+    {
+      "ja": "さーまさまさまさま　あっちっちーのさまー",
+      "romaji": "Saama Sama Sama Sama Acchicchiino Saamaa",
+      "en": "Su-summer, summer, summer, summer—scorching summer",
+      "zh": "夏天夏天夏天夏天，熱呼呼的夏天"
+    },
+    {
+      "ja": "さーまさまさまさま　ぴっちぴちさまー",
+      "romaji": "Saama Sama Sama Sama Picchipichi Saamaa",
+      "en": "Su-summer, summer, summer, summer—fresh and lively summer",
+      "zh": "夏天夏天夏天夏天，活蹦亂跳的夏天"
+    },
+    {
+      "ja": "いーけいけさまー　いーちゃいちゃさまー",
+      "romaji": "Ii Keike Saamaa Ii Chaicha Saamaa",
+      "en": "A good, lively summer—a good, lovey-dovey summer",
+      "zh": "好讚好讚的夏天，好甜蜜甜蜜的夏天"
+    },
+    {
+      "ja": "女神さま　Fooo～～～～～～～！！",
+      "romaji": "Megami Sama Fooo~~~~!!",
+      "en": "Goddess—whoo~~!!",
+      "zh": "女神大人　Fooo～～～～～～～！！"
+    },
+    {
+      "ja": "(A！) ええ塩梅の空に白い雲　そして",
+      "romaji": "(A!) Ee Anbai no Sora ni Shiroi Kumo Soshite",
+      "en": "(A!) In a perfectly nice sky, white clouds, and then",
+      "zh": "（A！）恰到好處的天空配上白雲，然後"
+    },
+    {
+      "ja": "(B！) ビーチ砂浜これこのムード(素晴らC！)",
+      "romaji": "(B!) Biichi Sunahama Kore Kono Muudo (Subarashi C!)",
+      "en": "(B!) Beach, sand—this very mood (wonderful C!)",
+      "zh": "（B！）海灘沙灘，就是這個氛圍（太棒了C！）"
+    },
+    {
+      "ja": "(C！) 史上最強の私がヴィーナス",
+      "romaji": "(C!) Shijou Saikyou no Watashi ga Viinasu",
+      "en": "(C!) The strongest me in history is a Venus",
+      "zh": "（C！）史上最強的我就是維納斯"
+    },
+    {
+      "ja": "一番なんて決めらんない(それな？)",
+      "romaji": "Ichiban Nante Kimerannai (Sore na?)",
+      "en": "We can't decide who's number one (right?)",
+      "zh": "第一名什麼的決定不了（就是說啊？）"
+    },
+    {
+      "ja": "(D！) どこで買ったのその水着？　めっちゃE！",
+      "romaji": "(D!) Doko de Katta no Sono Mizugi? Meccha E!",
+      "en": "(D!) Where did you buy that swimsuit? It's super E!",
+      "zh": "（D！）那件泳衣在哪買的？超E！"
+    },
+    {
+      "ja": "「いいですね～」「いいですね～」",
+      "romaji": "「Ii Desu ne~」「Ii Desu ne~」",
+      "en": "\"That's nice~\" \"That's nice~\"",
+      "zh": "「不錯呢～」「不錯呢～」"
+    },
+    {
+      "ja": "煩悩　お空へ飛んでっK！ (飛んでっK！)",
+      "romaji": "Bonnou Osora e Tonde K! (Tonde K!)",
+      "en": "Worldly desires—fly to the sky, K! (Fly, K!)",
+      "zh": "煩惱，飛向天空吧 K！（飛吧 K！）"
+    },
+    {
+      "ja": "経験豊富な私たちでも　至らない境地それが(ホロライブサマー！)",
+      "romaji": "Keiken Houfu na Watashitachi demo Itaranai Kyouchi Sore ga (Hororaibu Samaa!)",
+      "en": "Even with all our experience, that unreachable realm—that's (hololive Summer!)",
+      "zh": "即使是經驗豐富的我們，也到達不了的境界，那就是（hololive Summer！）"
+    },
+    {
+      "ja": "パラソルにチェア　この時間フォーエバー",
+      "romaji": "Parasoru ni Chea Kono Jikan Fooebaa",
+      "en": "Parasol and chair—this time forever",
+      "zh": "陽傘與椅子，這段時光 forever"
+    },
+    {
+      "ja": "キミも隣くる？(キタキタキタキタ)",
+      "romaji": "Kimi mo Tonari Kuru? (Kita Kita Kita Kita)",
+      "en": "Will you come next to me too? (Came, came, came, came)",
+      "zh": "你也要來旁邊嗎？（來了來了來了來了）"
+    },
+    {
+      "ja": "ビーチの1級建築士(Uh！)　波打ち際にキャッスル新築(Ha！)",
+      "romaji": "Biichi no Ikkyuu Kenchikushi (Uh!) Namiuchigiwa ni Kyassuru Shinchiku (Ha!)",
+      "en": "A first-class beach architect (uh!)—building a new castle at the water's edge (ha!)",
+      "zh": "海灘的一級建築師（Uh！）在浪邊新建城堡（Ha！）"
+    },
+    {
+      "ja": "もっと　はしゃぎ過ぎたくって",
+      "romaji": "Motto Hashagi Sugitakute",
+      "en": "I want to frolic even more",
+      "zh": "想更加盡情嬉鬧"
+    },
+    {
+      "ja": "「その目に焼き付けろぉぉぉい！！！！」",
+      "romaji": "「Sono Me ni Yakitsukeroooi!!!!」",
+      "en": "\"Burn it into your eyes!!!!\"",
+      "zh": "「烙印在你的眼中吧！！！！」"
+    },
+    {
+      "ja": "(イェ～～～～～イ)",
+      "romaji": "(Yee~~~~~I)",
+      "en": "(Yay~~~~~!)",
+      "zh": "（耶～～～～～）"
+    },
+    {
+      "ja": "この夏は(ハイ！)　何度も(ハイ！)",
+      "romaji": "Kono Natsu ha (Hai!) Nando mo (Hai!)",
+      "en": "This summer (yes!) again and again (yes!)",
+      "zh": "這個夏天（嗨！）無數次（嗨！）"
+    },
+    {
+      "ja": "夢見た渚の宝物　Shiny Smile(う～Shiny Smile)",
+      "romaji": "Yumemita Nagisa no Takaramono Shiny Smile (U~ Shiny Smile)",
+      "en": "The treasure of the shore I dreamed of—shiny smile (ooh~ shiny smile)",
+      "zh": "夢見的海濱寶物　Shiny Smile（嗚～Shiny Smile）"
+    },
+    {
+      "ja": "飛沫あげて(ハイ！)　弾けて(ハイ！)　また笑って(ヤー！)",
+      "romaji": "Shibuki Agete (Hai!) Hajikete (Hai!) Mata Waratte (Yaa!)",
+      "en": "Splashing (yes!), bouncing (yes!), laughing again (yeah!)",
+      "zh": "濺起水花（嗨！）迸裂飛散（嗨！）又笑了（耶！）"
+    },
+    {
+      "ja": "裸足で描いてる　Story",
+      "romaji": "Hadashi de Egaiteru Story",
+      "en": "Drawing a story barefoot",
+      "zh": "赤腳描繪的 Story"
+    },
+    {
+      "ja": "泳いで(FuFu)　泳いで(FuFu)",
+      "romaji": "Oyoide (FuFu) Oyoide (FuFu)",
+      "en": "Swimming (fufu), swimming (fufu)",
+      "zh": "游泳（FuFu）游泳（FuFu）"
+    },
+    {
+      "ja": "その先へ",
+      "romaji": "Sono Saki e",
+      "en": "To what lies beyond",
+      "zh": "前往那前方"
+    },
+    {
+      "ja": "(せーのっ)",
+      "romaji": "(Seeno)",
+      "en": "(Ready, set)",
+      "zh": "（預備起）"
+    },
+    {
+      "ja": "ぴえん　ぱおん　はにゃん　はぴはぴっ",
+      "romaji": "Pien Paon Hanyan Hapi Hapi",
+      "en": "Pien, paon, hanyan—happy happy!",
+      "zh": "ぴえん　ぱおん　はにゃん，快樂快樂"
+    },
+    {
+      "ja": "さーまさまさまさま　あっちっちーのさまー",
+      "romaji": "Saama Sama Sama Sama Acchicchiino Saamaa",
+      "en": "Su-summer, summer, summer, summer—scorching summer",
+      "zh": "夏天夏天夏天夏天，熱呼呼的夏天"
+    },
+    {
+      "ja": "さーまさまさまさま　ぴっちぴちさまー",
+      "romaji": "Saama Sama Sama Sama Picchipichi Saamaa",
+      "en": "Su-summer, summer, summer, summer—fresh and lively summer",
+      "zh": "夏天夏天夏天夏天，活蹦亂跳的夏天"
+    },
+    {
+      "ja": "いーけいけさまー　いーちゃいちゃさまー",
+      "romaji": "Ii Keike Saamaa Ii Chaicha Saamaa",
+      "en": "A good, lively summer—a good, lovey-dovey summer",
+      "zh": "好讚好讚的夏天，好甜蜜甜蜜的夏天"
+    },
+    {
+      "ja": "女神さま　Fooo～～～～～～～！！",
+      "romaji": "Megami Sama Fooo~~~~!!",
+      "en": "Goddess—whoo~~!!",
+      "zh": "女神大人　Fooo～～～～～～～！！"
+    },
+    {
+      "ja": "(ワン！)水着の柄を褒めるべし～",
+      "romaji": "(Wan!) Mizugi no Gara wo Homeru Beshi~",
+      "en": "(One!) Thou shalt praise the swimsuit pattern~",
+      "zh": "（一！）必須稱讚泳衣的花色～"
+    },
+    {
+      "ja": "(ツー！)海の魔物から守るべし～",
+      "romaji": "(Tsuu!) Umi no Mamono kara Mamoru Beshi~",
+      "en": "(Two!) Thou shalt protect from sea monsters~",
+      "zh": "（二！）必須保護她免受海中魔物侵擾～"
+    },
+    {
+      "ja": "(スリー！)他の娘は見ちゃヤダヤダヤダ～(ヤダヤダヤダ～)",
+      "romaji": "(Surii!) Hoka no Ko ha Micha Yada Yada Yada~ (Yada Yada Yada~)",
+      "en": "(Three!) Looking at other girls is no-no-no~ (no-no-no~)",
+      "zh": "（三！）看其他女孩不行不行不行～（不行不行不行～）"
+    },
+    {
+      "ja": "一番だって言ってよね(よっしゃー)",
+      "romaji": "Ichiban Datte Itte yo ne (Yosshaa)",
+      "en": "Say I'm number one, okay? (Alright!)",
+      "zh": "要說我是第一名喔（好耶）"
+    },
+    {
+      "ja": "汗ばむ肌と(肌と)　ギラギラサンセット(サンセット)",
+      "romaji": "Asebamu Hada to (Hada to) Giragira Sansetto (Sansetto)",
+      "en": "Sweaty skin (skin) and blazing sunset (sunset)",
+      "zh": "微微出汗的肌膚（肌膚）和閃耀的夕陽（夕陽）"
+    },
+    {
+      "ja": "お待ちかねボンファイアー！(キタキタキタキタ)",
+      "romaji": "Omachikane Bonfaiaa! (Kita Kita Kita Kita)",
+      "en": "The long-awaited bonfire! (Came, came, came, came)",
+      "zh": "久等的營火晚會！（來了來了來了來了）"
+    },
+    {
+      "ja": "パーティー開催午後六時(午後六時)",
+      "romaji": "Paatii Kaisai Gogo Rokuji (Gogo Rokuji)",
+      "en": "Party starts at 6 p.m. (6 p.m.)",
+      "zh": "派對下午六點開始（下午六點）"
+    },
+    {
+      "ja": "ドレスコードは日焼けのアート(日焼けのアート)",
+      "romaji": "Doresu Koodo ha Hiyake no Aato (Hiyake no Aato)",
+      "en": "Dress code is sunburn art (sunburn art)",
+      "zh": "服裝規定是曬痕藝術（曬痕藝術）"
+    },
+    {
+      "ja": "空に　花火打ち上がって",
+      "romaji": "Sora ni Hanabi Uchiagatte",
+      "en": "Fireworks launch into the sky",
+      "zh": "煙火升上天空"
+    },
+    {
+      "ja": "「パーティーの始まりだぁぁぁぁぁ！！！！」",
+      "romaji": "「Paatii no Hajimari Daaaaa!!!!」",
+      "en": "\"The party begins!!!!\"",
+      "zh": "「派對開始啦！！！！」"
+    },
+    {
+      "ja": "(カンパァ～～～～～イ！)",
+      "romaji": "(Kanpaa~~~~~I!)",
+      "en": "(Cheers~~~~~!)",
+      "zh": "（乾杯～～～～～！）"
+    },
+    {
+      "ja": "この夏も(ハイ！)　いつかは(ハイ！)",
+      "romaji": "Kono Natsu mo (Hai!) Itsuka ha (Hai!)",
+      "en": "This summer too (yes!), someday (yes!)",
+      "zh": "這個夏天也（嗨！）總有一天（嗨！）"
+    },
+    {
+      "ja": "キラめく思い出になるよね　Shooting Star(う～Shooting Star)",
+      "romaji": "Kirameku Omoide ni Naru yo ne Shooting Star (U~ Shooting Star)",
+      "en": "Will become sparkling memories, right? Shooting star (ooh~ shooting star)",
+      "zh": "會成為閃耀的回憶對吧　Shooting Star（嗚～Shooting Star）"
+    },
+    {
+      "ja": "声をあげて(ハイ！)　願えば(ハイ！)　ほら叶うよ(ヤー！)",
+      "romaji": "Koe wo Agete (Hai!) Negaeba (Hai!) Hora Kanau yo (Yaa!)",
+      "en": "Raise your voice (yes!), if you wish (yes!), look, it comes true (yeah!)",
+      "zh": "提高聲音（嗨！）許願的話（嗨！）你看就會實現（耶！）"
+    },
+    {
+      "ja": "神様だって　見惚[と]れちゃう",
+      "romaji": "Kamisama Datte Mitorechau",
+      "en": "Even gods would be captivated",
+      "zh": "連神明也會看得入迷"
+    },
+    {
+      "ja": "たわわで(FuFu)　はわわな(FuFu)",
+      "romaji": "Tawawa de (FuFu) Hawawa na (FuFu)",
+      "en": "Plump and (fufu) flustered (fufu)",
+      "zh": "豐滿的（FuFu）慌張的（FuFu）"
+    },
+    {
+      "ja": "パラダイス",
+      "romaji": "Paradaisu",
+      "en": "Paradise",
+      "zh": "Paradise"
+    },
+    {
+      "ja": "(せーのっ)",
+      "romaji": "(Seeno)",
+      "en": "(Ready, set)",
+      "zh": "（預備起）"
+    },
+    {
+      "ja": "ぴえん　ぱおん　はにゃん　どきどきっ",
+      "romaji": "Pien Paon Hanyan Dokidoki",
+      "en": "Pien, paon, hanyan—heart pounding!",
+      "zh": "ぴえん　ぱおん　はにゃん，心跳加速"
+    },
+    {
+      "ja": "これこそが！YES！ホロライブサマー！！",
+      "romaji": "Kore Koso ga! YES! Hororaibu Samaa!!",
+      "en": "This is it! Yes! hololive Summer!!",
+      "zh": "這正是！YES！hololive Summer！！"
+    },
+    {
+      "ja": "最高の景色そして　きゃわわなヴィーナス",
+      "romaji": "Saikou no Keshiki Soshite Kyawawa na Viinasu",
+      "en": "The best scenery, and a super-cute Venus",
+      "zh": "最棒的景色，還有超可愛的維納斯"
+    },
+    {
+      "ja": "骨の髄まで遊び尽くせーーーー！！　そぉれ",
+      "romaji": "Hone no Zui made Asobitsukuseeee!! Soore",
+      "en": "Play to the very marrow of your bones!!!! There!",
+      "zh": "玩到骨子裡去吧！！！！嘿"
+    },
+    {
+      "ja": "ビーチバレー！いくわよ～！オルルァァ！チェストォォ",
+      "romaji": "Biichi Baree! Iku wa yo~! Oruruaaa! Chesutooo",
+      "en": "Beach volleyball! Here we go~! Orluaaa! Chestooo!",
+      "zh": "沙灘排球！要上囉～！喔嚕嚕啊！去吧！"
+    },
+    {
+      "ja": "(Wow Wow Wow Wow)",
+      "romaji": "(Wow Wow Wow Wow)",
+      "en": "(Wow wow wow wow)",
+      "zh": "（Wow Wow Wow Wow）"
+    },
+    {
+      "ja": "浜メシ　爆メシ　限りなし　おいしー！",
+      "romaji": "Hamameshi Bakumeshi Kagiri Nashi Oishii!",
+      "en": "Beach food, explosive food—no limit—delicious!",
+      "zh": "海濱美食，爆量美食，無極限，好吃！"
+    },
+    {
+      "ja": "(Wow Wow Wow Wow)",
+      "romaji": "(Wow Wow Wow Wow)",
+      "en": "(Wow wow wow wow)",
+      "zh": "（Wow Wow Wow Wow）"
+    },
+    {
+      "ja": "ジェットスキーでバナナボートにキック！",
+      "romaji": "Jetto Sukii de Banana Booto ni Kikku!",
+      "en": "On a jet ski, kick the banana boat!",
+      "zh": "騎水上摩托車，踢香蕉船！"
+    },
+    {
+      "ja": "(Wow Wow Wow Wow)",
+      "romaji": "(Wow Wow Wow Wow)",
+      "en": "(Wow wow wow wow)",
+      "zh": "（Wow Wow Wow Wow）"
+    },
+    {
+      "ja": "負けたらチョメチョメ　王様ゲーム！？",
+      "romaji": "Maketara Chome Chome Ousama Geemu!?",
+      "en": "If you lose, chome-chome king's game!?",
+      "zh": "輸了就啾咪啾咪，國王遊戲！？"
+    },
+    {
+      "ja": "(Wow Wow Wow Wow)",
+      "romaji": "(Wow Wow Wow Wow)",
+      "en": "(Wow wow wow wow)",
+      "zh": "（Wow Wow Wow Wow）"
+    },
+    {
+      "ja": "のぞいちゃダメ",
+      "romaji": "Nozoicha Dame",
+      "en": "Don't peek",
+      "zh": "不可以偷看"
+    },
+    {
+      "ja": "岩場の陰で　お着替え(あんっ)",
+      "romaji": "Iwaba no Kage de Okigae (An)",
+      "en": "Changing clothes in the shadow of the rocks (ah)",
+      "zh": "在岩石陰影下換衣服（啊）"
+    },
+    {
+      "ja": "乙女の　秘密は",
+      "romaji": "Otome no Himitsu ha",
+      "en": "A maiden's secret is",
+      "zh": "少女的秘密是"
+    },
+    {
+      "ja": "ハラドキ×4",
+      "romaji": "Haradoki ×4",
+      "en": "Heart-racing ×4",
+      "zh": "心驚膽跳 ×4"
+    },
+    {
+      "ja": "いやぁぁぁ～～～～～ん",
+      "romaji": "Iyaaaaaaa~~~~~N",
+      "en": "Nooo~~~~~n",
+      "zh": "不要啦～～～～～"
+    },
+    {
+      "ja": "黄昏の　浜辺で",
+      "romaji": "Tasogare no Hamabe de",
+      "en": "On the twilight beach",
+      "zh": "在黃昏的海邊"
+    },
+    {
+      "ja": "背中合わせた合言葉は　I Need You",
+      "romaji": "Senaka Awaseta Aikotoba ha I Need You",
+      "en": "The password with our backs together is \"I need you\"",
+      "zh": "背靠背的暗語是 I Need You"
+    },
+    {
+      "ja": "波の音が　痺れさせる　火照った身体",
+      "romaji": "Nami no Oto ga Shibiresaseru Hotetta Karada",
+      "en": "The sound of waves numbs my flushed body",
+      "zh": "波浪聲令人酥麻，發燙的身體"
+    },
+    {
+      "ja": "ドキドキ　もう止まんないね",
+      "romaji": "Dokidoki Mou Tomannai ne",
+      "en": "My heartbeat won't stop anymore, will it?",
+      "zh": "心跳已經停不下來了呢"
+    },
+    {
+      "ja": "真夏の奇跡",
+      "romaji": "Manatsu no Kiseki",
+      "en": "A midsummer miracle",
+      "zh": "盛夏的奇蹟"
+    },
+    {
+      "ja": "ちゅわちゅわちゅわちゅわちゅわちゅわちゅ～",
+      "romaji": "Chuwa Chuwa Chuwa Chuwa Chuwa Chuwa Chuu~",
+      "en": "Chuwa chuwa chuwa chuwa chuwa chuwa chuu~",
+      "zh": "啾哇啾哇啾哇啾哇啾哇啾哇啾～"
+    },
+    {
+      "ja": "この声も(ハイ！)　想いも(ハイ！)",
+      "romaji": "Kono Koe mo (Hai!) Omoi mo (Hai!)",
+      "en": "This voice too (yes!), these feelings too (yes!)",
+      "zh": "這個聲音也（嗨！）這份思念也（嗨！）"
+    },
+    {
+      "ja": "夢見た渚の宝物　Shiny Smile(う～Shiny Smile)",
+      "romaji": "Yumemita Nagisa no Takaramono Shiny Smile (U~ Shiny Smile)",
+      "en": "The treasure of the shore I dreamed of—shiny smile (ooh~ shiny smile)",
+      "zh": "夢見的海濱寶物　Shiny Smile（嗚～Shiny Smile）"
+    },
+    {
+      "ja": "時を止めて(ハイ！)　みんなで(ハイ！)　また笑って(ヤー！)",
+      "romaji": "Toki wo Tomete (Hai!) Minna de (Hai!) Mata Waratte (Yaa!)",
+      "en": "Stop time (yes!), everyone together (yes!), laugh again (yeah!)",
+      "zh": "讓時間停止（嗨！）大家一起（嗨！）又笑了（耶！）"
+    },
+    {
+      "ja": "裸足で描いた　ハートマーク",
+      "romaji": "Hadashi de Egaita Haato Maaku",
+      "en": "A heart mark drawn barefoot",
+      "zh": "赤腳描繪的愛心記號"
+    },
+    {
+      "ja": "歌って(FuFu)　遊んで(FuFu)",
+      "romaji": "Utatte (FuFu) Asonde (FuFu)",
+      "en": "Singing (fufu), playing (fufu)",
+      "zh": "歌唱（FuFu）遊玩（FuFu）"
+    },
+    {
+      "ja": "その先へ",
+      "romaji": "Sono Saki e",
+      "en": "To what lies beyond",
+      "zh": "前往那前方"
+    },
+    {
+      "ja": "(せーのっ)",
+      "romaji": "(Seeno)",
+      "en": "(Ready, set)",
+      "zh": "（預備起）"
+    },
+    {
+      "ja": "ぴえん　ぱおん　はにゃん　さまさまっ",
+      "romaji": "Pien Paon Hanyan Sama Sama",
+      "en": "Pien, paon, hanyan—summer, summer!",
+      "zh": "ぴえん　ぱおん　はにゃん，夏天夏天"
+    },
+    {
+      "ja": "「最高の夏にしようねっ♪」",
+      "romaji": "「Saikou no Natsu ni Shiyou ne♪」",
+      "en": "\"Let's make it the best summer, okay♪\"",
+      "zh": "「一起打造最棒的夏天吧♪」"
+    },
+    {
+      "ja": "この海で",
+      "romaji": "Kono Umi de",
+      "en": "In this sea",
+      "zh": "在這片海"
+    }
+  ]
+}

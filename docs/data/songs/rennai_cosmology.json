@@ -1,0 +1,801 @@
+{
+  "meta": {
+    "title": "恋愛コスモロジー",
+    "artist": "ときのそら、AZKi",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "ヒゲドライバー",
+    "lyricist": "ヒゲドライバー",
+    "album": "Futurity Step",
+    "releaseDate": "2023/12/20",
+    "coverUrl": "cover_images/futurity_step",
+    "penlight_color": [
+      "#000000"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/Z9TslEi36ZM?si=pmg2aOh8JOWV-DS3"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "アイガタリネーナ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "コワレチャッテラナビゲーター"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ナンカアイガタリネーナ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "コワレチャッテラナビゲーター"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "こんな真っ暗　海の中"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "外もプライベートも　クルクル回って"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "惚けた惰性に　抵抗もできずに流れてく"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(No No)　相対的に見れば"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(No No)　キミとボクの時間は"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(No No)　違って　なんかボクだけ焦ってた"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ウワウワウワ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "気を抜くとすぐに"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "歪んだ重力場"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "何もかも飲み込んでよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Hey Hey　恋愛コスモロジー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "常識がもうずっとバグってんだ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "果てのない自問自答"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "壊して　キミの引力で"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "バイバイ　テクノロジー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "叡智なんてとっくに超えて　無限に"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Ah"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "愛し合いてぇだけだわ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ゆっくり髪をかき上げる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "キミを見ては鼓動　速くなる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(No No)　ずっと昔から"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(No No)　続く最大の謎を"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(No No)　みんな放置して愛し合ってさ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ウワウワウワ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まったくのゼロから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "生まれたこの感情"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "対称性　破れてんだよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "よう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ねぇねぇ焦燥エントロピー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "なんか知らないうちに　バズってんだ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Hey Hey　恋愛コスモロジー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "常識がもうずっとバグってんだ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "果てのない自問自答"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "壊して　キミの引力で"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "バイバイ　テクノロジー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "こんな思考もほっぽり出して　バカみたいに"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Ah"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "愛し合いてぇだけだわ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "アイガタリネーナ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "コワレチャッテラナビゲーター"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ナンカアイガタリネーナ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "コワレチャッテラナビゲーター"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "アイガタリネーナ",
+      "call": ""
+    },
+    {
+      "lyrics": "コワレチャッテラナビゲーター",
+      "call": ""
+    },
+    {
+      "lyrics": "ナンカアイガタリネーナ",
+      "call": ""
+    },
+    {
+      "lyrics": "コワレチャッテラナビゲーター",
+      "call": ""
+    },
+    {
+      "lyrics": "こんな真っ暗　海の中",
+      "call": ""
+    },
+    {
+      "lyrics": "外もプライベートも　クルクル回って",
+      "call": ""
+    },
+    {
+      "lyrics": "惚けた惰性に　抵抗もできずに流れてく",
+      "call": ""
+    },
+    {
+      "lyrics": "(No No)　相対的に見れば",
+      "call": ""
+    },
+    {
+      "lyrics": "(No No)　キミとボクの時間は",
+      "call": ""
+    },
+    {
+      "lyrics": "(No No)　違って　なんかボクだけ焦ってた",
+      "call": ""
+    },
+    {
+      "lyrics": "ウワウワウワ",
+      "call": ""
+    },
+    {
+      "lyrics": "気を抜くとすぐに",
+      "call": ""
+    },
+    {
+      "lyrics": "歪んだ重力場",
+      "call": ""
+    },
+    {
+      "lyrics": "何もかも飲み込んでよ",
+      "call": ""
+    },
+    {
+      "lyrics": "Hey Hey　恋愛コスモロジー",
+      "call": ""
+    },
+    {
+      "lyrics": "常識がもうずっとバグってんだ",
+      "call": ""
+    },
+    {
+      "lyrics": "果てのない自問自答",
+      "call": ""
+    },
+    {
+      "lyrics": "壊して　キミの引力で",
+      "call": ""
+    },
+    {
+      "lyrics": "バイバイ　テクノロジー",
+      "call": ""
+    },
+    {
+      "lyrics": "叡智なんてとっくに超えて　無限に",
+      "call": ""
+    },
+    {
+      "lyrics": "Ah",
+      "call": ""
+    },
+    {
+      "lyrics": "愛し合いてぇだけだわ",
+      "call": ""
+    },
+    {
+      "lyrics": "ゆっくり髪をかき上げる",
+      "call": ""
+    },
+    {
+      "lyrics": "キミを見ては鼓動　速くなる",
+      "call": ""
+    },
+    {
+      "lyrics": "(No No)　ずっと昔から",
+      "call": ""
+    },
+    {
+      "lyrics": "(No No)　続く最大の謎を",
+      "call": ""
+    },
+    {
+      "lyrics": "(No No)　みんな放置して愛し合ってさ",
+      "call": ""
+    },
+    {
+      "lyrics": "ウワウワウワ",
+      "call": ""
+    },
+    {
+      "lyrics": "まったくのゼロから",
+      "call": ""
+    },
+    {
+      "lyrics": "生まれたこの感情",
+      "call": ""
+    },
+    {
+      "lyrics": "対称性　破れてんだよ",
+      "call": ""
+    },
+    {
+      "lyrics": "よう",
+      "call": ""
+    },
+    {
+      "lyrics": "ねぇねぇ焦燥エントロピー",
+      "call": ""
+    },
+    {
+      "lyrics": "なんか知らないうちに　バズってんだ",
+      "call": ""
+    },
+    {
+      "lyrics": "Hey Hey　恋愛コスモロジー",
+      "call": ""
+    },
+    {
+      "lyrics": "常識がもうずっとバグってんだ",
+      "call": ""
+    },
+    {
+      "lyrics": "果てのない自問自答",
+      "call": ""
+    },
+    {
+      "lyrics": "壊して　キミの引力で",
+      "call": ""
+    },
+    {
+      "lyrics": "バイバイ　テクノロジー",
+      "call": ""
+    },
+    {
+      "lyrics": "こんな思考もほっぽり出して　バカみたいに",
+      "call": ""
+    },
+    {
+      "lyrics": "Ah",
+      "call": ""
+    },
+    {
+      "lyrics": "愛し合いてぇだけだわ",
+      "call": ""
+    },
+    {
+      "lyrics": "アイガタリネーナ",
+      "call": ""
+    },
+    {
+      "lyrics": "コワレチャッテラナビゲーター",
+      "call": ""
+    },
+    {
+      "lyrics": "ナンカアイガタリネーナ",
+      "call": ""
+    },
+    {
+      "lyrics": "コワレチャッテラナビゲーター",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "アイガタリネーナ",
+      "romaji": "Aigatari Neena",
+      "en": "Love-telling Neena",
+      "zh": "愛的故事呢吶"
+    },
+    {
+      "ja": "コワレチャッテラナビゲーター",
+      "romaji": "Kowarechattera Nabigeetaa",
+      "en": "The navigator's broken down",
+      "zh": "壞掉了的導航員"
+    },
+    {
+      "ja": "ナンカアイガタリネーナ",
+      "romaji": "Nanka Aigatari Neena",
+      "en": "Somehow love-telling Neena",
+      "zh": "總覺得愛的故事呢吶"
+    },
+    {
+      "ja": "コワレチャッテラナビゲーター",
+      "romaji": "Kowarechattera Nabigeetaa",
+      "en": "The navigator's broken down",
+      "zh": "壞掉了的導航員"
+    },
+    {
+      "ja": "こんな真っ暗　海の中",
+      "romaji": "Konna Makkura Umi no Naka",
+      "en": "In such a pitch-black sea",
+      "zh": "在如此漆黑的海中"
+    },
+    {
+      "ja": "外もプライベートも　クルクル回って",
+      "romaji": "Soto mo Puraibeeto mo Kurukuru Mawatte",
+      "en": "Both the outside and private life spin round and round",
+      "zh": "外在也好私人也好，都在團團轉"
+    },
+    {
+      "ja": "惚けた惰性に　抵抗もできずに流れてく",
+      "romaji": "Boketa Dasei ni Teikou mo Dekizu ni Nagareteku",
+      "en": "Drifting along, unable to resist the dull inertia",
+      "zh": "無法抵抗痴呆的慣性，隨波逐流"
+    },
+    {
+      "ja": "(No No)　相対的に見れば",
+      "romaji": "(No No) Soutaiteki ni Mireba",
+      "en": "(No, no) Looking at it relatively",
+      "zh": "（No No）從相對的角度來看"
+    },
+    {
+      "ja": "(No No)　キミとボクの時間は",
+      "romaji": "(No No) Kimi to Boku no Jikan ha",
+      "en": "(No, no) Your time and mine",
+      "zh": "（No No）你和我的時間"
+    },
+    {
+      "ja": "(No No)　違って　なんかボクだけ焦ってた",
+      "romaji": "(No No) Chigatte Nanka Boku Dake Asetteta",
+      "en": "(No, no) Are different—somehow only I was impatient",
+      "zh": "（No No）並不相同，總覺得只有我在焦急"
+    },
+    {
+      "ja": "ウワウワウワ",
+      "romaji": "Uwa Uwa Uwa",
+      "en": "Whoa whoa whoa",
+      "zh": "嗚哇嗚哇嗚哇"
+    },
+    {
+      "ja": "気を抜くとすぐに",
+      "romaji": "Ki wo Nuku to Sugu ni",
+      "en": "The moment I let my guard down",
+      "zh": "一鬆懈下來"
+    },
+    {
+      "ja": "歪んだ重力場",
+      "romaji": "Yuganda Juuryokuba",
+      "en": "A distorted gravitational field",
+      "zh": "扭曲的重力場"
+    },
+    {
+      "ja": "何もかも飲み込んでよ",
+      "romaji": "Nanimo Kamo Nomikonde yo",
+      "en": "Swallow everything up",
+      "zh": "把一切都吞噬吧"
+    },
+    {
+      "ja": "Hey Hey　恋愛コスモロジー",
+      "romaji": "Hey Hey Ren'ai Kosumorojii",
+      "en": "Hey, hey—love cosmology",
+      "zh": "Hey Hey，戀愛宇宙論"
+    },
+    {
+      "ja": "常識がもうずっとバグってんだ",
+      "romaji": "Joushiki ga Mou Zutto Bagutten Da",
+      "en": "Common sense has been bugged all along",
+      "zh": "常識早就一直故障了"
+    },
+    {
+      "ja": "果てのない自問自答",
+      "romaji": "Hate no Nai Jimon Jitou",
+      "en": "Endless self-questioning",
+      "zh": "無止盡的自問自答"
+    },
+    {
+      "ja": "壊して　キミの引力で",
+      "romaji": "Kowashite Kimi no Inryoku de",
+      "en": "Break it—with your gravity",
+      "zh": "破壞吧，用你的引力"
+    },
+    {
+      "ja": "バイバイ　テクノロジー",
+      "romaji": "Baibai Tekunorojii",
+      "en": "Bye-bye, technology",
+      "zh": "掰掰，科技"
+    },
+    {
+      "ja": "叡智なんてとっくに超えて　無限に",
+      "romaji": "Eichi Nante Tokkuni Koete Mugen ni",
+      "en": "Far surpassing wisdom—infinitely",
+      "zh": "早已超越了睿智，無限地"
+    },
+    {
+      "ja": "Ah",
+      "romaji": "Ah",
+      "en": "Ah",
+      "zh": "Ah"
+    },
+    {
+      "ja": "愛し合いてぇだけだわ",
+      "romaji": "Aishiaitetee Dake Da wa",
+      "en": "I just want to love each other",
+      "zh": "只是想要相愛罷了"
+    },
+    {
+      "ja": "ゆっくり髪をかき上げる",
+      "romaji": "Yukkuri Kami wo Kakiageru",
+      "en": "Slowly brushing up my hair",
+      "zh": "慢慢地撩起頭髮"
+    },
+    {
+      "ja": "キミを見ては鼓動　速くなる",
+      "romaji": "Kimi wo Mite ha Kodou Hayaku Naru",
+      "en": "Looking at you, my heartbeat quickens",
+      "zh": "看著你，心跳就加速"
+    },
+    {
+      "ja": "(No No)　ずっと昔から",
+      "romaji": "(No No) Zutto Mukashi kara",
+      "en": "(No, no) Since long, long ago",
+      "zh": "（No No）從很久以前開始"
+    },
+    {
+      "ja": "(No No)　続く最大の謎を",
+      "romaji": "(No No) Tsuzuku Saidai no Nazo wo",
+      "en": "(No, no) The greatest mystery that continues",
+      "zh": "（No No）持續存在的最大謎團"
+    },
+    {
+      "ja": "(No No)　みんな放置して愛し合ってさ",
+      "romaji": "(No No) Minna Houchi Shite Aishiatte sa",
+      "en": "(No, no) Everyone leaves it alone and loves each other",
+      "zh": "（No No）大家都擱置不管，只管相愛"
+    },
+    {
+      "ja": "ウワウワウワ",
+      "romaji": "Uwa Uwa Uwa",
+      "en": "Whoa whoa whoa",
+      "zh": "嗚哇嗚哇嗚哇"
+    },
+    {
+      "ja": "まったくのゼロから",
+      "romaji": "Mattaku no Zero kara",
+      "en": "From absolutely zero",
+      "zh": "從完全的零開始"
+    },
+    {
+      "ja": "生まれたこの感情",
+      "romaji": "Umareta Kono Kanjou",
+      "en": "This emotion that was born",
+      "zh": "誕生的這份情感"
+    },
+    {
+      "ja": "対称性　破れてんだよ",
+      "romaji": "Taishousei Yaburetten Da yo",
+      "en": "Symmetry is broken, you know",
+      "zh": "對稱性已經被打破了"
+    },
+    {
+      "ja": "よう",
+      "romaji": "You",
+      "en": "Yo",
+      "zh": "唷"
+    },
+    {
+      "ja": "ねぇねぇ焦燥エントロピー",
+      "romaji": "Nee Nee Shousou Entoropii",
+      "en": "Hey, hey—impatience entropy",
+      "zh": "吶吶，焦躁熵"
+    },
+    {
+      "ja": "なんか知らないうちに　バズってんだ",
+      "romaji": "Nanka Shiranai Uchi ni Bazutten Da",
+      "en": "Somehow, before I knew it, it's buzzing",
+      "zh": "不知不覺間就爆紅了"
+    },
+    {
+      "ja": "Hey Hey　恋愛コスモロジー",
+      "romaji": "Hey Hey Ren'ai Kosumorojii",
+      "en": "Hey, hey—love cosmology",
+      "zh": "Hey Hey，戀愛宇宙論"
+    },
+    {
+      "ja": "常識がもうずっとバグってんだ",
+      "romaji": "Joushiki ga Mou Zutto Bagutten Da",
+      "en": "Common sense has been bugged all along",
+      "zh": "常識早就一直故障了"
+    },
+    {
+      "ja": "果てのない自問自答",
+      "romaji": "Hate no Nai Jimon Jitou",
+      "en": "Endless self-questioning",
+      "zh": "無止盡的自問自答"
+    },
+    {
+      "ja": "壊して　キミの引力で",
+      "romaji": "Kowashite Kimi no Inryoku de",
+      "en": "Break it—with your gravity",
+      "zh": "破壞吧，用你的引力"
+    },
+    {
+      "ja": "バイバイ　テクノロジー",
+      "romaji": "Baibai Tekunorojii",
+      "en": "Bye-bye, technology",
+      "zh": "掰掰，科技"
+    },
+    {
+      "ja": "こんな思考もほっぽり出して　バカみたいに",
+      "romaji": "Konna Shikou mo Hopporidashite Baka Mitai ni",
+      "en": "Tossing aside even these thoughts—like a fool",
+      "zh": "連這樣的思考也扔到一邊，像個傻瓜一樣"
+    },
+    {
+      "ja": "Ah",
+      "romaji": "Ah",
+      "en": "Ah",
+      "zh": "Ah"
+    },
+    {
+      "ja": "愛し合いてぇだけだわ",
+      "romaji": "Aishiaitetee Dake Da wa",
+      "en": "I just want to love each other",
+      "zh": "只是想要相愛罷了"
+    },
+    {
+      "ja": "アイガタリネーナ",
+      "romaji": "Aigatari Neena",
+      "en": "Love-telling Neena",
+      "zh": "愛的故事呢吶"
+    },
+    {
+      "ja": "コワレチャッテラナビゲーター",
+      "romaji": "Kowarechattera Nabigeetaa",
+      "en": "The navigator's broken down",
+      "zh": "壞掉了的導航員"
+    },
+    {
+      "ja": "ナンカアイガタリネーナ",
+      "romaji": "Nanka Aigatari Neena",
+      "en": "Somehow love-telling Neena",
+      "zh": "總覺得愛的故事呢吶"
+    },
+    {
+      "ja": "コワレチャッテラナビゲーター",
+      "romaji": "Kowarechattera Nabigeetaa",
+      "en": "The navigator's broken down",
+      "zh": "壞掉了的導航員"
+    }
+  ]
+}

@@ -1,0 +1,857 @@
+{
+  "meta": {
+    "title": "いけないんだ",
+    "artist": "ときのそら、AZKi",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "渡辺和紀",
+    "lyricist": "渡辺和紀",
+    "album": "Futurity Step",
+    "releaseDate": "2023/12/20",
+    "coverUrl": "cover_images/futurity_step",
+    "penlight_color": [
+      "#000000"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/OzbDqF2Y0pA?si=-ObHp9aU3WU0rWW0"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "いけないんだ　もう知らない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "uh　いけないんだ do you know？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "行けないんだ　もう知らない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "好き？　と思わせて素気なく..."
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "からかわれてるよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もう知らない(怒)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "マニュアル通りのカケヒキしてないでさ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "こっち向いてその気になってよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ひどいじゃない　ずるいじゃない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "かなり好きなんだけど"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "こっちから言わせないで Ah"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いけないんだ　いけないんだ　ダメって"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もう！わかってる！？わかってない！？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "多分君のせいだよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "意地悪いのも素直じゃないのも　あ～あ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "君のせいだ "
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "君のせいだ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いけないんだ　もう知らない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "uh　いけないんだ do you know？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "行けないんだ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "好き過ぎるのも fair じゃない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "勘違いさせないで"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "興味ないなら"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "現状維持でいいとか思ってないよね？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "それとも全く関心ないの？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「アレして！　コレして！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "そう言ってやりたいけど"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "“好き”は君が言うべき Ah"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ダメだよ　ダメだって　そんなんじゃ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もう呆れて疲れちゃう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "進まない片思い"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "歯痒くてさ　ジタバタしちゃう　あ～あ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もういいや"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もういいや "
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "何か(なんか)　何か(なんか)　何か(なんか)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "片思いっていいね　始まりそうな予感"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ちゃんとして　ハッキリして Ah"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いけないんだ　いけないんだ　ダメって"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もう！わかってる！？わかってない！？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "多分君のせいだよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "意地悪いのも　素直じゃないのも Ah"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ダメだよ　ダメだって　そんなんじゃ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もう呆れて疲れちゃう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "進まない片思い"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "歯痒くてさ　ジタバタしちゃう　あ～あ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いけないんだ　行けないんだ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "woo..　好きと言ってよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "woo..　say！ say！ say！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "woo..　もう知らない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "woo.."
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "いけないんだ　もう知らない",
+      "call": ""
+    },
+    {
+      "lyrics": "uh　いけないんだ do you know？",
+      "call": ""
+    },
+    {
+      "lyrics": "行けないんだ　もう知らない",
+      "call": ""
+    },
+    {
+      "lyrics": "好き？　と思わせて素気なく...",
+      "call": ""
+    },
+    {
+      "lyrics": "からかわれてるよ",
+      "call": ""
+    },
+    {
+      "lyrics": "もう知らない(怒)",
+      "call": ""
+    },
+    {
+      "lyrics": "マニュアル通りのカケヒキしてないでさ",
+      "call": ""
+    },
+    {
+      "lyrics": "こっち向いてその気になってよ",
+      "call": ""
+    },
+    {
+      "lyrics": "ひどいじゃない　ずるいじゃない",
+      "call": ""
+    },
+    {
+      "lyrics": "かなり好きなんだけど",
+      "call": ""
+    },
+    {
+      "lyrics": "こっちから言わせないで Ah",
+      "call": ""
+    },
+    {
+      "lyrics": "いけないんだ　いけないんだ　ダメって",
+      "call": ""
+    },
+    {
+      "lyrics": "もう！わかってる！？わかってない！？",
+      "call": ""
+    },
+    {
+      "lyrics": "多分君のせいだよ",
+      "call": ""
+    },
+    {
+      "lyrics": "意地悪いのも素直じゃないのも　あ～あ",
+      "call": ""
+    },
+    {
+      "lyrics": "君のせいだ ",
+      "call": ""
+    },
+    {
+      "lyrics": "君のせいだ",
+      "call": ""
+    },
+    {
+      "lyrics": "いけないんだ　もう知らない",
+      "call": ""
+    },
+    {
+      "lyrics": "uh　いけないんだ do you know？",
+      "call": ""
+    },
+    {
+      "lyrics": "行けないんだ",
+      "call": ""
+    },
+    {
+      "lyrics": "好き過ぎるのも fair じゃない",
+      "call": ""
+    },
+    {
+      "lyrics": "勘違いさせないで",
+      "call": ""
+    },
+    {
+      "lyrics": "興味ないなら",
+      "call": ""
+    },
+    {
+      "lyrics": "現状維持でいいとか思ってないよね？",
+      "call": ""
+    },
+    {
+      "lyrics": "それとも全く関心ないの？",
+      "call": ""
+    },
+    {
+      "lyrics": "「アレして！　コレして！」",
+      "call": ""
+    },
+    {
+      "lyrics": "そう言ってやりたいけど",
+      "call": ""
+    },
+    {
+      "lyrics": "“好き”は君が言うべき Ah",
+      "call": ""
+    },
+    {
+      "lyrics": "ダメだよ　ダメだって　そんなんじゃ",
+      "call": ""
+    },
+    {
+      "lyrics": "もう呆れて疲れちゃう",
+      "call": ""
+    },
+    {
+      "lyrics": "進まない片思い",
+      "call": ""
+    },
+    {
+      "lyrics": "歯痒くてさ　ジタバタしちゃう　あ～あ",
+      "call": ""
+    },
+    {
+      "lyrics": "もういいや",
+      "call": ""
+    },
+    {
+      "lyrics": "もういいや ",
+      "call": ""
+    },
+    {
+      "lyrics": "何か(なんか)　何か(なんか)　何か(なんか)",
+      "call": ""
+    },
+    {
+      "lyrics": "片思いっていいね　始まりそうな予感",
+      "call": ""
+    },
+    {
+      "lyrics": "ちゃんとして　ハッキリして Ah",
+      "call": ""
+    },
+    {
+      "lyrics": "いけないんだ　いけないんだ　ダメって",
+      "call": ""
+    },
+    {
+      "lyrics": "もう！わかってる！？わかってない！？",
+      "call": ""
+    },
+    {
+      "lyrics": "多分君のせいだよ",
+      "call": ""
+    },
+    {
+      "lyrics": "意地悪いのも　素直じゃないのも Ah",
+      "call": ""
+    },
+    {
+      "lyrics": "ダメだよ　ダメだって　そんなんじゃ",
+      "call": ""
+    },
+    {
+      "lyrics": "もう呆れて疲れちゃう",
+      "call": ""
+    },
+    {
+      "lyrics": "進まない片思い",
+      "call": ""
+    },
+    {
+      "lyrics": "歯痒くてさ　ジタバタしちゃう　あ～あ",
+      "call": ""
+    },
+    {
+      "lyrics": "いけないんだ　行けないんだ",
+      "call": ""
+    },
+    {
+      "lyrics": "woo..　好きと言ってよ",
+      "call": ""
+    },
+    {
+      "lyrics": "woo..　say！ say！ say！",
+      "call": ""
+    },
+    {
+      "lyrics": "woo..　もう知らない",
+      "call": ""
+    },
+    {
+      "lyrics": "woo..",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "いけないんだ　もう知らない",
+      "romaji": "Ikenai n Da Mou Shiranai",
+      "en": "This is wrong—I don't care anymore",
+      "zh": "這樣不行啦，我不管了"
+    },
+    {
+      "ja": "uh　いけないんだ do you know？",
+      "romaji": "Uh Ikenai n Da Do You Know?",
+      "en": "Uh, this is wrong—do you know?",
+      "zh": "uh，這樣不行 do you know？"
+    },
+    {
+      "ja": "行けないんだ　もう知らない",
+      "romaji": "Ikenai n Da Mou Shiranai",
+      "en": "I can't go—I don't care anymore",
+      "zh": "去不了啦，我不管了"
+    },
+    {
+      "ja": "好き？　と思わせて素気なく...",
+      "romaji": "Suki? to Omowasete Sokenaku...",
+      "en": "Making me think you like me, then acting cold...",
+      "zh": "讓我以為你喜歡我，卻又冷淡以待……"
+    },
+    {
+      "ja": "からかわれてるよ",
+      "romaji": "Karakawareteru yo",
+      "en": "You're teasing me",
+      "zh": "你在捉弄我吧"
+    },
+    {
+      "ja": "もう知らない(怒)",
+      "romaji": "Mou Shiranai (Ika)",
+      "en": "I don't care anymore (angry)",
+      "zh": "我不管了（怒）"
+    },
+    {
+      "ja": "マニュアル通りのカケヒキしてないでさ",
+      "romaji": "Manyuaru Doori no Kakehiki Shitenai de sa",
+      "en": "Don't play by-the-book love games",
+      "zh": "別照著手冊耍心機了"
+    },
+    {
+      "ja": "こっち向いてその気になってよ",
+      "romaji": "Kocchi Muite Sono Ki ni Natte yo",
+      "en": "Face this way and fall for me already",
+      "zh": "看向這邊，認真一點啊"
+    },
+    {
+      "ja": "ひどいじゃない　ずるいじゃない",
+      "romaji": "Hidoi ja Nai Zurui ja Nai",
+      "en": "Isn't that cruel? Isn't that unfair?",
+      "zh": "不是很過分嗎？不是很狡猾嗎？"
+    },
+    {
+      "ja": "かなり好きなんだけど",
+      "romaji": "Kanari Suki na n Da kedo",
+      "en": "I like you quite a lot, you know",
+      "zh": "我可是相當喜歡你的"
+    },
+    {
+      "ja": "こっちから言わせないで Ah",
+      "romaji": "Kocchi kara Iwasenai de Ah",
+      "en": "Don't make me be the one to say it—ah",
+      "zh": "別讓我先說出口啊 Ah"
+    },
+    {
+      "ja": "いけないんだ　いけないんだ　ダメって",
+      "romaji": "Ikenai n Da Ikenai n Da Dame tte",
+      "en": "This is wrong, this is wrong—you say it's no good",
+      "zh": "不行啦、不行啦，說什麼不可以"
+    },
+    {
+      "ja": "もう！わかってる！？わかってない！？",
+      "romaji": "Mou! Wakatteru!? Wakattenai!?",
+      "en": "Geez! Do you get it!? You don't get it!?",
+      "zh": "真是的！你懂嗎！？不懂嗎！？"
+    },
+    {
+      "ja": "多分君のせいだよ",
+      "romaji": "Tabun Kimi no Sei Da yo",
+      "en": "It's probably your fault",
+      "zh": "大概都是你害的啦"
+    },
+    {
+      "ja": "意地悪いのも素直じゃないのも　あ～あ",
+      "romaji": "Ijiwarui no mo Sunao ja Nai no mo Aa",
+      "en": "Both your mean streak and your stubbornness—ah~ah",
+      "zh": "不管是壞心眼還是不坦率，啊～啊"
+    },
+    {
+      "ja": "君のせいだ",
+      "romaji": "Kimi no Sei Da",
+      "en": "It's your fault",
+      "zh": "都是你害的"
+    },
+    {
+      "ja": "君のせいだ",
+      "romaji": "Kimi no Sei Da",
+      "en": "It's your fault",
+      "zh": "都是你害的"
+    },
+    {
+      "ja": "いけないんだ　もう知らない",
+      "romaji": "Ikenai n Da Mou Shiranai",
+      "en": "This is wrong—I don't care anymore",
+      "zh": "這樣不行啦，我不管了"
+    },
+    {
+      "ja": "uh　いけないんだ do you know？",
+      "romaji": "Uh Ikenai n Da Do You Know?",
+      "en": "Uh, this is wrong—do you know?",
+      "zh": "uh，這樣不行 do you know？"
+    },
+    {
+      "ja": "行けないんだ",
+      "romaji": "Ikenai n Da",
+      "en": "I can't go",
+      "zh": "去不了啦"
+    },
+    {
+      "ja": "好き過ぎるのも fair じゃない",
+      "romaji": "Suki Sugiru no mo Fair ja Nai",
+      "en": "Loving too much isn't fair either",
+      "zh": "太喜歡了也不公平"
+    },
+    {
+      "ja": "勘違いさせないで",
+      "romaji": "Kanchigai Sasenai de",
+      "en": "Don't make me misunderstand",
+      "zh": "別讓我誤會"
+    },
+    {
+      "ja": "興味ないなら",
+      "romaji": "Kyoumi Nai Nara",
+      "en": "If you're not interested",
+      "zh": "如果不感興趣的話"
+    },
+    {
+      "ja": "現状維持でいいとか思ってないよね？",
+      "romaji": "Genjou Iji de Ii to ka Omottenai yo ne?",
+      "en": "You don't think keeping the status quo is fine, right?",
+      "zh": "你不會覺得維持現狀就好吧？"
+    },
+    {
+      "ja": "それとも全く関心ないの？",
+      "romaji": "Sore tomo Mattaku Kanshin Nai no?",
+      "en": "Or do you have no interest at all?",
+      "zh": "還是說完全不在意？"
+    },
+    {
+      "ja": "「アレして！　コレして！」",
+      "romaji": "「Are Shite! Kore Shite!」",
+      "en": "\"Do that! Do this!\"",
+      "zh": "「做那個！做這個！」"
+    },
+    {
+      "ja": "そう言ってやりたいけど",
+      "romaji": "Sou Itte Yaritai kedo",
+      "en": "I want to say that to you, but",
+      "zh": "雖然想這麼對你說"
+    },
+    {
+      "ja": "“好き”は君が言うべき Ah",
+      "romaji": "\"Suki\" ha Kimi ga Iu beki Ah",
+      "en": "\"I like you\" is something you should say—ah",
+      "zh": "「喜歡」應該由你來說啊 Ah"
+    },
+    {
+      "ja": "ダメだよ　ダメだって　そんなんじゃ",
+      "romaji": "Dame Da yo Dame Datte Sonna n ja",
+      "en": "It's no good—it's no good like that",
+      "zh": "不行啦，不行啦，那樣的話"
+    },
+    {
+      "ja": "もう呆れて疲れちゃう",
+      "romaji": "Mou Akirete Tsukarechau",
+      "en": "I'm exasperated and exhausted",
+      "zh": "已經傻眼到累了"
+    },
+    {
+      "ja": "進まない片思い",
+      "romaji": "Susumanai Kataomoi",
+      "en": "An unrequited love that won't progress",
+      "zh": "毫無進展的單戀"
+    },
+    {
+      "ja": "歯痒くてさ　ジタバタしちゃう　あ～あ",
+      "romaji": "Hagayukute sa Jitabata Shichau Aa",
+      "en": "It's so frustrating, I end up flailing—ah~ah",
+      "zh": "令人心急，忍不住手忙腳亂，啊～啊"
+    },
+    {
+      "ja": "もういいや",
+      "romaji": "Mou Ii ya",
+      "en": "Whatever, never mind",
+      "zh": "算了啦"
+    },
+    {
+      "ja": "もういいや",
+      "romaji": "Mou Ii ya",
+      "en": "Whatever, never mind",
+      "zh": "算了啦"
+    },
+    {
+      "ja": "何か(なんか)　何か(なんか)　何か(なんか)",
+      "romaji": "Nanka Nanka Nanka",
+      "en": "Something, something, something",
+      "zh": "總覺得、總覺得、總覺得"
+    },
+    {
+      "ja": "片思いっていいね　始まりそうな予感",
+      "romaji": "Kataomoi tte Ii ne Hajimarisou na Yokan",
+      "en": "Unrequited love is nice, isn't it? A premonition that it might begin",
+      "zh": "單戀也不錯呢，有種即將開始的預感"
+    },
+    {
+      "ja": "ちゃんとして　ハッキリして Ah",
+      "romaji": "Chanto Shite Hakkiri Shite Ah",
+      "en": "Get it together, be clear—ah",
+      "zh": "好好振作，說清楚啊 Ah"
+    },
+    {
+      "ja": "いけないんだ　いけないんだ　ダメって",
+      "romaji": "Ikenai n Da Ikenai n Da Dame tte",
+      "en": "This is wrong, this is wrong—you say it's no good",
+      "zh": "不行啦、不行啦，說什麼不可以"
+    },
+    {
+      "ja": "もう！わかってる！？わかってない！？",
+      "romaji": "Mou! Wakatteru!? Wakattenai!?",
+      "en": "Geez! Do you get it!? You don't get it!?",
+      "zh": "真是的！你懂嗎！？不懂嗎！？"
+    },
+    {
+      "ja": "多分君のせいだよ",
+      "romaji": "Tabun Kimi no Sei Da yo",
+      "en": "It's probably your fault",
+      "zh": "大概都是你害的啦"
+    },
+    {
+      "ja": "意地悪いのも　素直じゃないのも Ah",
+      "romaji": "Ijiwarui no mo Sunao ja Nai no mo Ah",
+      "en": "Both your mean streak and your stubbornness—ah",
+      "zh": "不管是壞心眼還是不坦率 Ah"
+    },
+    {
+      "ja": "ダメだよ　ダメだって　そんなんじゃ",
+      "romaji": "Dame Da yo Dame Datte Sonna n ja",
+      "en": "It's no good—it's no good like that",
+      "zh": "不行啦，不行啦，那樣的話"
+    },
+    {
+      "ja": "もう呆れて疲れちゃう",
+      "romaji": "Mou Akirete Tsukarechau",
+      "en": "I'm exasperated and exhausted",
+      "zh": "已經傻眼到累了"
+    },
+    {
+      "ja": "進まない片思い",
+      "romaji": "Susumanai Kataomoi",
+      "en": "An unrequited love that won't progress",
+      "zh": "毫無進展的單戀"
+    },
+    {
+      "ja": "歯痒くてさ　ジタバタしちゃう　あ～あ",
+      "romaji": "Hagayukute sa Jitabata Shichau Aa",
+      "en": "It's so frustrating, I end up flailing—ah~ah",
+      "zh": "令人心急，忍不住手忙腳亂，啊～啊"
+    },
+    {
+      "ja": "いけないんだ　行けないんだ",
+      "romaji": "Ikenai n Da Ikenai n Da",
+      "en": "This is wrong—I can't go",
+      "zh": "這樣不行啦，去不了啦"
+    },
+    {
+      "ja": "woo..　好きと言ってよ",
+      "romaji": "Woo.. Suki to Itte yo",
+      "en": "Woo.. Say you like me",
+      "zh": "woo.. 說你喜歡我啊"
+    },
+    {
+      "ja": "woo..　say！ say！ say！",
+      "romaji": "Woo.. Say! Say! Say!",
+      "en": "Woo.. say! say! say!",
+      "zh": "woo.. say！say！say！"
+    },
+    {
+      "ja": "woo..　もう知らない",
+      "romaji": "Woo.. Mou Shiranai",
+      "en": "Woo.. I don't care anymore",
+      "zh": "woo.. 我不管了"
+    },
+    {
+      "ja": "woo..",
+      "romaji": "Woo..",
+      "en": "Woo..",
+      "zh": "woo.."
+    }
+  ]
+}

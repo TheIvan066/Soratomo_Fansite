@@ -1,0 +1,941 @@
+{
+  "meta": {
+    "title": "ホロライブ言えるかな？",
+    "artist": "hololive IDOL PROJECT",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "角巻吟遊詩人団",
+    "lyricist": "角巻吟遊詩人団",
+    "album": "ホロライブ言えるかな？",
+    "releaseDate": "2019/03/22",
+    "coverUrl": "cover_images/hololive_ierukana",
+    "penlight_color": [
+      "#000000"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/QNW7yHDYldY?si=L7e4J5JQw20EBblv"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "ドドドドドー！！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "角巻わためプレゼンツ　ホロライブ言えるかな！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "それでは元気に行ってみよう！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "みんな元気？ときのそら　ロボ子さん　さくらみこ　星街すいせい　AZKi"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(はい！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "アキ・ローゼンタール　赤井はあと　白上フブキ　わっしょい！夏色まつり"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(さあさあおいで二期生！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "湊あくあ　紫咲シオン　百鬼あやめ　癒月ちょこ　大空スバル"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(続いてはホロライブゲーマーズ！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "白上フブキ　大神ミオ　猫又おかゆ　戌神ころね"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(Can You Do the hololive？)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ほらみんなでホロライブ　仲間が増えていく"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "届けよう大声で　笑顔になれたかな"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まだここはゴールではないから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(ホロライブファンタジー)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "兎田ぺこらぺこ！　不知火フレア　白銀ノエル　宝鐘マリンですぅ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(ホロふぉーす)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "へい！天音かなた　角巻わため　常闇トワ　姫森ルーナ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(ねぽらぼ！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "雪花ラミィ　桃鈴ねね　獅白ぼたん　尾丸ポルカ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(みんなで一緒に holoX！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ラプラス・ダークネス　鷹嶺ルイ　博衣こより　沙花叉クロヱ　風真いろは"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(続いてはホロライブID！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "アユンダ・リス　ムーナ・ホシノヴァ　アイラニ・イオフィフティーン"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "クレイジー・オリー　アーニャ・メルフィッサ　パヴォリア・レイネ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ベスティア・ゼータ　カエラ・コヴァルスキア　こぼ・かなえる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(Bisakah kamu melafalkan hololive？)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(Let's sing together)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ほらみんなでホロライブ　仲間が増えていく"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "届けよう大声で　笑顔になれたかな"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まだここはゴールではないから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まだまだたくさんの仲間がいるね？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "そうっ！せーっの！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(ホロライブEnglish！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "森カリオペです　小鳥遊キアラ　一伊那尓栖　がうる・ぐら"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ワトソン・アメリア"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(Hey come on Promise！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "HiRyS！ It's IRyS！　セレス・ファウナ　オーロ・クロニー　七詩ムメイ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ハコス・ベールズ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(Come here Advent)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "シオリ・ノヴェラ　古石ビジュー　ネリッサ・レイヴンクロフトよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "チワワじゃないよフワワだよ　フワワじゃないよモココだよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "フワワ・モココ・アビスガード"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(and hololive DEV_IS ReGLOSS)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "じゃじゃーん火威青です　音乃瀬奏です　一条莉々華だよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "儒烏風亭らでんでございます　ぶんぶんぶーん轟はじめ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(さあみんなでご一緒に！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(Can You Do the hololive？)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ほらみんなでホロライブ　仲間が増えていく"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "届けよう大声で　笑顔になれたかな"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まだここはゴールではないから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "たくさんの思い出と　仲間が増えていく"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "届けよう泣いてもね　笑顔になれるはず"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ほらここがスタートになるから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ララララ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まだここはゴールではないから"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": ""
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "ドドドドドー！！",
+      "call": ""
+    },
+    {
+      "lyrics": "角巻わためプレゼンツ　ホロライブ言えるかな！",
+      "call": ""
+    },
+    {
+      "lyrics": "それでは元気に行ってみよう！",
+      "call": ""
+    },
+    {
+      "lyrics": "みんな元気？ときのそら　ロボ子さん　さくらみこ　星街すいせい　AZKi",
+      "call": ""
+    },
+    {
+      "lyrics": "(はい！)",
+      "call": ""
+    },
+    {
+      "lyrics": "アキ・ローゼンタール　赤井はあと　白上フブキ　わっしょい！夏色まつり",
+      "call": ""
+    },
+    {
+      "lyrics": "(さあさあおいで二期生！)",
+      "call": ""
+    },
+    {
+      "lyrics": "湊あくあ　紫咲シオン　百鬼あやめ　癒月ちょこ　大空スバル",
+      "call": ""
+    },
+    {
+      "lyrics": "(続いてはホロライブゲーマーズ！)",
+      "call": ""
+    },
+    {
+      "lyrics": "白上フブキ　大神ミオ　猫又おかゆ　戌神ころね",
+      "call": ""
+    },
+    {
+      "lyrics": "(Can You Do the hololive？)",
+      "call": ""
+    },
+    {
+      "lyrics": "ほらみんなでホロライブ　仲間が増えていく",
+      "call": ""
+    },
+    {
+      "lyrics": "届けよう大声で　笑顔になれたかな",
+      "call": ""
+    },
+    {
+      "lyrics": "まだここはゴールではないから",
+      "call": ""
+    },
+    {
+      "lyrics": "(ホロライブファンタジー)",
+      "call": ""
+    },
+    {
+      "lyrics": "兎田ぺこらぺこ！　不知火フレア　白銀ノエル　宝鐘マリンですぅ",
+      "call": ""
+    },
+    {
+      "lyrics": "(ホロふぉーす)",
+      "call": ""
+    },
+    {
+      "lyrics": "へい！天音かなた　角巻わため　常闇トワ　姫森ルーナ",
+      "call": ""
+    },
+    {
+      "lyrics": "(ねぽらぼ！)",
+      "call": ""
+    },
+    {
+      "lyrics": "雪花ラミィ　桃鈴ねね　獅白ぼたん　尾丸ポルカ",
+      "call": ""
+    },
+    {
+      "lyrics": "(みんなで一緒に holoX！)",
+      "call": ""
+    },
+    {
+      "lyrics": "ラプラス・ダークネス　鷹嶺ルイ　博衣こより　沙花叉クロヱ　風真いろは",
+      "call": ""
+    },
+    {
+      "lyrics": "(続いてはホロライブID！)",
+      "call": ""
+    },
+    {
+      "lyrics": "アユンダ・リス　ムーナ・ホシノヴァ　アイラニ・イオフィフティーン",
+      "call": ""
+    },
+    {
+      "lyrics": "クレイジー・オリー　アーニャ・メルフィッサ　パヴォリア・レイネ",
+      "call": ""
+    },
+    {
+      "lyrics": "ベスティア・ゼータ　カエラ・コヴァルスキア　こぼ・かなえる",
+      "call": ""
+    },
+    {
+      "lyrics": "(Bisakah kamu melafalkan hololive？)",
+      "call": ""
+    },
+    {
+      "lyrics": "(Let's sing together)",
+      "call": ""
+    },
+    {
+      "lyrics": "ほらみんなでホロライブ　仲間が増えていく",
+      "call": ""
+    },
+    {
+      "lyrics": "届けよう大声で　笑顔になれたかな",
+      "call": ""
+    },
+    {
+      "lyrics": "まだここはゴールではないから",
+      "call": ""
+    },
+    {
+      "lyrics": "まだまだたくさんの仲間がいるね？",
+      "call": ""
+    },
+    {
+      "lyrics": "そうっ！せーっの！",
+      "call": ""
+    },
+    {
+      "lyrics": "(ホロライブEnglish！)",
+      "call": ""
+    },
+    {
+      "lyrics": "森カリオペです　小鳥遊キアラ　一伊那尓栖　がうる・ぐら",
+      "call": ""
+    },
+    {
+      "lyrics": "ワトソン・アメリア",
+      "call": ""
+    },
+    {
+      "lyrics": "(Hey come on Promise！)",
+      "call": ""
+    },
+    {
+      "lyrics": "HiRyS！ It's IRyS！　セレス・ファウナ　オーロ・クロニー　七詩ムメイ",
+      "call": ""
+    },
+    {
+      "lyrics": "ハコス・ベールズ",
+      "call": ""
+    },
+    {
+      "lyrics": "(Come here Advent)",
+      "call": ""
+    },
+    {
+      "lyrics": "シオリ・ノヴェラ　古石ビジュー　ネリッサ・レイヴンクロフトよ",
+      "call": ""
+    },
+    {
+      "lyrics": "チワワじゃないよフワワだよ　フワワじゃないよモココだよ",
+      "call": ""
+    },
+    {
+      "lyrics": "フワワ・モココ・アビスガード",
+      "call": ""
+    },
+    {
+      "lyrics": "(and hololive DEV_IS ReGLOSS)",
+      "call": ""
+    },
+    {
+      "lyrics": "じゃじゃーん火威青です　音乃瀬奏です　一条莉々華だよ",
+      "call": ""
+    },
+    {
+      "lyrics": "儒烏風亭らでんでございます　ぶんぶんぶーん轟はじめ",
+      "call": ""
+    },
+    {
+      "lyrics": "(さあみんなでご一緒に！)",
+      "call": ""
+    },
+    {
+      "lyrics": "(Can You Do the hololive？)",
+      "call": ""
+    },
+    {
+      "lyrics": "ほらみんなでホロライブ　仲間が増えていく",
+      "call": ""
+    },
+    {
+      "lyrics": "届けよう大声で　笑顔になれたかな",
+      "call": ""
+    },
+    {
+      "lyrics": "まだここはゴールではないから",
+      "call": ""
+    },
+    {
+      "lyrics": "たくさんの思い出と　仲間が増えていく",
+      "call": ""
+    },
+    {
+      "lyrics": "届けよう泣いてもね　笑顔になれるはず",
+      "call": ""
+    },
+    {
+      "lyrics": "ほらここがスタートになるから",
+      "call": ""
+    },
+    {
+      "lyrics": "ララララ",
+      "call": ""
+    },
+    {
+      "lyrics": "まだここはゴールではないから",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "ドドドドドー！！",
+      "romaji": "Dododododoo!!",
+      "en": "Do-do-do-do-do!!",
+      "zh": "咚咚咚咚咚！！"
+    },
+    {
+      "ja": "角巻わためプレゼンツ　ホロライブ言えるかな！",
+      "romaji": "Tsunomaki Watame Purezentsu Hororaibu Ieru Kana!",
+      "en": "Presented by Tsunomaki Watame—Can you say hololive!",
+      "zh": "角卷綿芽呈獻，你能說出 hololive 嗎！"
+    },
+    {
+      "ja": "それでは元気に行ってみよう！",
+      "romaji": "Sore de ha Genki ni Itte Miyou!",
+      "en": "Now then, let's go energetically!",
+      "zh": "那麼就活力滿滿地開始吧！"
+    },
+    {
+      "ja": "みんな元気？ときのそら　ロボ子さん　さくらみこ　星街すいせい　AZKi",
+      "romaji": "Minna Genki? Tokino Sora Roboko San Sakura Miko Hoshimachi Suisei AZKi",
+      "en": "Everyone doing well? Tokino Sora, Roboco-san, Sakura Miko, Hoshimachi Suisei, AZKi",
+      "zh": "大家還好嗎？時乃空、蘿蔔子、櫻巫女、星街彗星、AZKi"
+    },
+    {
+      "ja": "(はい！)",
+      "romaji": "(Hai!)",
+      "en": "(Yes!)",
+      "zh": "（是！）"
+    },
+    {
+      "ja": "アキ・ローゼンタール　赤井はあと　白上フブキ　わっしょい！夏色まつり",
+      "romaji": "Aki Roozentaaru Akai Haato Shirakami Fubuki Wasshoi! Natsuiro Matsuri",
+      "en": "Aki Rosenthal, Akai Haato, Shirakami Fubuki—heave-ho! Natsuiro Matsuri",
+      "zh": "秋・羅森塔爾、赤井心、白上吹雪，嘿咻！夏色祭"
+    },
+    {
+      "ja": "(さあさあおいで二期生！)",
+      "romaji": "(Saa Saa Oide Nikisei!)",
+      "en": "(Come on, come on, second generation!)",
+      "zh": "（來吧來吧，二期生！）"
+    },
+    {
+      "ja": "湊あくあ　紫咲シオン　百鬼あやめ　癒月ちょこ　大空スバル",
+      "romaji": "Minato Aqua Murasaki Shion Nakiri Ayame Yuzuki Choco Oozora Subaru",
+      "en": "Minato Aqua, Murasaki Shion, Nakiri Ayame, Yuzuki Choco, Oozora Subaru",
+      "zh": "湊阿庫婭、紫咲詩音、百鬼綾目、癒月巧可、大空昴"
+    },
+    {
+      "ja": "(続いてはホロライブゲーマーズ！)",
+      "romaji": "(Tsuzuite ha Hororaibu Geemaazu!)",
+      "en": "(Next up, hololive Gamers!)",
+      "zh": "（接下來是 hololive Gamers！）"
+    },
+    {
+      "ja": "白上フブキ　大神ミオ　猫又おかゆ　戌神ころね",
+      "romaji": "Shirakami Fubuki Ookami Mio Nekomata Okayu Inugami Korone",
+      "en": "Shirakami Fubuki, Ookami Mio, Nekomata Okayu, Inugami Korone",
+      "zh": "白上吹雪、大神澪、貓又小粥、戌神沁音"
+    },
+    {
+      "ja": "(Can You Do the hololive？)",
+      "romaji": "(Can You Do the Hololive?)",
+      "en": "(Can you do the hololive?)",
+      "zh": "（Can You Do the hololive？）"
+    },
+    {
+      "ja": "ほらみんなでホロライブ　仲間が増えていく",
+      "romaji": "Hora Minna de Hororaibu Nakama ga Fuete Iku",
+      "en": "Look—everyone together, hololive—friends keep increasing",
+      "zh": "你看，大家一起 hololive，夥伴不斷增加"
+    },
+    {
+      "ja": "届けよう大声で　笑顔になれたかな",
+      "romaji": "Todokeyou Oogoe de Egao ni Nareta Kana",
+      "en": "Let's deliver it with a loud voice—were you able to smile?",
+      "zh": "用大聲傳達吧，有沒有露出笑容呢"
+    },
+    {
+      "ja": "まだここはゴールではないから",
+      "romaji": "Mada Koko ha Gooru de ha Nai kara",
+      "en": "Because this isn't the goal yet",
+      "zh": "因為這裡還不是終點"
+    },
+    {
+      "ja": "(ホロライブファンタジー)",
+      "romaji": "(Hororaibu Fantajii)",
+      "en": "(hololive Fantasy)",
+      "zh": "（hololive Fantasy）"
+    },
+    {
+      "ja": "兎田ぺこらぺこ！　不知火フレア　白銀ノエル　宝鐘マリンですぅ",
+      "romaji": "Usada Pekora Peko! Shiranui Furea Shirogane Noeru Househou Marin Desuu",
+      "en": "Usada Pekora-peko! Shiranui Flare, Shirogane Noel, Houshou Marine here",
+      "zh": "兔田佩克拉 peko！不知火芙蕾雅、白銀諾艾爾、寶鐘瑪琳在此"
+    },
+    {
+      "ja": "(ホロふぉーす)",
+      "romaji": "(Holo Force)",
+      "en": "(holoForce)",
+      "zh": "（holoForce）"
+    },
+    {
+      "ja": "へい！天音かなた　角巻わため　常闇トワ　姫森ルーナ",
+      "romaji": "Hei! Amane Kanata Tsunomaki Watame Tokoyami Towa Himemori Luna",
+      "en": "Hey! Amane Kanata, Tsunomaki Watame, Tokoyami Towa, Himemori Luna",
+      "zh": "嘿！天音彼方、角卷綿芽、常闇永遠、姬森璐娜"
+    },
+    {
+      "ja": "(ねぽらぼ！)",
+      "romaji": "(Neporabo!)",
+      "en": "(NePoLaBo!)",
+      "zh": "（NePoLaBo！）"
+    },
+    {
+      "ja": "雪花ラミィ　桃鈴ねね　獅白ぼたん　尾丸ポルカ",
+      "romaji": "Yukihana Ramii Momosuzu Nene Shishiro Botan Omaru Polka",
+      "en": "Yukihana Lamy, Momosuzu Nene, Shishiro Botan, Omaru Polka",
+      "zh": "雪花菈米、桃鈴音音、獅白牡丹、尾丸波爾卡"
+    },
+    {
+      "ja": "(みんなで一緒に holoX！)",
+      "romaji": "(Minna de Issho ni holoX!)",
+      "en": "(Everyone together, holoX!)",
+      "zh": "（大家一起 holoX！）"
+    },
+    {
+      "ja": "ラプラス・ダークネス　鷹嶺ルイ　博衣こより　沙花叉クロヱ　風真いろは",
+      "romaji": "Rapurasu Daakunesu Takane Rui Hakui Koyori Sakamata Kuroe Kazama Iroha",
+      "en": "Laplus Darknesss, Takane Lui, Hakui Koyori, Sakamata Chloe, Kazama Iroha",
+      "zh": "拉普拉斯・暗黑、鷹嶺琉依、博衣可佑理、沙花叉克蘿耶、風真伊呂波"
+    },
+    {
+      "ja": "(続いてはホロライブID！)",
+      "romaji": "(Tsuzuite ha Hororaibu ID!)",
+      "en": "(Next up, hololive ID!)",
+      "zh": "（接下來是 hololive ID！）"
+    },
+    {
+      "ja": "アユンダ・リス　ムーナ・ホシノヴァ　アイラニ・イオフィフティーン",
+      "romaji": "Ayunda Risu Muuna Hoshinova Airani Iofifutiin",
+      "en": "Ayunda Risu, Moona Hoshinova, Airani Iofifteen",
+      "zh": "阿芸達・莉絲、穆娜・霍西諾瓦、阿伊拉尼・伊歐菲十五"
+    },
+    {
+      "ja": "クレイジー・オリー　アーニャ・メルフィッサ　パヴォリア・レイネ",
+      "romaji": "Kureijii Orii Aanya Merufissa Pavoria Reine",
+      "en": "Kureiji Ollie, Anya Melfissa, Pavolia Reine",
+      "zh": "克蕾姬・歐莉、阿妮婭・梅爾菲莎、帕沃莉亞・蕾娜"
+    },
+    {
+      "ja": "ベスティア・ゼータ　カエラ・コヴァルスキア　こぼ・かなえる",
+      "romaji": "Besutia Zeeta Kaera Kovarusukia Kobo Kanaeru",
+      "en": "Vestia Zeta, Kaela Kovalskia, Kobo Kanaeru",
+      "zh": "貝斯蒂亞・澤塔、凱拉・科瓦爾斯基亞、科波・卡納艾爾"
+    },
+    {
+      "ja": "(Bisakah kamu melafalkan hololive？)",
+      "romaji": "(Bisakah Kamu Melafalkan Hololive?)",
+      "en": "(Can you pronounce hololive?)",
+      "zh": "（Bisakah kamu melafalkan hololive？）"
+    },
+    {
+      "ja": "(Let's sing together)",
+      "romaji": "(Let's Sing Together)",
+      "en": "(Let's sing together)",
+      "zh": "（Let's sing together）"
+    },
+    {
+      "ja": "ほらみんなでホロライブ　仲間が増えていく",
+      "romaji": "Hora Minna de Hororaibu Nakama ga Fuete Iku",
+      "en": "Look—everyone together, hololive—friends keep increasing",
+      "zh": "你看，大家一起 hololive，夥伴不斷增加"
+    },
+    {
+      "ja": "届けよう大声で　笑顔になれたかな",
+      "romaji": "Todokeyou Oogoe de Egao ni Nareta Kana",
+      "en": "Let's deliver it with a loud voice—were you able to smile?",
+      "zh": "用大聲傳達吧，有沒有露出笑容呢"
+    },
+    {
+      "ja": "まだここはゴールではないから",
+      "romaji": "Mada Koko ha Gooru de ha Nai kara",
+      "en": "Because this isn't the goal yet",
+      "zh": "因為這裡還不是終點"
+    },
+    {
+      "ja": "まだまだたくさんの仲間がいるね？",
+      "romaji": "Mada Mada Takusan no Nakama ga Iru ne?",
+      "en": "There are still so many friends, right?",
+      "zh": "還有很多很多夥伴對吧？"
+    },
+    {
+      "ja": "そうっ！せーっの！",
+      "romaji": "Sou! See no!",
+      "en": "That's right! Ready, set!",
+      "zh": "沒錯！預備起！"
+    },
+    {
+      "ja": "(ホロライブEnglish！)",
+      "romaji": "(Hororaibu English!)",
+      "en": "(hololive English!)",
+      "zh": "（hololive English！）"
+    },
+    {
+      "ja": "森カリオペです　小鳥遊キアラ　一伊那尓栖　がうる・ぐら",
+      "romaji": "Mori Kariope Desu Takanashi Kiara Ichi Inarushi Gauru Gura",
+      "en": "I'm Mori Calliope, Takanashi Kiara, Ninomae Ina'nis, Gawr Gura",
+      "zh": "我是森美聲，小鳥遊琪亞拉、一伊那爾棲、噶嗚・古拉"
+    },
+    {
+      "ja": "ワトソン・アメリア",
+      "romaji": "Watoson Ameria",
+      "en": "Watson Amelia",
+      "zh": "華生・阿米莉亞"
+    },
+    {
+      "ja": "(Hey come on Promise！)",
+      "romaji": "(Hey Come On Promise!)",
+      "en": "(Hey, come on, Promise!)",
+      "zh": "（Hey come on Promise！）"
+    },
+    {
+      "ja": "HiRyS！ It's IRyS！　セレス・ファウナ　オーロ・クロニー　七詩ムメイ",
+      "romaji": "HiRyS! It's IRyS! Seresu Fauna Ooro Kuronii Nanashi Mumei",
+      "en": "HiRyS! It's IRyS! Ceres Fauna, Ouro Kronii, Nanashi Mumei",
+      "zh": "HiRyS！It's IRyS！瑟蕾絲・芙娜、奧羅・克羅妮、七詩無名"
+    },
+    {
+      "ja": "ハコス・ベールズ",
+      "romaji": "Hakosu Beeruzu",
+      "en": "Hakos Baelz",
+      "zh": "哈珂斯・貝爾斯"
+    },
+    {
+      "ja": "(Come here Advent)",
+      "romaji": "(Come Here Advent)",
+      "en": "(Come here, Advent)",
+      "zh": "（Come here Advent）"
+    },
+    {
+      "ja": "シオリ・ノヴェラ　古石ビジュー　ネリッサ・レイヴンクロフトよ",
+      "romaji": "Shiori Novella Furushi Bijuu Nerissa Reivunkurofuto yo",
+      "en": "Shiori Novella, Koseki Bijou, Nerissa Ravencroft here",
+      "zh": "詩織・諾薇拉、古石比珠、涅里莎・雷文克勞芙特喔"
+    },
+    {
+      "ja": "チワワじゃないよフワワだよ　フワワじゃないよモココだよ",
+      "romaji": "Chiwawa ja Nai yo Fuwawa Da yo Fuwawa ja Nai yo Mokoko Da yo",
+      "en": "I'm not Chihuahua, I'm Fuwawa—I'm not Fuwawa, I'm Mococo",
+      "zh": "不是吉娃娃，是芙瓦瓦喔，不是芙瓦瓦，是莫可可喔"
+    },
+    {
+      "ja": "フワワ・モココ・アビスガード",
+      "romaji": "Fuwawa Mokoko Abisugaado",
+      "en": "Fuwawa, Mococo, Abyssgard",
+      "zh": "芙瓦瓦・莫可可・深淵守衛"
+    },
+    {
+      "ja": "(and hololive DEV_IS ReGLOSS)",
+      "romaji": "(And Hololive DEV_IS ReGLOSS)",
+      "en": "(And hololive DEV_IS ReGLOSS)",
+      "zh": "（and hololive DEV_IS ReGLOSS）"
+    },
+    {
+      "ja": "じゃじゃーん火威青です　音乃瀬奏です　一条莉々華だよ",
+      "romaji": "Jajaan Hiodoshi Ao Desu Otonose Kanade Desu Ichijou Ririka Da yo",
+      "en": "Ta-da! I'm Hiodoshi Ao, I'm Otonose Kanade, I'm Ichijou Ririka",
+      "zh": "鏘鏘～我是火威青，我是音乃瀬奏，我是一條莉莉華喔"
+    },
+    {
+      "ja": "儒烏風亭らでんでございます　ぶんぶんぶーん轟はじめ",
+      "romaji": "Juufuutei Raden de Gozaimasu Bunbunbuun Todoroki Hajime",
+      "en": "I am Juufuutei Raden—buzz-buzz-boom, Todoroki Hajime",
+      "zh": "我是儒烏風亭螺鈿，嗡嗡嗡～轟是開始"
+    },
+    {
+      "ja": "(さあみんなでご一緒に！)",
+      "romaji": "(Saa Minna de Goissho ni!)",
+      "en": "(Now, everyone together!)",
+      "zh": "（來吧，大家一起來！）"
+    },
+    {
+      "ja": "(Can You Do the hololive？)",
+      "romaji": "(Can You Do the Hololive?)",
+      "en": "(Can you do the hololive?)",
+      "zh": "（Can You Do the hololive？）"
+    },
+    {
+      "ja": "ほらみんなでホロライブ　仲間が増えていく",
+      "romaji": "Hora Minna de Hororaibu Nakama ga Fuete Iku",
+      "en": "Look—everyone together, hololive—friends keep increasing",
+      "zh": "你看，大家一起 hololive，夥伴不斷增加"
+    },
+    {
+      "ja": "届けよう大声で　笑顔になれたかな",
+      "romaji": "Todokeyou Oogoe de Egao ni Nareta Kana",
+      "en": "Let's deliver it with a loud voice—were you able to smile?",
+      "zh": "用大聲傳達吧，有沒有露出笑容呢"
+    },
+    {
+      "ja": "まだここはゴールではないから",
+      "romaji": "Mada Koko ha Gooru de ha Nai kara",
+      "en": "Because this isn't the goal yet",
+      "zh": "因為這裡還不是終點"
+    },
+    {
+      "ja": "たくさんの思い出と　仲間が増えていく",
+      "romaji": "Takusan no Omoide to Nakama ga Fuete Iku",
+      "en": "Lots of memories and friends keep increasing",
+      "zh": "許多的回憶與夥伴不斷增加"
+    },
+    {
+      "ja": "届けよう泣いてもね　笑顔になれるはず",
+      "romaji": "Todokeyou Naite mo ne Egao ni Nareru Hazu",
+      "en": "Let's deliver it—even if you cry, you should be able to smile",
+      "zh": "傳達出去吧，就算哭了，也一定能露出笑容"
+    },
+    {
+      "ja": "ほらここがスタートになるから",
+      "romaji": "Hora Koko ga Sutaato ni Naru kara",
+      "en": "Look—because this will be the start",
+      "zh": "你看，因為這裡將成為起點"
+    },
+    {
+      "ja": "ララララ",
+      "romaji": "Rararara",
+      "en": "La-la-la-la",
+      "zh": "啦啦啦啦"
+    },
+    {
+      "ja": "まだここはゴールではないから",
+      "romaji": "Mada Koko ha Gooru de ha Nai kara",
+      "en": "Because this isn't the goal yet",
+      "zh": "因為這裡還不是終點"
+    }
+  ]
+}

@@ -1,0 +1,1025 @@
+{
+  "meta": {
+    "title": "GET THE CROWN",
+    "artist": "Hoshimatic Project",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "玉木千尋",
+    "lyricist": "玉木千尋",
+    "album": "GET THE CROWN",
+    "releaseDate": "2024/11/08",
+    "coverUrl": "cover_images/get_the_crown",
+    "penlight_color": [
+      "#000000"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/Tkx4HOLIrEM?si=a_Qm0P7W3VrkkKcr"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "ここが限界？誰のセリフ？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "テンプレな　煽り文句じゃ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "No flinch No flinch"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "届きもしない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "It's up to me"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "お・わ・か・り？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Hey Go！　ただ夢中に　Move on"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "進む私を　誰も"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "止められやしない(Come here)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "壁は高ければ　高い方がいい"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "I just need to get better"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "GET THE CROWN(Hey！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "With these hands"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "用意された頂じゃ　ものたんない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Stand up(Hey！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Even if fall"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "昨日の自分に　興味はない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Looking to the future"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "私たちが　創り出す(Beyond the world)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "栄光を　目指すだけ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "GET THE CROWN(Hey！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "With these hands(Overflow Overflow)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "抑えきれない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Majesty of a stars"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "高まってる Tension"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "がなる Distortion"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "エリア Extension"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Get out　Get out　Get out　Get out　Get out！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "苦しいの　辛いの　怖くないわ　So easy"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "痛いの？　NO thank you"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Trace　なんかしたって Useless"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "誰かの次じゃ　全然楽しくない(Boredom)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "誰も知らない　世界を見せてあげる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Let's start a revolution"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "GET THE CROWN(Hey！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "With these hands"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "用意された頂じゃ　ものたんない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Stand up(Hey！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Even if fall"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "昨日の自分に　興味はない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Looking to the future"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "誰かを蹴落とし　手にした栄光"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "仮初のエクスタシーじゃ　意味ない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Fighting myself　貫け"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "その先にしかない CROWN"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Late　遅すぎ　After dark"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "舞台は常に　スポットライトの下よ(Attention)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ついておいで　ここからがShow time"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Turn it up！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "GET THE CROWN(Hey！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "With these hands"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "そこら辺の椅子なんて　どうでもいい"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Stand up(Hey！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Even if fall"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ほら　玉座がよく似合うでしょ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "The arrival of the true QUEEN"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "甘い誘惑　乗りこなし(Top of the world)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "想像のその先へ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "GET THE CROWN(Hey！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "With these hands(Overflow Overflow)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "解き放て"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "Majesty of a stars"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "ここが限界？誰のセリフ？",
+      "call": ""
+    },
+    {
+      "lyrics": "テンプレな　煽り文句じゃ",
+      "call": ""
+    },
+    {
+      "lyrics": "No flinch No flinch",
+      "call": ""
+    },
+    {
+      "lyrics": "届きもしない",
+      "call": ""
+    },
+    {
+      "lyrics": "It's up to me",
+      "call": ""
+    },
+    {
+      "lyrics": "お・わ・か・り？",
+      "call": ""
+    },
+    {
+      "lyrics": "Hey Go！　ただ夢中に　Move on",
+      "call": ""
+    },
+    {
+      "lyrics": "進む私を　誰も",
+      "call": ""
+    },
+    {
+      "lyrics": "止められやしない(Come here)",
+      "call": ""
+    },
+    {
+      "lyrics": "壁は高ければ　高い方がいい",
+      "call": ""
+    },
+    {
+      "lyrics": "I just need to get better",
+      "call": ""
+    },
+    {
+      "lyrics": "GET THE CROWN(Hey！)",
+      "call": ""
+    },
+    {
+      "lyrics": "With these hands",
+      "call": ""
+    },
+    {
+      "lyrics": "用意された頂じゃ　ものたんない",
+      "call": ""
+    },
+    {
+      "lyrics": "Stand up(Hey！)",
+      "call": ""
+    },
+    {
+      "lyrics": "Even if fall",
+      "call": ""
+    },
+    {
+      "lyrics": "昨日の自分に　興味はない",
+      "call": ""
+    },
+    {
+      "lyrics": "Looking to the future",
+      "call": ""
+    },
+    {
+      "lyrics": "私たちが　創り出す(Beyond the world)",
+      "call": ""
+    },
+    {
+      "lyrics": "栄光を　目指すだけ",
+      "call": ""
+    },
+    {
+      "lyrics": "GET THE CROWN(Hey！)",
+      "call": ""
+    },
+    {
+      "lyrics": "With these hands(Overflow Overflow)",
+      "call": ""
+    },
+    {
+      "lyrics": "抑えきれない",
+      "call": ""
+    },
+    {
+      "lyrics": "Majesty of a stars",
+      "call": ""
+    },
+    {
+      "lyrics": "高まってる Tension",
+      "call": ""
+    },
+    {
+      "lyrics": "がなる Distortion",
+      "call": ""
+    },
+    {
+      "lyrics": "エリア Extension",
+      "call": ""
+    },
+    {
+      "lyrics": "Get out　Get out　Get out　Get out　Get out！",
+      "call": ""
+    },
+    {
+      "lyrics": "苦しいの　辛いの　怖くないわ　So easy",
+      "call": ""
+    },
+    {
+      "lyrics": "痛いの？　NO thank you",
+      "call": ""
+    },
+    {
+      "lyrics": "Trace　なんかしたって Useless",
+      "call": ""
+    },
+    {
+      "lyrics": "誰かの次じゃ　全然楽しくない(Boredom)",
+      "call": ""
+    },
+    {
+      "lyrics": "誰も知らない　世界を見せてあげる",
+      "call": ""
+    },
+    {
+      "lyrics": "Let's start a revolution",
+      "call": ""
+    },
+    {
+      "lyrics": "GET THE CROWN(Hey！)",
+      "call": ""
+    },
+    {
+      "lyrics": "With these hands",
+      "call": ""
+    },
+    {
+      "lyrics": "用意された頂じゃ　ものたんない",
+      "call": ""
+    },
+    {
+      "lyrics": "Stand up(Hey！)",
+      "call": ""
+    },
+    {
+      "lyrics": "Even if fall",
+      "call": ""
+    },
+    {
+      "lyrics": "昨日の自分に　興味はない",
+      "call": ""
+    },
+    {
+      "lyrics": "Looking to the future",
+      "call": ""
+    },
+    {
+      "lyrics": "誰かを蹴落とし　手にした栄光",
+      "call": ""
+    },
+    {
+      "lyrics": "仮初のエクスタシーじゃ　意味ない",
+      "call": ""
+    },
+    {
+      "lyrics": "Fighting myself　貫け",
+      "call": ""
+    },
+    {
+      "lyrics": "その先にしかない CROWN",
+      "call": ""
+    },
+    {
+      "lyrics": "Late　遅すぎ　After dark",
+      "call": ""
+    },
+    {
+      "lyrics": "舞台は常に　スポットライトの下よ(Attention)",
+      "call": ""
+    },
+    {
+      "lyrics": "ついておいで　ここからがShow time",
+      "call": ""
+    },
+    {
+      "lyrics": "Turn it up！",
+      "call": ""
+    },
+    {
+      "lyrics": "GET THE CROWN(Hey！)",
+      "call": ""
+    },
+    {
+      "lyrics": "With these hands",
+      "call": ""
+    },
+    {
+      "lyrics": "そこら辺の椅子なんて　どうでもいい",
+      "call": ""
+    },
+    {
+      "lyrics": "Stand up(Hey！)",
+      "call": ""
+    },
+    {
+      "lyrics": "Even if fall",
+      "call": ""
+    },
+    {
+      "lyrics": "ほら　玉座がよく似合うでしょ",
+      "call": ""
+    },
+    {
+      "lyrics": "The arrival of the true QUEEN",
+      "call": ""
+    },
+    {
+      "lyrics": "甘い誘惑　乗りこなし(Top of the world)",
+      "call": ""
+    },
+    {
+      "lyrics": "想像のその先へ",
+      "call": ""
+    },
+    {
+      "lyrics": "GET THE CROWN(Hey！)",
+      "call": ""
+    },
+    {
+      "lyrics": "With these hands(Overflow Overflow)",
+      "call": ""
+    },
+    {
+      "lyrics": "解き放て",
+      "call": ""
+    },
+    {
+      "lyrics": "Majesty of a stars",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "ここが限界？誰のセリフ？",
+      "romaji": "Koko ga Genkai? Dare no Serifu?",
+      "en": "This is the limit? Whose line is that?",
+      "zh": "這裡就是極限？這是誰的台詞？"
+    },
+    {
+      "ja": "テンプレな　煽り文句じゃ",
+      "romaji": "Tenpure na Aori Monku ja",
+      "en": "With template provocation lines",
+      "zh": "用千篇一律的煽動話語"
+    },
+    {
+      "ja": "No flinch No flinch",
+      "romaji": "No Flinch No Flinch",
+      "en": "No flinch, no flinch",
+      "zh": "No flinch No flinch"
+    },
+    {
+      "ja": "届きもしない",
+      "romaji": "Todoki mo Shinai",
+      "en": "They won't even reach me",
+      "zh": "根本觸及不到"
+    },
+    {
+      "ja": "It's up to me",
+      "romaji": "It's Up to Me",
+      "en": "It's up to me",
+      "zh": "It's up to me"
+    },
+    {
+      "ja": "お・わ・か・り？",
+      "romaji": "O Wa Ka Ri?",
+      "en": "Understood?",
+      "zh": "瞭・解・了・嗎？"
+    },
+    {
+      "ja": "Hey Go！　ただ夢中に　Move on",
+      "romaji": "Hey Go! Tada Muchuu ni Move On",
+      "en": "Hey, go! Just absorbed in it—move on",
+      "zh": "Hey Go！只是忘我地 Move on"
+    },
+    {
+      "ja": "進む私を　誰も",
+      "romaji": "Susumu Watashi wo Dare mo",
+      "en": "No one can stop me",
+      "zh": "誰也無法阻止"
+    },
+    {
+      "ja": "止められやしない(Come here)",
+      "romaji": "Tomerare Ya Shinai (Come Here)",
+      "en": "As I move forward (come here)",
+      "zh": "向前邁進的我（Come here）"
+    },
+    {
+      "ja": "壁は高ければ　高い方がいい",
+      "romaji": "Kabe ha Takakereba Takai Hou ga Ii",
+      "en": "If the wall is high, the higher the better",
+      "zh": "牆若很高，越高越好"
+    },
+    {
+      "ja": "I just need to get better",
+      "romaji": "I Just Need to Get Better",
+      "en": "I just need to get better",
+      "zh": "I just need to get better"
+    },
+    {
+      "ja": "GET THE CROWN(Hey！)",
+      "romaji": "GET THE CROWN (Hey!)",
+      "en": "Get the crown (hey!)",
+      "zh": "GET THE CROWN（Hey！）"
+    },
+    {
+      "ja": "With these hands",
+      "romaji": "With These Hands",
+      "en": "With these hands",
+      "zh": "With these hands"
+    },
+    {
+      "ja": "用意された頂じゃ　ものたんない",
+      "romaji": "Youi Sareta Itadaki ja Monotannai",
+      "en": "A prepared summit just isn't enough",
+      "zh": "被準備好的頂點根本不夠"
+    },
+    {
+      "ja": "Stand up(Hey！)",
+      "romaji": "Stand Up (Hey!)",
+      "en": "Stand up (hey!)",
+      "zh": "Stand up（Hey！）"
+    },
+    {
+      "ja": "Even if fall",
+      "romaji": "Even If Fall",
+      "en": "Even if I fall",
+      "zh": "Even if fall"
+    },
+    {
+      "ja": "昨日の自分に　興味はない",
+      "romaji": "Kinou no Jibun ni Kyoumi ha Nai",
+      "en": "I have no interest in yesterday's me",
+      "zh": "對昨天的自己毫無興趣"
+    },
+    {
+      "ja": "Looking to the future",
+      "romaji": "Looking to the Future",
+      "en": "Looking to the future",
+      "zh": "Looking to the future"
+    },
+    {
+      "ja": "私たちが　創り出す(Beyond the world)",
+      "romaji": "Watashitachi ga Tsukuridasu (Beyond the World)",
+      "en": "We create it (beyond the world)",
+      "zh": "由我們創造（Beyond the world）"
+    },
+    {
+      "ja": "栄光を　目指すだけ",
+      "romaji": "Eikou wo Mezasu Dake",
+      "en": "Just aiming for glory",
+      "zh": "只是朝向榮耀"
+    },
+    {
+      "ja": "GET THE CROWN(Hey！)",
+      "romaji": "GET THE CROWN (Hey!)",
+      "en": "Get the crown (hey!)",
+      "zh": "GET THE CROWN（Hey！）"
+    },
+    {
+      "ja": "With these hands(Overflow Overflow)",
+      "romaji": "With These Hands (Overflow Overflow)",
+      "en": "With these hands (overflow, overflow)",
+      "zh": "With these hands（Overflow Overflow）"
+    },
+    {
+      "ja": "抑えきれない",
+      "romaji": "Osaekirenai",
+      "en": "Can't hold it back",
+      "zh": "無法壓抑"
+    },
+    {
+      "ja": "Majesty of a stars",
+      "romaji": "Majesty of a Stars",
+      "en": "Majesty of a stars",
+      "zh": "Majesty of a stars"
+    },
+    {
+      "ja": "高まってる Tension",
+      "romaji": "Takamatteru Tension",
+      "en": "Rising tension",
+      "zh": "高漲的 Tension"
+    },
+    {
+      "ja": "がなる Distortion",
+      "romaji": "Ganaru Distortion",
+      "en": "Roaring distortion",
+      "zh": "咆哮的 Distortion"
+    },
+    {
+      "ja": "エリア Extension",
+      "romaji": "Eria Extension",
+      "en": "Area extension",
+      "zh": "區域 Extension"
+    },
+    {
+      "ja": "Get out　Get out　Get out　Get out　Get out！",
+      "romaji": "Get Out Get Out Get Out Get Out Get Out!",
+      "en": "Get out, get out, get out, get out, get out!",
+      "zh": "Get out Get out Get out Get out Get out！"
+    },
+    {
+      "ja": "苦しいの　辛いの　怖くないわ　So easy",
+      "romaji": "Kurushii no Tsurai no Kowakunai wa So Easy",
+      "en": "Painful? Hard? I'm not scared—so easy",
+      "zh": "痛苦嗎？難受嗎？我不怕，So easy"
+    },
+    {
+      "ja": "痛いの？　NO thank you",
+      "romaji": "Itai no? NO Thank You",
+      "en": "Does it hurt? No thank you",
+      "zh": "會痛嗎？NO thank you"
+    },
+    {
+      "ja": "Trace　なんかしたって Useless",
+      "romaji": "Trace Nanka Shitatte Useless",
+      "en": "Tracing or whatever is useless",
+      "zh": "Trace 什麼的也 Useless"
+    },
+    {
+      "ja": "誰かの次じゃ　全然楽しくない(Boredom)",
+      "romaji": "Dareka no Tsugi ja Zenzen Tanoshikunai (Boredom)",
+      "en": "Being after someone else isn't fun at all (boredom)",
+      "zh": "跟在別人後面一點也不好玩（Boredom）"
+    },
+    {
+      "ja": "誰も知らない　世界を見せてあげる",
+      "romaji": "Dare mo Shiranai Sekai wo Misete Ageru",
+      "en": "I'll show you a world nobody knows",
+      "zh": "讓你看看無人知曉的世界"
+    },
+    {
+      "ja": "Let's start a revolution",
+      "romaji": "Let's Start a Revolution",
+      "en": "Let's start a revolution",
+      "zh": "Let's start a revolution"
+    },
+    {
+      "ja": "GET THE CROWN(Hey！)",
+      "romaji": "GET THE CROWN (Hey!)",
+      "en": "Get the crown (hey!)",
+      "zh": "GET THE CROWN（Hey！）"
+    },
+    {
+      "ja": "With these hands",
+      "romaji": "With These Hands",
+      "en": "With these hands",
+      "zh": "With these hands"
+    },
+    {
+      "ja": "用意された頂じゃ　ものたんない",
+      "romaji": "Youi Sareta Itadaki ja Monotannai",
+      "en": "A prepared summit just isn't enough",
+      "zh": "被準備好的頂點根本不夠"
+    },
+    {
+      "ja": "Stand up(Hey！)",
+      "romaji": "Stand Up (Hey!)",
+      "en": "Stand up (hey!)",
+      "zh": "Stand up（Hey！）"
+    },
+    {
+      "ja": "Even if fall",
+      "romaji": "Even If Fall",
+      "en": "Even if I fall",
+      "zh": "Even if fall"
+    },
+    {
+      "ja": "昨日の自分に　興味はない",
+      "romaji": "Kinou no Jibun ni Kyoumi ha Nai",
+      "en": "I have no interest in yesterday's me",
+      "zh": "對昨天的自己毫無興趣"
+    },
+    {
+      "ja": "Looking to the future",
+      "romaji": "Looking to the Future",
+      "en": "Looking to the future",
+      "zh": "Looking to the future"
+    },
+    {
+      "ja": "誰かを蹴落とし　手にした栄光",
+      "romaji": "Dareka wo Ketootoshi Te ni Shita Eikou",
+      "en": "Glory obtained by kicking someone down",
+      "zh": "踹下他人所獲得的榮耀"
+    },
+    {
+      "ja": "仮初のエクスタシーじゃ　意味ない",
+      "romaji": "Karisoめ no Ekusutashii ja Imi Nai",
+      "en": "A transient ecstasy has no meaning",
+      "zh": "短暫的狂喜毫無意義"
+    },
+    {
+      "ja": "Fighting myself　貫け",
+      "romaji": "Fighting Myself Tsuranuke",
+      "en": "Fighting myself—push through",
+      "zh": "Fighting myself，貫徹到底"
+    },
+    {
+      "ja": "その先にしかない CROWN",
+      "romaji": "Sono Saki ni Shika Nai CROWN",
+      "en": "The crown that exists only beyond that",
+      "zh": "只存在於前方的 CROWN"
+    },
+    {
+      "ja": "Late　遅すぎ　After dark",
+      "romaji": "Late Ososugi After Dark",
+      "en": "Late—too late—after dark",
+      "zh": "Late，太遲了，After dark"
+    },
+    {
+      "ja": "舞台は常に　スポットライトの下よ(Attention)",
+      "romaji": "Butai ha Tsune ni Supottoraito no Shita yo (Attention)",
+      "en": "The stage is always under the spotlight (attention)",
+      "zh": "舞台永遠在聚光燈下（Attention）"
+    },
+    {
+      "ja": "ついておいで　ここからがShow time",
+      "romaji": "Tsuite Oide Koko kara ga Show Time",
+      "en": "Come along—the show time starts here",
+      "zh": "跟上來吧，接下來才是 Show time"
+    },
+    {
+      "ja": "Turn it up！",
+      "romaji": "Turn It Up!",
+      "en": "Turn it up!",
+      "zh": "Turn it up！"
+    },
+    {
+      "ja": "GET THE CROWN(Hey！)",
+      "romaji": "GET THE CROWN (Hey!)",
+      "en": "Get the crown (hey!)",
+      "zh": "GET THE CROWN（Hey！）"
+    },
+    {
+      "ja": "With these hands",
+      "romaji": "With These Hands",
+      "en": "With these hands",
+      "zh": "With these hands"
+    },
+    {
+      "ja": "そこら辺の椅子なんて　どうでもいい",
+      "romaji": "Sokora Hen no Isu Nante Dou demo Ii",
+      "en": "Chairs around there don't matter at all",
+      "zh": "那種隨處可見的椅子根本不重要"
+    },
+    {
+      "ja": "Stand up(Hey！)",
+      "romaji": "Stand Up (Hey!)",
+      "en": "Stand up (hey!)",
+      "zh": "Stand up（Hey！）"
+    },
+    {
+      "ja": "Even if fall",
+      "romaji": "Even If Fall",
+      "en": "Even if I fall",
+      "zh": "Even if fall"
+    },
+    {
+      "ja": "ほら　玉座がよく似合うでしょ",
+      "romaji": "Hora Gyokuza ga Yoku Niau Desho",
+      "en": "Look—the throne suits me well, doesn't it?",
+      "zh": "看吧，王座很適合我吧"
+    },
+    {
+      "ja": "The arrival of the true QUEEN",
+      "romaji": "The Arrival of the True QUEEN",
+      "en": "The arrival of the true queen",
+      "zh": "The arrival of the true QUEEN"
+    },
+    {
+      "ja": "甘い誘惑　乗りこなし(Top of the world)",
+      "romaji": "Amai Yuuwaku Norikonashi (Top of the World)",
+      "en": "Handling sweet temptations (top of the world)",
+      "zh": "駕馭甜美的誘惑（Top of the world）"
+    },
+    {
+      "ja": "想像のその先へ",
+      "romaji": "Souzou no Sono Saki e",
+      "en": "Beyond imagination",
+      "zh": "前往想像的彼端"
+    },
+    {
+      "ja": "GET THE CROWN(Hey！)",
+      "romaji": "GET THE CROWN (Hey!)",
+      "en": "Get the crown (hey!)",
+      "zh": "GET THE CROWN（Hey！）"
+    },
+    {
+      "ja": "With these hands(Overflow Overflow)",
+      "romaji": "With These Hands (Overflow Overflow)",
+      "en": "With these hands (overflow, overflow)",
+      "zh": "With these hands（Overflow Overflow）"
+    },
+    {
+      "ja": "解き放て",
+      "romaji": "Tokihanate",
+      "en": "Unleash it",
+      "zh": "解放吧"
+    },
+    {
+      "ja": "Majesty of a stars",
+      "romaji": "Majesty of a Stars",
+      "en": "Majesty of a stars",
+      "zh": "Majesty of a stars"
+    }
+  ]
+}

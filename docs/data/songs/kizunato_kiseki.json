@@ -1,0 +1,983 @@
+{
+  "meta": {
+    "title": "キズナトキセキ with hololive JP",
+    "artist": "湊あくあ、hololive JPのみんな",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "おぐらあすか(Hifumi,inc.) ",
+    "lyricist": "おぐらあすか(Hifumi,inc.) ",
+    "album": "キズナトキセキ",
+    "releaseDate": "2024/08/28",
+    "coverUrl": "cover_images/kizunato_kiseki",
+    "penlight_color": [
+      "#000000"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/VCsWgOMu4_8?si=6LcEEJ27lZR_-xuC"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "明日も明後日もきっと"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ひとりじゃ辿り着けない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ナミダの数の想いだけ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "伝えたい"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "あの日始まったキズナ結ぶ戸惑いの日々"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "気が付けば近付くココロの距離"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "上手く紡げないコトバ　だけど不器用なりに"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "歩いてきた軌跡　巡る　奇跡"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いつか枯れる運命でも　(Don't lose yourself)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "咲き誇る花でいたい"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いつか褪せる想いでも　(Going your own way)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まだ夢見たいから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "そうでしょ？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "明日も明後日も"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "きっとひとりじゃ辿り着けない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ナミダの数の想いだけ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ココロに　(きっと)　溢れてる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "それでも"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "最後は泡のように"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いつか消えてしまうのなら"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "伝え足りないキモチ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "キミに届くように"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "そっといまに願う"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "振り返れば痕跡　(痕跡)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "あの日見た可能性　(可能性)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "過去は未来の証明　(証明)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ふいに重なる手と手"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ずっとうまく伝わらない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "でもいつだって感じてたよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "きっと出逢いの意味は"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "僕らが決めるもの"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "そうでしょ？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "明日も明後日も"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "大げさな未来じゃなくても"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ナミダの数のキズナで"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "これから　(ずっと)　幸せです"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "それでも"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "泣いたり笑ったり"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "傷付くこともあるでしょ？"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "これまであったキセキ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いつも思い出して"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "触れ合う度近付く奇跡"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "巡り合えたキミとの軌跡"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "すべてはここから始まる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ココロの弱さを見せること"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "存外悪いコトじゃない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "6年分の笑顔を"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ありがとう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "これまで"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "積み重ねたキセキ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "想い溢れ出して無限大"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "揺るぎないものひとつ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "コトバじゃ　(きっと)　伝えられない"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "それでも"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "サヨナラはキズナの"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いつか辿り着く終着点"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "昇る陽が沈む様に..."
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "夜に染まる様に..."
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "だから永遠を願う"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "明日も明後日もきっと",
+      "call": ""
+    },
+    {
+      "lyrics": "ひとりじゃ辿り着けない",
+      "call": ""
+    },
+    {
+      "lyrics": "ナミダの数の想いだけ",
+      "call": ""
+    },
+    {
+      "lyrics": "伝えたい",
+      "call": ""
+    },
+    {
+      "lyrics": "あの日始まったキズナ結ぶ戸惑いの日々",
+      "call": ""
+    },
+    {
+      "lyrics": "気が付けば近付くココロの距離",
+      "call": ""
+    },
+    {
+      "lyrics": "上手く紡げないコトバ　だけど不器用なりに",
+      "call": ""
+    },
+    {
+      "lyrics": "歩いてきた軌跡　巡る　奇跡",
+      "call": ""
+    },
+    {
+      "lyrics": "いつか枯れる運命でも　(Don't lose yourself)",
+      "call": ""
+    },
+    {
+      "lyrics": "咲き誇る花でいたい",
+      "call": ""
+    },
+    {
+      "lyrics": "いつか褪せる想いでも　(Going your own way)",
+      "call": ""
+    },
+    {
+      "lyrics": "まだ夢見たいから",
+      "call": ""
+    },
+    {
+      "lyrics": "そうでしょ？",
+      "call": ""
+    },
+    {
+      "lyrics": "明日も明後日も",
+      "call": ""
+    },
+    {
+      "lyrics": "きっとひとりじゃ辿り着けない",
+      "call": ""
+    },
+    {
+      "lyrics": "ナミダの数の想いだけ",
+      "call": ""
+    },
+    {
+      "lyrics": "ココロに　(きっと)　溢れてる",
+      "call": ""
+    },
+    {
+      "lyrics": "それでも",
+      "call": ""
+    },
+    {
+      "lyrics": "最後は泡のように",
+      "call": ""
+    },
+    {
+      "lyrics": "いつか消えてしまうのなら",
+      "call": ""
+    },
+    {
+      "lyrics": "伝え足りないキモチ",
+      "call": ""
+    },
+    {
+      "lyrics": "キミに届くように",
+      "call": ""
+    },
+    {
+      "lyrics": "そっといまに願う",
+      "call": ""
+    },
+    {
+      "lyrics": "振り返れば痕跡　(痕跡)",
+      "call": ""
+    },
+    {
+      "lyrics": "あの日見た可能性　(可能性)",
+      "call": ""
+    },
+    {
+      "lyrics": "過去は未来の証明　(証明)",
+      "call": ""
+    },
+    {
+      "lyrics": "ふいに重なる手と手",
+      "call": ""
+    },
+    {
+      "lyrics": "ずっとうまく伝わらない",
+      "call": ""
+    },
+    {
+      "lyrics": "でもいつだって感じてたよ",
+      "call": ""
+    },
+    {
+      "lyrics": "きっと出逢いの意味は",
+      "call": ""
+    },
+    {
+      "lyrics": "僕らが決めるもの",
+      "call": ""
+    },
+    {
+      "lyrics": "そうでしょ？",
+      "call": ""
+    },
+    {
+      "lyrics": "明日も明後日も",
+      "call": ""
+    },
+    {
+      "lyrics": "大げさな未来じゃなくても",
+      "call": ""
+    },
+    {
+      "lyrics": "ナミダの数のキズナで",
+      "call": ""
+    },
+    {
+      "lyrics": "これから　(ずっと)　幸せです",
+      "call": ""
+    },
+    {
+      "lyrics": "それでも",
+      "call": ""
+    },
+    {
+      "lyrics": "泣いたり笑ったり",
+      "call": ""
+    },
+    {
+      "lyrics": "傷付くこともあるでしょ？",
+      "call": ""
+    },
+    {
+      "lyrics": "これまであったキセキ",
+      "call": ""
+    },
+    {
+      "lyrics": "いつも思い出して",
+      "call": ""
+    },
+    {
+      "lyrics": "触れ合う度近付く奇跡",
+      "call": ""
+    },
+    {
+      "lyrics": "巡り合えたキミとの軌跡",
+      "call": ""
+    },
+    {
+      "lyrics": "すべてはここから始まる",
+      "call": ""
+    },
+    {
+      "lyrics": "ココロの弱さを見せること",
+      "call": ""
+    },
+    {
+      "lyrics": "存外悪いコトじゃない",
+      "call": ""
+    },
+    {
+      "lyrics": "6年分の笑顔を",
+      "call": ""
+    },
+    {
+      "lyrics": "ありがとう",
+      "call": ""
+    },
+    {
+      "lyrics": "これまで",
+      "call": ""
+    },
+    {
+      "lyrics": "積み重ねたキセキ",
+      "call": ""
+    },
+    {
+      "lyrics": "想い溢れ出して無限大",
+      "call": ""
+    },
+    {
+      "lyrics": "揺るぎないものひとつ",
+      "call": ""
+    },
+    {
+      "lyrics": "コトバじゃ　(きっと)　伝えられない",
+      "call": ""
+    },
+    {
+      "lyrics": "それでも",
+      "call": ""
+    },
+    {
+      "lyrics": "サヨナラはキズナの",
+      "call": ""
+    },
+    {
+      "lyrics": "いつか辿り着く終着点",
+      "call": ""
+    },
+    {
+      "lyrics": "昇る陽が沈む様に...",
+      "call": ""
+    },
+    {
+      "lyrics": "夜に染まる様に...",
+      "call": ""
+    },
+    {
+      "lyrics": "だから永遠を願う",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "明日も明後日もきっと",
+      "romaji": "Ashita mo Asatte mo Kitto",
+      "en": "Tomorrow and the day after, surely",
+      "zh": "明天也好後天也好，一定"
+    },
+    {
+      "ja": "ひとりじゃ辿り着けない",
+      "romaji": "Hitori ja Tadoritsukenai",
+      "en": "I can't reach it alone",
+      "zh": "一個人無法抵達"
+    },
+    {
+      "ja": "ナミダの数の想いだけ",
+      "romaji": "Namida no Kazu no Omoi Dake",
+      "en": "Only as many feelings as there are tears",
+      "zh": "只有與眼淚數量相等的思念"
+    },
+    {
+      "ja": "伝えたい",
+      "romaji": "Tsutaetai",
+      "en": "I want to convey",
+      "zh": "想要傳達"
+    },
+    {
+      "ja": "あの日始まったキズナ結ぶ戸惑いの日々",
+      "romaji": "Ano Hi Hajimatta Kizuna Musubu Tomadoi no Hibi",
+      "en": "The days of confusion that tie the bond that began that day",
+      "zh": "那天開始的羈絆所繫起的迷惘日子"
+    },
+    {
+      "ja": "気が付けば近付くココロの距離",
+      "romaji": "Ki ga Tsukeba Chikazuku Kokoro no Kyori",
+      "en": "Before I knew it, the distance between our hearts grew closer",
+      "zh": "回過神來，心與心的距離拉近了"
+    },
+    {
+      "ja": "上手く紡げないコトバ　だけど不器用なりに",
+      "romaji": "Umaku Tsumugenai Kotoba Dakedo Bukiyou Nari ni",
+      "en": "Words I can't spin well—but in my own clumsy way",
+      "zh": "無法好好編織的話語，但我以笨拙的方式"
+    },
+    {
+      "ja": "歩いてきた軌跡　巡る　奇跡",
+      "romaji": "Aruite Kita Kiseki Meguru Kiseki",
+      "en": "The轨迹 I've walked—circulating miracles",
+      "zh": "一路走來的軌跡，循環的奇蹟"
+    },
+    {
+      "ja": "いつか枯れる運命でも　(Don't lose yourself)",
+      "romaji": "Itsuka Kareru Unmei demo (Don't Lose Yourself)",
+      "en": "Even if it's a destiny that will someday wither (don't lose yourself)",
+      "zh": "即使終將枯萎的命運（Don't lose yourself）"
+    },
+    {
+      "ja": "咲き誇る花でいたい",
+      "romaji": "Sakihokoru Hana de Itai",
+      "en": "I want to be a flower in full bloom",
+      "zh": "想成為盛開綻放的花"
+    },
+    {
+      "ja": "いつか褪せる想いでも　(Going your own way)",
+      "romaji": "Itsuka Aseru Omoi demo (Going Your Own Way)",
+      "en": "Even if these feelings will someday fade (going your own way)",
+      "zh": "即使思念終將褪色（Going your own way）"
+    },
+    {
+      "ja": "まだ夢見たいから",
+      "romaji": "Mada Yumemitai kara",
+      "en": "Because I still want to dream",
+      "zh": "因為還想繼續做夢"
+    },
+    {
+      "ja": "そうでしょ？",
+      "romaji": "Sou Desho?",
+      "en": "Right?",
+      "zh": "對吧？"
+    },
+    {
+      "ja": "明日も明後日も",
+      "romaji": "Ashita mo Asatte mo",
+      "en": "Tomorrow and the day after",
+      "zh": "明天也好後天也好"
+    },
+    {
+      "ja": "きっとひとりじゃ辿り着けない",
+      "romaji": "Kitto Hitori ja Tadoritsukenai",
+      "en": "Surely I can't reach it alone",
+      "zh": "一定一個人無法抵達"
+    },
+    {
+      "ja": "ナミダの数の想いだけ",
+      "romaji": "Namida no Kazu no Omoi Dake",
+      "en": "Only as many feelings as there are tears",
+      "zh": "只有與眼淚數量相等的思念"
+    },
+    {
+      "ja": "ココロに　(きっと)　溢れてる",
+      "romaji": "Kokoro ni (Kitto) Afureteru",
+      "en": "Are overflowing in my heart (surely)",
+      "zh": "在心中（一定）滿溢而出"
+    },
+    {
+      "ja": "それでも",
+      "romaji": "Sore demo",
+      "en": "Even so",
+      "zh": "即使如此"
+    },
+    {
+      "ja": "最後は泡のように",
+      "romaji": "Saigo ha Awa no You ni",
+      "en": "If in the end, like bubbles",
+      "zh": "最後若像泡沫般"
+    },
+    {
+      "ja": "いつか消えてしまうのなら",
+      "romaji": "Itsuka Kiete Shimau no Nara",
+      "en": "They'll someday disappear",
+      "zh": "總有一天會消失的話"
+    },
+    {
+      "ja": "伝え足りないキモチ",
+      "romaji": "Tsutae Tarinai Kimochi",
+      "en": "These feelings I haven't conveyed enough",
+      "zh": "尚未傳達足夠的心情"
+    },
+    {
+      "ja": "キミに届くように",
+      "romaji": "Kimi ni Todoku You ni",
+      "en": "So that they reach you",
+      "zh": "願能傳達給你"
+    },
+    {
+      "ja": "そっといまに願う",
+      "romaji": "Sotto Ima ni Negau",
+      "en": "I quietly wish upon this moment",
+      "zh": "悄悄地向現在許願"
+    },
+    {
+      "ja": "振り返れば痕跡　(痕跡)",
+      "romaji": "Furikaereba Konseki (Konseki)",
+      "en": "Looking back, there are traces (traces)",
+      "zh": "回頭望去是痕跡（痕跡）"
+    },
+    {
+      "ja": "あの日見た可能性　(可能性)",
+      "romaji": "Ano Hi Mita Kanousei (Kanousei)",
+      "en": "The possibilities I saw that day (possibilities)",
+      "zh": "那天看見的可能性（可能性）"
+    },
+    {
+      "ja": "過去は未来の証明　(証明)",
+      "romaji": "Kako ha Mirai no Shoumei (Shoumei)",
+      "en": "The past is proof of the future (proof)",
+      "zh": "過去是未來的證明（證明）"
+    },
+    {
+      "ja": "ふいに重なる手と手",
+      "romaji": "Fui ni Kasanaru Te to Te",
+      "en": "Hands that suddenly overlap",
+      "zh": "不經意交疊的手與手"
+    },
+    {
+      "ja": "ずっとうまく伝わらない",
+      "romaji": "Zutto Umaku Tsutawaranai",
+      "en": "It never gets through well",
+      "zh": "一直無法好好傳達"
+    },
+    {
+      "ja": "でもいつだって感じてたよ",
+      "romaji": "Demo Itsu Datte Kanjiteta yo",
+      "en": "But I've always felt it",
+      "zh": "但無論何時都感受得到"
+    },
+    {
+      "ja": "きっと出逢いの意味は",
+      "romaji": "Kitto Deai no Imi ha",
+      "en": "Surely the meaning of our meeting",
+      "zh": "相遇的意義一定"
+    },
+    {
+      "ja": "僕らが決めるもの",
+      "romaji": "Bokura ga Kimeru Mono",
+      "en": "Is something we decide",
+      "zh": "是由我們決定的"
+    },
+    {
+      "ja": "そうでしょ？",
+      "romaji": "Sou Desho?",
+      "en": "Right?",
+      "zh": "對吧？"
+    },
+    {
+      "ja": "明日も明後日も",
+      "romaji": "Ashita mo Asatte mo",
+      "en": "Tomorrow and the day after",
+      "zh": "明天也好後天也好"
+    },
+    {
+      "ja": "大げさな未来じゃなくても",
+      "romaji": "Oogesa na Mirai ja Nakute mo",
+      "en": "Even if it's not a grand future",
+      "zh": "即使不是誇張的未來"
+    },
+    {
+      "ja": "ナミダの数のキズナで",
+      "romaji": "Namida no Kazu no Kizuna de",
+      "en": "With a bond as many as the tears",
+      "zh": "以與眼淚數量相等的羈絆"
+    },
+    {
+      "ja": "これから　(ずっと)　幸せです",
+      "romaji": "Kore kara (Zutto) Shiawase Desu",
+      "en": "From now on (forever), I'm happy",
+      "zh": "從今以後（永遠）都很幸福"
+    },
+    {
+      "ja": "それでも",
+      "romaji": "Sore demo",
+      "en": "Even so",
+      "zh": "即使如此"
+    },
+    {
+      "ja": "泣いたり笑ったり",
+      "romaji": "Naitari Warattari",
+      "en": "Crying and laughing",
+      "zh": "哭泣、歡笑"
+    },
+    {
+      "ja": "傷付くこともあるでしょ？",
+      "romaji": "Kizutsuku Koto mo Aru Desho?",
+      "en": "There will be times we get hurt, right?",
+      "zh": "也會有受傷的時候吧？"
+    },
+    {
+      "ja": "これまであったキセキ",
+      "romaji": "Kore made Atta Kiseki",
+      "en": "The miracles that have happened so far",
+      "zh": "至今發生過的奇蹟"
+    },
+    {
+      "ja": "いつも思い出して",
+      "romaji": "Itsumo Omoidashite",
+      "en": "I always remember them",
+      "zh": "總是會回想起來"
+    },
+    {
+      "ja": "触れ合う度近付く奇跡",
+      "romaji": "Fureau Tabi Chikazuku Kiseki",
+      "en": "The miracle of growing closer each time we touch",
+      "zh": "每次觸碰就更靠近的奇蹟"
+    },
+    {
+      "ja": "巡り合えたキミとの軌跡",
+      "romaji": "Meguriaeta Kimi to no Kiseki",
+      "en": "The轨迹 with you that I was able to meet",
+      "zh": "與你相遇的軌跡"
+    },
+    {
+      "ja": "すべてはここから始まる",
+      "romaji": "Subete ha Koko kara Hajimaru",
+      "en": "Everything begins from here",
+      "zh": "一切從這裡開始"
+    },
+    {
+      "ja": "ココロの弱さを見せること",
+      "romaji": "Kokoro no Yowasa wo Miseru Koto",
+      "en": "Showing the weakness of my heart",
+      "zh": "展現內心的脆弱"
+    },
+    {
+      "ja": "存外悪いコトじゃない",
+      "romaji": "Zongai Warui Koto ja Nai",
+      "en": "Isn't such a bad thing after all",
+      "zh": "出乎意料地並不是壞事"
+    },
+    {
+      "ja": "6年分の笑顔を",
+      "romaji": "Rokunen Bun no Egao wo",
+      "en": "For six years' worth of smiles",
+      "zh": "對這六年份的笑容"
+    },
+    {
+      "ja": "ありがとう",
+      "romaji": "Arigatou",
+      "en": "Thank you",
+      "zh": "謝謝你"
+    },
+    {
+      "ja": "これまで",
+      "romaji": "Kore made",
+      "en": "Up until now",
+      "zh": "一直以來"
+    },
+    {
+      "ja": "積み重ねたキセキ",
+      "romaji": "Tsumikasaneta Kiseki",
+      "en": "The miracles we've piled up",
+      "zh": "層層累積的奇蹟"
+    },
+    {
+      "ja": "想い溢れ出して無限大",
+      "romaji": "Omoi Afuredashite Mugendai",
+      "en": "Feelings overflow to infinity",
+      "zh": "思念滿溢而出，無限大"
+    },
+    {
+      "ja": "揺るぎないものひとつ",
+      "romaji": "Yuruginai Mono Hitotsu",
+      "en": "One unshakeable thing",
+      "zh": "一個堅定不移的事物"
+    },
+    {
+      "ja": "コトバじゃ　(きっと)　伝えられない",
+      "romaji": "Kotoba ja (Kitto) Tsutaerarenai",
+      "en": "Words (surely) can't convey it",
+      "zh": "光靠言語（一定）無法傳達"
+    },
+    {
+      "ja": "それでも",
+      "romaji": "Sore demo",
+      "en": "Even so",
+      "zh": "即使如此"
+    },
+    {
+      "ja": "サヨナラはキズナの",
+      "romaji": "Sayonara ha Kizuna no",
+      "en": "Goodbye is the bond's",
+      "zh": "再見是羈絆的"
+    },
+    {
+      "ja": "いつか辿り着く終着点",
+      "romaji": "Itsuka Tadoritsuku Shuuchakuten",
+      "en": "Final destination we'll someday reach",
+      "zh": "總有一天會抵達的終點"
+    },
+    {
+      "ja": "昇る陽が沈む様に...",
+      "romaji": "Noboru Hi ga Shizumu You ni...",
+      "en": "Like the rising sun setting...",
+      "zh": "就像升起的太陽會落下……"
+    },
+    {
+      "ja": "夜に染まる様に...",
+      "romaji": "Yoru ni Somaru You ni...",
+      "en": "Like being dyed by night...",
+      "zh": "就像被夜晚染上顏色……"
+    },
+    {
+      "ja": "だから永遠を願う",
+      "romaji": "Dakara Eien wo Negau",
+      "en": "So I wish for eternity",
+      "zh": "所以我祈願永恆"
+    }
+  ]
+}

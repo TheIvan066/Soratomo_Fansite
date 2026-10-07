@@ -1,0 +1,1207 @@
+{
+  "meta": {
+    "title": "ハジメノイッポ",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "ナユタン星人",
+    "lyricist": "ナユタン星人",
+    "album": "Futurity Step",
+    "releaseDate": "2023/12/20",
+    "coverUrl": "cover_images/futurity_step",
+    "penlight_color": [
+      "#ff0000"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/RoiS9he6X-k?si=HJCfSf8cH43ODfGN"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "飛んできな　(そら！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "めっちゃ as soon　(あず！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "possible で集合！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "あ・そ・び・ば・へ！ (Yeah！！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "前人未踏なトキメキしたい人？　(はーい！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「いつだってイイじゃない？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「いまだってイイじゃない！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "急募！音にノリ遊びたい人！　(はーい！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「それってキミじゃない！？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「今日は行っちゃえインザナイ！」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "タイムイズマネー？　(マネー！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "そりゃなんのまね！？　(まね？)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "寄り道こそ人生の醍醐味です！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(そうそう…！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "行きたい方にダッシュ！　(ダッシュ！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "そんでハート奪取！　(奪取！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "この作戦、もはや死角はないッ！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(そうか…？)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "動かなかった足を"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いまは踏み出したいと思える"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "独りではできなかったこと"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「やっちゃうよー？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「いっちゃうよー？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「いっせーの！」 (say！！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いくぞ！いくぞ！さぁぶっ飛んでいくぞ！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "グングン乗っかる上昇気流は…まだまだ　(えー！？)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "でもいっぽ！いっぽ！って進んでいくぞ！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "これが我らの大いっぽ！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "しかと見といてくださいな"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "転んだり　(オー！)　迷ったり　(ノー！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "浮き足なステップ　(オッケー！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もーちょっと付き合ってくださいませ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "両翼 JET な当機に減速なんてなございません　(ゴー！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "飛んできな　(そら！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "めっちゃ as soon　(あず！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "possible で集合！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "あ・そ・び・ば・へ！ (Yeah！！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もしやいまとてもいーかんじ？　(いーかんじ！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もっとギアあげちゃっていーかんじ？　(いーかんじ！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "今日という日は？　(今日かぎり！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "だからめいっぱい声だしてみよう！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "レッツ！ゴー！ say！！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(ウォ・オ・オー！)　世界イチおっきく！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(ウォ・オ・オー！)　いいよ！もっと！もういっかい！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(ウォ・オ・オー！)　宇宙イチたのしく！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(ウォ・オ・オー！)　うん！めちゃサイコー！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "すこしモヤっていた未来に"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いまは期待とかしちゃってみる"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "キミがいたから見れた景色"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「やっちゃうよー？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「いっちゃうよー？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「いっせーの！」 (say！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いくぞいくぞって　突っ込んだものの"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "どんどん待ってるでっかい世界にクラクラ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "でもいっぽいっぽを大事にするぞ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "それが我らの大いっぽ！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いくぞ！いくぞ！さぁぶっ飛んでいくぞ！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "グングン乗っかる上昇気流は…もうすぐ！？　(おー！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "このいっぽ！いっぽ！を楽しんでいくぞ！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "それじゃみんなで大いっぽ！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "しかと見といてくださいな"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "転んだり　(オー！)　迷ったり　(ノー！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "浮き足なステップ　(オッケー！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もーちょっと付き合ってくださいませ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "両翼JETな当機に減速なんてなございません"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(もーいっかい！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ずっと見ていてくださいな"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "空ってる　(オー！)　明日ってる　(イェー！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "未来色のステップ　(オッケー！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "では前方をご覧くださいませ！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "とーめん当機の航路に退屈なんてなございません　(ゴー！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "飛んできな　(そら！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "めちゃ as soon　(あず！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "possible で集合！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "あ・そ・び・ば・へ！ (Yeah！！)"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "飛んできな　(そら！)",
+      "call": ""
+    },
+    {
+      "lyrics": "めっちゃ as soon　(あず！)",
+      "call": ""
+    },
+    {
+      "lyrics": "possible で集合！",
+      "call": ""
+    },
+    {
+      "lyrics": "あ・そ・び・ば・へ！ (Yeah！！)",
+      "call": ""
+    },
+    {
+      "lyrics": "前人未踏なトキメキしたい人？　(はーい！)",
+      "call": ""
+    },
+    {
+      "lyrics": "「いつだってイイじゃない？」",
+      "call": ""
+    },
+    {
+      "lyrics": "「いまだってイイじゃない！」",
+      "call": ""
+    },
+    {
+      "lyrics": "急募！音にノリ遊びたい人！　(はーい！)",
+      "call": ""
+    },
+    {
+      "lyrics": "「それってキミじゃない！？」",
+      "call": ""
+    },
+    {
+      "lyrics": "「今日は行っちゃえインザナイ！」",
+      "call": ""
+    },
+    {
+      "lyrics": "タイムイズマネー？　(マネー！)",
+      "call": ""
+    },
+    {
+      "lyrics": "そりゃなんのまね！？　(まね？)",
+      "call": ""
+    },
+    {
+      "lyrics": "寄り道こそ人生の醍醐味です！",
+      "call": ""
+    },
+    {
+      "lyrics": "(そうそう…！)",
+      "call": ""
+    },
+    {
+      "lyrics": "行きたい方にダッシュ！　(ダッシュ！)",
+      "call": ""
+    },
+    {
+      "lyrics": "そんでハート奪取！　(奪取！)",
+      "call": ""
+    },
+    {
+      "lyrics": "この作戦、もはや死角はないッ！",
+      "call": ""
+    },
+    {
+      "lyrics": "(そうか…？)",
+      "call": ""
+    },
+    {
+      "lyrics": "動かなかった足を",
+      "call": ""
+    },
+    {
+      "lyrics": "いまは踏み出したいと思える",
+      "call": ""
+    },
+    {
+      "lyrics": "独りではできなかったこと",
+      "call": ""
+    },
+    {
+      "lyrics": "「やっちゃうよー？」",
+      "call": ""
+    },
+    {
+      "lyrics": "「いっちゃうよー？」",
+      "call": ""
+    },
+    {
+      "lyrics": "「いっせーの！」 (say！！)",
+      "call": ""
+    },
+    {
+      "lyrics": "いくぞ！いくぞ！さぁぶっ飛んでいくぞ！",
+      "call": ""
+    },
+    {
+      "lyrics": "グングン乗っかる上昇気流は…まだまだ　(えー！？)",
+      "call": ""
+    },
+    {
+      "lyrics": "でもいっぽ！いっぽ！って進んでいくぞ！",
+      "call": ""
+    },
+    {
+      "lyrics": "これが我らの大いっぽ！",
+      "call": ""
+    },
+    {
+      "lyrics": "しかと見といてくださいな",
+      "call": ""
+    },
+    {
+      "lyrics": "転んだり　(オー！)　迷ったり　(ノー！)",
+      "call": ""
+    },
+    {
+      "lyrics": "浮き足なステップ　(オッケー！)",
+      "call": ""
+    },
+    {
+      "lyrics": "もーちょっと付き合ってくださいませ",
+      "call": ""
+    },
+    {
+      "lyrics": "両翼 JET な当機に減速なんてなございません　(ゴー！)",
+      "call": ""
+    },
+    {
+      "lyrics": "飛んできな　(そら！)",
+      "call": ""
+    },
+    {
+      "lyrics": "めっちゃ as soon　(あず！)",
+      "call": ""
+    },
+    {
+      "lyrics": "possible で集合！",
+      "call": ""
+    },
+    {
+      "lyrics": "あ・そ・び・ば・へ！ (Yeah！！)",
+      "call": ""
+    },
+    {
+      "lyrics": "もしやいまとてもいーかんじ？　(いーかんじ！)",
+      "call": ""
+    },
+    {
+      "lyrics": "もっとギアあげちゃっていーかんじ？　(いーかんじ！)",
+      "call": ""
+    },
+    {
+      "lyrics": "今日という日は？　(今日かぎり！)",
+      "call": ""
+    },
+    {
+      "lyrics": "だからめいっぱい声だしてみよう！",
+      "call": ""
+    },
+    {
+      "lyrics": "レッツ！ゴー！ say！！",
+      "call": ""
+    },
+    {
+      "lyrics": "(ウォ・オ・オー！)　世界イチおっきく！",
+      "call": ""
+    },
+    {
+      "lyrics": "(ウォ・オ・オー！)　いいよ！もっと！もういっかい！",
+      "call": ""
+    },
+    {
+      "lyrics": "(ウォ・オ・オー！)　宇宙イチたのしく！",
+      "call": ""
+    },
+    {
+      "lyrics": "(ウォ・オ・オー！)　うん！めちゃサイコー！",
+      "call": ""
+    },
+    {
+      "lyrics": "すこしモヤっていた未来に",
+      "call": ""
+    },
+    {
+      "lyrics": "いまは期待とかしちゃってみる",
+      "call": ""
+    },
+    {
+      "lyrics": "キミがいたから見れた景色",
+      "call": ""
+    },
+    {
+      "lyrics": "「やっちゃうよー？」",
+      "call": ""
+    },
+    {
+      "lyrics": "「いっちゃうよー？」",
+      "call": ""
+    },
+    {
+      "lyrics": "「いっせーの！」 (say！)",
+      "call": ""
+    },
+    {
+      "lyrics": "いくぞいくぞって　突っ込んだものの",
+      "call": ""
+    },
+    {
+      "lyrics": "どんどん待ってるでっかい世界にクラクラ",
+      "call": ""
+    },
+    {
+      "lyrics": "でもいっぽいっぽを大事にするぞ",
+      "call": ""
+    },
+    {
+      "lyrics": "それが我らの大いっぽ！",
+      "call": ""
+    },
+    {
+      "lyrics": "いくぞ！いくぞ！さぁぶっ飛んでいくぞ！",
+      "call": ""
+    },
+    {
+      "lyrics": "グングン乗っかる上昇気流は…もうすぐ！？　(おー！)",
+      "call": ""
+    },
+    {
+      "lyrics": "このいっぽ！いっぽ！を楽しんでいくぞ！",
+      "call": ""
+    },
+    {
+      "lyrics": "それじゃみんなで大いっぽ！",
+      "call": ""
+    },
+    {
+      "lyrics": "しかと見といてくださいな",
+      "call": ""
+    },
+    {
+      "lyrics": "転んだり　(オー！)　迷ったり　(ノー！)",
+      "call": ""
+    },
+    {
+      "lyrics": "浮き足なステップ　(オッケー！)",
+      "call": ""
+    },
+    {
+      "lyrics": "もーちょっと付き合ってくださいませ",
+      "call": ""
+    },
+    {
+      "lyrics": "両翼JETな当機に減速なんてなございません",
+      "call": ""
+    },
+    {
+      "lyrics": "(もーいっかい！)",
+      "call": ""
+    },
+    {
+      "lyrics": "ずっと見ていてくださいな",
+      "call": ""
+    },
+    {
+      "lyrics": "空ってる　(オー！)　明日ってる　(イェー！)",
+      "call": ""
+    },
+    {
+      "lyrics": "未来色のステップ　(オッケー！)",
+      "call": ""
+    },
+    {
+      "lyrics": "では前方をご覧くださいませ！",
+      "call": ""
+    },
+    {
+      "lyrics": "とーめん当機の航路に退屈なんてなございません　(ゴー！)",
+      "call": ""
+    },
+    {
+      "lyrics": "飛んできな　(そら！)",
+      "call": ""
+    },
+    {
+      "lyrics": "めちゃ as soon　(あず！)",
+      "call": ""
+    },
+    {
+      "lyrics": "possible で集合！",
+      "call": ""
+    },
+    {
+      "lyrics": "あ・そ・び・ば・へ！ (Yeah！！)",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "飛んできな　(そら！)",
+      "romaji": "Ton dekina (Sora!)",
+      "en": "Come flying in (Sora!)",
+      "zh": "飛過來吧（Sora！）"
+    },
+    {
+      "ja": "めっちゃ as soon　(あず！)",
+      "romaji": "Meccha As Soon (Az!)",
+      "en": "Super as soon (Az!)",
+      "zh": "超級 as soon（Az！）"
+    },
+    {
+      "ja": "possible で集合！",
+      "romaji": "Possible de Shuugou!",
+      "en": "Gather at possible!",
+      "zh": "在 possible 集合！"
+    },
+    {
+      "ja": "あ・そ・び・ば・へ！ (Yeah！！)",
+      "romaji": "A So Bi Ba e! (Yeah!!)",
+      "en": "To the play-place! (Yeah!!)",
+      "zh": "前・往・遊・樂・場！(Yeah！！)"
+    },
+    {
+      "ja": "前人未踏なトキメキしたい人？　(はーい！)",
+      "romaji": "Zenjin Mitou na Tokimeki Shitai Hito? (Haai!)",
+      "en": "Anyone who wants unprecedented excitement? (Yes!)",
+      "zh": "想體驗前人未有的心動嗎？（是！）"
+    },
+    {
+      "ja": "「いつだってイイじゃない？」",
+      "romaji": "「Itsu Datte Ii ja Nai?」",
+      "en": "\"Anytime is fine, isn't it?\"",
+      "zh": "「無論何時都很好不是嗎？」"
+    },
+    {
+      "ja": "「いまだってイイじゃない！」",
+      "romaji": "「Ima Datte Ii ja Nai!」",
+      "en": "\"Even now is fine!\"",
+      "zh": "「現在也很好啊！」"
+    },
+    {
+      "ja": "急募！音にノリ遊びたい人！　(はーい！)",
+      "romaji": "Kyuubou! Oto ni Nori Asobitai Hito! (Haai!)",
+      "en": "Urgent recruitment! People who want to play along with the music! (Yes!)",
+      "zh": "緊急招募！想隨音樂玩樂的人！（是！）"
+    },
+    {
+      "ja": "「それってキミじゃない！？」",
+      "romaji": "「Sore tte Kimi ja Nai!?」",
+      "en": "\"Isn't that you!?\"",
+      "zh": "「那不就是你嗎！？」"
+    },
+    {
+      "ja": "「今日は行っちゃえインザナイ！」",
+      "romaji": "「Kyou ha Icchae In Za Nai!」",
+      "en": "\"Today, go for it—in the night!\"",
+      "zh": "「今天就去吧，In the night！」"
+    },
+    {
+      "ja": "タイムイズマネー？　(マネー！)",
+      "romaji": "Taimu Izu Manee? (Manee!)",
+      "en": "Time is money? (Money!)",
+      "zh": "Time is money？（Money！）"
+    },
+    {
+      "ja": "そりゃなんのまね！？　(まね？)",
+      "romaji": "Sorya Nan no Mane!? (Mane?)",
+      "en": "What kind of imitation is that!? (Imitation?)",
+      "zh": "那是什麼模仿！？（模仿？）"
+    },
+    {
+      "ja": "寄り道こそ人生の醍醐味です！",
+      "romaji": "Yorimichi Koso Jinsei no Daigomi Desu!",
+      "en": "Detours are the true essence of life!",
+      "zh": "繞遠路才是人生的醍醐味！"
+    },
+    {
+      "ja": "(そうそう…！)",
+      "romaji": "(Sou Sou...!)",
+      "en": "(Yeah, yeah...!)",
+      "zh": "（沒錯沒錯…！）"
+    },
+    {
+      "ja": "行きたい方にダッシュ！　(ダッシュ！)",
+      "romaji": "Ikitai Hou ni Dasshu! (Dasshu!)",
+      "en": "Dash toward where you want to go! (Dash!)",
+      "zh": "朝想去的方向衝刺！（衝刺！）"
+    },
+    {
+      "ja": "そんでハート奪取！　(奪取！)",
+      "romaji": "Sonde Haato Dasshu! (Dasshu!)",
+      "en": "And capture the heart! (Capture!)",
+      "zh": "然後奪取心！（奪取！）"
+    },
+    {
+      "ja": "この作戦、もはや死角はないッ！",
+      "romaji": "Kono Sakusen, Mohaya Shikaku ha Nai!",
+      "en": "This strategy has no blind spots anymore!",
+      "zh": "這個作戰已經沒有死角了！"
+    },
+    {
+      "ja": "(そうか…？)",
+      "romaji": "(Sou ka...?)",
+      "en": "(Is that so...?)",
+      "zh": "（是嗎…？）"
+    },
+    {
+      "ja": "動かなかった足を",
+      "romaji": "Ugokanakatta Ashi wo",
+      "en": "These feet that wouldn't move",
+      "zh": "將不曾動過的雙腳"
+    },
+    {
+      "ja": "いまは踏み出したいと思える",
+      "romaji": "Ima ha Fumidashitai to Omoeru",
+      "en": "Now I feel like stepping forward",
+      "zh": "現在覺得想要邁出步伐"
+    },
+    {
+      "ja": "独りではできなかったこと",
+      "romaji": "Hitori de ha Dekinakatta Koto",
+      "en": "Things I couldn't do alone",
+      "zh": "一個人做不到的事"
+    },
+    {
+      "ja": "「やっちゃうよー？」",
+      "romaji": "「Yatchau yo~?」",
+      "en": "\"Gonna do it~?\"",
+      "zh": "「要做了喔～？」"
+    },
+    {
+      "ja": "「いっちゃうよー？」",
+      "romaji": "「Icchau yo~?」",
+      "en": "\"Gonna go~?\"",
+      "zh": "「要去了喔～？」"
+    },
+    {
+      "ja": "「いっせーの！」 (say！！)",
+      "romaji": "「Isseno!」 (Say!!)",
+      "en": "\"Ready, set!\" (Say!!)",
+      "zh": "「預備起！」(Say！！)"
+    },
+    {
+      "ja": "いくぞ！いくぞ！さぁぶっ飛んでいくぞ！",
+      "romaji": "Iku zo! Iku zo! Saa Buttonde Iku zo!",
+      "en": "Here we go! Here we go! Now, let's blast off!",
+      "zh": "要去了！要去了！來吧，要一飛衝天了！"
+    },
+    {
+      "ja": "グングン乗っかる上昇気流は…まだまだ　(えー！？)",
+      "romaji": "Gungun Nokkaru Joushou Kiryuu ha... Mada Mada (Ee!?)",
+      "en": "The rising air current we're riding is... still going (Huh!?)",
+      "zh": "順利乘上的上升氣流…還早得很（欸！？）"
+    },
+    {
+      "ja": "でもいっぽ！いっぽ！って進んでいくぞ！",
+      "romaji": "Demo Ippo! Ippo! tte Susunde Iku zo!",
+      "en": "But step by step! Step by step! We'll keep moving forward!",
+      "zh": "但一步！一步！地向前邁進！"
+    },
+    {
+      "ja": "これが我らの大いっぽ！",
+      "romaji": "Kore ga Warera no Dai Ippo!",
+      "en": "This is our giant step!",
+      "zh": "這就是我們的一大步！"
+    },
+    {
+      "ja": "しかと見といてくださいな",
+      "romaji": "Shikato Mitoite Kudasai na",
+      "en": "Please watch closely",
+      "zh": "請好好看清楚了"
+    },
+    {
+      "ja": "転んだり　(オー！)　迷ったり　(ノー！)",
+      "romaji": "Korondari (Oo!) Mayottari (Noo!)",
+      "en": "Falling down (Oh!) Getting lost (No!)",
+      "zh": "跌倒（喔！）迷惘（不！）"
+    },
+    {
+      "ja": "浮き足なステップ　(オッケー！)",
+      "romaji": "Ukiashi na Suteppu (OK!)",
+      "en": "Restless steps (OK!)",
+      "zh": "浮躁的步伐（OK！）"
+    },
+    {
+      "ja": "もーちょっと付き合ってくださいませ",
+      "romaji": "Mou Chotto Tsukiatte Kudasaimase",
+      "en": "Please stay with me just a little longer",
+      "zh": "請再陪我一會兒"
+    },
+    {
+      "ja": "両翼 JET な当機に減速なんてなございません　(ゴー！)",
+      "romaji": "Ryouyoku JET na Touki ni Gensoku Nante na Gozaimasen (Goo!)",
+      "en": "This twin-winged jet has no such thing as slowing down (Go!)",
+      "zh": "本機為雙翼 JET，絕無減速這種事（Go！）"
+    },
+    {
+      "ja": "飛んできな　(そら！)",
+      "romaji": "Ton dekina (Sora!)",
+      "en": "Come flying in (Sora!)",
+      "zh": "飛過來吧（天空！）"
+    },
+    {
+      "ja": "めっちゃ as soon　(あず！)",
+      "romaji": "Meccha As Soon (Azu!)",
+      "en": "Super as soon (Azu!)",
+      "zh": "超級 as soon（阿梓！）"
+    },
+    {
+      "ja": "possible で集合！",
+      "romaji": "Possible de Shuugou!",
+      "en": "Gather at possible!",
+      "zh": "在 possible 集合！"
+    },
+    {
+      "ja": "あ・そ・び・ば・へ！ (Yeah！！)",
+      "romaji": "A So Bi Ba e! (Yeah!!)",
+      "en": "To the play-place! (Yeah!!)",
+      "zh": "前・往・遊・樂・場！(Yeah！！)"
+    },
+    {
+      "ja": "もしやいまとてもいーかんじ？　(いーかんじ！)",
+      "romaji": "Mosha Ima Totemo Ii Kanji? (Ii Kanji!)",
+      "en": "Could it be that right now feels really good? (Feels good!)",
+      "zh": "難道現在感覺超好嗎？（感覺好！）"
+    },
+    {
+      "ja": "もっとギアあげちゃっていーかんじ？　(いーかんじ！)",
+      "romaji": "Motto Gia Agechatte Ii Kanji? (Ii Kanji!)",
+      "en": "Shift up even more—feels good? (Feels good!)",
+      "zh": "再升個檔感覺好嗎？（感覺好！）"
+    },
+    {
+      "ja": "今日という日は？　(今日かぎり！)",
+      "romaji": "Kyou to Iu Hi ha? (Kyou Kagiri!)",
+      "en": "This day called today? (Only today!)",
+      "zh": "名為今天的這一天？（僅限今天！）"
+    },
+    {
+      "ja": "だからめいっぱい声だしてみよう！",
+      "romaji": "Dakara Meippai Koe Dashite Miyou!",
+      "en": "So let's give it our all and shout!",
+      "zh": "所以讓我們盡情地喊出聲吧！"
+    },
+    {
+      "ja": "レッツ！ゴー！ say！！",
+      "romaji": "Let's! Go! Say!!",
+      "en": "Let's! Go! Say!!",
+      "zh": "Let's！Go！say！！"
+    },
+    {
+      "ja": "(ウォ・オ・オー！)　世界イチおっきく！",
+      "romaji": "(Uo O Oo!) Sekai Ichi Ookiku!",
+      "en": "(Whoa-oh-oh!) The biggest in the world!",
+      "zh": "（Wo O Ooh！）世界第一大的！"
+    },
+    {
+      "ja": "(ウォ・オ・オー！)　いいよ！もっと！もういっかい！",
+      "romaji": "(Uo O Oo!) Ii yo! Motto! Mou Ikkai!",
+      "en": "(Whoa-oh-oh!) Good! More! One more time!",
+      "zh": "（Wo O Ooh！）很好！再來！再來一次！"
+    },
+    {
+      "ja": "(ウォ・オ・オー！)　宇宙イチたのしく！",
+      "romaji": "(Uo O Oo!) Uchuu Ichi Tanoshiku!",
+      "en": "(Whoa-oh-oh!) The most fun in the universe!",
+      "zh": "（Wo O Ooh！）宇宙第一開心的！"
+    },
+    {
+      "ja": "(ウォ・オ・オー！)　うん！めちゃサイコー！",
+      "romaji": "(Uo O Oo!) Un! Meccha Saikoo!",
+      "en": "(Whoa-oh-oh!) Yeah! Super awesome!",
+      "zh": "（Wo O Ooh！）嗯！超級最棒的！"
+    },
+    {
+      "ja": "すこしモヤっていた未来に",
+      "romaji": "Sukoshi Moyatte Ita Mirai ni",
+      "en": "For the future that was a little hazy",
+      "zh": "對曾經有些朦朧的未來"
+    },
+    {
+      "ja": "いまは期待とかしちゃってみる",
+      "romaji": "Ima ha Kitai to ka Shichatte Miru",
+      "en": "Now I'll try having some expectations",
+      "zh": "現在試著抱持一些期待"
+    },
+    {
+      "ja": "キミがいたから見れた景色",
+      "romaji": "Kimi ga Ita kara Mireta Keshiki",
+      "en": "The scenery I could see because you were there",
+      "zh": "因為有你在才能看見的景色"
+    },
+    {
+      "ja": "「やっちゃうよー？」",
+      "romaji": "「Yatchau yo~?」",
+      "en": "\"Gonna do it~?\"",
+      "zh": "「要做了喔～？」"
+    },
+    {
+      "ja": "「いっちゃうよー？」",
+      "romaji": "「Icchau yo~?」",
+      "en": "\"Gonna go~?\"",
+      "zh": "「要去了喔～？」"
+    },
+    {
+      "ja": "「いっせーの！」 (say！)",
+      "romaji": "「Isseno!」 (Say!)",
+      "en": "\"Ready, set!\" (Say!)",
+      "zh": "「預備起！」(Say！)"
+    },
+    {
+      "ja": "いくぞいくぞって　突っ込んだものの",
+      "romaji": "Iku zo Iku zo tte Tsukkonda Mono no",
+      "en": "We charged in saying here we go, here we go, but",
+      "zh": "喊著要去了要去了衝了進去，可是"
+    },
+    {
+      "ja": "どんどん待ってるでっかい世界にクラクラ",
+      "romaji": "Dondon Matteru Dekkai Sekai ni Kurakura",
+      "en": "The big world waiting ahead makes me dizzy",
+      "zh": "在前方等待的廣大世界讓人頭暈目眩"
+    },
+    {
+      "ja": "でもいっぽいっぽを大事にするぞ",
+      "romaji": "Demo Ippo Ippo wo Daiji ni Suru zo",
+      "en": "But I'll treasure each and every step",
+      "zh": "但我會珍惜每一步每一步"
+    },
+    {
+      "ja": "それが我らの大いっぽ！",
+      "romaji": "Sore ga Warera no Dai Ippo!",
+      "en": "That's our giant step!",
+      "zh": "那就是我們的一大步！"
+    },
+    {
+      "ja": "いくぞ！いくぞ！さぁぶっ飛んでいくぞ！",
+      "romaji": "Iku zo! Iku zo! Saa Buttonde Iku zo!",
+      "en": "Here we go! Here we go! Now, let's blast off!",
+      "zh": "要去了！要去了！來吧，要一飛衝天了！"
+    },
+    {
+      "ja": "グングン乗っかる上昇気流は…もうすぐ！？　(おー！)",
+      "romaji": "Gungun Nokkaru Joushou Kiryuu ha... Mou Sugu!? (Oo!)",
+      "en": "The rising air current we're riding is... almost here!? (Oh!)",
+      "zh": "順利乘上的上升氣流…就快到了！？（喔！）"
+    },
+    {
+      "ja": "このいっぽ！いっぽ！を楽しんでいくぞ！",
+      "romaji": "Kono Ippo! Ippo! wo Tanoshinde Iku zo!",
+      "en": "We'll enjoy this step! Step!",
+      "zh": "要享受這一步！一步！"
+    },
+    {
+      "ja": "それじゃみんなで大いっぽ！",
+      "romaji": "Sore ja Minna de Dai Ippo!",
+      "en": "Then everyone, a giant step together!",
+      "zh": "那麼大家一起來個一大步！"
+    },
+    {
+      "ja": "しかと見といてくださいな",
+      "romaji": "Shikato Mitoite Kudasai na",
+      "en": "Please watch closely",
+      "zh": "請好好看清楚了"
+    },
+    {
+      "ja": "転んだり　(オー！)　迷ったり　(ノー！)",
+      "romaji": "Korondari (Oo!) Mayottari (Noo!)",
+      "en": "Falling down (Oh!) Getting lost (No!)",
+      "zh": "跌倒（喔！）迷惘（不！）"
+    },
+    {
+      "ja": "浮き足なステップ　(オッケー！)",
+      "romaji": "Ukiashi na Suteppu (OK!)",
+      "en": "Restless steps (OK!)",
+      "zh": "浮躁的步伐（OK！）"
+    },
+    {
+      "ja": "もーちょっと付き合ってくださいませ",
+      "romaji": "Mou Chotto Tsukiatte Kudasaimase",
+      "en": "Please stay with me just a little longer",
+      "zh": "請再陪我一會兒"
+    },
+    {
+      "ja": "両翼JETな当機に減速なんてなございません",
+      "romaji": "Ryouyoku JET na Touki ni Gensoku Nante na Gozaimasen",
+      "en": "This twin-winged jet has no such thing as slowing down",
+      "zh": "本機為雙翼 JET，絕無減速這種事"
+    },
+    {
+      "ja": "(もーいっかい！)",
+      "romaji": "(Mou Ikkai!)",
+      "en": "(One more time!)",
+      "zh": "（再來一次！）"
+    },
+    {
+      "ja": "ずっと見ていてくださいな",
+      "romaji": "Zutto Miteite Kudasai na",
+      "en": "Please keep watching forever",
+      "zh": "請一直看著我們"
+    },
+    {
+      "ja": "空ってる　(オー！)　明日ってる　(イェー！)",
+      "romaji": "Soratteru (Oo!) Ashitatteru (Yee!)",
+      "en": "Sky-ing (Oh!) Tomorrow-ing (Yay!)",
+      "zh": "天空著（喔！）明天著（耶！）"
+    },
+    {
+      "ja": "未来色のステップ　(オッケー！)",
+      "romaji": "Mirai Iro no Suteppu (OK!)",
+      "en": "Future-colored steps (OK!)",
+      "zh": "未來色彩的步伐（OK！）"
+    },
+    {
+      "ja": "では前方をご覧くださいませ！",
+      "romaji": "De ha Zenpou wo Goran Kudasaimase!",
+      "en": "Now please look ahead!",
+      "zh": "那麼請看前方！"
+    },
+    {
+      "ja": "とーめん当機の航路に退屈なんてなございません　(ゴー！)",
+      "romaji": "Toomen Touki no Kourou ni Taikutsu Nante na Gozaimasen (Goo!)",
+      "en": "This aircraft's course has no such thing as boredom (Go!)",
+      "zh": "本機的航路上絕無無聊這種事（Go！）"
+    },
+    {
+      "ja": "飛んできな　(そら！)",
+      "romaji": "Ton dekina (Sora!)",
+      "en": "Come flying in (Sora!)",
+      "zh": "飛過來吧（天空！）"
+    },
+    {
+      "ja": "めちゃ as soon　(あず！)",
+      "romaji": "Mecha As Soon (Azu!)",
+      "en": "Super as soon (Azu!)",
+      "zh": "超級 as soon（阿梓！）"
+    },
+    {
+      "ja": "possible で集合！",
+      "romaji": "Possible de Shuugou!",
+      "en": "Gather at possible!",
+      "zh": "在 possible 集合！"
+    },
+    {
+      "ja": "あ・そ・び・ば・へ！ (Yeah！！)",
+      "romaji": "A So Bi Ba e! (Yeah!!)",
+      "en": "To the play-place! (Yeah!!)",
+      "zh": "前・往・遊・樂・場！(Yeah！！)"
+    }
+  ]
+}

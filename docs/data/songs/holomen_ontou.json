@@ -1,0 +1,843 @@
+{
+  "meta": {
+    "title": "ホロメン音頭",
+    "artist": "hololive IDOL PROJECT",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "ARM(IOSYS)",
+    "lyricist": "まろん(IOSYS)・狐夢想",
+    "album": "ホロメン音頭",
+    "releaseDate": "2022/08/21",
+    "coverUrl": "cover_images/holomen_ontou",
+    "penlight_color": [
+      "#000000"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/s_uiT5C8BjQ?si=_Ebc9IXuj-7aF7x8"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "「ちょいとそこ往く、みなみな様よ～」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「僕らと一緒に、おどらな～い？」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「さぁ、お手を拝借～～ぱぱんがぱん　はい」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ちょうちん灯れば　笑顔が集う"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ホロメン音頭　(あーよいしょ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "うちわ　わたあめ　かき氷　だね"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "パーリラ　パーリラ　わんこも踊る　(そーれ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "みんな揃って　どどんがどん"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まつり囃子だ　どどんがどん"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(よいしょ　はーどっこい)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "あかね　くちなし　わかなえ　しおん"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ホロメン音頭　(あーよいしょ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "浴衣　あざやか　花吹雪　だね"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "パーリラ　パーリラ　金魚も踊る　(そーれ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "みんな揃って　どどんがどん"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まつり囃子だ　どどんがどん"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ホロメンを"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "集めて囃し"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "保護者かな"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "推しの言霊"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "満ちる幸せ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "「さぁさぁ皆さん、音頭を踊れば温度が上がる！"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "赤ん坊から聞かん坊まで、誰でもいらっしゃ～い」"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "あゝ　こまけぇこたぁいいんだよ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "今宵の祭　シャル・ウィ・ダンス"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "踊り踊らば　はっぴっぴー"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ヨヨイ宵の口　西明かり遥か"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ホロメン音頭　(あーよいしょ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "光さんざめく　天の川　だね"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "パーリラ　パーリラ　ばぁばも踊る　(そーれ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "みんな揃って　どどんがどん"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まつり囃子だ　どどんがどん"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(よいしょ　はーどっこい)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "目引き袖引き　ご一緒いかが"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ホロメン音頭　(あーよいしょ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "花火　ヒュルリラ　夏の夜　だね"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "パーリラ　パーリラ　わらべも踊る　(そーれ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "みんな揃って　どどんがどん"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まつり囃子だ　どどんがどん"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(はぁ～てぇてぇなぁ！てぇてぇなぁ！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(両手を合わせ　てぇてぇなぁ！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(てぇてぇなぁ！てぇてぇなぁ！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(両手を合わせ　てぇてぇなぁ！)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ひょいと見上げりゃ　望月にこり"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ホロメン音頭　(あーよいしょ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "少し切ない　夢心地　だね"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "パーリラ　パーリラ　夜っぴて踊る　(そーれ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "みんな揃って　どどんがどん"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "まつり囃子だ　どどんがどん"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": ""
+        },
+        {
+          "c": "Coming Soon!",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": ""
+        },
+        {
+          "c": "Coming Soon!",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": ""
+        },
+        {
+          "c": "Coming Soon!",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": ""
+        },
+        {
+          "c": "Coming Soon!",
+          "t": ""
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": ""
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "「ちょいとそこ往く、みなみな様よ～」",
+      "call": ""
+    },
+    {
+      "lyrics": "「僕らと一緒に、おどらな～い？」",
+      "call": ""
+    },
+    {
+      "lyrics": "「さぁ、お手を拝借～～ぱぱんがぱん　はい」",
+      "call": ""
+    },
+    {
+      "lyrics": "ちょうちん灯れば　笑顔が集う",
+      "call": ""
+    },
+    {
+      "lyrics": "ホロメン音頭　(あーよいしょ)",
+      "call": ""
+    },
+    {
+      "lyrics": "うちわ　わたあめ　かき氷　だね",
+      "call": ""
+    },
+    {
+      "lyrics": "パーリラ　パーリラ　わんこも踊る　(そーれ)",
+      "call": ""
+    },
+    {
+      "lyrics": "みんな揃って　どどんがどん",
+      "call": ""
+    },
+    {
+      "lyrics": "まつり囃子だ　どどんがどん",
+      "call": ""
+    },
+    {
+      "lyrics": "(よいしょ　はーどっこい)",
+      "call": ""
+    },
+    {
+      "lyrics": "あかね　くちなし　わかなえ　しおん",
+      "call": ""
+    },
+    {
+      "lyrics": "ホロメン音頭　(あーよいしょ)",
+      "call": ""
+    },
+    {
+      "lyrics": "浴衣　あざやか　花吹雪　だね",
+      "call": ""
+    },
+    {
+      "lyrics": "パーリラ　パーリラ　金魚も踊る　(そーれ)",
+      "call": ""
+    },
+    {
+      "lyrics": "みんな揃って　どどんがどん",
+      "call": ""
+    },
+    {
+      "lyrics": "まつり囃子だ　どどんがどん",
+      "call": ""
+    },
+    {
+      "lyrics": "ホロメンを",
+      "call": ""
+    },
+    {
+      "lyrics": "集めて囃し",
+      "call": ""
+    },
+    {
+      "lyrics": "保護者かな",
+      "call": ""
+    },
+    {
+      "lyrics": "推しの言霊",
+      "call": ""
+    },
+    {
+      "lyrics": "満ちる幸せ",
+      "call": ""
+    },
+    {
+      "lyrics": "「さぁさぁ皆さん、音頭を踊れば温度が上がる！",
+      "call": ""
+    },
+    {
+      "lyrics": "赤ん坊から聞かん坊まで、誰でもいらっしゃ～い」",
+      "call": ""
+    },
+    {
+      "lyrics": "あゝ　こまけぇこたぁいいんだよ",
+      "call": ""
+    },
+    {
+      "lyrics": "今宵の祭　シャル・ウィ・ダンス",
+      "call": ""
+    },
+    {
+      "lyrics": "踊り踊らば　はっぴっぴー",
+      "call": ""
+    },
+    {
+      "lyrics": "ヨヨイ宵の口　西明かり遥か",
+      "call": ""
+    },
+    {
+      "lyrics": "ホロメン音頭　(あーよいしょ)",
+      "call": ""
+    },
+    {
+      "lyrics": "光さんざめく　天の川　だね",
+      "call": ""
+    },
+    {
+      "lyrics": "パーリラ　パーリラ　ばぁばも踊る　(そーれ)",
+      "call": ""
+    },
+    {
+      "lyrics": "みんな揃って　どどんがどん",
+      "call": ""
+    },
+    {
+      "lyrics": "まつり囃子だ　どどんがどん",
+      "call": ""
+    },
+    {
+      "lyrics": "(よいしょ　はーどっこい)",
+      "call": ""
+    },
+    {
+      "lyrics": "目引き袖引き　ご一緒いかが",
+      "call": ""
+    },
+    {
+      "lyrics": "ホロメン音頭　(あーよいしょ)",
+      "call": ""
+    },
+    {
+      "lyrics": "花火　ヒュルリラ　夏の夜　だね",
+      "call": ""
+    },
+    {
+      "lyrics": "パーリラ　パーリラ　わらべも踊る　(そーれ)",
+      "call": ""
+    },
+    {
+      "lyrics": "みんな揃って　どどんがどん",
+      "call": ""
+    },
+    {
+      "lyrics": "まつり囃子だ　どどんがどん",
+      "call": ""
+    },
+    {
+      "lyrics": "(はぁ～てぇてぇなぁ！てぇてぇなぁ！)",
+      "call": ""
+    },
+    {
+      "lyrics": "(両手を合わせ　てぇてぇなぁ！)",
+      "call": ""
+    },
+    {
+      "lyrics": "(てぇてぇなぁ！てぇてぇなぁ！)",
+      "call": ""
+    },
+    {
+      "lyrics": "(両手を合わせ　てぇてぇなぁ！)",
+      "call": ""
+    },
+    {
+      "lyrics": "ひょいと見上げりゃ　望月にこり",
+      "call": ""
+    },
+    {
+      "lyrics": "ホロメン音頭　(あーよいしょ)",
+      "call": ""
+    },
+    {
+      "lyrics": "少し切ない　夢心地　だね",
+      "call": ""
+    },
+    {
+      "lyrics": "パーリラ　パーリラ　夜っぴて踊る　(そーれ)",
+      "call": ""
+    },
+    {
+      "lyrics": "みんな揃って　どどんがどん",
+      "call": ""
+    },
+    {
+      "lyrics": "まつり囃子だ　どどんがどん",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "「ちょいとそこ往く、みなみな様よ～」",
+      "romaji": "「Choi to Soko Iku, Minamina Sama yo~」",
+      "en": "\"Hey there, everyone passing by~\"",
+      "zh": "「稍微路過那裡的各位大人們～」"
+    },
+    {
+      "ja": "「僕らと一緒に、おどらな～い？」",
+      "romaji": "「Bokura to Issho ni, Odorana~i?」",
+      "en": "\"Won't you dance together with us~?\"",
+      "zh": "「要不要和我們一起跳舞呢～？」"
+    },
+    {
+      "ja": "「さぁ、お手を拝借～～ぱぱんがぱん　はい」",
+      "romaji": "「Saa, Ote wo Haishaku~~ Papan Ga Pan Hai」",
+      "en": "\"Now, if I may borrow your hands~~ clap clap clap, yes\"",
+      "zh": "「來吧，借一下各位的手～～啪啪啪，好」"
+    },
+    {
+      "ja": "ちょうちん灯れば　笑顔が集う",
+      "romaji": "Chouchin Tomoreba Egao ga Tsudou",
+      "en": "When the lanterns are lit, smiles gather",
+      "zh": "燈籠點亮，笑容聚集"
+    },
+    {
+      "ja": "ホロメン音頭　(あーよいしょ)",
+      "romaji": "Horomen Ondo (Aa Yoisho)",
+      "en": "The Holomen ondo (ah, heave-ho)",
+      "zh": "Holo成員音頭（啊，嘿咻）"
+    },
+    {
+      "ja": "うちわ　わたあめ　かき氷　だね",
+      "romaji": "Uchiwa Wataame Kaki Koori Da ne",
+      "en": "Fans, cotton candy, shaved ice—right?",
+      "zh": "團扇、棉花糖、刨冰呢"
+    },
+    {
+      "ja": "パーリラ　パーリラ　わんこも踊る　(そーれ)",
+      "romaji": "Paarira Paarira Wanko mo Odoru (Soore)",
+      "en": "Parira, parira—even the doggy dances (there!)",
+      "zh": "啪哩啦 啪哩啦，小狗也跳舞（嘿）"
+    },
+    {
+      "ja": "みんな揃って　どどんがどん",
+      "romaji": "Minna Soroтте Dodonga Don",
+      "en": "Everyone together—dodon-ga-don",
+      "zh": "大家齊聚一堂，咚咚嘎咚"
+    },
+    {
+      "ja": "まつり囃子だ　どどんがどん",
+      "romaji": "Matsuri Bayashi Da Dodonga Don",
+      "en": "It's festival music—dodon-ga-don",
+      "zh": "是祭典囃子，咚咚嘎咚"
+    },
+    {
+      "ja": "(よいしょ　はーどっこい)",
+      "romaji": "(Yoisho Haa Dokkoi)",
+      "en": "(Heave-ho, ha-dokkoi)",
+      "zh": "（嘿咻，嘿喲）"
+    },
+    {
+      "ja": "あかね　くちなし　わかなえ　しおん",
+      "romaji": "Akane Kuchinashi Wakanae Shion",
+      "en": "Akane, Kuchinashi, Wakanae, Shion",
+      "zh": "茜、梔子、若苗、紫苑"
+    },
+    {
+      "ja": "ホロメン音頭　(あーよいしょ)",
+      "romaji": "Horomen Ondo (Aa Yoisho)",
+      "en": "The Holomen ondo (ah, heave-ho)",
+      "zh": "Holo成員音頭（啊，嘿咻）"
+    },
+    {
+      "ja": "浴衣　あざやか　花吹雪　だね",
+      "romaji": "Yukata Azayaka Hanafubuki Da ne",
+      "en": "Yukata, vivid, flower blizzard—right?",
+      "zh": "浴衣、鮮豔、花吹雪呢"
+    },
+    {
+      "ja": "パーリラ　パーリラ　金魚も踊る　(そーれ)",
+      "romaji": "Paarira Paarira Kingyo mo Odoru (Soore)",
+      "en": "Parira, parira—even the goldfish dances (there!)",
+      "zh": "啪哩啦 啪哩啦，金魚也跳舞（嘿）"
+    },
+    {
+      "ja": "みんな揃って　どどんがどん",
+      "romaji": "Minna Soroтте Dodonga Don",
+      "en": "Everyone together—dodon-ga-don",
+      "zh": "大家齊聚一堂，咚咚嘎咚"
+    },
+    {
+      "ja": "まつり囃子だ　どどんがどん",
+      "romaji": "Matsuri Bayashi Da Dodonga Don",
+      "en": "It's festival music—dodon-ga-don",
+      "zh": "是祭典囃子，咚咚嘎咚"
+    },
+    {
+      "ja": "ホロメンを",
+      "romaji": "Horomen wo",
+      "en": "Holomen",
+      "zh": "Holo成員"
+    },
+    {
+      "ja": "集めて囃し",
+      "romaji": "Atsumete Hayashi",
+      "en": "Gather them and cheer",
+      "zh": "聚集起來歡鬧"
+    },
+    {
+      "ja": "保護者かな",
+      "romaji": "Hogosha Kana",
+      "en": "Are they guardians?",
+      "zh": "是監護人嗎"
+    },
+    {
+      "ja": "推しの言霊",
+      "romaji": "Oshi no Kotodama",
+      "en": "The spirit of words of my oshi",
+      "zh": "推的話語之靈"
+    },
+    {
+      "ja": "満ちる幸せ",
+      "romaji": "Michiru Shiawase",
+      "en": "Filling happiness",
+      "zh": "滿溢的幸福"
+    },
+    {
+      "ja": "「さぁさぁ皆さん、音頭を踊れば温度が上がる！",
+      "romaji": "「Saa Saa Minasan, Ondo wo Odoreba Ondo ga Agaru!",
+      "en": "\"Come now, everyone—if you dance the ondo, the temperature rises!",
+      "zh": "「來吧來吧各位，跳起音頭溫度就會上升！"
+    },
+    {
+      "ja": "赤ん坊から聞かん坊まで、誰でもいらっしゃ～い」",
+      "romaji": "Akanbou kara Kikanbou made, Dare demo Irassha~i」",
+      "en": "From babies to naughty kids, everyone's welcome~\"",
+      "zh": "從嬰兒到不聽話的孩子，誰都歡迎～」"
+    },
+    {
+      "ja": "あゝ　こまけぇこたぁいいんだよ",
+      "romaji": "Aa Komakee Kotaa Iin Da yo",
+      "en": "Ah, forget the fussy details",
+      "zh": "啊啊，囉嗦的小事就別管了"
+    },
+    {
+      "ja": "今宵の祭　シャル・ウィ・ダンス",
+      "romaji": "Koyoi no Matsuri Shall We Dance",
+      "en": "Tonight's festival—shall we dance",
+      "zh": "今宵的祭典，Shall We Dance"
+    },
+    {
+      "ja": "踊り踊らば　はっぴっぴー",
+      "romaji": "Odori Odoraba Happippii",
+      "en": "If you're gonna dance—happy-pi-pi",
+      "zh": "要跳就跳，嗨皮皮～"
+    },
+    {
+      "ja": "ヨヨイ宵の口　西明かり遥か",
+      "romaji": "Yoyoi Yoi no Kuchi Nishi Akari Haruka",
+      "en": "Yoyoi, early evening, the western lights far away",
+      "zh": "唷唷咿，黃昏初上，西方燈火遙遠"
+    },
+    {
+      "ja": "ホロメン音頭　(あーよいしょ)",
+      "romaji": "Horomen Ondo (Aa Yoisho)",
+      "en": "The Holomen ondo (ah, heave-ho)",
+      "zh": "Holo成員音頭（啊，嘿咻）"
+    },
+    {
+      "ja": "光さんざめく　天の川　だね",
+      "romaji": "Hikari Sanzameku Amanogawa Da ne",
+      "en": "Light glittering—the Milky Way, right?",
+      "zh": "光芒璀璨，是銀河呢"
+    },
+    {
+      "ja": "パーリラ　パーリラ　ばぁばも踊る　(そーれ)",
+      "romaji": "Paarira Paarira Baaba mo Odoru (Soore)",
+      "en": "Parira, parira—even grandma dances (there!)",
+      "zh": "啪哩啦 啪哩啦，奶奶也跳舞（嘿）"
+    },
+    {
+      "ja": "みんな揃って　どどんがどん",
+      "romaji": "Minna Soroтте Dodonga Don",
+      "en": "Everyone together—dodon-ga-don",
+      "zh": "大家齊聚一堂，咚咚嘎咚"
+    },
+    {
+      "ja": "まつり囃子だ　どどんがどん",
+      "romaji": "Matsuri Bayashi Da Dodonga Don",
+      "en": "It's festival music—dodon-ga-don",
+      "zh": "是祭典囃子，咚咚嘎咚"
+    },
+    {
+      "ja": "(よいしょ　はーどっこい)",
+      "romaji": "(Yoisho Haa Dokkoi)",
+      "en": "(Heave-ho, ha-dokkoi)",
+      "zh": "（嘿咻，嘿喲）"
+    },
+    {
+      "ja": "目引き袖引き　ご一緒いかが",
+      "romaji": "Me Hiki Sode Hiki Goissho Ikaga",
+      "en": "Catching your eye, tugging your sleeve—won't you join us?",
+      "zh": "引人注目、拉著衣袖，一起來如何"
+    },
+    {
+      "ja": "ホロメン音頭　(あーよいしょ)",
+      "romaji": "Horomen Ondo (Aa Yoisho)",
+      "en": "The Holomen ondo (ah, heave-ho)",
+      "zh": "Holo成員音頭（啊，嘿咻）"
+    },
+    {
+      "ja": "花火　ヒュルリラ　夏の夜　だね",
+      "romaji": "Hanabi Hyururira Natsu no Yoru Da ne",
+      "en": "Fireworks—hyururira—a summer night, right?",
+      "zh": "煙火，咻嚕哩啦，是夏夜呢"
+    },
+    {
+      "ja": "パーリラ　パーリラ　わらべも踊る　(そーれ)",
+      "romaji": "Paarira Paarira Warabe mo Odoru (Soore)",
+      "en": "Parira, parira—even the children dance (there!)",
+      "zh": "啪哩啦 啪哩啦，孩子們也跳舞（嘿）"
+    },
+    {
+      "ja": "みんな揃って　どどんがどん",
+      "romaji": "Minna Soroтте Dodonga Don",
+      "en": "Everyone together—dodon-ga-don",
+      "zh": "大家齊聚一堂，咚咚嘎咚"
+    },
+    {
+      "ja": "まつり囃子だ　どどんがどん",
+      "romaji": "Matsuri Bayashi Da Dodonga Don",
+      "en": "It's festival music—dodon-ga-don",
+      "zh": "是祭典囃子，咚咚嘎咚"
+    },
+    {
+      "ja": "(はぁ～てぇてぇなぁ！てぇてぇなぁ！)",
+      "romaji": "(Haa~ Teetee naa! Teetee naa!)",
+      "en": "(Ah~ so precious! So precious!)",
+      "zh": "（哈～太尊了！太尊了！）"
+    },
+    {
+      "ja": "(両手を合わせ　てぇてぇなぁ！)",
+      "romaji": "(Ryoute wo Awasete Teetee naa!)",
+      "en": "(Putting both hands together—so precious!)",
+      "zh": "（雙手合十，太尊了！）"
+    },
+    {
+      "ja": "(てぇてぇなぁ！てぇてぇなぁ！)",
+      "romaji": "(Teetee naa! Teetee naa!)",
+      "en": "(So precious! So precious!)",
+      "zh": "（太尊了！太尊了！）"
+    },
+    {
+      "ja": "(両手を合わせ　てぇてぇなぁ！)",
+      "romaji": "(Ryoute wo Awasete Teetee naa!)",
+      "en": "(Putting both hands together—so precious!)",
+      "zh": "（雙手合十，太尊了！）"
+    },
+    {
+      "ja": "ひょいと見上げりゃ　望月にこり",
+      "romaji": "Hyoi to Miagerya Mochizuki Nikori",
+      "en": "If you casually look up, the full moon smiles",
+      "zh": "不經意抬頭望去，滿月微笑著"
+    },
+    {
+      "ja": "ホロメン音頭　(あーよいしょ)",
+      "romaji": "Horomen Ondo (Aa Yoisho)",
+      "en": "The Holomen ondo (ah, heave-ho)",
+      "zh": "Holo成員音頭（啊，嘿咻）"
+    },
+    {
+      "ja": "少し切ない　夢心地　だね",
+      "romaji": "Sukoshi Setsunai Yumegokochi Da ne",
+      "en": "A little bittersweet—a dreamy feeling, right?",
+      "zh": "有點感傷，如夢似幻呢"
+    },
+    {
+      "ja": "パーリラ　パーリラ　夜っぴて踊る　(そーれ)",
+      "romaji": "Paarira Paarira Yoppite Odoru (Soore)",
+      "en": "Parira, parira—dancing all night long (there!)",
+      "zh": "啪哩啦 啪哩啦，跳一整夜（嘿）"
+    },
+    {
+      "ja": "みんな揃って　どどんがどん",
+      "romaji": "Minna Soroтте Dodonga Don",
+      "en": "Everyone together—dodon-ga-don",
+      "zh": "大家齊聚一堂，咚咚嘎咚"
+    },
+    {
+      "ja": "まつり囃子だ　どどんがどん",
+      "romaji": "Matsuri Bayashi Da Dodonga Don",
+      "en": "It's festival music—dodon-ga-don",
+      "zh": "是祭典囃子，咚咚嘎咚"
+    }
+  ]
+}

@@ -1,0 +1,759 @@
+{
+  "meta": {
+    "title": "Capture the Moment",
+    "artist": "hololive IDOL PROJECT",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "中野領太",
+    "lyricist": "金丸佳史・中野領太",
+    "album": "Capture the Moment",
+    "releaseDate": "2024/03/07",
+    "coverUrl": "cover_images/capture_the_moment",
+    "penlight_color": [
+      "#000000"
+    ],
+    "links": [
+      {
+        "name": "Official MV",
+        "url": "https://youtu.be/CwZMBnPx4co?si=5l1h1n4sMRhZyFD-"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "あの涙が今の僕らを繋げて"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "この心に君のカケラがいるから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "一人じゃないから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "いつか描いた文字の中"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "目を閉じた先に"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "色づく景色が揺れた"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "少し戸惑う風の中　(響く)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "重なる花びら　私たちの声"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "一瞬(一瞬)　一瞬(一瞬)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "捕まえるみたいに"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "もっと(もっと)　もっと"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "踏み出せたら 【we are one】"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "あの涙が今の僕らを繋げて(繋げて)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "この心に君のカケラがいるから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "強くなくてもいい(なくていい)　今の光を"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "僕と(君と)　集め(すべて)　空に放つ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "この奇跡を僕らでそっと輝かせるから(その手で)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "力が湧くから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "新たな種を握りしめ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "遠い未来へと　強く願い込め撒いた"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "希望の風を吹かせては　(泳ぐ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "理想の花びら　祈る明日の空"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "何百(何百)　億も(億も)　光る星みたいに"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "ずっと(ずっと)　ずっと　終わらないから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "この笑顔が過去を強く抱きしめて(抱きしめ)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "今未来にこの手伸ばしてゆくから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "時に転んでも(それでいい)　空を見上げよう"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "笑い(泣いた)　日々を(すべて)　刻んでゆく"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "次の夢を掴み取るって約束するから(この手で)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "踏み出そうここから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(We are with you We are with you)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "同じ未来を見ていたい　あの夢手にしたい"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "(We are with you Capture The Moment)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "触れた奇跡の中で"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "その先まで続く空にまぎれたら"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "君の場所と今を繋げたくて"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "あの涙が今の僕らを繋げて(繋げて)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "この心に君のカケラがいるから"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "強くなくてもいい(なくていい)　今の光を"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "僕と(君と)　集め(すべて)　空に放つ"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "この奇跡を僕らでそっと輝かせるから(この手で)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "咲かせようここから　(一緒に)"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "一人じゃないから【we are one】"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "あの涙が今の僕らを繋げて",
+      "call": ""
+    },
+    {
+      "lyrics": "この心に君のカケラがいるから",
+      "call": ""
+    },
+    {
+      "lyrics": "一人じゃないから",
+      "call": ""
+    },
+    {
+      "lyrics": "いつか描いた文字の中",
+      "call": ""
+    },
+    {
+      "lyrics": "目を閉じた先に",
+      "call": ""
+    },
+    {
+      "lyrics": "色づく景色が揺れた",
+      "call": ""
+    },
+    {
+      "lyrics": "少し戸惑う風の中　(響く)",
+      "call": ""
+    },
+    {
+      "lyrics": "重なる花びら　私たちの声",
+      "call": ""
+    },
+    {
+      "lyrics": "一瞬(一瞬)　一瞬(一瞬)",
+      "call": ""
+    },
+    {
+      "lyrics": "捕まえるみたいに",
+      "call": ""
+    },
+    {
+      "lyrics": "もっと(もっと)　もっと",
+      "call": ""
+    },
+    {
+      "lyrics": "踏み出せたら 【we are one】",
+      "call": ""
+    },
+    {
+      "lyrics": "あの涙が今の僕らを繋げて(繋げて)",
+      "call": ""
+    },
+    {
+      "lyrics": "この心に君のカケラがいるから",
+      "call": ""
+    },
+    {
+      "lyrics": "強くなくてもいい(なくていい)　今の光を",
+      "call": ""
+    },
+    {
+      "lyrics": "僕と(君と)　集め(すべて)　空に放つ",
+      "call": ""
+    },
+    {
+      "lyrics": "この奇跡を僕らでそっと輝かせるから(その手で)",
+      "call": ""
+    },
+    {
+      "lyrics": "力が湧くから",
+      "call": ""
+    },
+    {
+      "lyrics": "新たな種を握りしめ",
+      "call": ""
+    },
+    {
+      "lyrics": "遠い未来へと　強く願い込め撒いた",
+      "call": ""
+    },
+    {
+      "lyrics": "希望の風を吹かせては　(泳ぐ)",
+      "call": ""
+    },
+    {
+      "lyrics": "理想の花びら　祈る明日の空",
+      "call": ""
+    },
+    {
+      "lyrics": "何百(何百)　億も(億も)　光る星みたいに",
+      "call": ""
+    },
+    {
+      "lyrics": "ずっと(ずっと)　ずっと　終わらないから",
+      "call": ""
+    },
+    {
+      "lyrics": "この笑顔が過去を強く抱きしめて(抱きしめ)",
+      "call": ""
+    },
+    {
+      "lyrics": "今未来にこの手伸ばしてゆくから",
+      "call": ""
+    },
+    {
+      "lyrics": "時に転んでも(それでいい)　空を見上げよう",
+      "call": ""
+    },
+    {
+      "lyrics": "笑い(泣いた)　日々を(すべて)　刻んでゆく",
+      "call": ""
+    },
+    {
+      "lyrics": "次の夢を掴み取るって約束するから(この手で)",
+      "call": ""
+    },
+    {
+      "lyrics": "踏み出そうここから",
+      "call": ""
+    },
+    {
+      "lyrics": "(We are with you We are with you)",
+      "call": ""
+    },
+    {
+      "lyrics": "同じ未来を見ていたい　あの夢手にしたい",
+      "call": ""
+    },
+    {
+      "lyrics": "(We are with you Capture The Moment)",
+      "call": ""
+    },
+    {
+      "lyrics": "触れた奇跡の中で",
+      "call": ""
+    },
+    {
+      "lyrics": "その先まで続く空にまぎれたら",
+      "call": ""
+    },
+    {
+      "lyrics": "君の場所と今を繋げたくて",
+      "call": ""
+    },
+    {
+      "lyrics": "あの涙が今の僕らを繋げて(繋げて)",
+      "call": ""
+    },
+    {
+      "lyrics": "この心に君のカケラがいるから",
+      "call": ""
+    },
+    {
+      "lyrics": "強くなくてもいい(なくていい)　今の光を",
+      "call": ""
+    },
+    {
+      "lyrics": "僕と(君と)　集め(すべて)　空に放つ",
+      "call": ""
+    },
+    {
+      "lyrics": "この奇跡を僕らでそっと輝かせるから(この手で)",
+      "call": ""
+    },
+    {
+      "lyrics": "咲かせようここから　(一緒に)",
+      "call": ""
+    },
+    {
+      "lyrics": "一人じゃないから【we are one】",
+      "call": ""
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "あの涙が今の僕らを繋げて",
+      "romaji": "Ano Namida ga Ima no Bokura wo Tsunagete",
+      "en": "Those tears connect us as we are now",
+      "zh": "那些眼淚連繫著現在的我們"
+    },
+    {
+      "ja": "この心に君のカケラがいるから",
+      "romaji": "Kono Kokoro ni Kimi no Kakera ga Iru kara",
+      "en": "Because fragments of you are in this heart",
+      "zh": "因為這顆心裡有你的碎片"
+    },
+    {
+      "ja": "一人じゃないから",
+      "romaji": "Hitori ja Nai kara",
+      "en": "Because we're not alone",
+      "zh": "因為不是一個人"
+    },
+    {
+      "ja": "いつか描いた文字の中",
+      "romaji": "Itsuka Egaita Moji no Naka",
+      "en": "Inside the words I once drew",
+      "zh": "在曾經描繪的文字之中"
+    },
+    {
+      "ja": "目を閉じた先に",
+      "romaji": "Me wo Tojita Saki ni",
+      "en": "Beyond my closed eyes",
+      "zh": "在閉上眼的前方"
+    },
+    {
+      "ja": "色づく景色が揺れた",
+      "romaji": "Irozuく Keshiki ga Yureta",
+      "en": "The coloring scenery swayed",
+      "zh": "染上色彩的景色搖曳著"
+    },
+    {
+      "ja": "少し戸惑う風の中　(響く)",
+      "romaji": "Sukoshi Tomadou Kaze no Naka (Hibiku)",
+      "en": "In a wind of slight confusion (resounding)",
+      "zh": "在有些迷惘的風中（迴響）"
+    },
+    {
+      "ja": "重なる花びら　私たちの声",
+      "romaji": "Kasanaru Hanabira Watashitachi no Koe",
+      "en": "Overlapping petals, our voices",
+      "zh": "交疊的花瓣，我們的聲音"
+    },
+    {
+      "ja": "一瞬(一瞬)　一瞬(一瞬)",
+      "romaji": "Isshun (Isshun) Isshun (Isshun)",
+      "en": "A moment (a moment), a moment (a moment)",
+      "zh": "一瞬間（一瞬間）一瞬間（一瞬間）"
+    },
+    {
+      "ja": "捕まえるみたいに",
+      "romaji": "Tsukamaeru Mitai ni",
+      "en": "As if to catch it",
+      "zh": "像是要抓住一樣"
+    },
+    {
+      "ja": "もっと(もっと)　もっと",
+      "romaji": "Motto (Motto) Motto",
+      "en": "More (more), more",
+      "zh": "更多（更多）更多"
+    },
+    {
+      "ja": "踏み出せたら 【we are one】",
+      "romaji": "Fumidasetara 【We Are One】",
+      "en": "If we could step forward 【we are one】",
+      "zh": "若能邁出步伐 【we are one】"
+    },
+    {
+      "ja": "あの涙が今の僕らを繋げて(繋げて)",
+      "romaji": "Ano Namida ga Ima no Bokura wo Tsunagete (Tsunagete)",
+      "en": "Those tears connect us as we are now (connect us)",
+      "zh": "那些眼淚連繫著現在的我們（連繫著）"
+    },
+    {
+      "ja": "この心に君のカケラがいるから",
+      "romaji": "Kono Kokoro ni Kimi no Kakera ga Iru kara",
+      "en": "Because fragments of you are in this heart",
+      "zh": "因為這顆心裡有你的碎片"
+    },
+    {
+      "ja": "強くなくてもいい(なくていい)　今の光を",
+      "romaji": "Tsuyoku Nakute mo Ii (Nakute Ii) Ima no Hikari wo",
+      "en": "It's okay not to be strong (it's okay) — this present light",
+      "zh": "不堅強也沒關係（也沒關係），現在的光芒"
+    },
+    {
+      "ja": "僕と(君と)　集め(すべて)　空に放つ",
+      "romaji": "Boku to (Kimi to) Atsume (Subete) Sora ni Hanatsu",
+      "en": "With me (with you), gather (everything), release it into the sky",
+      "zh": "與我（與你）收集（全部）釋放到天空"
+    },
+    {
+      "ja": "この奇跡を僕らでそっと輝かせるから(その手で)",
+      "romaji": "Kono Kiseki wo Bokura de Sotto Kagayakaseru kara (Sono Te de)",
+      "en": "Because together we'll gently make this miracle shine (with those hands)",
+      "zh": "因為我們會一起輕輕讓這奇蹟發光（用那雙手）"
+    },
+    {
+      "ja": "力が湧くから",
+      "romaji": "Chikara ga Waku kara",
+      "en": "Because strength wells up",
+      "zh": "因為力量湧現"
+    },
+    {
+      "ja": "新たな種を握りしめ",
+      "romaji": "Arata na Tane wo Nigirishime",
+      "en": "Clutching a new seed",
+      "zh": "緊握著新的種子"
+    },
+    {
+      "ja": "遠い未来へと　強く願い込め撒いた",
+      "romaji": "Tooi Mirai e to Tsuyoku Negai Kome Maita",
+      "en": "I sowed it toward the distant future with a strong wish",
+      "zh": "朝向遙遠的未來，灌注強烈心願撒下"
+    },
+    {
+      "ja": "希望の風を吹かせては　(泳ぐ)",
+      "romaji": "Kibou no Kaze wo Fukasete ha (Oyogu)",
+      "en": "Making the wind of hope blow (swimming)",
+      "zh": "讓希望之風吹起（泅泳）"
+    },
+    {
+      "ja": "理想の花びら　祈る明日の空",
+      "romaji": "Risou no Hanabira Inoru Ashita no Sora",
+      "en": "Petals of ideals, the sky of the tomorrow we pray for",
+      "zh": "理想的花瓣，祈願明日之空"
+    },
+    {
+      "ja": "何百(何百)　億も(億も)　光る星みたいに",
+      "romaji": "Nanbyaku (Nanbyaku) Oku mo (Oku mo) Hikaru Hoshi Mitai ni",
+      "en": "Hundreds (hundreds), hundreds of millions (hundreds of millions), like shining stars",
+      "zh": "數百（數百）數億（數億），像閃耀的星星一樣"
+    },
+    {
+      "ja": "ずっと(ずっと)　ずっと　終わらないから",
+      "romaji": "Zutto (Zutto) Zutto Owaranai kara",
+      "en": "Forever (forever), forever, because it won't end",
+      "zh": "一直（一直）一直，因為不會結束"
+    },
+    {
+      "ja": "この笑顔が過去を強く抱きしめて(抱きしめ)",
+      "romaji": "Kono Egao ga Kako wo Tsuyoku Dakishimete (Dakishime)",
+      "en": "This smile tightly embraces the past (embraces)",
+      "zh": "這份笑容緊緊擁抱過去（擁抱）"
+    },
+    {
+      "ja": "今未来にこの手伸ばしてゆくから",
+      "romaji": "Ima Mirai ni Kono Te Nobashite Yuku kara",
+      "en": "Now I'll reach this hand toward the future",
+      "zh": "現在將這雙手伸向未來"
+    },
+    {
+      "ja": "時に転んでも(それでいい)　空を見上げよう",
+      "romaji": "Toki ni Koronde mo (Sore de Ii) Sora wo Miageyou",
+      "en": "Even if we sometimes fall (that's okay), let's look up at the sky",
+      "zh": "即使有時跌倒（那樣也好），抬頭看看天空吧"
+    },
+    {
+      "ja": "笑い(泣いた)　日々を(すべて)　刻んでゆく",
+      "romaji": "Warai (Naita) Hibi wo (Subete) Kizande Yuku",
+      "en": "Laughing (crying), I'll engrave these days (all of it)",
+      "zh": "笑著（哭著）將這些日子（全部）銘刻下去"
+    },
+    {
+      "ja": "次の夢を掴み取るって約束するから(この手で)",
+      "romaji": "Tsugi no Yume wo Tsukamitoru tte Yakusoku Suru kara (Kono Te de)",
+      "en": "Because I promise to seize the next dream (with this hand)",
+      "zh": "因為我約定會抓住下一個夢想（用這雙手）"
+    },
+    {
+      "ja": "踏み出そうここから",
+      "romaji": "Fumidasou Koko kara",
+      "en": "Let's step forward from here",
+      "zh": "從這裡邁出步伐吧"
+    },
+    {
+      "ja": "(We are with you We are with you)",
+      "romaji": "(We Are with You We Are with You)",
+      "en": "(We are with you, we are with you)",
+      "zh": "（We are with you We are with you）"
+    },
+    {
+      "ja": "同じ未来を見ていたい　あの夢手にしたい",
+      "romaji": "Onaji Mirai wo Mite Itai Ano Yume Te ni Shitai",
+      "en": "I want to see the same future—I want to hold that dream",
+      "zh": "想看著相同的未來，想將那個夢想握在手中"
+    },
+    {
+      "ja": "(We are with you Capture The Moment)",
+      "romaji": "(We Are with You Capture the Moment)",
+      "en": "(We are with you, capture the moment)",
+      "zh": "（We are with you Capture The Moment）"
+    },
+    {
+      "ja": "触れた奇跡の中で",
+      "romaji": "Fureta Kiseki no Naka de",
+      "en": "Within the miracle we touched",
+      "zh": "在觸碰到的奇蹟之中"
+    },
+    {
+      "ja": "その先まで続く空にまぎれたら",
+      "romaji": "Sono Saki made Tsuzuku Sora ni Magiretara",
+      "en": "If we blend into the sky continuing beyond",
+      "zh": "若能融入延續至彼方的天空"
+    },
+    {
+      "ja": "君の場所と今を繋げたくて",
+      "romaji": "Kimi no Basho to Ima wo Tsunagetakute",
+      "en": "Wanting to connect your place with this moment",
+      "zh": "想將你的所在與現在連繫起來"
+    },
+    {
+      "ja": "あの涙が今の僕らを繋げて(繋げて)",
+      "romaji": "Ano Namida ga Ima no Bokura wo Tsunagete (Tsunagete)",
+      "en": "Those tears connect us as we are now (connect us)",
+      "zh": "那些眼淚連繫著現在的我們（連繫著）"
+    },
+    {
+      "ja": "この心に君のカケラがいるから",
+      "romaji": "Kono Kokoro ni Kimi no Kakera ga Iru kara",
+      "en": "Because fragments of you are in this heart",
+      "zh": "因為這顆心裡有你的碎片"
+    },
+    {
+      "ja": "強くなくてもいい(なくていい)　今の光を",
+      "romaji": "Tsuyoku Nakute mo Ii (Nakute Ii) Ima no Hikari wo",
+      "en": "It's okay not to be strong (it's okay) — this present light",
+      "zh": "不堅強也沒關係（也沒關係），現在的光芒"
+    },
+    {
+      "ja": "僕と(君と)　集め(すべて)　空に放つ",
+      "romaji": "Boku to (Kimi to) Atsume (Subete) Sora ni Hanatsu",
+      "en": "With me (with you), gather (everything), release it into the sky",
+      "zh": "與我（與你）收集（全部）釋放到天空"
+    },
+    {
+      "ja": "この奇跡を僕らでそっと輝かせるから(この手で)",
+      "romaji": "Kono Kiseki wo Bokura de Sotto Kagayakaseru kara (Kono Te de)",
+      "en": "Because together we'll gently make this miracle shine (with this hand)",
+      "zh": "因為我們會一起輕輕讓這奇蹟發光（用這雙手）"
+    },
+    {
+      "ja": "咲かせようここから　(一緒に)",
+      "romaji": "Sakaseyou Koko kara (Issho ni)",
+      "en": "Let's make it bloom from here (together)",
+      "zh": "從這裡讓它綻放吧（一起）"
+    },
+    {
+      "ja": "一人じゃないから【we are one】",
+      "romaji": "Hitori ja Nai kara 【We Are One】",
+      "en": "Because we're not alone 【we are one】",
+      "zh": "因為不是一個人【we are one】"
+    }
+  ]
+}
