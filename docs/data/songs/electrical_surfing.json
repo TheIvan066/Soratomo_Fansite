@@ -17,6 +17,10 @@
       {
         "name": "Official MV",
         "url": "https://youtu.be/TNQ8iLDslFg?si=3XyctBMdXLNEjh7L"
+      },
+      {
+        "name": "Call",
+        "url": "https://www.youtube.com/live/NQRDm7BIgf0?si=zvZ2l197nEFoNGhz&t=4335"
       }
     ]
   },
@@ -203,13 +207,15 @@
     },
     {
       "lyrics": "サーフィン サーフィン",
-      "call": "サーフィン サーフィン"
+      "call": "サーフィン サーフィン",
+      "extra_row": true,
+      "action": "RH-Surfing LH-Surfing"
     },
     {
       "lyrics": "こちらに来て来て",
       "call": "",
       "extra_row": true,
-      "action": "                           pp"
+      "action": "              p     p"
     },
     {
       "lyrics": "好いも狂いもいただきます",
@@ -217,13 +223,15 @@
     },
     {
       "lyrics": "サーフィン サーフィン",
-      "call": "サーフィン サーフィン"
+      "call": "サーフィン サーフィン",
+      "extra_row": true,
+      "action": "RH-Surfing LH-Surfing"
     },
     {
       "lyrics": "手と手とってって",
       "call": "",
       "extra_row": true,
-      "action": "                           pp"
+      "action": "               p    p"
     },
     {
       "lyrics": "白昼夢中 夢中で踊り明かしましょう",
@@ -279,13 +287,15 @@
     },
     {
       "lyrics": "サーフィン サーフィン",
-      "call": "サーフィン サーフィン"
+      "call": "サーフィン サーフィン",
+      "extra_row": true,
+      "action": "RH-Surfing LH-Surfing"
     },
     {
       "lyrics": "こちらにきてきて",
       "call": "",
       "extra_row": true,
-      "action": "                           pp"
+      "action": "              p     p"
     },
     {
       "lyrics": "酸いも憂いも忘れてさ",
@@ -293,13 +303,15 @@
     },
     {
       "lyrics": "サーフィン サーフィン",
-      "call": "サーフィン サーフィン"
+      "call": "サーフィン サーフィン",
+      "extra_row": true,
+      "action": "RH-Surfing LH-Surfing"
     },
     {
       "lyrics": "手と手とってって",
       "call": "",
       "extra_row": true,
-      "action": "                           pp"
+      "action": "               p    p"
     },
     {
       "lyrics": "白昼夢中 夢中にするわ 憶えてて",
@@ -327,7 +339,9 @@
     },
     {
       "lyrics": "サーフィン サーフィン",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "RH-Surfing LH-Surfing"
     },
     {
       "lyrics": "こちらを見て見て",
@@ -339,7 +353,9 @@
     },
     {
       "lyrics": "サーフィン サーフィン",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "RH-Surfing LH-Surfing"
     },
     {
       "lyrics": "手と手とってて",
@@ -355,13 +371,15 @@
     },
     {
       "lyrics": "サーフィン サーフィン",
-      "call": "サーフィン サーフィン"
+      "call": "サーフィン サーフィン",
+      "extra_row": true,
+      "action": "RH-Surfing LH-Surfing"
     },
     {
       "lyrics": "こちらに来て来て",
       "call": "",
       "extra_row": true,
-      "action": "                           pp"
+      "action": "               p     p"
     },
     {
       "lyrics": "好いも狂いもいただきます",
@@ -369,13 +387,15 @@
     },
     {
       "lyrics": "サーフィン サーフィン",
-      "call": "サーフィン サーフィン"
+      "call": "サーフィン サーフィン",
+      "extra_row": true,
+      "action": "RH-Surfing LH-Surfing"
     },
     {
       "lyrics": "手と手とってって",
       "call": "",
       "extra_row": true,
-      "action": "                           pp"
+      "action": "                p    p"
     },
     {
       "lyrics": "白昼夢中 夢中で踊り明かしましょう",

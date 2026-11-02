@@ -1,5 +1,16 @@
 # <span style="color: blue;">**Update log**</span>
 
+## <span style="color: grey">Beta 1.0.8 - 2/11/2026</span>
+* Added call practice links in the link section of songs
+* Updated some chord charts (as of 3/11/2026)
+* Trying to fix the mobile phone rendering problem
+* Updated some chord charts and manual translations (Current Progress: 40%)
+* Search and QoL patches
+* Currently WIP features:
+  * Song chord charts (Will take some time as this is manual)
+  * Manual translation 
+  * The goods page (at a later priority)
+
 ## <span style="color: grey">Beta 1.0.7 - 8/10/2026</span>
 * All song lyrics that sora released was updated (except バーチャル開花最前線. That one is transcribing in progress)
 * Trying to fix the mobile phone rendering problem

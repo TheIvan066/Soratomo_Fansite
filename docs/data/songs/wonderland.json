@@ -22,6 +22,10 @@
       {
         "name": "Acoustic Ver.",
         "url": "https://youtu.be/YQs69zsTrZ4?si=DvXNUgVoS8AKQA55"
+      },
+      {
+        "name": "Call",
+        "url": "https://www.youtube.com/live/NQRDm7BIgf0?si=9LG5KIbCW11lkKsH&t=4855"
       }
     ]
   },
@@ -485,13 +489,15 @@
     },
     {
       "lyrics": "明日はもっと世界は輝くよ",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "p-p-p-p- p-p-p-p-"
     },
     {
       "lyrics": "キミ次第さ It's a wonderland",
       "call": "                                             >>>>>",
       "extra_row": true,
-      "action": "                                             ppppp"
+      "action": "p-p-p-p- p-p-p-p-                 ppppp"
     },
     {
       "lyrics": "",

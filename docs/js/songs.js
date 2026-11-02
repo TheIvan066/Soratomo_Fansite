@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", () => {
             btnLabel: "English",
             legendPenlight: "Penlight Colour",
             guide: "Guide",
-            callGuideText: "P : Claps | p : Claps (Fast) | ℗ : Claps | - : Rest | = : Rest (half) | ≣ : Rest (Quarter) | 🔁 : Penlight Circle",
+            callGuideText: "P : Claps | p : Claps (Fast) | ℗ : Claps | - : Rest | = : Rest (half) | ≣ : Rest (Quarter) | 🔁 : Penlight Circle | LH : Left Hand | RH : Right Hand",
             linksTitle: "Links",
             prevSong: "Prev",
             nextSong: "Next"
@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", () => {
             btnLabel: "繁中",
             guide: "符號說明",
             legendPenlight: "Penlight 顏色",
-            callGuideText: "P : 拍手 | p : 拍手 (快) | ℗ : 拍手 | - : 停頓 | = : 停頓 (半拍) | ≣ : 停頓 (¼拍) | 🔁 : Penlight 轉圈",
+            callGuideText: "P : 拍手 | p : 拍手 (快) | ℗ : 拍手 | - : 停頓 | = : 停頓 (半拍) | ≣ : 停頓 (¼拍) | 🔁 : Penlight 轉圈 | LH : 左手 | RH : 右手",
             linksTitle: "連結",
             prevSong: "上一首",
             nextSong: "下一首"
@@ -84,7 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
             btnLabel: "日本語",
             legendPenlight: "サイリュームカラー",
             guide: "符号説明",
-            callGuideText: "P : 拍手 | p : 拍手 (速い) | ℗ : 拍手 | - : 休み | = : 休み (半拍) | ≣ : 休み (¼拍) | 🔁 : ペンライトグルグル",
+            callGuideText: "P : 拍手 | p : 拍手 (速い) | ℗ : 拍手 | - : 休み | = : 休み (半拍) | ≣ : 休み (¼拍) | 🔁 : ペンライトグルグル | LH : 左手 | RH : 右手",
             linksTitle: "リンク",
             prevSong: "前へ",
             nextSong: "次へ"

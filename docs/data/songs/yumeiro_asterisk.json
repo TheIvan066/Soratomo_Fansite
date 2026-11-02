@@ -17,6 +17,10 @@
       {
         "name": "Official MV",
         "url": "https://youtu.be/kTV6uSmiXEw?si=oUfbeLCz3k-DnXzx"
+      },
+      {
+        "name": "Call",
+        "url": "https://www.youtube.com/live/X6rfBM8Hw00?si=yATvrv5aqiKm4_VY&t=7084"
       }
     ]
   },
@@ -327,19 +331,27 @@
     },
     {
       "lyrics": "夢の続きみるために",
-      "call": "お～ハイ！お～ハイ！"
+      "call": "お～ハイ！お～ハイ！",
+      "extra_row": true,
+      "action":"P=pp= P=pp="
     },
     {
       "lyrics": "眠る暇はないからって",
-      "call": "お～ハイ！お～ハイ！"
+      "call": "お～ハイ！お～ハイ！",
+      "extra_row": true,
+      "action":"P=pp= P=pp="
     },
     {
       "lyrics": "手をひいて走っていった",
-      "call": ""
+      "call": "お～ハイ！お～ハイ！",
+      "extra_row": true,
+      "action":"P=pp= P=pp="
     },
     {
       "lyrics": "「いつかの空、見つけに行こう!」",
-      "call": ""
+      "call": "お～ハイ！お～ハイ！",
+      "extra_row": true,
+      "action":"P=pp= P=pp="
     },
     {
       "lyrics": "それはきっとあの星のように",
@@ -358,11 +370,11 @@
       "call": ""
     },
     {
-      "lyrics": "（間奏1ループ目，8拍×4）",
+      "lyrics": "（間奏1ループ目，8拍×4）（First part of interlude・8 beats ×4）",
       "call": ""
     },
     {
-      "lyrics": "（間奏2ループ目）",
+      "lyrics": "（間奏2ループ目）（Second part of interlude）",
       "call": "=== ハイ！=== ハイ！=== ハイ！=== ハイ！"
     },
     {
@@ -403,19 +415,27 @@
     },
     {
       "lyrics": "涙流さないために",
-      "call": "お～ハイ！お～ハイ！"
+       "call": "お～ハイ！お～ハイ！",
+       "extra_row": true,
+       "action":"P=pp= P=pp="
     },
     {
       "lyrics": "仰ぐ暇はないからって",
-      "call": "お～ハイ！お～ハイ！"
+      "call": "お～ハイ！お～ハイ！",
+      "extra_row": true,
+      "action":"P=pp= P=pp="
     },
     {
       "lyrics": "前向いて走っていった",
-      "call": ""
+      "call": "お～ハイ！お～ハイ！",
+      "extra_row": true,
+      "action":"P=pp= P=pp="
     },
     {
       "lyrics": "「いつかの空、見つけに行こう!」",
-      "call": ""
+      "call": "お～ハイ！お～ハイ！",
+      "extra_row": true,
+      "action":"P=pp= P=pp="
     },
     {
       "lyrics": "それはきっとあの星のように",
@@ -545,19 +565,19 @@
     },
     {
       "lyrics": "探し続けて見つけたここからが僕らのスタートラインで",
-      "call": ""
+      "call": "===ハイ！ ===ハイ！ ×2"
     },
     {
       "lyrics": "走り続けてふとあふれた君の涙までも輝いて",
-      "call": ""
+      "call": "===ハイ！ ===ハイ！ ×2"
     },
     {
       "lyrics": "もがき続けて見ていたあの時の空はきっとまぼろしじゃない",
-      "call": ""
+      "call": "ハイハイハイハイハイハイハイハイ ×2"
     },
     {
       "lyrics": "振り返ればいつの日にか見とれていたあの星",
-      "call": ""
+      "call": "ハイハイハイハイハイハイハイハイ ×2"
     },
     {
       "lyrics": "",

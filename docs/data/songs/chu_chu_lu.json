@@ -21,6 +21,10 @@
       {
         "name": "Acoustic Ver (Unofficial Clip)",
         "url": "https://youtu.be/GECtZrpQOIw?si=OOLi2212ch0dx5_F"
+      },
+      {
+        "name": "Call",
+        "url": "https://www.youtube.com/live/X6rfBM8Hw00?si=ihcQ84_kbgaJ482n&t=5741"
       }
     ]
   },
@@ -353,7 +357,7 @@
     },
     {
       "lyrics": "Chu-Chu-lu-Chu Chu-lu-Chu-lu-Chu >> ×4",
-      "call": "Chu-Chu-lu-Chu Chu-lu-Chu-lu-Chu ×4",
+      "call": "Chu-Chu-lu-Chu Chu-lu-Chu-lu-Chu >> ×4",
       "extra_row": true,
       "action": "                                                           pp ×4"
     },
