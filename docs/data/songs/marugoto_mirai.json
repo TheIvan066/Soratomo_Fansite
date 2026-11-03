@@ -1,0 +1,871 @@
+{
+  "meta": {
+    "title": "マルゴトミライ",
+    "artist": "ときのそら",
+    "originalKey": "Em",
+    "capo": "",
+    "description": "",
+    "composer": "Kijibato・Akki",
+    "lyricist": "Kijibato・Akki",
+    "album": "Check!",
+    "releaseDate": "2026/11/04",
+    "coverUrl": "cover_images/check",
+    "penlight_color": [
+      "#000000"
+    ],
+    "links": [
+      {
+        "name": "Tokino Sora Cover",
+        "url": "https://youtu.be/kpMgniQvIEM?si=3RIktXAutH8O_5hW"
+      }
+    ]
+  },
+  "chords": [
+    {
+      "section": "Intro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 1",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Verse 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Pre-chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 2",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Bridge",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Chorus 3",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    },
+    {
+      "section": "Outro",
+      "lines": [
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        },
+        {
+          "c": "Coming Soon!",
+          "t": "xxx"
+        }
+      ]
+    }
+  ],
+  "calls": [
+    {
+      "lyrics": "Take off！",
+      "call": ""
+    },
+    {
+      "lyrics": "上げてけ声量",
+      "call": ""
+    },
+    {
+      "lyrics": "紡ぐエピソードの先へ行こう！",
+      "call": ""
+    },
+    {
+      "lyrics": "茜色じゃなくて薄明色",
+      "call": ""
+    },
+    {
+      "lyrics": "正夢ってかまさに夢",
+      "call": ""
+    },
+    {
+      "lyrics": "かなっちゃうのかい",
+      "call": ""
+    },
+    {
+      "lyrics": "わらっちゃうくらい",
+      "call": ""
+    },
+    {
+      "lyrics": "長くて短い道のりの",
+      "call": ""
+    },
+    {
+      "lyrics": "答えを、見つけよっ！",
+      "call": ""
+    },
+    {
+      "lyrics": "ああ　始まりだった　幕開けだった",
+      "call": ""
+    },
+    {
+      "lyrics": "僕らのストーリーだから",
+      "call": ""
+    },
+    {
+      "lyrics": "パーティー！Let's go, Let's go！",
+      "call": ""
+    },
+    {
+      "lyrics": "あれもこれもマルゴトミライ",
+      "call": "                     マルゴトミライ"
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×3"
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ "
+    },
+    {
+      "lyrics": "歩いて　走って　走って　歩いて",
+      "call": ""
+    },
+    {
+      "lyrics": "つまずいて起き上がって",
+      "call": ""
+    },
+    {
+      "lyrics": "笑って　泣いて　泣いて　笑って",
+      "call": ""
+    },
+    {
+      "lyrics": "少しずつレベルアップ！",
+      "call": ""
+    },
+    {
+      "lyrics": "迷って　ぐるって　モヤって　解って",
+      "call": ""
+    },
+    {
+      "lyrics": "手繰り寄せたこの場所",
+      "call": ""
+    },
+    {
+      "lyrics": "歌って　歌って　響かせた！",
+      "call": ""
+    },
+    {
+      "lyrics": "この音を合図に",
+      "call": ""
+    },
+    {
+      "lyrics": "繋がって",
+      "call": ""
+    },
+    {
+      "lyrics": "ここまできたから",
+      "call": ""
+    },
+    {
+      "lyrics": "貫き通せ",
+      "call": ""
+    },
+    {
+      "lyrics": "高まる心拍数は",
+      "call": ""
+    },
+    {
+      "lyrics": "限界突破",
+      "call": ""
+    },
+    {
+      "lyrics": "メーター振り切ってけ",
+      "call": ""
+    },
+    {
+      "lyrics": "最高潮を再更新へ",
+      "call": ""
+    },
+    {
+      "lyrics": "さあ　夢を語って　夜更かしあって",
+      "call": ""
+    },
+    {
+      "lyrics": "踊り明かそうか　キラリ",
+      "call": ""
+    },
+    {
+      "lyrics": "うんと　うんと",
+      "call": ""
+    },
+    {
+      "lyrics": "おっきい「まさか！！」",
+      "call": ""
+    },
+    {
+      "lyrics": "わー！　声を出そうぜ　心はそう絶対に",
+      "call": ""
+    },
+    {
+      "lyrics": "ミライむきでワハハ",
+      "call": ""
+    },
+    {
+      "lyrics": "よっしゃ、よっしゃ！",
+      "call": "       よっしゃ、よっしゃ！"
+    },
+    {
+      "lyrics": "目と目あわせ　乾杯！",
+      "call": "                        乾杯！"
+    },
+    {
+      "lyrics": "ぜんぶマルゴト期待してたい",
+      "call": ""
+    },
+    {
+      "lyrics": "見てたい見せたい",
+      "call": ""
+    },
+    {
+      "lyrics": "叫んで YEAH！",
+      "call": ""
+    },
+    {
+      "lyrics": "いっせーので HEY！",
+      "call": ""
+    },
+    {
+      "lyrics": "まだまだ行けるね？ついてきて！",
+      "call": ""
+    },
+    {
+      "lyrics": "駆け抜ける日もあったらいい",
+      "call": ""
+    },
+    {
+      "lyrics": "空見上げる日もあったり",
+      "call": ""
+    },
+    {
+      "lyrics": "あっちこっち寄り道したり",
+      "call": ""
+    },
+    {
+      "lyrics": "でもそれがなんだかいい感じ！",
+      "call": ""
+    },
+    {
+      "lyrics": "最初のひとことも　最後のひとかけらも",
+      "call": ""
+    },
+    {
+      "lyrics": "眩しい思い出にしよう",
+      "call": ""
+    },
+    {
+      "lyrics": "さあ　まだまだいけるよ　止まれないから",
+      "call": ""
+    },
+    {
+      "lyrics": "元気よく、すごいよく！",
+      "call": ""
+    },
+    {
+      "lyrics": "らららっていけ！　高鳴っていけ！　Gogogo！",
+      "call": ""
+    },
+    {
+      "lyrics": "マルゴトミライ！",
+      "call": "マルゴトミライ！"
+    },
+    {
+      "lyrics": "笑顔でマルゴトミライ！",
+      "call": "          マルゴトミライ！"
+    },
+    {
+      "lyrics": "元気にマルゴトミライ！",
+      "call": "          マルゴトミライ！"
+    },
+    {
+      "lyrics": "ちっちゃくマルゴトミライ！",
+      "call": "                 マルゴトミライ！"
+    },
+    {
+      "lyrics": "でっかくマルゴトミライ！",
+      "call": "             マルゴトミライ！"
+    },
+    {
+      "lyrics": "全力マルゴトミライ！",
+      "call": "       マルゴトミライ！"
+    },
+    {
+      "lyrics": "ああ　キラリ光った　今、目が合った",
+      "call": ""
+    },
+    {
+      "lyrics": "たくさんの大切たちと",
+      "call": ""
+    },
+    {
+      "lyrics": "いつまでだって　どこまでだって",
+      "call": ""
+    },
+    {
+      "lyrics": "踊り明かそうか　キラリ",
+      "call": ""
+    },
+    {
+      "lyrics": "確かめちゃお！　いくぞミライ",
+      "call": ""
+    },
+    {
+      "lyrics": "さあ　夢よ叶って　もう鳴り出してる",
+      "call": ""
+    },
+    {
+      "lyrics": "音に漂った　ヒカリ",
+      "call": ""
+    },
+    {
+      "lyrics": "ずっと　ずっと",
+      "call": "      ずっと　ずっと"
+    },
+    {
+      "lyrics": "夢見た彼方！！",
+      "call": ""
+    },
+    {
+      "lyrics": "わー！　声を出そうぜ　心はそう絶対に",
+      "call": ""
+    },
+    {
+      "lyrics": "ミライむきでワハハ",
+      "call": ""
+    },
+    {
+      "lyrics": "よっしゃ、よっしゃ！",
+      "call": "よっしゃ、よっしゃ！"
+    },
+    {
+      "lyrics": "目と目あわせ　乾杯！",
+      "call": "                        乾杯！"
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×3"
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ "
+    }
+  ],
+  "lyrics": [
+    {
+      "ja": "※ただいま歌詞の翻訳はAIによる生成したものです。人工による翻訳は後ほどアップデートする予定です！",
+      "romaji": "",
+      "en": "※This translation is currently generated by AI. The refined version is coming soon!",
+      "zh": "※此翻譯暫時是AI生成的。人工的翻譯會容後更新！"
+    },
+    {
+      "ja": "Take off！",
+      "romaji": "Take Off!",
+      "en": "Take off!",
+      "zh": "Take off！"
+    },
+    {
+      "ja": "上げてけ声量",
+      "romaji": "Ageteke Seiryou",
+      "en": "Pump up the volume",
+      "zh": "提高音量"
+    },
+    {
+      "ja": "紡ぐエピソードの先へ行こう！",
+      "romaji": "Tsumugu Episoodo no Saki e Ikou!",
+      "en": "Let's go beyond the episodes we weave!",
+      "zh": "前往編織出的篇章彼端吧！"
+    },
+    {
+      "ja": "茜色じゃなくて薄明色",
+      "romaji": "Akane Iro ja Nakute Hakumei Iro",
+      "en": "Not madder red, but the color of dawn",
+      "zh": "不是茜紅色，而是薄明色"
+    },
+    {
+      "ja": "正夢ってかまさに夢",
+      "romaji": "Masayume tte ka Masa ni Yume",
+      "en": "A prophetic dream, or rather, exactly a dream",
+      "zh": "說是正夢，不如說根本就是夢"
+    },
+    {
+      "ja": "かなっちゃうのかい",
+      "romaji": "Kanatchau no Kai",
+      "en": "Is it really going to come true?",
+      "zh": "真的會實現嗎"
+    },
+    {
+      "ja": "わらっちゃうくらい",
+      "romaji": "Waratchau Kurai",
+      "en": "So much it makes me laugh",
+      "zh": "多到令人發笑"
+    },
+    {
+      "ja": "長くて短い道のりの",
+      "romaji": "Nagakute Mijikai Michinori no",
+      "en": "Of this long yet short journey",
+      "zh": "在這既長又短的旅途中"
+    },
+    {
+      "ja": "答えを、見つけよっ！",
+      "romaji": "Kotae wo, Mitsukeyo!",
+      "en": "Let's find the answer!",
+      "zh": "去找到答案吧！"
+    },
+    {
+      "ja": "ああ　始まりだった　幕開けだった",
+      "romaji": "Aa Hajimari Datta Makuake Datta",
+      "en": "Ah, it was the beginning—it was the curtain rising",
+      "zh": "啊啊，那是開始，那是揭幕"
+    },
+    {
+      "ja": "僕らのストーリーだから",
+      "romaji": "Bokura no Sutoorii Dakara",
+      "en": "Because it's our story",
+      "zh": "因為這是我們的故事"
+    },
+    {
+      "ja": "パーティー！Let's go, Let's go！",
+      "romaji": "Paatii! Let's Go, Let's Go!",
+      "en": "Party! Let's go, let's go!",
+      "zh": "派對！Let's go, Let's go！"
+    },
+    {
+      "ja": "あれもこれもマルゴトミライ",
+      "romaji": "Are mo Kore mo Marugoto Mirai",
+      "en": "That and this—all of it, the future",
+      "zh": "那個這個，全部都是未來"
+    },
+    {
+      "ja": "歩いて　走って　走って　歩いて",
+      "romaji": "Aruite Hashitte Hashitte Aruite",
+      "en": "Walking, running, running, walking",
+      "zh": "走著、跑著、跑著、走著"
+    },
+    {
+      "ja": "つまずいて起き上がって",
+      "romaji": "Tsumazuite Okiagatte",
+      "en": "Stumbling and getting back up",
+      "zh": "跌倒了再站起來"
+    },
+    {
+      "ja": "笑って　泣いて　泣いて　笑って",
+      "romaji": "Waratte Naite Naite Waratte",
+      "en": "Laughing, crying, crying, laughing",
+      "zh": "笑著、哭著、哭著、笑著"
+    },
+    {
+      "ja": "少しずつレベルアップ！",
+      "romaji": "Sukoshi Zutsu Reberu Appu!",
+      "en": "Leveling up little by little!",
+      "zh": "一點一點升級！"
+    },
+    {
+      "ja": "迷って　ぐるって　モヤって　解って",
+      "romaji": "Mayotte Gurutte Moyatte Wakatte",
+      "en": "Getting lost, going in circles, feeling foggy, understanding",
+      "zh": "迷惘、團團轉、悶悶不樂、然後明白"
+    },
+    {
+      "ja": "手繰り寄せたこの場所",
+      "romaji": "Taguriyoseta Kono Basho",
+      "en": "This place we pulled close",
+      "zh": "將它拉到身邊的這個地方"
+    },
+    {
+      "ja": "歌って　歌って　響かせた！",
+      "romaji": "Utatte Utatte Hibikaseta!",
+      "en": "Singing, singing—we made it resound!",
+      "zh": "歌唱、歌唱，讓它迴響！"
+    },
+    {
+      "ja": "この音を合図に",
+      "romaji": "Kono Oto wo Aizu ni",
+      "en": "With this sound as the signal",
+      "zh": "以這個聲音為暗號"
+    },
+    {
+      "ja": "繋がって",
+      "romaji": "Tsunagatte",
+      "en": "Connecting",
+      "zh": "連繫起來"
+    },
+    {
+      "ja": "ここまできたから",
+      "romaji": "Koko made Kita kara",
+      "en": "Because we've made it this far",
+      "zh": "因為走到了這裡"
+    },
+    {
+      "ja": "貫き通せ",
+      "romaji": "Tsuranukitouse",
+      "en": "See it through",
+      "zh": "貫徹到底"
+    },
+    {
+      "ja": "高まる心拍数は",
+      "romaji": "Takamaru Shinpakusuu ha",
+      "en": "The rising heart rate",
+      "zh": "高漲的心跳數"
+    },
+    {
+      "ja": "限界突破",
+      "romaji": "Genkai Toppa",
+      "en": "Breaks through the limits",
+      "zh": "突破極限"
+    },
+    {
+      "ja": "メーター振り切ってけ",
+      "romaji": "Meetaa Furikitteke",
+      "en": "Push the meter past its limit",
+      "zh": "讓指針爆表吧"
+    },
+    {
+      "ja": "最高潮を再更新へ",
+      "romaji": "Saikouchou wo Saikoushin e",
+      "en": "Toward renewing the climax once more",
+      "zh": "再次更新最高潮"
+    },
+    {
+      "ja": "さあ　夢を語って　夜更かしあって",
+      "romaji": "Saa Yume wo Katatte Yofukashi Atte",
+      "en": "Now, talk about dreams, stay up late",
+      "zh": "來吧，談論夢想，熬夜暢聊"
+    },
+    {
+      "ja": "踊り明かそうか　キラリ",
+      "romaji": "Odori Akasou ka Kirari",
+      "en": "Shall we dance until dawn? Sparkle",
+      "zh": "跳舞到天明吧，閃耀"
+    },
+    {
+      "ja": "うんと　うんと",
+      "romaji": "Unto Unto",
+      "en": "So much, so much",
+      "zh": "大大地，大大地"
+    },
+    {
+      "ja": "おっきい「まさか！！」",
+      "romaji": "Okkii「Masaka!!」",
+      "en": "A huge \"No way!!\"",
+      "zh": "超大的「不會吧！！」"
+    },
+    {
+      "ja": "わー！　声を出そうぜ　心はそう絶対に",
+      "romaji": "Waa! Koe wo Dasou ze Kokoro ha Sou Zettai ni",
+      "en": "Whoa! Let's raise our voices—our hearts absolutely",
+      "zh": "哇！大聲喊出來吧，心絕對是"
+    },
+    {
+      "ja": "ミライむきでワハハ",
+      "romaji": "Mirai Muki de Wahaha",
+      "en": "Facing the future with a ha-ha",
+      "zh": "面向未來哈哈笑"
+    },
+    {
+      "ja": "よっしゃ、よっしゃ！",
+      "romaji": "Yossha, Yossha!",
+      "en": "Alright, alright!",
+      "zh": "好耶，好耶！"
+    },
+    {
+      "ja": "目と目あわせ　乾杯！",
+      "romaji": "Me to Me Awase Kanpai!",
+      "en": "Eyes meeting eyes—cheers!",
+      "zh": "眼神交會，乾杯！"
+    },
+    {
+      "ja": "ぜんぶマルゴト期待してたい",
+      "romaji": "Zenbu Marugoto Kitai Shitetai",
+      "en": "I want to look forward to all of it, everything",
+      "zh": "想對全部、所有一切都抱有期待"
+    },
+    {
+      "ja": "見てたい見せたい",
+      "romaji": "Mitetai Misetai",
+      "en": "I want to see it, I want to show it",
+      "zh": "想看見，想讓你看看"
+    },
+    {
+      "ja": "叫んで YEAH！",
+      "romaji": "Sakende YEAH!",
+      "en": "Shout—yeah!",
+      "zh": "大喊 YEAH！"
+    },
+    {
+      "ja": "いっせーので HEY！",
+      "romaji": "Isseenode HEY!",
+      "en": "On the count—hey!",
+      "zh": "預備起 HEY！"
+    },
+    {
+      "ja": "まだまだ行けるね？ついてきて！",
+      "romaji": "Mada Mada Ikeru ne? Tsuite Kite!",
+      "en": "We can still keep going, right? Follow me!",
+      "zh": "還能繼續走下去吧？跟上來！"
+    },
+    {
+      "ja": "駆け抜ける日もあったらいい",
+      "romaji": "Kakenukeru Hi mo Attara Ii",
+      "en": "It'd be nice to have days we race through",
+      "zh": "能有奔馳而過的日子也不錯"
+    },
+    {
+      "ja": "空見上げる日もあったり",
+      "romaji": "Sora Miageru Hi mo Attari",
+      "en": "Days we look up at the sky too",
+      "zh": "也有仰望天空的日子"
+    },
+    {
+      "ja": "あっちこっち寄り道したり",
+      "romaji": "Atchi Kotchi Yorimichi Shitari",
+      "en": "Taking detours here and there",
+      "zh": "東走走西繞繞"
+    },
+    {
+      "ja": "でもそれがなんだかいい感じ！",
+      "romaji": "Demo Sore ga Nandaka Ii Kanji!",
+      "en": "But somehow that feels just right!",
+      "zh": "但那總覺得感覺很好！"
+    },
+    {
+      "ja": "最初のひとことも　最後のひとかけらも",
+      "romaji": "Saisho no Hitokoto mo Saigo no Hitokakera mo",
+      "en": "Both the first word and the last fragment",
+      "zh": "最初的一句話，還有最後的一片碎片"
+    },
+    {
+      "ja": "眩しい思い出にしよう",
+      "romaji": "Mabushii Omoide ni Shiyou",
+      "en": "Let's make them dazzling memories",
+      "zh": "都讓它成為耀眼的回憶吧"
+    },
+    {
+      "ja": "さあ　まだまだいけるよ　止まれないから",
+      "romaji": "Saa Mada Mada Ikeru yo Tomarenai kara",
+      "en": "Now, we can still go on—because we can't stop",
+      "zh": "來吧，還能繼續下去，因為停不下來"
+    },
+    {
+      "ja": "元気よく、すごいよく！",
+      "romaji": "Genki Yoku, Sugoi Yoku!",
+      "en": "Cheerfully, amazingly well!",
+      "zh": "精神飽滿地，超厲害地！"
+    },
+    {
+      "ja": "らららっていけ！　高鳴っていけ！　Gogogo！",
+      "romaji": "Rararara tte Ike! Takanaatte Ike! Gogogo!",
+      "en": "Go with a la-la-la! Let it pound! Go, go, go!",
+      "zh": "啦啦啦地前進！心跳高鳴！Gogogo！"
+    },
+    {
+      "ja": "マルゴトミライ！",
+      "romaji": "Marugoto Mirai!",
+      "en": "All of it, the future!",
+      "zh": "全部都是未來！"
+    },
+    {
+      "ja": "笑顔でマルゴトミライ！",
+      "romaji": "Egao de Marugoto Mirai!",
+      "en": "With a smile—all of it, the future!",
+      "zh": "帶著笑容，全部都是未來！"
+    },
+    {
+      "ja": "元気にマルゴトミライ！",
+      "romaji": "Genki ni Marugoto Mirai!",
+      "en": "Cheerfully—all of it, the future!",
+      "zh": "精神飽滿地，全部都是未來！"
+    },
+    {
+      "ja": "ちっちゃくマルゴトミライ！",
+      "romaji": "Chitchaku Marugoto Mirai!",
+      "en": "In a small way—all of it, the future!",
+      "zh": "小小地，全部都是未來！"
+    },
+    {
+      "ja": "でっかくマルゴトミライ！",
+      "romaji": "Dekkaku Marugoto Mirai!",
+      "en": "In a big way—all of it, the future!",
+      "zh": "大大地，全部都是未來！"
+    },
+    {
+      "ja": "全力マルゴトミライ！",
+      "romaji": "Zenryoku Marugoto Mirai!",
+      "en": "Full power—all of it, the future!",
+      "zh": "全力，全部都是未來！"
+    },
+    {
+      "ja": "ああ　キラリ光った　今、目が合った",
+      "romaji": "Aa Kirari Hikatta Ima, Me ga Atta",
+      "en": "Ah, it sparkled—now our eyes met",
+      "zh": "啊啊，閃了一下，現在眼神交會了"
+    },
+    {
+      "ja": "たくさんの大切たちと",
+      "romaji": "Takusan no Taisetsu Tachi to",
+      "en": "With so many precious things",
+      "zh": "與許許多多重要的事物"
+    },
+    {
+      "ja": "いつまでだって　どこまでだって",
+      "romaji": "Itsu made Datte Doko made Datte",
+      "en": "Forever and ever, anywhere at all",
+      "zh": "無論到何時，無論到何處"
+    },
+    {
+      "ja": "踊り明かそうか　キラリ",
+      "romaji": "Odori Akasou ka Kirari",
+      "en": "Shall we dance until dawn? Sparkle",
+      "zh": "跳舞到天明吧，閃耀"
+    },
+    {
+      "ja": "確かめちゃお！　いくぞミライ",
+      "romaji": "Tashikamechao! Iku zo Mirai",
+      "en": "Let's make sure! Here we go, future",
+      "zh": "來確認一下吧！要去了，未來"
+    },
+    {
+      "ja": "さあ　夢よ叶って　もう鳴り出してる",
+      "romaji": "Saa Yume yo Kanatte Mou Naridashiteru",
+      "en": "Now, dream, come true—it's already ringing",
+      "zh": "來吧，夢想實現吧，已經開始鳴響了"
+    },
+    {
+      "ja": "音に漂った　ヒカリ",
+      "romaji": "Oto ni Tadayotta Hikari",
+      "en": "Light drifting in the sound",
+      "zh": "漂浮在聲音中的光"
+    },
+    {
+      "ja": "ずっと　ずっと",
+      "romaji": "Zutto Zutto",
+      "en": "Forever, forever",
+      "zh": "一直，一直"
+    },
+    {
+      "ja": "夢見た彼方！！",
+      "romaji": "Yumemita Kanata!!",
+      "en": "The far beyond I dreamed of!!",
+      "zh": "夢見的彼方！！"
+    },
+    {
+      "ja": "わー！　声を出そうぜ　心はそう絶対に",
+      "romaji": "Waa! Koe wo Dasou ze Kokoro ha Sou Zettai ni",
+      "en": "Whoa! Let's raise our voices—our hearts absolutely",
+      "zh": "哇！大聲喊出來吧，心絕對是"
+    },
+    {
+      "ja": "ミライむきでワハハ",
+      "romaji": "Mirai Muki de Wahaha",
+      "en": "Facing the future with a ha-ha",
+      "zh": "面向未來哈哈笑"
+    },
+    {
+      "ja": "よっしゃ、よっしゃ！",
+      "romaji": "Yossha, Yossha!",
+      "en": "Alright, alright!",
+      "zh": "好耶，好耶！"
+    },
+    {
+      "ja": "目と目あわせ　乾杯！",
+      "romaji": "Me to Me Awase Kanpai!",
+      "en": "Eyes meeting eyes—cheers!",
+      "zh": "眼神交會，乾杯！"
+    }
+  ]
+}
