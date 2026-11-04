@@ -333,25 +333,25 @@
       "lyrics": "夢の続きみるために",
       "call": "お～ハイ！お～ハイ！",
       "extra_row": true,
-      "action":"P=pp= P=pp="
+      "action":"| P==pp== P==pp== | "
     },
     {
       "lyrics": "眠る暇はないからって",
       "call": "お～ハイ！お～ハイ！",
       "extra_row": true,
-      "action":"P=pp= P=pp="
+      "action":"| P==pp== P==pp== | "
     },
     {
       "lyrics": "手をひいて走っていった",
       "call": "お～ハイ！お～ハイ！",
       "extra_row": true,
-      "action":"P=pp= P=pp="
+      "action":"| P==pp== P==pp== | "
     },
     {
       "lyrics": "「いつかの空、見つけに行こう!」",
-      "call": "お～ハイ！お～ハイ！",
+      "call": "",
       "extra_row": true,
-      "action":"P=pp= P=pp="
+      "action":"P==pp=="
     },
     {
       "lyrics": "それはきっとあの星のように",
@@ -417,25 +417,25 @@
       "lyrics": "涙流さないために",
        "call": "お～ハイ！お～ハイ！",
        "extra_row": true,
-       "action":"P=pp= P=pp="
+       "action":"| P==pp== P==pp== | "
     },
     {
       "lyrics": "仰ぐ暇はないからって",
       "call": "お～ハイ！お～ハイ！",
       "extra_row": true,
-      "action":"P=pp= P=pp="
+      "action":"| P==pp== P==pp== | "
     },
     {
       "lyrics": "前向いて走っていった",
       "call": "お～ハイ！お～ハイ！",
       "extra_row": true,
-      "action":"P=pp= P=pp="
+      "action":"| P==pp== P==pp== | "
     },
     {
       "lyrics": "「いつかの空、見つけに行こう!」",
-      "call": "お～ハイ！お～ハイ！",
+      "call": "",
       "extra_row": true,
-      "action":"P=pp= P=pp="
+      "action":"P==pp=="
     },
     {
       "lyrics": "それはきっとあの星のように",
@@ -466,46 +466,40 @@
       "call": "スリー、ツー、ワン！"
     },
     {
-      "lyrics": "",
-      "call": "",
-      "extra_row": true,
-      "action": "pp=p=pp= ×8"
-    },
-    {
       "lyrics": "ふと空を見上げて",
       "call": "",
       "extra_row": true,
-      "action":"pp=p=pp= ×4"
+      "action":"| pp=p=pp= ×2 | pp=p=pp= ×2 | "
     },
     {
       "lyrics": "あの星は綺麗で",
       "call": "",
       "extra_row": true,
-      "action":"pp=p=pp= ×4"
+      "action":"| pp=p=pp= ×2 | pp=p=pp= ×2 | "
     },
     {
       "lyrics": "\"いつかみた夕焼け\"って",
       "call": "",
       "extra_row": true,
-      "action":"pp=p=pp= ×2"
+      "action":"| pp=p=pp= ×2 | "
     },
     {
       "lyrics": "書ける日が来るまで",
       "call": "",
       "extra_row": true,
-      "action": "pp=p=pp= ×2"
+      "action": "| pp=p=pp= ×2 | "
     },
     {
       "lyrics": "何度でも走って泣いて",
       "call": "",
       "extra_row": true,
-      "action":"pp=p=pp= ×2"
+      "action":"| pp=p=pp= ×2 | "
     },
     {
       "lyrics": "あれれ、ありきたりだっけ?",
       "call": "",
       "extra_row": true,
-      "action":"pp=p=pp= ×2"
+      "action":"| pp=p=pp= ×2 | "
     },
     {
       "lyrics": "いつの間にか目が覚めた",
