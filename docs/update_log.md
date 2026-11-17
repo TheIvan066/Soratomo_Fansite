@@ -1,5 +1,8 @@
 # <span style="color: blue;">**Update log**</span>
 
+## <span style="color: grey">Beta 1.0.9 - 17/11/2026</span>
+* Sorapa Pia Arena 2026 Updates
+
 ## <span style="color: grey">Beta 1.0.8 - 2/11/2026</span>
 * Added call practice links in the link section of songs
 * Updated some chord charts (as of 3/11/2026)

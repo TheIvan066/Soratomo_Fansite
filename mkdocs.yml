@@ -175,7 +175,7 @@ nav:
       - '飛んでK！ホロライブサマー':
           - '飛んでK！ホロライブサマー': songs/tonde_k.md
       - 'ホロメン音頭':
-          - 'ホロメン音頭': songs/hololive_ontou.md
+          - 'ホロメン音頭': songs/holomen_ontou.md
       - '青春アーカイブ':
           - '青春アーカイブ': songs/seishun_archive.md
       - 'Futurity Step':
@@ -183,7 +183,7 @@ nav:
           - '君と僕はアルビレオ 惹かれ合う彗星テイル': songs/kimito_bokuha_albireo.md
           - 'テレパシー': songs/telepathy.md
           - 'せーので！': songs/senode.md
-          - 'ハジメノイッポ': songs/hajimeno_ipp.md
+          - 'ハジメノイッポ': songs/hajimeno_ippo.md
           - '恋愛コスモロジー': songs/rennai_cosmology.md
           - '惑わす星': songs/madowasuhoshi.md
           - 'いけないんだ': songs/ikenainda.md

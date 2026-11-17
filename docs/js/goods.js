@@ -12,6 +12,7 @@ function getTagConfig(tag) {
     if (/^c(9[5-9]|10[0-8])$/i.test(t) || t === 'comiket') return { ...TAG_COLORS.comiket };
     if (/^([4-9]|10)th_anniversary$/i.test(t) || t === 'anniversary') return { ...TAG_COLORS.anniversary };
     if (/^birthday_20(19|2[0-6])$/i.test(t) || t === 'birthday') return { ...TAG_COLORS.birthday};
+
     if (t === "holo_fes") return {bg: '#5edbed', text: '#000000', group: 'event' };
     if (t === "album_release") return {bg: '#9926ff', text: '#000000', group: 'event' };
 
