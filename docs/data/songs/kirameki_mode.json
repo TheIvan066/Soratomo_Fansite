@@ -302,6 +302,22 @@
       "call": ""
     },
     {
+      "lyrics": "Hey！ Hey！",
+      "call": ""
+    },
+    {
+      "lyrics": "Turn it up tonight",
+      "call": ""
+    },
+   {
+      "lyrics": "Hey！ Hey！",
+      "call": ""
+    },
+    {
+      "lyrics": "Turn it up tonight",
+      "call": ""
+    },
+    {
       "lyrics": "風まかせ飛び出して",
       "call": ""
     },
@@ -315,7 +331,7 @@
     },
     {
       "lyrics": "君がいれば OK！",
-      "call": ""
+      "call": "                  OK！"
     },
     {
       "lyrics": "寄り道ばっかしてても",
@@ -351,7 +367,9 @@
     },
     {
       "lyrics": "Clap clap！ 声を頂戴",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "pp"
     },
     {
       "lyrics": "はしゃいじゃえば問題ない",
@@ -375,35 +393,53 @@
     },
     {
       "lyrics": "キラキラ止まんない！",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "君となら最高じゃん！",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "歌って　踊って",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "今日をもっと好きになる",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "Shake it！ 鳴らして Now！",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "この瞬間を連れてこう！",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "笑っていこうよ",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "全部パーフェクト！",
-      "call": ""
+      "call": "全部パーフェクト！"
+    },
+    {
+      "lyrics": "全部パーフェクト！",
+      "call": "全部パーフェクト！"
     },
     {
       "lyrics": "Jump up！ 声を頂戴",
@@ -479,35 +515,61 @@
     },
     {
       "lyrics": "キラキラ駆け出して！",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "君とならどこまででも！",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "テンションだって",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "シンクロしてく All day",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "Shake it！ 鳴らして Now！",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "合図ひとつで Jump around！",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "笑い合えば",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "全部パーフェクト！",
+      "call": "全部パーフェクト！"
+    },
+    {
+      "lyrics": "- - - - - - - - Hu~!",
+      "call": "- - - - - - - - Hu~!"
+    },
+    {
+      "lyrics": "(八拍) 8 beat break",
       "call": ""
+    },
+    {
+      "lyrics": "",
+      "call": "- ハイ！ - ハイ！ - ハイ！ - ハイ！ ×4"
     },
     {
       "lyrics": "何年先の時を越えて",
@@ -527,39 +589,67 @@
     },
     {
       "lyrics": "キラキラ止まんない！",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "君のこと大好きだ！",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "何年先も",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "思い出せるように",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "Shake it！ 鳴らして Now！",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "声を合わせて Sing aloud！",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "君とだから",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
       "lyrics": "こんなに輝ける！",
-      "call": ""
+      "call": "",
+      "extra_row": true,
+      "action": "ペンライト左右振り Penlight Swing"
     },
     {
-      "lyrics": "",
-      "call": ""
+      "lyrics": "Hey! Hey! Turn it up tonight!",
+      "call": "Hey! Hey! Turn it up tonight!"
+    },
+    {
+      "lyrics": "Hey! Hey! Turn it up tonight!",
+      "call": "Hey! Hey! Turn it up tonight!"
+    },
+    {
+      "lyrics": "Hey! Hey! Turn it up tonight!",
+      "call": "Hey! Hey! Turn it up tonight!"
+    },
+    {
+      "lyrics": "Hey! Hey! Hu~!",
+      "call": "Hey! Hey! Hu~!"
     }
   ],
   "lyrics": [
