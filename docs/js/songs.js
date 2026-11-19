@@ -20,6 +20,17 @@ document.addEventListener("DOMContentLoaded", () => {
     let songData = null;
     let albumNavigation = {prev: null, next: null, totalInAlbum: 0};
 
+    // Autoscroll state (0.1 to 3.0 in 0.1 increments)
+    let isAutoScrolling = false;
+    let scrollSpeed = parseFloat(localStorage.getItem("se_scroll_speed")) || 1.0;
+    if (scrollSpeed < 0.1 || scrollSpeed > 3.0 || Number.isNaN(scrollSpeed)) {
+        scrollSpeed = 1.0;
+    }
+    scrollSpeed = Math.round(scrollSpeed * 10) / 10;
+    let scrollRafId = null;
+    let lastFrameTime = null;
+    let exactScrollTop = 0;
+
     let globalLanguage = localStorage.getItem("soratomo_lang") || "en";
     let lyricsLanguage = localStorage.getItem("se_lyrics_lang") || "en";
     let romajiActive = localStorage.getItem("se_romaji_active") !== "false";
@@ -135,6 +146,29 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     }
 
+    function formatSpeed(val) {
+        return `${val.toFixed(1)}x`;
+    }
+
+    function setScrollSpeed(newSpeed) {
+        const clamped = Math.min(3.0, Math.max(0.1, Math.round(newSpeed * 10) / 10));
+        scrollSpeed = clamped;
+        localStorage.setItem("se_scroll_speed", scrollSpeed.toFixed(1));
+
+        const speedLabel = document.getElementById("chord-speed-label");
+        const speedReadout = document.getElementById("chord-speed-readout");
+        const thumb = document.getElementById("chord-speed-thumb");
+
+        if (speedLabel) speedLabel.textContent = formatSpeed(scrollSpeed);
+        if (speedReadout) speedReadout.textContent = formatSpeed(scrollSpeed);
+
+        if (thumb) {
+            // 3.0x is at top (0%), 0.1x is at bottom (100%)
+            const ratio = (3.0 - scrollSpeed) / (3.0 - 0.1);
+            thumb.style.top = `${ratio * 100}%`;
+        }
+    }
+
     function initLayout() {
         if (!document.querySelector('meta[name="viewport"]')) {
             const metaViewport = document.createElement("meta");
@@ -226,6 +260,10 @@ document.addEventListener("DOMContentLoaded", () => {
                     #song-app-root .text-\[11px\] {
                         font-size: 0.65rem !important; /* Sub-labels & metadata */
                     }
+                    /* Keep Original Key display prominent on mobile */
+                    #song-app-root .original-key-label {
+                        font-size: 0.85rem !important;
+                    }
                     /* Lyrics scaling */
                     #lyrics-viewport p.text-base {
                         font-size: 0.75rem !important; /* Main lyrics (JA) */
@@ -258,8 +296,86 @@ document.addEventListener("DOMContentLoaded", () => {
         renderAppLayout();
     }
 
+    function updateAutoScrollBtnUI() {
+        const btn = document.getElementById("chord-autoscroll-btn");
+        if (!btn) return;
+
+        if (isAutoScrolling) {
+            btn.innerHTML = `<i class="fa-solid fa-pause text-sky-400"></i>`;
+            btn.setAttribute("aria-label", "Pause scrolling");
+            btn.setAttribute("title", "Pause");
+        } else {
+            btn.innerHTML = `<i class="fa-solid fa-play text-emerald-400"></i>`;
+            btn.setAttribute("aria-label", "Start scrolling");
+            btn.setAttribute("title", "Scroll");
+        }
+    }
+
+    function stopAutoScroll() {
+        isAutoScrolling = false;
+        if (scrollRafId) {
+            cancelAnimationFrame(scrollRafId);
+            scrollRafId = null;
+        }
+        lastFrameTime = null;
+        updateAutoScrollBtnUI();
+    }
+
+    function startAutoScroll() {
+        const viewport = document.getElementById("chords-viewport");
+        if (!viewport) return;
+
+        // If already at the very bottom, do not start
+        if (viewport.scrollTop + viewport.clientHeight >= viewport.scrollHeight - 1) {
+            stopAutoScroll();
+            return;
+        }
+
+        isAutoScrolling = true;
+        exactScrollTop = viewport.scrollTop; // Start from current scroll position
+        lastFrameTime = performance.now();
+        updateAutoScrollBtnUI();
+
+        const step = (now) => {
+            if (!isAutoScrolling) return;
+
+            const currentViewport = document.getElementById("chords-viewport");
+            if (!currentViewport) {
+                stopAutoScroll();
+                return;
+            }
+
+            const deltaSeconds = (now - lastFrameTime) / 1000;
+            lastFrameTime = now;
+
+            // Sync if user manually scrolled the container while active
+            if (Math.abs(currentViewport.scrollTop - exactScrollTop) > 2) {
+                exactScrollTop = currentViewport.scrollTop;
+            }
+
+            // Base speed: 24px per second at 1.0x speed
+            const pixelsPerSecond = 24 * scrollSpeed;
+            exactScrollTop += pixelsPerSecond * deltaSeconds;
+            currentViewport.scrollTop = exactScrollTop;
+
+            // Stop when reaching the end of the chords viewport
+            if (currentViewport.scrollTop + currentViewport.clientHeight >= currentViewport.scrollHeight - 1) {
+                stopAutoScroll();
+                return;
+            }
+
+            scrollRafId = requestAnimationFrame(step);
+        };
+
+        scrollRafId = requestAnimationFrame(step);
+    }
+
     function renderAppLayout() {
         const t = uiTranslations[globalLanguage];
+
+        // Preserve current chord scroll offset across full re-renders (e.g., language switch)
+        const existingViewport = document.getElementById("chords-viewport");
+        const savedChordScroll = existingViewport ? existingViewport.scrollTop : 0;
 
         let descriptionText = "";
         if (songData.meta.description) {
@@ -315,13 +431,13 @@ document.addEventListener("DOMContentLoaded", () => {
         let navButtonsHtml = '';
         if (albumNavigation.totalInAlbum > 1) {
             const prevBtnHtml = albumNavigation.prev
-                ? `<a href="${albumNavigation.prev.slug}" class="flex-1 py-2 px-3 text-xs font-black rounded-lg transition-all bg-black hover:bg-slate-900 text-white border border-slate-700 hover:border-slate-500 flex items-center justify-center gap-1.5 no-underline shadow-sm" title="${albumNavigation.prev.title}">
+                ? `<a href="${albumNavigation.prev.slug}" class="flex-1 py-2 px-3 text-xs font-semibold rounded-lg transition-all bg-black hover:bg-slate-900 text-white border border-slate-700 hover:border-slate-500 flex items-center justify-center gap-1.5 no-underline shadow-sm" title="${albumNavigation.prev.title}">
                     <i class="fa-solid fa-chevron-left text-[10px]"></i> ${t.prevSong}
                    </a>`
                 : '';
 
             const nextBtnHtml = albumNavigation.next
-                ? `<a href="${albumNavigation.next.slug}" class="flex-1 py-2 px-3 text-xs font-black rounded-lg transition-all bg-black hover:bg-slate-900 text-white border border-slate-700 hover:border-slate-500 flex items-center justify-center gap-1.5 no-underline shadow-sm" title="${albumNavigation.next.title}">
+                ? `<a href="${albumNavigation.next.slug}" class="flex-1 py-2 px-3 text-xs font-semibold rounded-lg transition-all bg-black hover:bg-slate-900 text-white border border-slate-700 hover:border-slate-500 flex items-center justify-center gap-1.5 no-underline shadow-sm" title="${albumNavigation.next.title}">
                     ${t.nextSong} <i class="fa-solid fa-chevron-right text-[10px]"></i>
                    </a>`
                 : '';
@@ -336,13 +452,13 @@ document.addEventListener("DOMContentLoaded", () => {
         appRoot.innerHTML = `
             <div class="bg-slate-950 dark:bg-black rounded-xl p-6 shadow-md border border-slate-800 mb-5 flex flex-col sm:flex-row justify-between items-center min-h-[90px] gap-4">
                 <div class="flex flex-col justify-center w-full sm:w-auto space-y-1.5">
-                    <h1 class="text-4xl font-black tracking-tight text-center sm:text-left" style="color: #0146ea;">
+                    <h1 class="text-4xl font-bold tracking-tight text-center sm:text-left" style="color: #0146ea;">
                         ${songData.meta.title}
                     </h1>
-                    <div class="text-xs text-slate-200 font-black tracking-wide text-center sm:text-left">
+                    <div class="text-xs text-slate-200 font-medium tracking-wide text-center sm:text-left">
                         ${row1Details.join(' &nbsp;|&nbsp; ')}
                     </div>
-                    <div class="text-xs text-slate-400 font-black tracking-wide text-center sm:text-left flex flex-wrap justify-center sm:justify-start gap-x-2">
+                    <div class="text-xs text-slate-400 font-medium tracking-wide text-center sm:text-left flex flex-wrap justify-center sm:justify-start gap-x-2">
                         ${row2Details.join(' &nbsp;|&nbsp; ')}
                     </div>
                     ${descriptionHtml}
@@ -350,7 +466,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 
                 <div class="flex flex-col gap-2 w-full sm:w-auto sm:min-w-[200px] shrink-0">
                     <div class="bg-black border border-slate-700 rounded-lg p-1 flex items-center shadow-sm w-full">
-                        <button id="toggle-global-lang" class="w-full py-1.5 px-3 text-xs font-black rounded-md transition-all cursor-pointer bg-black hover:bg-slate-900 text-white border-none flex items-center justify-center">
+                        <button id="toggle-global-lang" class="w-full py-1.5 px-3 text-xs font-semibold rounded-md transition-all cursor-pointer bg-black hover:bg-slate-900 text-white border-none flex items-center justify-center">
                             <i class="fa-solid fa-earth-americas mr-1.5"></i> ${t.btnLabel}
                         </button>
                     </div>
@@ -359,20 +475,49 @@ document.addEventListener("DOMContentLoaded", () => {
             </div>
             <div class="se-full-grid">
                 <div class="space-y-5">
-                    <div class="bg-white dark:bg-slate-900 rounded-xl shadow-md border border-slate-200 dark:border-slate-800 overflow-hidden">
-                        <div class="bg-slate-50 dark:bg-slate-950 px-4 py-3 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between min-h-[58px]">
-                            <h2 class="text-base font-black uppercase tracking-wider text-sky-600 dark:text-sky-400 flex items-center gap-2 m-0 self-center">
+                    <div class="bg-white dark:bg-slate-900 rounded-xl shadow-md border border-slate-200 dark:border-slate-800 overflow-visible">
+                        <div class="bg-slate-50 dark:bg-slate-950 px-4 py-3 border-b border-slate-200 dark:border-slate-800 rounded-t-xl flex items-center justify-between gap-2 min-h-[58px]">
+                            <h2 class="text-base font-bold uppercase tracking-wider text-sky-600 dark:text-sky-400 flex items-center gap-2 m-0 self-center">
                                 <i class="fa-solid fa-guitar"></i> ${t.chordsTitle}
                             </h2>
-                            <div class="bg-black border border-slate-700 rounded-lg p-1 px-2 flex items-center gap-2 shadow-sm self-center">
-                                <span class="text-[10px] font-bold text-slate-400 uppercase font-mono tracking-tight">${songData.meta.originalKey}  →</span>
-                                <select id="key-transposer" class="bg-black text-white text-xs font-black outline-none cursor-pointer font-mono border-none py-0.5">
-                                    <option value="0">Original Key</option>
-                                    <option value="1">key +1</option><option value="2">key +2</option><option value="3">key +3</option>
-                                    <option value="4">key +4</option><option value="5">key +5</option><option value="6">key +6</option>
-                                    <option value="-1">key -1</option><option value="-2">key -2</option><option value="-3">key -3</option>
-                                    <option value="-4">key -4</option><option value="-5">key -5</option><option value="-6">key -6</option>
-                                </select>
+                            <div class="flex flex-col items-end gap-1.5 self-center w-[185px] sm:w-[215px] shrink-0">
+                                <div class="bg-black border border-slate-700 rounded-lg p-1 px-2.5 flex items-center justify-between gap-2 shadow-sm w-full h-[32px]">
+                                    <span class="original-key-label text-sm sm:text-base font-semibold text-sky-400 font-mono tracking-tight leading-none shrink-0">${songData.meta.originalKey} <span class="text-slate-400 text-xs font-normal">→</span></span>
+                                    <select id="key-transposer" class="bg-black text-slate-200 text-xs font-medium outline-none cursor-pointer font-mono border-none py-0.5 text-right">
+                                        <option value="0">Original Key</option>
+                                        <option value="1">key +1</option><option value="2">key +2</option><option value="3">key +3</option>
+                                        <option value="4">key +4</option><option value="5">key +5</option><option value="6">key +6</option>
+                                        <option value="-1">key -1</option><option value="-2">key -2</option><option value="-3">key -3</option>
+                                        <option value="-4">key -4</option><option value="-5">key -5</option><option value="-6">key -6</option>
+                                    </select>
+                                </div>
+                                <div class="bg-black border border-slate-700 rounded-lg p-1 px-2 flex items-center justify-between gap-1.5 shadow-sm w-full h-[32px] relative">
+                                    <button id="chord-autoscroll-btn" type="button" class="w-8 shrink-0 text-xs font-medium cursor-pointer bg-transparent hover:opacity-80 border-none p-0 flex items-center justify-center transition-opacity" aria-label="Start scrolling" title="Scroll">
+                                        <i class="fa-solid fa-play text-emerald-400"></i>
+                                    </button>
+                                    <span class="text-slate-700 shrink-0">|</span>
+                                    <div id="speed-dropdown-wrapper" class="relative flex-1 min-w-0">
+                                        <button id="chord-speed-trigger" type="button" class="w-full bg-black text-slate-200 hover:text-sky-400 text-xs font-medium cursor-pointer font-mono border-none py-0.5 px-1.5 flex items-center justify-between gap-1 transition-colors" title="Scroll Speed (0.1x - 3.0x)">
+                                            <span id="chord-speed-label">${formatSpeed(scrollSpeed)}</span>
+                                            <i class="fa-solid fa-caret-down text-[10px] text-slate-400"></i>
+                                        </button>
+                                        <div id="chord-speed-bar" class="hidden absolute right-0 top-full mt-1.5 w-[76px] bg-slate-900/95 border border-slate-700/80 rounded-2xl shadow-xl py-2 px-2 z-[9999] flex flex-col items-center gap-1.5 select-none">
+                                            <button id="chord-speed-plus" type="button" class="w-7 h-7 rounded-full bg-transparent hover:bg-slate-800 text-slate-300 hover:text-white text-xs font-normal flex items-center justify-center cursor-pointer border-none transition-colors" title="+0.1x">
+                                                +
+                                            </button>
+                                            <div id="chord-speed-track-area" class="relative w-7 h-[136px] flex items-center justify-center cursor-pointer touch-none">
+                                                <div class="w-1 h-full rounded-full bg-slate-700 pointer-events-none"></div>
+                                                <div id="chord-speed-thumb" class="w-4 h-2 rounded-full bg-slate-200 shadow border border-slate-400/50 -translate-y-1/2 pointer-events-none transition-[top] duration-75" style="position: absolute; top: ${((3.0 - scrollSpeed) / 2.9) * 100}%;"></div>
+                                            </div>
+                                            <button id="chord-speed-minus" type="button" class="w-7 h-7 rounded-full bg-transparent hover:bg-slate-800 text-slate-300 hover:text-white text-xs font-normal flex items-center justify-center cursor-pointer border-none transition-colors" title="-0.1x">
+                                                −
+                                            </button>
+                                            <button id="chord-speed-readout" type="button" class="text-[11px] font-mono font-normal text-slate-400 hover:text-sky-400 leading-none pt-0.5 bg-transparent border-none cursor-pointer transition-colors" title="Reset to 1.0x">
+                                                ${formatSpeed(scrollSpeed)}
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="p-4">
@@ -382,19 +527,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
                     <div class="bg-white dark:bg-slate-900 rounded-xl shadow-md border border-slate-200 dark:border-slate-800 overflow-hidden flex flex-col max-h-[480px]">
                         <div class="bg-slate-50 dark:bg-slate-950 px-4 py-3 border-b border-slate-200 dark:border-slate-800 flex items-center min-h-[58px]">
-                            <h2 class="text-base font-black uppercase tracking-wider text-pink-600 dark:text-pink-400 flex items-center gap-2 m-0 self-center">
+                            <h2 class="text-base font-bold uppercase tracking-wider text-pink-600 dark:text-pink-400 flex items-center gap-2 m-0 self-center">
                                 <i class="fa-solid fa-bullhorn"></i> ${t.callsTitle}
                             </h2>
                         </div>
-                        <div class="bg-slate-100/70 dark:bg-slate-950/50 px-4 py-2 border-b border-slate-200 dark:border-slate-800 flex flex-wrap gap-x-4 gap-y-1.5 text-[11px] font-bold items-center shadow-inner">
-                            <div class="text-[10px] uppercase tracking-wider font-black text-slate-400 mr-1">${t.legendTitle}</div>
+                        <div class="bg-slate-100/70 dark:bg-slate-950/50 px-4 py-2 border-b border-slate-200 dark:border-slate-800 flex flex-wrap gap-x-4 gap-y-1.5 text-[11px] font-medium items-center shadow-inner">
+                            <div class="text-[10px] uppercase tracking-wider font-semibold text-slate-400 mr-1">${t.legendTitle}</div>
                             <div class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded bg-sky-500 border border-sky-600"></span> <span class="text-slate-600 dark:text-slate-400">${t.legendLyrics}</span></div>
                             <div class="flex items-center gap-1.5"><span class="w-2.5 h-2.5 rounded bg-rose-500 border border-rose-600"></span> <span class="text-slate-600 dark:text-slate-400">${t.legendCall}</span></div>
                             <div class="flex items-center gap-1.5 relative">
                                 <span class="w-2.5 h-2.5 rounded bg-amber-500 border border-amber-600"></span> 
                                 <span class="text-slate-600 dark:text-slate-400 flex items-center gap-1 relative">
                                     ${t.legendAction} 
-                                    <button id="call-guide-btn" type="button" class="text-[10px] font-bold text-slate-400 dark:text-slate-500 hover:text-slate-600 dark:hover:text-slate-300 transition-colors underline cursor-pointer ml-1 bg-transparent border-none p-0">
+                                    <button id="call-guide-btn" type="button" class="text-[10px] font-normal text-slate-400 dark:text-slate-500 hover:text-slate-600 dark:hover:text-slate-300 transition-colors underline cursor-pointer ml-1 bg-transparent border-none p-0">
                                         ${t.guide}
                                     </button>
                                     <div id="call-guide-popup" class="absolute left-1/2 -translate-x-1/2 bottom-full mb-2 hidden bg-slate-900 text-white dark:bg-white dark:text-slate-900 text-[10px] font-normal rounded p-2.5 shadow-xl w-64 sm:w-72 text-center z-50 border border-slate-700/30 leading-relaxed">
@@ -403,7 +548,7 @@ document.addEventListener("DOMContentLoaded", () => {
                                 </span>
                             </div>
                             <div class="flex items-center gap-1.5 flex-wrap">
-                                <span class="text-slate-600 dark:text-slate-400 font-bold">${t.legendPenlight}:</span>
+                                <span class="text-slate-600 dark:text-slate-400 font-medium">${t.legendPenlight}:</span>
                                 <div id="legend-penlight-colors" class="flex gap-1"></div>
                             </div>
                         </div>
@@ -415,7 +560,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 <div class="bg-white dark:bg-slate-900 rounded-xl shadow-md border border-slate-200 dark:border-slate-800 overflow-hidden lg:sticky lg:top-4">
                     <div class="bg-slate-50 dark:bg-slate-950 px-4 py-3 border-b border-slate-200 dark:border-slate-800 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 min-h-[96px]">
-                        <h2 class="text-base font-black uppercase tracking-wider text-emerald-600 dark:text-emerald-400 flex items-center gap-2 m-0 min-w-0 self-center">
+                        <h2 class="text-base font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400 flex items-center gap-2 m-0 min-w-0 self-center">
                             <i class="fa-solid fa-language shrink-0"></i> 
                             <span class="truncate">${t.lyricsTitle}</span>
                         </h2>
@@ -477,8 +622,97 @@ document.addEventListener("DOMContentLoaded", () => {
         if (keyTransposer) {
             keyTransposer.value = currentKeyShift;
             keyTransposer.addEventListener("change", (e) => {
+                const vp = document.getElementById("chords-viewport");
+                const currentTop = vp ? vp.scrollTop : 0;
                 currentKeyShift = parseInt(e.target.value);
                 renderChords();
+                if (vp) vp.scrollTop = currentTop;
+            });
+        }
+
+        const autoScrollBtn = document.getElementById("chord-autoscroll-btn");
+        const speedTrigger = document.getElementById("chord-speed-trigger");
+        const speedBar = document.getElementById("chord-speed-bar");
+        const speedPlus = document.getElementById("chord-speed-plus");
+        const speedMinus = document.getElementById("chord-speed-minus");
+        const speedReadout = document.getElementById("chord-speed-readout");
+        const trackArea = document.getElementById("chord-speed-track-area");
+
+        if (speedTrigger && speedBar) {
+            speedTrigger.addEventListener("click", (e) => {
+                e.stopPropagation();
+                speedBar.classList.toggle("hidden");
+                if (!speedBar.classList.contains("hidden")) {
+                    setScrollSpeed(scrollSpeed);
+                }
+            });
+
+            if (speedPlus) {
+                speedPlus.addEventListener("click", (e) => {
+                    e.stopPropagation();
+                    setScrollSpeed(scrollSpeed + 0.1);
+                });
+            }
+
+            if (speedMinus) {
+                speedMinus.addEventListener("click", (e) => {
+                    e.stopPropagation();
+                    setScrollSpeed(scrollSpeed - 0.1);
+                });
+            }
+
+            if (speedReadout) {
+                speedReadout.addEventListener("click", (e) => {
+                    e.stopPropagation();
+                    setScrollSpeed(1.0);
+                });
+            }
+
+            if (trackArea) {
+                let isDragging = false;
+
+                const updateFromPointerY = (clientY) => {
+                    const rect = trackArea.getBoundingClientRect();
+                    if (rect.height <= 0) return;
+                    const ratio = Math.min(1, Math.max(0, (clientY - rect.top) / rect.height));
+                    const rawSpeed = 3.0 - ratio * (3.0 - 0.1);
+                    setScrollSpeed(rawSpeed);
+                };
+
+                trackArea.addEventListener("pointerdown", (e) => {
+                    e.stopPropagation();
+                    isDragging = true;
+                    trackArea.setPointerCapture(e.pointerId);
+                    updateFromPointerY(e.clientY);
+                });
+
+                trackArea.addEventListener("pointermove", (e) => {
+                    if (!isDragging) return;
+                    updateFromPointerY(e.clientY);
+                });
+
+                const endDrag = () => {
+                    isDragging = false;
+                };
+                trackArea.addEventListener("pointerup", endDrag);
+                trackArea.addEventListener("pointercancel", endDrag);
+            }
+
+            document.addEventListener("click", (e) => {
+                if (!speedTrigger.contains(e.target) && !speedBar.contains(e.target)) {
+                    speedBar.classList.add("hidden");
+                }
+            });
+        }
+
+        if (autoScrollBtn) {
+            updateAutoScrollBtnUI();
+            autoScrollBtn.addEventListener("click", () => {
+                if (isAutoScrolling) {
+                    stopAutoScroll();
+                } else {
+                    startAutoScroll();
+                }
             });
         }
 
@@ -494,6 +728,11 @@ document.addEventListener("DOMContentLoaded", () => {
         renderChords();
         renderCalls();
         renderLyrics();
+
+        const restoredViewport = document.getElementById("chords-viewport");
+        if (restoredViewport && savedChordScroll > 0) {
+            restoredViewport.scrollTop = savedChordScroll;
+        }
     }
 
     function renderChords() {
@@ -504,7 +743,7 @@ document.addEventListener("DOMContentLoaded", () => {
         songData.chords.forEach(sec => {
             let sectionBlock = document.createElement("div");
             sectionBlock.className = "mb-5 last:mb-0 bg-slate-50/70 dark:bg-slate-950/20 p-4 rounded-xl border border-slate-200/50 dark:border-slate-800/40 space-y-2";
-            sectionBlock.innerHTML = `<div class="text-[10px] font-black uppercase tracking-widest text-sky-500 border-b border-sky-500/10 pb-0.5 mb-1 inline-block">${sec.section}</div>`;
+            sectionBlock.innerHTML = `<div class="text-[10px] font-semibold uppercase tracking-widest text-sky-500 border-b border-sky-500/10 pb-0.5 mb-1 inline-block">${sec.section}</div>`;
 
             sec.lines.forEach(line => {
                 let lineRow = document.createElement("div");
@@ -513,14 +752,14 @@ document.addEventListener("DOMContentLoaded", () => {
                 if (line.c) {
                     let transposedChords = chordTranspose(line.c, currentKeyShift);
                     let chordSpan = document.createElement("div");
-                    chordSpan.className = "chord-val text-xs font-black text-pink-500 select-none min-h-[1.25rem]";
+                    chordSpan.className = "chord-val text-xs font-semibold text-pink-500 select-none min-h-[1.25rem]";
                     chordSpan.textContent = transposedChords;
                     lineRow.appendChild(chordSpan);
                 }
 
                 if (line.t) {
                     let textSpan = document.createElement("div");
-                    textSpan.className = "text-val text-base font-medium text-sky-600 dark:text-sky-400";
+                    textSpan.className = "text-val text-base font-normal text-sky-600 dark:text-sky-400";
                     textSpan.textContent = line.t;
                     lineRow.appendChild(textSpan);
                 }
@@ -548,7 +787,7 @@ document.addEventListener("DOMContentLoaded", () => {
             block.className = "p-2.5 rounded-xl border border-slate-200 dark:border-slate-800 bg-slate-50/40 dark:bg-slate-950/20 shadow-sm flex flex-col gap-0.5 font-sans tracking-wide";
 
             let row1 = document.createElement("div");
-            row1.className = "text-sm font-medium text-sky-600 dark:text-sky-400 leading-normal";
+            row1.className = "text-sm font-normal text-sky-600 dark:text-sky-400 leading-normal";
             row1.textContent = item.lyrics || "";
             block.appendChild(row1);
 
@@ -595,7 +834,7 @@ document.addEventListener("DOMContentLoaded", () => {
             if (notesActive && line.notes && line.notes.length > 0) {
                 let noteItems = line.notes.map(n => `
                     <div class="bg-slate-50 dark:bg-slate-950 p-2 rounded border border-slate-200 dark:border-slate-800 text-xs shadow-inner">
-                        <strong class="text-emerald-600 dark:text-emerald-400 font-mono text-[12px]">${n.word}</strong>
+                        <strong class="text-emerald-600 dark:text-emerald-400 font-mono text-[12px] font-semibold">${n.word}</strong>
                         <span class="mx-1 text-slate-300 dark:text-slate-700">|</span>
                         <span class="text-slate-600 dark:text-slate-400">${n.meaning}</span>
                     </div>
@@ -608,9 +847,9 @@ document.addEventListener("DOMContentLoaded", () => {
             let lineBlock = document.createElement("div");
             lineBlock.className = "bg-slate-50/40 dark:bg-slate-950/10 p-3.5 rounded-lg border border-slate-100 dark:border-slate-900/50 space-y-1 shadow-sm";
             lineBlock.innerHTML = `
-                <p class="text-base font-bold tracking-wide ${lyricStyle}">${line.ja}</p>
+                <p class="text-base font-semibold tracking-wide ${lyricStyle}">${line.ja}</p>
                 <p class="text-xs font-mono text-sky-600 dark:text-sky-400 tracking-wider ${romajiActive ? '' : 'hidden'}">${line.romaji}</p>
-                <p class="text-[13px] text-slate-400 dark:text-slate-400 font-medium leading-relaxed border-l-2 border-slate-500 dark:border-slate-700 pl-2 italic">“ ${translation} ”</p>
+                <p class="text-[13px] text-slate-400 dark:text-slate-400 font-normal leading-relaxed border-l-2 border-slate-500 dark:border-slate-700 pl-2 italic">“ ${translation} ”</p>
                 ${notesHtml}
             `;
             container.appendChild(lineBlock);
@@ -622,8 +861,8 @@ document.addEventListener("DOMContentLoaded", () => {
         const btnNotes = document.getElementById("toggle-notes");
         const btnLang = document.getElementById("toggle-language");
 
-        const styleActive = "w-full py-0.5 text-[11px] font-black rounded transition-all cursor-pointer bg-slate-800 text-white border border-transparent";
-        const styleInactive = "w-full py-0.5 text-[11px] font-bold rounded transition-all cursor-pointer bg-transparent text-slate-500 border border-transparent";
+        const styleActive = "w-full py-0.5 text-[11px] font-semibold rounded transition-all cursor-pointer bg-slate-800 text-white border border-transparent";
+        const styleInactive = "w-full py-0.5 text-[11px] font-normal rounded transition-all cursor-pointer bg-transparent text-slate-500 border border-transparent";
 
         let rOn = "Romaji On", rOff = "Romaji Off", nOn = "Notes On", nOff = "Notes Off";
         if (globalLanguage === "zh") {
@@ -645,7 +884,7 @@ document.addEventListener("DOMContentLoaded", () => {
         btnNotes.className = notesActive ? styleActive : styleInactive;
 
         btnLang.innerText = lyricsLanguage === "en" ? "English" : "繁體中文";
-        btnLang.className = "w-full py-0.5 text-[11px] font-black rounded transition-all cursor-pointer bg-slate-800 text-white border border-transparent";
+        btnLang.className = "w-full py-0.5 text-[11px] font-semibold rounded transition-all cursor-pointer bg-slate-800 text-white border border-transparent";
 
         btnRomaji.onclick = () => {
             romajiActive = !romajiActive;
