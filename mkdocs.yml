@@ -43,6 +43,7 @@ extra_css:
 extra_javascript:
   - js/songs.js
   - js/songs_sort.js
+  - js/goods_config.js
   - js/goods.js
   - js/biography.js
   - js/header_fix_temp.js
@@ -89,7 +90,7 @@ nav:
         - 'KumoHurray!': songs/kumohurray.md
         - '花時の空（木の芽時の空）': songs/konomedoki_no_sora.md
     - 'Re:Play':
-      - 'HOT LIMIT': songs/hot_limit.md
+      - 'Hot Limit': songs/hot_limit.md
       - 'ロマンスの神様': songs/romance_no_kamisama.md
       - 'ファンサ': songs/fansa.md
       - 'MASAYUME CHASING': songs/masayume_chasing.md

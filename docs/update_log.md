@@ -2,7 +2,8 @@
 
 ## <span style="color: grey">Beta 1.0.9 - 17/11/2026</span>
 * Sorapa Pia Arena 2026 Updates
-* added auto scrolling in the chords section
+* Added auto scrolling in the chords section
+* Reworked the goods page, which might now take some time to load
 
 ## <span style="color: grey">Beta 1.0.8 - 2/11/2026</span>
 * Added call practice links in the link section of songs
